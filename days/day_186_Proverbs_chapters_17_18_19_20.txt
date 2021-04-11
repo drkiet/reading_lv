@@ -1,0 +1,128 @@
+Day 186:
+
+Reading Proverbs, chapters ['17', '18', '19', '20']:
+
+  Chapter 17.
+
+    1: Melior est buccella sicca cum gaudio, quam domus plena victimis cum jurgio. 
+    2: Servus sapiens dominabitur filiis stultis, et inter fratres haereditatem dividet. 
+    3: Sicut igne probatur argentum et aurum camino, ita corda probat Dominus. 
+    4: Malus obedit linguae iniquae, et fallax obtemperat labiis mendacibus. 
+    5: Qui despicit pauperem exprobrat factori ejus, et qui ruina laetatur alterius non erit impunitus.
+    6: Corona senum filii filiorum, et gloria filiorum patres eorum. 
+    7: Non decent stultum verba composita, nec principem labium mentiens. 
+    8: Gemma gratissima exspectatio praestolantis; quocumque se vertit, prudenter intelligit. 
+    9: Qui celat delictum quaerit amicitias; qui altero sermone repetit, separat foederatos. 
+    10: Plus proficit correptio apud prudentem, quam centum plagae apud stultum.
+    11: Semper jurgia quaerit malus; angelus autem crudelis mittetur contra eum. 
+    12: Expedit magis ursae occurrere raptis foetibus, quam fatuo confidenti in stultitia sua. 
+    13: Qui reddit mala pro bonis, non recedet malum de domo ejus. 
+    14: Qui dimittit aquam caput est jurgiorum, et antequam patiatur contumeliam judicium deserit. 
+    15: Qui justificat impium, et qui condemnat justum, abominabilis est uterque apud Deum.
+    16: Quid prodest stulto habere divitias, cum sapientiam emere non possit? Qui altum facit domum suam quaerit ruinam, et qui evitat discere incidet in mala. 
+    17: Omni tempore diligit qui amicus est, et frater in angustiis comprobatur. 
+    18: Stultus homo plaudet manibus, cum spoponderit pro amico suo. 
+    19: Qui meditatur discordias diligit rixas, et qui exaltat ostium quaerit ruinam. 
+    20: Qui perversi cordis est non inveniet bonum, et qui vertit linguam incidet in malum.
+    21: Natus est stultus in ignominiam suam; sed nec pater in fatuo laetabitur. 
+    22: Animus gaudens aetatem floridam facit; spiritus tristis exsiccat ossa. 
+    23: Munera de sinu impius accipit, ut pervertat semitas judicii. 
+    24: In facie prudentis lucet sapientia; oculi stultorum in finibus terrae. 
+    25: Ira patris filius stultus, et dolor matris quae genuit eum.
+    26: Non est bonum damnum inferre justo, nec percutere principem qui recta judicat. 
+    27: Qui moderatur sermones suos doctus et prudens est, et pretiosi spiritus vir eruditus. 
+    28: Stultus quoque, si tacuerit, sapiens reputabitur, et si compresserit labia sua, intelligens.
+
+  Chapter 18.
+
+    1: Occasiones quaerit qui vult recedere ab amico, omni tempore erit exprobrabilis. 
+    2: Non recipit stultus verba prudentiae, nisi ea dixeris quae versantur in corde ejus. 
+    3: Impius, cum in profundum venerit peccatorum, contemnit; sed sequitur eum ignominia et opprobrium. 
+    4: Aqua profunda verba ex ore viri, et torrens redundans fons sapientiae. 
+    5: Accipere personam impii non est bonum, ut declines a veritate judicii.
+    6: Labia stulti miscent se rixis, et os ejus jurgia provocat. 
+    7: Os stulti contritio ejus, et labia ipsius ruina animae ejus. 
+    8: Verba bilinguis quasi simplicia, et ipsa perveniunt usque ad interiora ventris. Pigrum dejicit timor; animae autem effeminatorum esurient. 
+    9: Qui mollis et dissolutus est in opere suo frater est sua opera dissipantis. 
+    10: Turris fortissima nomen Domini; ad ipsum currit justus, et exaltabitur.
+    11: Substantia divitis urbs roboris ejus, et quasi murus validus circumdans eum. 
+    12: Antequam conteratur, exaltatur cor hominis, et antequam glorificetur, humiliatur. 
+    13: Qui prius respondet quam audiat, stultum se esse demonstrat et confusione dignum. 
+    14: Spiritus viri sustentat imbecillitatem suam; spiritum vero ad irascendum facilem quis poterit sustinere? 
+    15: Cor prudens possidebit scientiam, et auris sapientium quaerit doctrinam.
+    16: Donum hominis dilatat viam ejus, et ante principes spatium ei facit. 
+    17: Justus prior est accusator sui : venit amicus ejus, et investigabit eum. 
+    18: Contradictiones comprimit sors, et inter potentes quoque dijudicat. 
+    19: Frater qui adjuvatur a fratre quasi civitas firma, et judicia quasi vectes urbium. 
+    20: De fructu oris viri replebitur venter ejus, et genimina labiorum ipsius saturabunt eum.
+    21: Mors et vita in manu linguae; qui diligunt eam comedent fructus ejus. 
+    22: Qui invenit mulierem bonam invenit bonum, et hauriet jucunditatem a Domino. Qui expellit mulierem bonam expellit bonum; qui autem tenet adulteram stultus est et impius. 
+    23: Cum obsecrationibus loquetur pauper, et dives effabitur rigide. 
+    24: Vir amabilis ad societatem magis amicus erit quam frater.
+
+  Chapter 19.
+
+    1: Melior est pauper qui ambulat in simplicitate sua quam dives torquens labia sua, et insipiens. 
+    2: Ubi non est scientia animae, non est bonum, et qui festinus est pedibus offendet. 
+    3: Stultitia hominis supplantat gressus ejus, et contra Deum fervet animo suo. 
+    4: Divitiae addunt amicos plurimos; a paupere autem et hi quos habuit separantur. 
+    5: Testis falsus non erit impunitus, et qui mendacia loquitur non effugiet.
+    6: Multi colunt personam potentis, et amici sunt dona tribuentis. 
+    7: Fratres hominis pauperis oderunt eum; insuper et amici procul recesserunt ab eo. Qui tantum verba sectatur nihil habebit; 
+    8: qui autem possessor est mentis diligit animam suam, et custos prudentiae inveniet bona. 
+    9: Falsus testis non erit impunitus, et qui loquitur mendacia peribit. 
+    10: Non decent stultum deliciae, nec servum dominari principibus.
+    11: Doctrina viri per patientiam noscitur, et gloria ejus est iniqua praetergredi. 
+    12: Sicut fremitus leonis, ita et regis ira, et sicut ros super herbam, ita et hilaritas ejus. 
+    13: Dolor patris filius stultus, et tecta jugiter perstillantia litigiosa mulier. 
+    14: Domus et divitiae dantur a parentibus; a Domino autem proprie uxor prudens. 
+    15: Pigredo immittit soporem, et anima dissoluta esuriet.
+    16: Qui custodit mandatum custodit animam suam; qui autem negligit viam suam mortificabitur. 
+    17: Foeneratur Domino qui miseretur pauperis, et vicissitudinem suam reddet ei. 
+    18: Erudi filium tuum; ne desperes : ad interfectionem autem ejus ne ponas animam tuam. 
+    19: Qui impatiens est sustinebit damnum, et cum rapuerit, aliud apponet. 
+    20: Audi consilium, et suscipe disciplinam, ut sis sapiens in novissimis tuis.
+    21: Multae cogitationes in corde viri; voluntas autem Domini permanebit. 
+    22: Homo indigens misericors est, et melior est pauper quam vir mendax. 
+    23: Timor Domini ad vitam, et in plenitudine commorabitur absque visitatione pessima. 
+    24: Abscondit piger manum suam sub ascella, nec ad os suum applicat eam. 
+    25: Pestilente flagellato stultus sapientior erit; si autem corripueris sapientem, intelliget disciplinam.
+    26: Qui affligit patrem, et fugat matrem, ignominiosus est et infelix. 
+    27: Non cesses, fili, audire doctrinam, nec ignores sermones scientiae. 
+    28: Testis iniquus deridet judicium, et os impiorum devorat iniquitatem. 
+    29: Parata sunt derisoribus judicia, et mallei percutientes stultorum corporibus.
+
+  Chapter 20.
+
+    1: Luxuriosa res vinum, et tumultuosa ebrietas : quicumque his delectatur non erit sapiens. 
+    2: Sicut rugitus leonis, ita et terror regis : qui provocat eum peccat in animam suam. 
+    3: Honor est homini qui separat se a contentionibus; omnes autem stulti miscentur contumeliis. 
+    4: Propter frigus piger arare noluit; mendicabit ergo aestate, et non dabitur illi. 
+    5: Sicut aqua profunda, sic consilium in corde viri; sed homo sapiens exhauriet illud.
+    6: Multi homines misericordes vocantur; virum autem fidelem quis inveniet? 
+    7: Justus qui ambulat in simplicitate sua beatos post se filios derelinquet. 
+    8: Rex qui sedet in solio judicii dissipat omne malum intuitu suo. 
+    9: Quis potest dicere : Mundum est cor meum; purus sum a peccato? 
+    10: Pondus et pondus, mensura et mensura : utrumque abominabile est apud Deum.
+    11: Ex studiis suis intelligitur puer, si munda et recta sint opera ejus. 
+    12: Aurem audientem, et oculum videntem : Dominus fecit utrumque. 
+    13: Noli diligere somnum, ne te egestas opprimat; aperi oculos tuos, et saturare panibus. 
+    14: Malum est, malum est, dicit omnis emptor; et cum recesserit, tunc gloriabitur. 
+    15: Est aurum et multitudo gemmarum, et vas pretiosum labia scientiae.
+    16: Tolle vestimentum ejus qui fidejussor extitit alieni, et pro extraneis aufer pignus ab eo. 
+    17: Suavis est homini panis mendacii, et postea implebitur os ejus calculo. 
+    18: Cogitationes consiliis roborantur, et gubernaculis tractanda sunt bella. 
+    19: Ei qui revelat mysteria et ambulat fraudulenter, et dilatat labia sua, ne commiscearis. 
+    20: Qui maledicit patri suo et matri, extinguetur lucerna ejus in mediis tenebris,
+    21: haereditas ad quam festinatur in principio, in novissimo benedictione carebit. 
+    22: Ne dicas : Reddam malum : exspecta Dominum, et liberabit te. 
+    23: Abominatio est apud Dominum pondus et pondus; statera dolosa non est bona. 
+    24: A Domino diriguntur gressus viri; quis autem hominum intelligere potest viam suam? 
+    25: Ruina est homini devorare sanctos, et post vota retractare.
+    26: Dissipat impios rex sapiens, et incurvat super eos fornicem. 
+    27: Lucerna Domini spiraculum hominis, quae investigat omnia secreta ventris. 
+    28: Misericordia et veritas custodiunt regem, et roboratur clementia thronus ejus. 
+    29: Exsultatio juvenum fortitudo eorum, et dignitas senum canities. 
+    30: Livor vulneris absterget mala, et plagae in secretioribus ventris.
+
+End of day 186.

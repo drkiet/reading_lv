@@ -1,0 +1,126 @@
+Day 184:
+
+Reading Proverbs, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Sapientia aedificavit sibi domum : excidit columnas septem. 
+    2: Immolavit victimas suas, miscuit vinum, et proposuit mensam suam. 
+    3: Misit ancillas suas ut vocarent ad arcem et ad moenia civitatis. 
+    4: Si quis est parvulus, veniat ad me. Et insipientibus locuta est : 
+    5: Venite, comedite panem meum, et bibite vinum quod miscui vobis.
+    6: Relinquite infantiam, et vivite, et ambulate per vias prudentiae. 
+    7: Qui erudit derisorem, ipse injuriam sibi facit, et qui arguit impium, sibi maculam generat. 
+    8: Noli arguere derisorem, ne oderit te; argue sapientem, et diliget te. 
+    9: Da sapienti occasionem, et addetur ei sapientia; doce justum, et festinabit accipere. 
+    10: Principium sapientiae timor Domini, et scientia sanctorum prudentia.
+    11: Per me enim multiplicabuntur dies tui, et addentur tibi anni vitae. 
+    12: Si sapiens fueris, tibimetipsi eris; si autem illusor, solus portabis malum. 
+    13: Mulier stulta et clamosa, plenaque illecebris, et nihil omnino sciens, 
+    14: sedit in foribus domus suae, super sellam in excelso urbis loco, 
+    15: ut vocaret transeuntes per viam, et pergentes itinere suo :
+    16: qui est parvulus declinet ad me. Et vecordi locuta est : 
+    17: Aquae furtivae dulciores sunt, et panis absconditus suavior. 
+    18: Et ignoravit quod ibi sint gigantes, et in profundis inferni convivae ejus.
+
+  Chapter 10.
+
+    1: Filius sapiens laetificat patrem, filius vero stultus moestitia est matris suae. 
+    2: Nil proderunt thesauri impietatis, justitia vero liberabit a morte. 
+    3: Non affliget Dominus fame animam justi, et insidias impiorum subvertet. 
+    4: Egestatem operata est manus remissa; manus autem fortium divitias parat. Qui nititur mendaciis, hic pascit ventos; idem autem ipse sequitur aves volantes. 
+    5: Qui congregat in messe, filius sapiens est; qui autem stertit aestate, filius confusionis.
+    6: Benedictio Domini super caput justi; os autem impiorum operit iniquitas. 
+    7: Memoria justi cum laudibus, et nomen impiorum putrescet. 
+    8: Sapiens corde praecepta suscipit; stultus caeditur labiis. 
+    9: Qui ambulat simpliciter ambulat confidenter; qui autem depravat vias suas manifestus erit. 
+    10: Qui annuit oculo dabit dolorem; et stultus labiis verberabitur.
+    11: Vena vitae os justi, et os impiorum operit iniquitatem. 
+    12: Odium suscitat rixas, et universa delicta operit caritas. 
+    13: In labiis sapientis invenitur sapientia, et virga in dorso ejus qui indiget corde. 
+    14: Sapientes abscondunt scientiam; os autem stulti confusioni proximum est. 
+    15: Substantia divitis, urbs fortitudinis ejus; pavor pauperum egestas eorum.
+    16: Opus justi ad vitam, fructus autem impii ad peccatum. 
+    17: Via vitae custodienti disciplinam; qui autem increpationes relinquit, errat. 
+    18: Abscondunt odium labia mendacia; qui profert contumeliam, insipiens est. 
+    19: In multiloquio non deerit peccatum, qui autem moderatur labia sua prudentissimus est. 
+    20: Argentum electum lingua justi; cor autem impiorum pro nihilo.
+    21: Labia justi erudiunt plurimos; qui autem indocti sunt in cordis egestate morientur. 
+    22: Benedictio Domini divites facit, nec sociabitur eis afflictio. 
+    23: Quasi per risum stultus operatur scelus, sapientia autem est viro prudentia. 
+    24: Quod timet impius veniet super eum; desiderium suum justus dabitur. 
+    25: Quasi tempestas transiens non erit impius; justus autem quasi fundamentum sempiternum.
+    26: Sicut acetum dentibus, et fumus oculis, sic piger his qui miserunt eum. 
+    27: Timor Domini apponet dies, et anni impiorum breviabuntur. 
+    28: Exspectatio justorum laetitia, spes autem impiorum peribit. 
+    29: Fortitudo simplicis via Domini, et pavor his qui operantur malum. 
+    30: Justus in aeternum non commovebitur, impii autem non habitabunt super terram.
+    31: Os justi parturiet sapientiam; lingua pravorum peribit. 
+    32: Labia justi considerant placita, et os impiorum perversa.
+
+  Chapter 11.
+
+    1: Statera dolosa abominatio est apud Dominum, et pondus aequum voluntas ejus. 
+    2: Ubi fuerit superbia, ibi erit et contumelia; ubi autem est humilitas, ibi et sapientia. 
+    3: Simplicitas justorum diriget eos, et supplantatio perversorum vastabit illos. 
+    4: Non proderunt divitiae in die ultionis; justitia autem liberabit a morte. 
+    5: Justitia simplicis diriget viam ejus, et in impietate sua corruet impius.
+    6: Justitia rectorum liberabit eos, et in insidiis suis capientur iniqui. 
+    7: Mortuo homine impio, nulla erit ultra spes, et exspectatio sollicitorum peribit. 
+    8: Justus de angustia liberatus est, et tradetur impius pro eo. 
+    9: Simulator ore decipit amicum suum; justi autem liberabuntur scientia. 
+    10: In bonis justorum exsultabit civitas, et in perditione impiorum erit laudatio.
+    11: Benedictione justorum exaltabitur civitas, et ore impiorum subvertetur. 
+    12: Qui despicit amicum suum indigens corde est; vir autem prudens tacebit. 
+    13: Qui ambulat fraudulenter, revelat arcana; qui autem fidelis est animi, celat amici commissum. 
+    14: Ubi non est gubernator, populus corruet; salus autem, ubi multa consilia. 
+    15: Affligetur malo qui fidem facit pro extraneo; qui autem cavet laqueos securus erit.
+    16: Mulier gratiosa inveniet gloriam, et robusti habebunt divitias. 
+    17: Benefacit animae suae vir misericors; qui autem crudelis est, etiam propinquos abjicit. 
+    18: Impius facit opus instabile, seminanti autem justitiam merces fidelis. 
+    19: Clementia praeparat vitam, et sectatio malorum mortem. 
+    20: Abominabile Domino cor pravum, et voluntas ejus in iis qui simpliciter ambulant.
+    21: Manus in manu non erit innocens malus; semen autem justorum salvabitur. 
+    22: Circulus aureus in naribus suis, mulier pulchra et fatua. 
+    23: Desiderium justorum omne bonum est; praestolatio impiorum furor. 
+    24: Alii dividunt propria, et ditiores fiunt; alii rapiunt non sua, et semper in egestate sunt. 
+    25: Anima quae benedicit impinguabitur; et qui inebriat ipse quoque inebriabitur.
+    26: Qui abscondit frumenta maledicetur in populis; benedictio autem super caput vendentium. 
+    27: Bene consurgit diluculo qui quaerit bona; qui autem investigator malorum est opprimetur ab eis. 
+    28: Qui confidit in divitiis suis corruet, justi autem quasi virens folium germinabunt. 
+    29: Qui conturbat domum suam possidebit ventos, et qui stultus est serviet sapienti. 
+    30: Fructus justi lignum vitae, et qui suscipit animas sapiens est.
+    31: Si justus in terra recipit, quanto magis impius et peccator!
+
+  Chapter 12.
+
+    1: Qui diligit disciplinam diligit scientiam; qui autem odit increpationes insipiens est. 
+    2: Qui bonus est hauriet gratiam a Domino, qui autem confidit in cogitationibus suis impie agit. 
+    3: Non roborabitur homo ex impietate, et radix justorum non commovebitur. 
+    4: Mulier diligens corona est viro suo; et putredo in ossibus ejus, quae confusione res dignas gerit. 
+    5: Cogitationes justorum judicia, et consilia impiorum fraudulenta.
+    6: Verba impiorum insidiantur sanguini; os justorum liberabit eos. 
+    7: Verte impios, et non erunt; domus autem justorum permanebit. 
+    8: Doctrina sua noscetur vir; qui autem vanus et excors est patebit contemptui. 
+    9: Melior est pauper et sufficiens sibi quam gloriosus et indigens pane. 
+    10: Novit justus jumentorum suorum animas, viscera autem impiorum crudelia.
+    11: Qui operatur terram suam satiabitur panibus; qui autem sectatur otium stultissimus est. Qui suavis est in vini demorationibus, in suis munitionibus relinquit contumeliam. 
+    12: Desiderium impii munimentum est pessimorum, radix autem justorum proficiet. 
+    13: Propter peccata labiorum ruina proximat malo, effugiet autem justus de angustia. 
+    14: De fructu oris sui unusquisque replebitur bonis, et juxta opera manuum suarum retribuetur ei. 
+    15: Via stulti recta in oculis ejus; qui autem sapiens est audit consilia.
+    16: Fatuus statim indicat iram suam; qui autem dissimulat injuriam callidus est. 
+    17: Qui quod novit loquitur, index justitiae est; qui autem mentitur testis est fraudulentus. 
+    18: Est qui promittit, et quasi gladio pungitur conscientiae, lingua autem sapientium sanitas est. 
+    19: Labium veritatis firmum erit in perpetuum; qui autem testis est repentinus concinnat linguam mendacii. 
+    20: Dolus in corde cogitantium mala; qui autem pacis ineunt consilia, sequitur eos gaudium.
+    21: Non contristabit justum quidquid ei acciderit, impii autem replebuntur malo. 
+    22: Abominatio est Domino labia mendacia; qui autem fideliter agunt placent ei. 
+    23: Homo versatus celat scientiam, et cor insipientium provocat stultitiam. 
+    24: Manus fortium dominabitur; quae autem remissa est tributis serviet. 
+    25: Moeror in corde viri humiliabit illum, et sermone bono laetificabitur.
+    26: Qui negligit damnum propter amicum, justus est; iter autem impiorum decipiet eos. 
+    27: Non inveniet fraudulentus lucrum, et substantia hominis erit auri pretium. 
+    28: In semita justitiae vita; iter autem devium ducit ad mortem.
+
+End of day 184.

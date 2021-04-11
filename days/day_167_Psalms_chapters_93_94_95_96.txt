@@ -1,0 +1,76 @@
+Day 167:
+
+Reading Psalms, chapters ['93', '94', '95', '96']:
+
+  Chapter 93.
+
+    1: Psalmus ipsi David, quarta sabbati. Deus ultionum Dominus; Deus ultionum libere egit. 
+    2: Exaltare, qui judicas terram, redde retributionem superbis. 
+    3: Usquequo peccatores, Domine, usquequo peccatores gloriabuntur? 
+    4: effabuntur et loquentur iniquitatem, loquentur omnes qui operantur injustitiam? 
+    5: Populum tuum, Domine, humiliaverunt; et haereditatem tuam vexaverunt.
+    6: Viduam et advenam interfecerunt, et pupillos occiderunt. 
+    7: Et dixerunt : Non videbit Dominus, nec intelliget Deus Jacob. 
+    8: Intelligite, insipientes in populo; et stulti, aliquando sapite. 
+    9: Qui plantavit aurem non audiet? aut qui finxit oculum non considerat? 
+    10: Qui corripit gentes non arguet, qui docet hominem scientiam?
+    11: Dominus scit cogitationes hominum, quoniam vanae sunt. 
+    12: Beatus homo quem tu erudieris, Domine, et de lege tua docueris eum; 
+    13: ut mitiges ei a diebus malis, donec fodiatur peccatori fovea. 
+    14: Quia non repellet Dominus plebem suam, et haereditatem suam non derelinquet : 
+    15: Quoadusque justitia convertatur in judicium, et qui juxta illam omnes qui recto sunt corde.
+    16: Quis consurget mihi adversus malignantes? aut quis stabit mecum adversus operantes iniquitatem? 
+    17: Nisi quia Dominus adjuvit me, paulo minus habitasset in inferno anima mea. 
+    18: Si dicebam : Motus est pes meus, misericordia tua, Domine, adjuvabat me. 
+    19: Secundum multitudinem dolorum meorum in corde meo, consolationes tuae laetificaverunt animam meam. 
+    20: Numquid adhaeret tibi sedes iniquitatis, qui fingis laborem in praecepto?
+    21: Captabunt in animam justi, et sanguinem innocentem condemnabunt. 
+    22: Et factus est mihi Dominus in refugium, et Deus meus in adjutorium spei meae. 
+    23: Et reddet illis iniquitatem ipsorum, et in malitia eorum disperdet eos; disperdet illos Dominus Deus noster.
+
+  Chapter 94.
+
+    1: Laus cantici ipsi David. Venite, exsultemus Domino; jubilemus Deo salutari nostro; 
+    2: praeoccupemus faciem ejus in confessione, et in psalmis jubilemus ei : 
+    3: quoniam Deus magnus Dominus, et rex magnus super omnes deos; 
+    4: quia in manu ejus sunt omnes fines terrae, et altitudines montium ipsius sunt; 
+    5: quoniam ipsius est mare, et ipse fecit illud, et siccam manus ejus formaverunt.
+    6: Venite, adoremus, et procidamus, et ploremus ante Dominum qui fecit nos; 
+    7: quia ipse est Dominus Deus noster, et nos populus pascuae ejus, et oves manus ejus. 
+    8: Hodie si vocem ejus audieritis, nolite obdurare corda vestra 
+    9: sicut in irritatione, secundum diem tentationis in deserto, ubi tentaverunt me patres vestri, probaverunt me, et viderunt opera mea. 
+    10: Quadraginta annis offensus fui generationi illi; et dixi : Semper hi errant corde.
+    11: Et isti non cognoverunt vias meas : ut juravi in ira mea : Si introibunt in requiem meam.
+
+  Chapter 95.
+
+    1: Canticum ipsi David, quando domus aedificabatur post captivitatem. Cantate Domino canticum novum, cantate Domino omnis terra. 
+    2: Cantate Domino, et benedicite nomini ejus; annuntiate de die in diem salutare ejus. 
+    3: Annuntiate inter gentes gloriam ejus, in omnibus populis mirabilia ejus. 
+    4: Quoniam magnus Dominus, et laudabilis nimis; terribilis est super omnes deos; 
+    5: quoniam omnes dii gentium daemonia; Dominus autem caelos fecit.
+    6: Confessio et pulchritudo in conspectu ejus; sanctimonia et magnificentia in sanctificatione ejus. 
+    7: Afferte Domino, patriae gentium; afferte Domino gloriam et honorem; 
+    8: afferte Domino gloriam nomini ejus. Tollite hostias, et introite in atria ejus; 
+    9: adorate Dominum in atrio sancto ejus. Commoveatur a facie ejus universa terra; 
+    10: dicite in gentibus, quia Dominus regnavit. Etenim correxit orbem terrae, qui non commovebitur; judicabit populos in aequitate.
+    11: Laetentur caeli, et exsultet terra : commoveatur mare et plenitudo ejus; 
+    12: gaudebunt campi, et omnia quae in eis sunt. Tunc exsultabunt omnia ligna silvarum 
+    13: a facie Domini, quia venit, quoniam venit judicare terram. Judicabit orbem terrae in aequitate, et populos in veritate sua.
+
+  Chapter 96.
+
+    1: Huic David, quando terra ejus restituta est. Dominus regnavit; exsultet terra; laetentur insulae multae. 
+    2: Nubes et caligo in circuitu ejus; justitia et judicium correctio sedis ejus. 
+    3: Ignis ante ipsum praecedet, et inflammabit in circuitu inimicos ejus. 
+    4: Illuxerunt fulgura ejus orbi terrae; vidit, et commota est terra. 
+    5: Montes sicut cera fluxerunt a facie Domini; a facie Domini omnis terra.
+    6: Annuntiaverunt caeli justitiam ejus; et viderunt omnes populi gloriam ejus. 
+    7: Confundantur omnes qui adorant sculptilia, et qui gloriantur in simulacris suis. Adorate eum omnes angeli ejus. 
+    8: Audivit, et laetata est Sion; et exsultaverunt filiae Judae, propter judicia tua, Domine. 
+    9: Quoniam tu Dominus altissimus super omnem terram; nimis exaltatus es super omnes deos. 
+    10: Qui diligitis Dominum, odite malum; custodit Dominus animas sanctorum suorum, de manu peccatoris liberabit eos.
+    11: Lux orta est justo, et rectis corde laetitia. 
+    12: Laetamini, justi, in Domino, et confitemini memoriae sanctificationis ejus.
+
+End of day 167.

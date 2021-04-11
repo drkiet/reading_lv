@@ -1,0 +1,53 @@
+Day 171:
+
+Reading Psalms, chapters ['109', '110', '111', '112']:
+
+  Chapter 109.
+
+    1: Psalmus David. Dixit Dominus Domino meo : Sede a dextris meis, donec ponam inimicos tuos scabellum pedum tuorum. 
+    2: Virgam virtutis tuae emittet Dominus ex Sion : dominare in medio inimicorum tuorum. 
+    3: Tecum principium in die virtutis tuae in splendoribus sanctorum; ex utero, ante luciferum, genui te. 
+    4: Juravit Dominus, et non poenitebit eum : Tu es sacerdos in aeternum secundum ordinem Melchisedech. 
+    5: Dominus a dextris tuis; confregit in die irae suae reges.
+    6: Judicabit in nationibus; implebit ruinas, conquassabit capita in terra multorum, 
+    7: de torrente in via bibet; propterea exaltabit caput.
+
+  Chapter 110.
+
+    1: Alleluja. Confitebor tibi, Domine, in toto corde meo, in consilio justorum, et congregatione. 
+    2: Magna opera Domini, exquisita in omnes voluntates ejus. 
+    3: Confessio et magnificentia opus ejus; et justitia ejus manet in saeculum saeculi. 
+    4: Memoriam fecit mirabilium suorum, misericors et miserator Dominus. 
+    5: Escam dedit timentibus se; memor erit in saeculum testamenti sui.
+    6: Virtutem operum suorum annuntiabit populo suo, 
+    7: ut det illis haereditatem gentium. Opera manuum ejus veritas et judicium; 
+    8: fidelia omnia mandata ejus, confirmata in saeculum saeculi, facta in veritate et aequitate. 
+    9: Redemptionem misit populo suo; mandavit in aeternum testamentum suum. Sanctum et terribile nomen ejus. 
+    10: Initium sapientiae timor Domini; intellectus bonus omnibus facientibus eum, laudatio ejus manet in saeculum saeculi.
+
+  Chapter 111.
+
+    1: Alleluja, reversionis Aggaei et Zachariae. Beatus vir qui timet Dominum, in mandatis ejus volet nimis. 
+    2: Potens in terra erit semen ejus; generatio rectorum benedicetur. 
+    3: Gloria et divitiae in domo ejus, et justitia ejus manet in saeculum saeculi. 
+    4: Exortum est in tenebris lumen rectis, misericors, et miserator, et justus. 
+    5: Jucundus homo qui miseretur et commodat, disponet sermones suos in judicio;
+    6: quia in aeternum non commovebitur. 
+    7: In memoria aeterna erit justus; ab auditione mala non timebit. Paratum cor ejus sperare in Domino, 
+    8: confirmatum est cor ejus; non commovebitur donec despiciat inimicos suos. 
+    9: Dispersit, dedit pauperibus; justitia ejus manet in saeculum saeculi; cornu ejus exaltabitur in gloria. 
+    10: Peccator videbit, et irascetur, dentibus suis fremet et tabescet; desiderium peccatorum peribit.
+
+  Chapter 112.
+
+    1: Alleluja. Laudate, pueri, Dominum, laudate nomen Domini. 
+    2: Sit nomen Domini benedictum ex hoc nunc et usque in saeculum. 
+    3: A solis ortu usque ad occasum laudabile nomen Domini. 
+    4: Excelsus super omnes gentes Dominus, et super caelos gloria ejus. 
+    5: Quis sicut Dominus Deus noster, qui in altis habitat,
+    6: et humilia respicit in caelo et in terra? 
+    7: Suscitans a terra inopem, et de stercore erigens pauperem : 
+    8: ut collocet eum cum principibus, cum principibus populi sui. 
+    9: Qui habitare facit sterilem in domo, matrem filiorum laetantem.
+
+End of day 171.

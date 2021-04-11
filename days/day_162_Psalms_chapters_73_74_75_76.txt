@@ -1,0 +1,85 @@
+Day 162:
+
+Reading Psalms, chapters ['73', '74', '75', '76']:
+
+  Chapter 73.
+
+    1: Intellectus Asaph. Ut quid, Deus, repulisti in finem, iratus est furor tuus super oves pascuae tuae? 
+    2: Memor esto congregationis tuae, quam possedisti ab initio. Redemisti virgam haereditatis tuae, mons Sion, in quo habitasti in eo. 
+    3: Leva manus tuas in superbias eorum in finem. Quanta malignatus est inimicus in sancto! 
+    4: Et gloriati sunt qui oderunt te in medio solemnitatis tuae; posuerunt signa sua, signa; 
+    5: et non cognoverunt sicut in exitu super summum. Quasi in silva lignorum securibus
+    6: exciderunt januas ejus in idipsum; in securi et ascia dejecerunt eam. 
+    7: Incenderunt igni sanctuarium tuum, in terra polluerunt tabernaculum nominis tui. 
+    8: Dixerunt in corde suo cognatio eorum simul : quiescere faciamus omnes dies festos Dei a terra. 
+    9: Signa nostra non vidimus; jam non est propheta; et nos non cognoscet amplius. 
+    10: Usquequo, Deus, improperabit inimicus? irritat adversarius nomen tuum in finem?
+    11: Ut quid avertis manum tuam, et dexteram tuam de medio sinu tuo in finem? 
+    12: Deus autem rex noster ante saecula, operatus est salutem in medio terrae. 
+    13: Tu confirmasti in virtute tua mare; contribulasti capita draconum in aquis. 
+    14: Tu confregisti capita draconis; dedisti eum escam populis Aethiopum. 
+    15: Tu dirupisti fontes et torrentes; tu siccasti fluvios Ethan.
+    16: Tuus est dies, et tua est nox; tu fabricatus es auroram et solem. 
+    17: Tu fecisti omnes terminos terrae; aestatem et ver tu plasmasti ea. 
+    18: Memor esto hujus, inimicus improperavit Domino, et populus insipiens incitavit nomen tuum. 
+    19: Ne tradas bestiis animas confitentes tibi, et animas pauperum tuorum ne obliviscaris in finem. 
+    20: Respice in testamentum tuum, quia repleti sunt qui obscurati sunt terrae domibus iniquitatum.
+    21: Ne avertatur humilis factus confusus; pauper et inops laudabunt nomen tuum. 
+    22: Exsurge, Deus, judica causam tuam; memor esto improperiorum tuorum, eorum quae ab insipiente sunt tota die. 
+    23: Ne obliviscaris voces inimicorum tuorum : superbia eorum qui te oderunt ascendit semper.
+
+  Chapter 74.
+
+    1: In finem, ne corrumpas. Psalmus cantici Asaph. 
+    2: Confitebimur tibi, Deus, confitebimur, et invocabimus nomen tuum; narrabimus mirabilia tua. 
+    3: Cum accepero tempus, ego justitias judicabo. 
+    4: Liquefacta est terra et omnes qui habitant in ea, ego confirmavi columnas ejus. 
+    5: Dixi iniquis : Nolite inique agere, et delinquentibus : Nolite exaltare cornu.
+    6: Nolite extollere in altum cornu vestrum; nolite loqui adversus Deum iniquitatem. 
+    7: Quia neque ab oriente, neque ab occidente, neque a desertis montibus. 
+    8: Quoniam Deus judex est; hunc humiliat, et hunc exaltat : 
+    9: quia calix in manu Domini vini meri, plenus misto. Et inclinavit ex hoc in hoc, verumtamen faex ejus non est exinanita; bibent omnes peccatores terrae. 
+    10: Ego autem annuntiabo in saeculum; cantabo Deo Jacob.
+    11: Et omnia cornua peccatorum confringam; et exaltabuntur cornua justi.
+
+  Chapter 75.
+
+    1: In finem, in laudibus. Psalmus Asaph, canticum ad Assyrios. 
+    2: Notus in Judaea Deus; in Israel magnum nomen ejus. 
+    3: Et factus est in pace locus ejus, et habitatio ejus in Sion. 
+    4: Ibi confregit potentias arcuum, scutum, gladium, et bellum. 
+    5: Illuminans tu mirabiliter a montibus aeternis;
+    6: turbati sunt omnes insipientes corde. Dormierunt somnum suum, et nihil invenerunt omnes viri divitiarum in manibus suis. 
+    7: Ab increpatione tua, Deus Jacob, dormitaverunt qui ascenderunt equos. 
+    8: Tu terribilis es; et quis resistet tibi? ex tunc ira tua. 
+    9: De caelo auditum fecisti judicium : terra tremuit et quievit 
+    10: cum exsurgeret in judicium Deus, ut salvos faceret omnes mansuetos terrae.
+    11: Quoniam cogitatio hominis confitebitur tibi, et reliquiae cogitationis diem festum agent tibi. 
+    12: Vovete et reddite Domino Deo vestro, omnes qui in circuitu ejus affertis munera terribili, 
+    13: et ei qui aufert spiritum principum; terribili apud reges terrae.
+
+  Chapter 76.
+
+    1: In finem, pro Idithun. Psalmus Asaph. 
+    2: Voce mea ad Dominum clamavi; voce mea ad Deum, et intendit mihi. 
+    3: In die tribulationis meae Deum exquisivi; manibus meis nocte contra eum, et non sum deceptus. Renuit consolari anima mea; 
+    4: memor fui Dei, et delectatus sum; et exercitatus sum, et defecit spiritus meus. 
+    5: Anticipaverunt vigilias oculi mei; turbatus sum, et non sum locutus.
+    6: Cogitavi dies antiquos, et annos aeternos in mente habui. 
+    7: Et meditatus sum nocte cum corde meo, et exercitabar, et scopebam spiritum meum. 
+    8: Numquid in aeternum projiciet Deus? aut non apponet ut complacitior sit adhuc? 
+    9: aut in finem misericordiam suam abscindet, a generatione in generationem? 
+    10: aut obliviscetur misereri Deus? aut continebit in ira sua misericordias suas?
+    11: Et dixi : Nunc coepi; haec mutatio dexterae Excelsi. 
+    12: Memor fui operum Domini, quia memor ero ab initio mirabilium tuorum; 
+    13: et meditabor in omnibus operibus tuis, et in adinventionibus tuis exercebor. 
+    14: Deus, in sancto via tua : quis Deus magnus sicut Deus noster? 
+    15: Tu es Deus qui facis mirabilia : notam fecisti in populis virtutem tuam.
+    16: Redemisti in brachio tuo populum tuum, filios Jacob et Joseph. 
+    17: Viderunt te aquae, Deus; viderunt te aquae, et timuerunt; et turbatae sunt abyssi. 
+    18: Multitudo sonitus aquarum; vocem dederunt nubes. Etenim sagittae tuae transeunt; 
+    19: vox tonitrui tui in rota. Illuxerunt coruscationes tuae orbi terrae; commota est, et contremuit terra. 
+    20: In mari via tua, et semitae tuae in aquis multis, et vestigia tua non cognoscentur.
+    21: Deduxisti sicut oves populum tuum, in manu Moysi et Aaron.
+
+End of day 162.

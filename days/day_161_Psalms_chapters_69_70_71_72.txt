@@ -1,0 +1,95 @@
+Day 161:
+
+Reading Psalms, chapters ['69', '70', '71', '72']:
+
+  Chapter 69.
+
+    1: In finem. Psalmus David in rememorationem, quod salvum fecerit eum Dominus. 
+    2: Deus, in adjutorium meum intende; Domine, ad adjuvandum me festina. 
+    3: Confundantur, et revereantur, qui quaerunt animam meam. 
+    4: Avertantur retrorsum, et erubescant, qui volunt mihi mala; avertantur statim erubescentes qui dicunt mihi : Euge, euge! 
+    5: Exsultent et laetentur in te omnes qui quaerunt te; et dicant semper : Magnificetur Dominus, qui diligunt salutare tuum.
+    6: Ego vero egenus et pauper sum; Deus, adjuva me. Adjutor meus et liberator meus es tu; Domine, ne moreris.
+
+  Chapter 70.
+
+    1: Psalmus David, filiorum Jonadab, et priorum captivorum. In te, Domine, speravi; non confundar in aeternum; 
+    2: in justitia tua libera me, et eripe me : inclina ad me aurem tuam, et salva me. 
+    3: Esto mihi in Deum protectorem, et in locum munitum, ut salvum me facias : quoniam firmamentum meum et refugium meum es tu. 
+    4: Deus meus, eripe me de manu peccatoris, et de manu contra legem agentis, et iniqui : 
+    5: quoniam tu es patientia mea, Domine; Domine, spes mea a juventute mea.
+    6: In te confirmatus sum ex utero; de ventre matris meae tu es protector meus; in te cantatio mea semper. 
+    7: Tamquam prodigium factus sum multis; et tu adjutor fortis. 
+    8: Repleatur os meum laude, ut cantem gloriam tuam, tota die magnitudinem tuam. 
+    9: Ne projicias me in tempore senectutis; cum defecerit virtus mea, ne derelinquas me. 
+    10: Quia dixerunt inimici mei mihi : et qui custodiebant animam meam consilium fecerunt in unum;
+    11: dicentes : Deus dereliquit eum : persequimini et comprehendite eum, quia non est qui eripiat. 
+    12: Deus, ne elongeris a me; Deus meus, in auxilium meum respice. 
+    13: Confundantur et deficiant detrahentes animae; operiantur confusione et pudore qui quaerunt mala mihi. 
+    14: Ego autem semper sperabo, et adjiciam super omnem laudem tuam. 
+    15: Os meum annuntiabit justitiam tuam, tota die salutare tuum. Quoniam non cognovi litteraturam,
+    16: introibo in potentias Domini; Domine, memorabor justitiae tuae solius. 
+    17: Deus, docuisti me a juventute mea; et usque nunc pronuntiabo mirabilia tua. 
+    18: Et usque in senectam et senium, Deus, ne derelinquas me, donec annuntiem brachium tuum generationi omni quae ventura est, potentiam tuam, 
+    19: et justitiam tuam, Deus, usque in altissima; quae fecisti magnalia, Deus : quis similis tibi? 
+    20: Quantas ostendisti mihi tribulationes multas et malas! et conversus vivificasti me, et de abyssis terrae iterum reduxisti me.
+    21: Multiplicasti magnificentiam tuam; et conversus consolatus es me. 
+    22: Nam et ego confitebor tibi in vasis psalmi veritatem tuam, Deus; psallam tibi in cithara, sanctus Israel. 
+    23: Exsultabunt labia mea cum cantavero tibi; et anima mea quam redemisti. 
+    24: Sed et lingua mea tota die meditabitur justitiam tuam, cum confusi et reveriti fuerint qui quaerunt mala mihi.
+
+  Chapter 71.
+
+    1: Psalmus, in Salomonem. 
+    2: Deus, judicium tuum regi da, et justitiam tuam filio regis; judicare populum tuum in justitia, et pauperes tuos in judicio. 
+    3: Suscipiant montes pacem populo, et colles justitiam. 
+    4: Judicabit pauperes populi, et salvos faciet filios pauperum, et humiliabit calumniatorem. 
+    5: Et permanebit cum sole, et ante lunam, in generatione et generationem.
+    6: Descendet sicut pluvia in vellus, et sicut stillicidia stillantia super terram. 
+    7: Orietur in diebus ejus justitia, et abundantia pacis, donec auferatur luna. 
+    8: Et dominabitur a mari usque ad mare, et a flumine usque ad terminos orbis terrarum. 
+    9: Coram illo procident Aethiopes, et inimici ejus terram lingent. 
+    10: Reges Tharsis et insulae munera offerent; reges Arabum et Saba dona adducent;
+    11: et adorabunt eum omnes reges terrae, omnes gentes servient ei. 
+    12: Quia liberabit pauperem a potente, et pauperem cui non erat adjutor. 
+    13: Parcet pauperi et inopi, et animas pauperum salvas faciet. 
+    14: Ex usuris et iniquitate redimet animas eorum, et honorabile nomen eorum coram illo. 
+    15: Et vivet, et dabitur ei de auro Arabiae; et adorabunt de ipso semper, tota die benedicent ei.
+    16: Et erit firmamentum in terra in summis montium; superextolletur super Libanum fructus ejus, et florebunt de civitate sicut foenum terrae. 
+    17: Sit nomen ejus benedictum in saecula; ante solem permanet nomen ejus. Et benedicentur in ipso omnes tribus terrae; omnes gentes magnificabunt eum. 
+    18: Benedictus Dominus, Deus Israel, qui facit mirabilia solus. 
+    19: Et benedictum nomen majestatis ejus in aeternum, et replebitur majestate ejus omnis terra. Fiat, fiat. 
+    20: Defecerunt laudes David, filii Jesse.
+
+  Chapter 72.
+
+    1: Psalmus Asaph. Quam bonus Israel Deus, his qui recto sunt corde! 
+    2: Mei autem pene moti sunt pedes, pene effusi sunt gressus mei; 
+    3: quia zelavi super iniquos, pacem peccatorum videns. 
+    4: Quia non est respectus morti eorum, et firmamentum in plaga eorum. 
+    5: In labore hominum non sunt, et cum hominibus non flagellabuntur.
+    6: Ideo tenuit eos superbia; operti sunt iniquitate et impietate sua. 
+    7: Prodiit quasi ex adipe iniquitas eorum; transierunt in affectum cordis. 
+    8: Cogitaverunt et locuti sunt nequitiam; iniquitatem in excelso locuti sunt. 
+    9: Posuerunt in caelum os suum, et lingua eorum transivit in terra. 
+    10: Ideo convertetur populus meus hic, et dies pleni invenientur in eis.
+    11: Et dixerunt : Quomodo scit Deus, et si est scientia in excelso? 
+    12: Ecce ipsi peccatores, et abundantes in saeculo, obtinuerunt divitias. 
+    13: Et dixi : Ergo sine causa justificavi cor meum, et lavi inter innocentes manus meas; 
+    14: et fui flagellatus tota die, et castigatio mea in matutinis. 
+    15: Si dicebam : Narrabo sic; ecce nationem filiorum tuorum reprobavi.
+    16: Existimabam ut cognoscerem hoc; labor est ante me : 
+    17: donec intrem in sanctuarium Dei, et intelligam in novissimis eorum. 
+    18: Verumtamen propter dolos posuisti eis; dejecisti eos dum allevarentur. 
+    19: Quomodo facti sunt in desolationem? subito defecerunt; perierunt propter iniquitatem suam. 
+    20: Velut somnium surgentium, Domine, in civitate tua imaginem ipsorum ad nihilum rediges.
+    21: Quia inflammatum est cor meum, et renes mei commutati sunt; 
+    22: et ego ad nihilum redactus sum, et nescivi; 
+    23: ut jumentum factus sum apud te, et ego semper tecum. 
+    24: Tenuisti manum dexteram meam, et in voluntate tua deduxisti me, et cum gloria suscepisti me. 
+    25: Quid enim mihi est in caelo? et a te quid volui super terram?
+    26: Defecit caro mea et cor meum; Deus cordis mei, et pars mea, Deus in aeternum. 
+    27: Quia ecce qui elongant se a te peribunt; perdidisti omnes qui fornicantur abs te. 
+    28: Mihi autem adhaerere Deo bonum est, ponere in Domino Deo spem meam; ut annuntiem omnes praedicationes tuas in portis filiae Sion.
+
+End of day 161.

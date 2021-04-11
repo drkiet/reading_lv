@@ -1,0 +1,76 @@
+Day 263:
+
+Reading Hosea, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Verbum Domini, quod factum est ad Osee, filium Beeri, in diebus Oziae, Joathan, Achaz, Ezechiae, regum Juda; et in diebus Jeroboam, filii Joas, regis Israel. 
+    2: Principium loquendi Domino in Osee. Et dixit Dominus ad Osee : Vade, sume tibi uxorem fornicationum, et fac tibi filios fornicationum, quia fornicans fornicabitur terra a Domino. 
+    3: Et abiit, et accepit Gomer, filiam Debelaim : et concepit, et peperit ei filium. 
+    4: Et dixit Dominus ad eum : Voca nomen ejus Jezrahel, quoniam adhuc modicum, et visitabo sanguinem Jezrahel super domum Jehu, et quiescere faciam regnum domus Israel. 
+    5: Et in illa die conteram arcum Israel in valle Jezrahel.
+    6: Et concepit adhuc, et peperit filiam. Et dixit ei : Voca nomen ejus, Absque misericordia, quia non addam ultra misereri domui Israel, sed oblivione obliviscar eorum. 
+    7: Et domui Juda miserebor, et salvabo eos in Domino Deo suo; et non salvabo eos in arcu et gladio, et in bello, et in equis, et in equitibus. 
+    8: Et ablactavit eam quae erat Absque misericordia. Et concepit, et peperit filium. 
+    9: Et dixit : Voca nomen ejus, Non populus meus, quia vos non populus meus, et ego non ero vester. 
+    10: Et erit numerus filiorum Israel quasi arena maris, quae sine mensura est, et non numerabitur. Et erit in loco ubi dicetur eis : Non populus meus vos : dicetur eis : Filii Dei viventis.
+    11: Et congregabuntur filii Juda et filii Israel pariter; et ponent sibimet caput unum, et ascendent de terra, quia magnus dies Jezrahel.
+
+  Chapter 2.
+
+    1: Dicite fratribus vestris : Populus meus; et sorori vestrae : Misericordiam consecuta. 
+    2: Judicate matrem vestram, judicate, quoniam ipsa non uxor mea, et ego non vir ejus. Auferat fornicationes suas a facie sua, et adulteria sua de medio uberum suorum; 
+    3: ne forte expoliem eam nudam, et statuam eam secundum diem nativitatis suae, et ponam eam quasi solitudinem, et statuam eam velut terram inviam, et interficiam eam siti. 
+    4: Et filiorum illius non miserebor, quoniam filii fornicationum sunt. 
+    5: Quia fornicata est mater eorum, confusa est quae concepit eos; quia dixit : Vadam post amatores meos, qui dant panes mihi, et aquas meas, lanam meam, et linum meum, oleum meum, et potum meum.
+    6: Propter hoc ecce ego sepiam viam tuam spinis, et sepiam eam maceria, et semitas suas non inveniet. 
+    7: Et sequetur amatores suos, et non apprehendet eos; et quaeret eos, et non inveniet : et dicet : Vadam, et revertar ad virum meum priorem, quia bene mihi erat tunc magis quam nunc. 
+    8: Et haec nescivit, quia ego dedi ei frumentum, et vinum, et oleum, et argentum multiplicavi ei, et aurum, quae fecerunt Baal. 
+    9: Idcirco convertar, et sumam frumentum meum in tempore suo, et vinum meum in tempore suo. Et liberabo lanam meam et linum meum, quae operiebant ignominiam ejus. 
+    10: Et nunc revelabo stultitiam ejus in oculis amatorum ejus; et vir non eruet eam de manu mea;
+    11: et cessare faciam omne gaudium ejus, solemnitatem ejus, neomeniam ejus, sabbatum ejus, et omnia festa tempora ejus. 
+    12: Et corrumpam vineam ejus, et ficum ejus, de quibus dixit : Mercedes hae meae sunt, quas dederunt mihi amatores mei; et ponam eam in saltum, et comedet eam bestia agri. 
+    13: Et visitabo super eam dies Baalim, quibus accendebat incensum, et ornabatur in aure sua, et monili suo. Et ibat post amatores suos, et mei obliviscebatur, dicit Dominus. 
+    14: Propter hoc ecce ego lactabo eam, et ducam eam in solitudinem, et loquar ad cor ejus. 
+    15: Et dabo ei vinitores ejus ex eodem loco, et vallem Achor, ad aperiendam spem; et canet ibi juxta dies juventutis suae, et juxta dies ascensionis suae de terra Aegypti.
+    16: Et erit in die illa, ait Dominus : vocabit me, Vir meus, et non vocabit me ultra Baali. 
+    17: Et auferam nomina Baalim de ore ejus, et non recordabitur ultra nominis eorum. 
+    18: Et percutiam cum eis foedus in die illa, cum bestia agri, et cum volucre caeli, et cum reptili terrae; et arcum, et gladium, et bellum conteram de terra, et dormire eos faciam fiducialiter. 
+    19: Et sponsabo te mihi in sempiternum; et sponsabo te mihi in justitia, et judicio, et in misericordia, et in miserationibus. 
+    20: Et sponsabo te mihi in fide; et scies quia ego Dominus.
+    21: Et erit in die illa : exaudiam, dicit Dominus, exaudiam caelos, et illi exaudient terram. 
+    22: Et terra exaudiet triticum, et vinum, et oleum, et haec exaudient Jezrahel. 
+    23: Et seminabo eam mihi in terra, et miserebor ejus quae fuit Absque misericordia. 
+    24: Et dicam Non populo meo : Populus meus es tu; et ipse dicet : Deus meus es tu.
+
+  Chapter 3.
+
+    1: Et dixit Dominus ad me : Adhuc vade, et dilige mulierem dilectam amico et adulteram, sicut diligit Dominus filios Israel, et ipsi respiciunt ad deos alienos, et diligunt vinacia uvarum. 
+    2: Et fodi eam mihi quindecim argenteis, et coro hordei, et dimidio coro hordaei. 
+    3: Et dixi ad eam : Dies multos exspectabis me; non fornicaberis, et non eris viro; sed et ego exspectabo te. 
+    4: Quia dies multos sedebunt filii Israel sine rege, et sine principe, et sine sacrificio, et sine altari, et sine ephod, et sine theraphim. 
+    5: Et post haec revertentur filii Israel, et quaerent Dominum Deum suum, et David regem suum : et pavebunt ad Dominum, et ad bonum ejus, in novissimo dierum.
+
+  Chapter 4.
+
+    1: Audite verbum Domini, filii Israel, quia judicium Domino cum habitatoribus terrae : non est enim veritas, et non est misericordia, et non est scientia Dei in terra. 
+    2: Maledictum, et mendacium, et homicidium, et furtum, et adulterium inundaverunt, et sanguis sanguinem tetigit. 
+    3: Propter hoc lugebit terra, et infirmabitur omnis qui habitat in ea, in bestia agri, et in volucre caeli; sed et pisces maris congregabuntur. 
+    4: Verumtamen unusquisque non judicet, et non arguatur vir : populus enim tuus sicut hi qui contradicunt sacerdoti. 
+    5: Et corrues hodie, et corruet etiam propheta tecum. Nocte tacere feci matrem tuam.
+    6: Conticuit populus meus, eo quod non habuerit scientiam : quia tu scientiam repulisti, repellam te, ne sacerdotio fungaris mihi; et oblita es legis Dei tui, obliviscar filiorum tuorum et ego. 
+    7: Secundum multitudinem eorum sic peccaverunt mihi : gloriam eorum in ignominiam commutabo. 
+    8: Peccata populi mei comedent, et ad iniquitatem eorum sublevabunt animas eorum. 
+    9: Et erit sicut populus, sic sacerdos; et visitabo super eum vias ejus, et cogitationes ejus reddam ei. 
+    10: Et comedent, et non saturabuntur; fornicati sunt, et non cessaverunt : quoniam Dominum dereliquerunt in non custodiendo.
+    11: Fornicatio, et vinum, et ebrietas auferunt cor. 
+    12: Populus meus in ligno suo interrogavit, et baculus ejus annuntiavit ei; spiritus enim fornicationum decepit eos, et fornicati sunt a Deo suo. 
+    13: Super capita montium sacrificabant, et super colles ascendebant thymiama; subtus quercum, et populum, et terebinthum, quia bona erat umbra ejus; ideo fornicabuntur filiae vestrae, et sponsae vestrae adulterae erunt. 
+    14: Non visitabo super filias vestras cum fuerint fornicatae, et super sponsas vestras cum adulteraverint, quoniam ipsi cum meretricibus conversabantur, et cum effeminatis sacrificabant; et populus non intelligens vapulabit. 
+    15: Si fornicaris tu, Israel, non delinquat saltem Juda; et nolite ingredi in Galgala, et ne ascenderitis in Bethaven, neque juraveritis : Vivit Dominus!
+    16: Quoniam sicut vacca lasciviens declinavit Israel; nunc pascet eos Dominus, quasi agnum in latitudine. 
+    17: Particeps idolorum Ephraim : dimitte eum. 
+    18: Separatum est convivium eorum; fornicatione fornicati sunt : dilexerunt afferre ignominiam protectores ejus. 
+    19: Ligavit eum spiritus in alis suis, et confundentur a sacrificiis suis.
+
+End of day 263.

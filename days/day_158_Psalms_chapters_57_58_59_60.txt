@@ -1,0 +1,70 @@
+Day 158:
+
+Reading Psalms, chapters ['57', '58', '59', '60']:
+
+  Chapter 57.
+
+    1: In finem, ne disperdas. David in tituli inscriptionem. 
+    2: Si vere utique justitiam loquimini, recta judicate, filii hominum. 
+    3: Etenim in corde iniquitates operamini; in terra injustitias manus vestrae concinnant. 
+    4: Alienati sunt peccatores a vulva; erraverunt ab utero, locuti sunt falsa. 
+    5: Furor illis secundum similitudinem serpentis, sicut aspidis surdae et obturantis aures suas,
+    6: quae non exaudiet vocem incantantium, et venefici incantantis sapienter. 
+    7: Deus conteret dentes eorum in ore ipsorum; molas leonum confringet Dominus. 
+    8: Ad nihilum devenient tamquam aqua decurrens; intendit arcum suum donec infirmentur. 
+    9: Sicut cera quae fluit auferentur; supercecidit ignis, et non viderunt solem. 
+    10: Priusquam intelligerent spinae vestrae rhamnum, sicut viventes sic in ira absorbet eos.
+    11: Laetabitur justus cum viderit vindictam; manus suas lavabit in sanguine peccatoris. 
+    12: Et dicet homo : Si utique est fructus justo, utique est Deus judicans eos in terra.
+
+  Chapter 58.
+
+    1: In finem, ne disperdas. David in tituli inscriptionem, quando misit Saul, et custodivit domum ejus, ut eum interficeret. 
+    2: Eripe me de inimicis meis, Deus meus, et ab insurgentibus in me libera me. 
+    3: Eripe me de operantibus iniquitatem, et de viris sanguinum salva me. 
+    4: Quia ecce ceperunt animam meam; irruerunt in me fortes. 
+    5: Neque iniquitas mea, neque peccatum meum, Domine; sine iniquitate cucurri, et direxi.
+    6: Exsurge in occursum meum, et vide : et tu, Domine Deus virtutum, Deus Israel, intende ad visitandas omnes gentes; non miserearis omnibus qui operantur iniquitatem. 
+    7: Convertentur ad vesperam, et famem patientur ut canes; et circuibunt civitatem. 
+    8: Ecce loquentur in ore suo, et gladius in labiis eorum : quoniam quis audivit? 
+    9: Et tu, Domine, deridebis eos; ad nihilum deduces omnes gentes. 
+    10: Fortitudinem meam ad te custodiam, quia, Deus, susceptor meus es.
+    11: Deus meus, misericordia ejus praeveniet me. 
+    12: Deus ostendet mihi super inimicos meos; ne occidas eos, nequando obliviscantur populi mei. Disperge illos in virtute tua, et depone eos, protector meus, Domine; 
+    13: delictum oris eorum, sermonem labiorum ipsorum; et comprehendantur in superbia sua. Et de execratione et mendacio annuntiabuntur, 
+    14: in consummatione, in ira consummationis; et non erunt. Et scient quia Deus dominabitur Jacob, et finium terrae. 
+    15: Convertentur ad vesperam, et famem patientur ut canes; et circuibunt civitatem.
+    16: Ipsi dispergentur ad manducandum; si vero non fuerint saturati, et murmurabunt. 
+    17: Ego autem cantabo fortitudinem tuam, et exsultabo mane misericordiam tuam; quia factus es susceptor meus, et refugium meum in die tribulationis meae. 
+    18: Adjutor meus, tibi psallam, quia Deus susceptor meus es; Deus meus, misericordia mea.
+
+  Chapter 59.
+
+    1: In finem. Pro his qui immutabuntur, in tituli inscriptionem ipsi David, in doctrinam, 
+    2: cum succendit Mesopotamiam Syriae, et Sobal, et convertit Joab, et percussit Idumaeam in valle Salinarum duodecim millia. 
+    3: Deus, repulisti nos, et destruxisti nos; iratus es, et misertus es nobis. 
+    4: Commovisti terram, et conturbasti eam; sana contritiones ejus, quia commota est. 
+    5: Ostendisti populo tuo dura; potasti nos vino compunctionis.
+    6: Dedisti metuentibus te significationem, ut fugiant a facie arcus; ut liberentur dilecti tui, 
+    7: salvum fac dextera tua, et exaudi me. 
+    8: Deus locutus est in sancto suo : laetabor, et partibor Sichimam; et convallem tabernaculorum metibor. 
+    9: Meus est Galaad, et meus est Manasses; et Ephraim fortitudo capitis mei. Juda rex meus; 
+    10: Moab olla spei meae. In Idumaeam extendam calceamentum meum : mihi alienigenae subditi sunt.
+    11: Quis deducet me in civitatem munitam? quis deducet me usque in Idumaeam? 
+    12: Nonne tu, Deus, qui repulisti nos? et non egredieris, Deus, in virtutibus nostris? 
+    13: Da nobis auxilium de tribulatione, quia vana salus hominis. 
+    14: In Deo faciemus virtutem; et ipse ad nihilum deducet tribulantes nos.
+
+  Chapter 60.
+
+    1: In finem. In hymnis David. 
+    2: Exaudi, Deus, deprecationem meam, intende orationi meae. 
+    3: A finibus terrae ad te clamavi, dum anxiaretur cor meum; in petra exaltasti me. Deduxisti me, 
+    4: quia factus es spes mea, turris fortitudinis a facie inimici. 
+    5: Inhabitabo in tabernaculo tuo in saecula; protegar in velamento alarum tuarum.
+    6: Quoniam tu, Deus meus, exaudisti orationem meam; dedisti haereditatem timentibus nomen tuum. 
+    7: Dies super dies regis adjicies; annos ejus usque in diem generationis et generationis : 
+    8: Permanet in aeternum in conspectu Dei : misericordiam et veritatem ejus quis requiret? 
+    9: Sic psalmum dicam nomini tuo in saeculum saeculi, ut reddam vota mea de die in diem.
+
+End of day 158.

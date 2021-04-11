@@ -1,0 +1,134 @@
+Day 314:
+
+Reading Romans, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Paulus, servus Jesu Christi, vocatus Apostolus, segregatus in Evangelium Dei, 
+    2: quod ante promiserat per prophetas suos in Scripturis sanctis 
+    3: de Filio suo, qui factus est ei ex semine David secundum carnem, 
+    4: qui praedestinatus est Filius Dei in virtute secundum spiritum sanctificationis ex resurrectione mortuorum Jesu Christi Domini nostri : 
+    5: per quem accepimus gratiam, et apostolatum ad obediendum fidei in omnibus gentibus pro nomine ejus,
+    6: in quibus estis et vos vocati Jesu Christi : 
+    7: omnibus qui sunt Romae, dilectis Dei, vocatis sanctis. Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo. 
+    8: Primum quidem gratias ago Deo meo per Jesum Christum pro omnibus vobis : quia fides vestra annuntiatur in universo mundo. 
+    9: Testis enim mihi est Deus, cui servio in spiritu meo in Evangelio Filii ejus, quod sine intermissione memoriam vestri facio 
+    10: semper in orationibus meis : obsecrans, si quomodo tandem aliquando prosperum iter habeam in voluntate Dei veniendi ad vos.
+    11: Desidero enim videre vos, ut aliquid impertiar vobis gratiae spiritualis ad confirmandos vos : 
+    12: id est, simul consolari in vobis per eam quae invicem est, fidem vestram atque meam. 
+    13: Nolo autem vos ignorare fratres : quia saepe proposui venire ad vos ( et prohibitus sum usque adhuc) ut aliquem fructum habeam et in vobis, sicut et in ceteris gentibus. 
+    14: Graecis ac barbaris, sapientibus, et insipientibus debitor sum : 
+    15: ita ( quod in me) promptum est et vobis, qui Romae estis, evangelizare.
+    16: Non enim erubesco Evangelium. Virtus enim Dei est in salutem omni credenti, Judaeo primum, et Graeco. 
+    17: Justitia enim Dei in eo revelatur ex fide in fidem : sicut scriptum est : Justus autem ex fide vivit. 
+    18: Revelatur enim ira Dei de caelo super omnem impietatem, et injustitiam hominum eorum, qui veritatem Dei in injustitia detinent : 
+    19: quia quod notum est Dei, manifestum est in illis. Deus enim illis manifestavit. 
+    20: Invisibilia enim ipsius, a creatura mundi, per ea quae facta sunt, intellecta, conspiciuntur : sempiterna quoque ejus virtus, et divinitas : ita ut sint inexcusabiles.
+    21: Quia cum cognovissent Deum, non sicut Deum glorificaverunt, aut gratias egerunt : sed evanuerunt in cogitationibus suis, et obscuratum est insipiens cor eorum : 
+    22: dicentes enim se esse sapientes, stulti facti sunt. 
+    23: Et mutaverunt gloriam incorruptibilis Dei in similitudinem imaginis corruptibilis hominis, et volucrum, et quadrupedum, et serpentium. 
+    24: Propter quod tradidit illos Deus in desideria cordis eorum, in immunditiam, ut contumeliis afficiant corpora sua in semetipsis : 
+    25: qui commutaverunt veritatem Dei in mendacium : et coluerunt, et servierunt creaturae potius quam Creatori, qui est benedictus in saecula. Amen.
+    26: Propterea tradidit illos Deus in passiones ignominiae : nam feminae eorum immutaverunt naturalem usum in eum usum qui est contra naturam. 
+    27: Similiter autem et masculi, relicto naturali usu feminae, exarserunt in desideriis suis in invicem, masculi in masculos turpitudinem operantes, et mercedem, quam oportuit, erroris sui in semetipsis recipientes. 
+    28: Et sicut non probaverunt Deum habere in notitia, tradidit illos Deus in reprobum sensum, ut faciant ea quae non conveniunt, 
+    29: repletos omni iniquitate, malitia, fornicatione, avaritia, nequitia, plenos invidia, homicidio, contentione, dolo, malignitate : susurrones, 
+    30: detractores, Deo odibiles, contumeliosos, superbos, elatos, inventores malorum, parentibus non obedientes,
+    31: insipientes, incompositos, sine affectione, absque foedere, sine misericordia. 
+    32: Qui cum justitiam Dei cognovissent, non intellexerunt quoniam qui talia agunt, digni sunt morte : et non solum qui ea faciunt, sed etiam qui consentiunt facientibus.
+
+  Chapter 2.
+
+    1: Propter quod inexcusabilis es, o homo omnis qui judicas. In quo enim judicas alterum, teipsum condemnas : eadem enim agis quae judicas. 
+    2: Scimus enim quoniam judicium Dei est secundum veritatem in eos qui talia agunt. 
+    3: Existimas autem hoc, o homo, qui judicas eos qui talia agunt, et facis ea, quia tu effugies judicium Dei? 
+    4: an divitias bonitatis ejus, et patientiae, et longanimitatis contemnis? ignoras quoniam benignitas Dei ad poenitentiam te adducit? 
+    5: Secundum autem duritiam tuam, et impoenitens cor, thesaurizas tibi iram in die irae, et revelationis justi judicii Dei,
+    6: qui reddet unicuique secundum opera ejus : 
+    7: iis quidem qui secundum patientiam boni operis, gloriam, et honorem, et incorruptionem quaerunt, vitam aeternam : 
+    8: iis autem qui sunt ex contentione, et qui non acquiescunt veritati, credunt autem iniquitati, ira et indignatio. 
+    9: Tribulatio et angustia in omnem animam hominis operantis malum, Judaei primum, et Graeci : 
+    10: gloria autem, et honor, et pax omni operanti bonum, Judaeo primum, et Graeco :
+    11: non enim est acceptio personarum apud Deum. 
+    12: Quicumque enim sine lege peccaverunt, sine lege peribunt : et quicumque in lege peccaverunt, per legem judicabuntur. 
+    13: Non enim auditores legis justi sunt apud Deum, sed factores legis justificabuntur. 
+    14: Cum autem gentes, quae legem non habent, naturaliter ea, quae legis sunt, faciunt, ejusmodi legem non habentes, ipsi sibi sunt lex : 
+    15: qui ostendunt opus legis scriptum in cordibus suis, testimonium reddente illis conscientia ipsorum, et inter se invicem cogitationibus accusantibus, aut etiam defendentibus,
+    16: in die, cum judicabit Deus occulta hominum, secundum Evangelium meum per Jesum Christum. 
+    17: Si autem tu Judaeus cognominaris, et requiescis in lege, et gloriaris in Deo, 
+    18: et nosti voluntatem ejus, et probas utiliora, instructus per legem, 
+    19: confidis teipsum esse ducem caecorum, lumen eorum qui in tenebris sunt, 
+    20: eruditorem insipientium, magistrum infantium, habentem formam scientiae, et veritatis in lege.
+    21: Qui ergo alium doces, teipsum non doces : qui praedicas non furandum, furaris : 
+    22: qui dicis non moechandum, moecharis : qui abominaris idola, sacrilegium facis : 
+    23: qui in lege gloriaris, per praevaricationem legis Deum inhonoras. 
+    24: ( Nomen enim Dei per vos blasphematur inter gentes, sicut scriptum est.) 
+    25: Circumcisio quidem prodest, si legem observes : si autem praevaricator legis sis, circumcisio tua praeputium facta est.
+    26: Si igitur praeputium justitias legis custodiat, nonne praeputium illius in circumcisionem reputabitur? 
+    27: et judicabit id quod ex natura est praeputium, legem consummans, te, qui per litteram et circumcisionem praevaricator legis es? 
+    28: Non enim qui in manifesto, Judaeus est : neque quae in manifesto, in carne, est circumcisio : 
+    29: sed qui in abscondito, Judaeus est : et circumcisio cordis in spiritu, non littera : cujus laus non ex hominibus, sed ex Deo est.
+
+  Chapter 3.
+
+    1: Quid ergo amplius Judaeo est? aut quae utilitas circumcisionis? 
+    2: Multum per omnem modum. Primum quidem quia credita sunt illis eloquia Dei. 
+    3: Quid enim si quidam illorum non crediderunt? numquid incredulitas illorum fidem Dei evacuabit? Absit. 
+    4: Est autem Deus verax : omnis autem homo mendax, sicut scriptum est : Ut justificeris in sermonibus tuis : et vincas cum judicaris. 
+    5: Si autem iniquitas nostra justitiam Dei commendat, quid dicemus? Numquid iniquus est Deus, qui infert iram?
+    6: secundum hominem dico. Absit. Alioquin quomodo judicabit Deus hunc mundum? 
+    7: Si enim veritas Dei in meo mendacio abundavit in gloriam ipsius : quid adhuc et ego tamquam peccator judicor? 
+    8: et non ( sicut blasphemamur, et sicut aiunt quidam nos dicere) faciamus mala ut veniant bona : quorum damnatio justa est. 
+    9: Quid ergo? praecellimus eos? Nequaquam. Causati enim sumus Judaeos et Graecos omnes sub peccato esse, 
+    10: sicut scriptum est : Quia non est justus quisquam :
+    11: non est intelligens, non est requirens Deum. 
+    12: Omnes declinaverunt, simul inutiles facti sunt : non est qui faciat bonum, non est usque ad unum. 
+    13: Sepulchrum patens est guttur eorum, linguis suis dolose agebant : venenum aspidum sub labiis eorum : 
+    14: quorum os maledictione, et amaritudine plenum est : 
+    15: veloces pedes eorum ad effundendum sanguinem :
+    16: contritio et infelicitas in viis eorum : 
+    17: et viam pacis non cognoverunt : 
+    18: non est timor Dei ante oculos eorum. 
+    19: Scimus autem quoniam quaecumque lex loquitur, iis, qui in lege sunt, loquitur : ut omne os obstruatur, et subditus fiat omnis mundus Deo : 
+    20: quia ex operibus legis non justificabitur omnis caro coram illo. Per legem enim cognitio peccati.
+    21: Nunc autem sine lege justitia Dei manifestata est : testificata a lege et prophetis. 
+    22: Justitia autem Dei per fidem Jesu Christi in omnes et super omnes qui credunt in eum : non enim est distinctio : 
+    23: omnes enim peccaverunt, et egent gloria Dei. 
+    24: Justificati gratis per gratiam ipsius, per redemptionem quae est in Christo Jesu, 
+    25: quem proposuit Deus propitiationem per fidem in sanguine ipsius, ad ostensionem justitiae suae propter remissionem praecedentium delictorum
+    26: in sustentatione Dei, ad ostensionem justitiae ejus in hoc tempore : ut sit ipse justus, et justificans eum, qui est ex fide Jesu Christi. 
+    27: Ubi est ergo gloriatio tua? Exclusa est. Per quam legem? Factorum? Non : sed per legem fidei. 
+    28: Arbitramur enim justificari hominem per fidem sine operibus legis. 
+    29: An Judaeorum Deus tantum? nonne et gentium? Immo et gentium : 
+    30: quoniam quidem unus est Deus, qui justificat circumcisionem ex fide, et praeputium per fidem.
+    31: Legem ergo destruimus per fidem? Absit : sed legem statuimus.
+
+  Chapter 4.
+
+    1: Quid ergo dicemus invenisse Abraham patrem nostrum secundum carnem? 
+    2: Si enim Abraham ex operibus justificatus est, habet gloriam, sed non apud Deum. 
+    3: Quid enim dicit Scriptura? Credidit Abraham Deo, et reputatam est illi ad justitiam. 
+    4: Ei autem qui operatur, merces non imputatur secundum gratiam, sed secundum debitum. 
+    5: Ei vero qui non operatur, credenti autem in eum, qui justificat impium, reputatur fides ejus ad justitiam secundum propositum gratiae Dei.
+    6: Sicut et David dicit beatitudinem hominis, cui Deus accepto fert justitiam sine operibus : 
+    7: Beati, quorum remissae sunt iniquitates, et quorum tecta sunt peccata. 
+    8: Beatus vir, cui non imputavit Dominus peccatum. 
+    9: Beatitudo ergo haec in circumcisione tantum manet, an etiam in praeputio? Dicimus enim quia reputata est Abrahae fides ad justitiam. 
+    10: Quomodo ergo reputata est? in circumcisione, an in praeputio? Non in circumcisione, sed in praeputio.
+    11: Et signum accepit circumcisionis, signaculum justitiae fidei, quae est in praeputio : ut sit pater omnium credentium per praeputium, ut reputetur et illis ad justitiam : 
+    12: et sit pater circumcisionis non iis tantum, qui sunt ex circumcisione, sed et iis qui sectantur vestigia fidei, quae est in praeputio patris nostri Abrahae. 
+    13: Non enim per legem promissio Abrahae, aut semini ejus ut haeres esset mundi : sed per justitiam fidei. 
+    14: Si enim qui ex lege, haeredes sunt : exinanita est fides, abolita est promissio. 
+    15: Lex enim iram operatur. Ubi enim non est lex, nec praevaricatio.
+    16: Ideo ex fide, ut secundum gratiam firma sit promissio omni semini, non ei qui ex lege est solum, sed et ei qui ex fide est Abrahae, qui pater est omnium nostrum 
+    17: ( sicut scriptum est : Quia patrem multarum gentium posui te) ante Deum, cui credidit, qui vivificat mortuos, et vocat ea quae non sunt, tamquam ea quae sunt : 
+    18: qui contra spem in spem credidit, ut fieret pater multarum gentium secundum quod dictum est ei : Sic erit semen tuum. 
+    19: Et non infirmatus est fide, nec consideravit corpus suum emortuum, cum jam fere centum esset annorum, et emortuam vulvam Sarae. 
+    20: In repromissione etiam Dei non haesitavit diffidentia, sed confortatus est fide, dans gloriam Deo :
+    21: plenissime sciens, quia quaecumque promisit, potens est et facere. 
+    22: Ideo et reputatum est illi ad justitiam. 
+    23: Non est autem scriptum tantum propter ipsum quia reputatum est illi ad justitiam : 
+    24: sed et propter nos, quibus reputabitur credentibus in eum, qui suscitavit Jesum Christum Dominum nostrum a mortuis, 
+    25: qui traditus est propter delicta nostra, et resurrexit propter justificationem nostram.
+
+End of day 314.

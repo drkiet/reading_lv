@@ -1,0 +1,195 @@
+Day 293:
+
+Reading Mark, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Et post dies sex assumit Jesus Petrum, et Jacobum, et Joannem, et ducit illos in montem excelsum seorsum solos, et transfiguratus est coram ipsis. 
+    2: Et vestimenta ejus facta sunt splendentia, et candida nimis velut nix, qualia fullo non potest super terram candida facere. 
+    3: Et apparuit illis Elias cum Moyse : et erant loquentes cum Jesu. 
+    4: Et respondens Petrus, ait Jesu : Rabbi, bonum est nos hic esse : et faciamus tria tabernacula, tibi unum, et Moysi unum, et Eliae unum. 
+    5: Non enim sciebat quid diceret : erant enim timore exterriti.
+    6: Et facta est nubes obumbrans eos : et venit vox de nube, dicens : Hic est Filius meus carissimus : audite illum. 
+    7: Et statim circumspicientes, neminem amplius viderunt, nisi Jesum tantum secum. 
+    8: Et descendentibus illis de monte, praecepit illis ne cuiquam quae vidissent, narrarent : nisi cum Filius hominis a mortuis resurrexerit. 
+    9: Et verbum continuerunt apud se : conquirentes quid esset, cum a mortuis resurrexerit. 
+    10: Et interrogabant eum, dicentes : Quid ergo dicunt pharisaei et scribae, quia Eliam oportet venire primum?
+    11: Qui respondens, ait illis : Elias cum venerit primo, restituet omnia : et quomodo scriptum est in Filium hominis, ut multa patiatur et contemnatur. 
+    12: Sed dico vobis quia et Elias venit ( et fecerunt illi quaecumque voluerunt) sicut scriptum est de eo. 
+    13: Et veniens ad discipulos suos, vidit turbam magnam circa eos, et scribas conquirentes cum illis. 
+    14: Et confestim omnis populus videns Jesum, stupefactus est, et expaverunt, et accurrentes salutabant eum. 
+    15: Et interrogavit eos : Quid inter vos conquiritis?
+    16: Et respondens unus de turba, dixit : Magister, attuli filium meum ad te habentem spiritum mutum : 
+    17: qui ubicumque eum apprehenderit, allidit illum, et spumat, et stridet dentibus, et arescit : et dixi discipulis tuis ut ejicerent illum, et non potuerunt. 
+    18: Qui respondens eis, dixit : O generatio incredula, quamdiu apud vos ero? quamdiu vos patiar? afferte illum ad me. 
+    19: Et attulerunt eum. Et cum vidisset eum, statim spiritus conturbavit illum : et elisus in terram, volutabatur spumans. 
+    20: Et interrogavit patrem ejus : Quantum temporis est ex quo ei hoc accidit? At ille ait : Ab infantia :
+    21: et frequenter eum in ignem, et in aquas misit ut eum perderet : sed si quid potes, adjuva nos, misertus nostri. 
+    22: Jesus autem ait illi : Si potes credere, omnia possibilia sunt credenti. 
+    23: Et continuo exclamans pater pueri, cum lacrimis aiebat : Credo, Domine; adjuva incredulitatem meam. 
+    24: Et cum videret Jesus concurrentem turbam, comminatus est spiritui immundo, dicens illi : Surde et mute spiritus, ego praecipio tibi, exi ab eo : et amplius ne introeas in eum. 
+    25: Et exclamans, et multum discerpens eum, exiit ab eo, et factus est sicut mortuus, ita ut multi dicerent : Quia mortuus est.
+    26: Jesus autem tenens manum ejus elevavit eum, et surrexit. 
+    27: Et cum introisset in domum, discipuli ejus secreto interrogabant eum : Quare nos non potuimus ejicere eum? 
+    28: Et dixit illis : Hoc genus in nullo potest exire, nisi in oratione et jejunio. 
+    29: Et inde profecti praetergrediebantur Galilaeam : nec volebat quemquam scire. 
+    30: Docebat autem discipulos suos, et dicebat illis : Quoniam Filius hominis tradetur in manus hominum, et occident eum, et occisus tertia die resurget.
+    31: At illi ignorabant verbum : et timebant interrogare eum. 
+    32: Et venerunt Capharnaum. Qui cum domi essent, interrogabat eos : Quid in via tractabatis? 
+    33: At illi tacebant : siquidem in via inter se disputaverunt : quis eorum major esset. 
+    34: Et residens vocavit duodecim, et ait illis : Si quis vult primus esse, erit omnium novissimus, et omnium minister. 
+    35: Et accipiens puerum, statuit eum in medio eorum : quem cum complexus esset, ait illis :
+    36: Quisquis unum ex hujusmodi pueris receperit in nomine meo, me recipit : et quicumque me susceperit, non me suscipit, sed eum qui misit me. 
+    37: Respondit illi Joannes, dicens : Magister, vidimus quemdam in nomine tuo ejicientem daemonia, qui non sequitur nos, et prohibuimus eum. 
+    38: Jesus autem ait : Nolite prohibere eum : nemo est enim qui faciat virtutem in nomine meo, et possit cito male loqui de me : 
+    39: qui enim non est adversum vos, pro vobis est. 
+    40: Quisquis enim potum dederit vobis calicem aquae in nomine meo, quia Christi estis : amen dico vobis, non perdet mercedem suam.
+    41: Et quisquis scandalizaverit unum ex his pusillis credentibus in me : bonum est ei magis si circumdaretur mola asinaria collo ejus, et in mare mitteretur. 
+    42: Et si scandalizaverit te manus tua, abscide illam : bonum est tibi debilem introire in vitam, quam duas manus habentem ire in gehennam, in ignem inextinguibilem, 
+    43: ubi vermis eorum non moritur, et ignis non extinguitur. 
+    44: Et si pes tuus te scandalizat, amputa illum : bonum est tibi claudum introire in vitam aeternam, quam duos pedes habentem mitti in gehennam ignis inextinguibilis, 
+    45: ubi vermis eorum non moritur, et ignis non extinguitur.
+    46: Quod si oculus tuus scandalizat te, ejice eum : bonum est tibi luscum introire in regnum Dei, quam duos oculos habentem mitti in gehennam ignis, 
+    47: ubi vermis eorum non moritur, et ignis non extinguitur. 
+    48: Omnis enim igne salietur, et omnis victima sale salietur. 
+    49: Bonum est sal : quod si sal insulsum fuerit, in quo illud condietis? Habete in vobis sal, et pacem habete inter vos.
+
+  Chapter 10.
+
+    1: Et inde exsurgens venit in fines Judaeae ultra Jordanem : et conveniunt iterum turbae ad eum : et sicut consueverat, iterum docebat illos. 
+    2: Et accedentes pharisaei interrogabant eum : Si licet vero uxorem dimittere : tentantes eum. 
+    3: At ille respondens, dixit eis : Quid vobis praecepit Moyses? 
+    4: Qui dixerunt : Moyses permisit libellum repudii scribere, et dimittere. 
+    5: Quibus respondens Jesus, ait : Ad duritiam cordis vestri scripsit vobis praeceptum istud :
+    6: ab initio autem creaturae masculum et feminam fecit eos Deus. 
+    7: Propter hoc relinquet homo patrem suum et matrem, et adhaerebit ad uxorem suam : 
+    8: et erunt duo in carne una. Itaque jam non sunt duo, sed una caro. 
+    9: Quod ergo Deus conjunxit, homo non separet. 
+    10: Et in domo iterum discipuli ejus de eodem interrogaverunt eum.
+    11: Et ait illis : Quicumque dimiserit uxorem suam, et aliam duxerit, adulterium committit super eam. 
+    12: Et si uxor dimiserit virum suum, et alii nupserit, moechatur. 
+    13: Et offerebant illi parvulos ut tangeret illos. Discipuli autem comminabantur offerentibus. 
+    14: Quos cum videret Jesus, indigne tulit, et ait illis : Sinite parvulos venire ad me, et ne prohibueritis eos : talium enim est regnum Dei. 
+    15: Amen dico vobis : Quisquis non receperit regnum Dei velut parvulus, non intrabit in illud.
+    16: Et complexans eos, et imponens manus super illos, benedicebat eos. 
+    17: Et cum egressus esset in viam, procurrens quidam genu flexo ante eum, rogabat eum : Magister bone, quid faciam ut vitam aeternam percipiam? 
+    18: Jesus autem dixit ei : Quid me dicis bonum? nemo bonus, nisi unus Deus. 
+    19: Praecepta nosti : ne adulteres, ne occidas, ne fureris, ne falsum testimonium dixeris, ne fraudum feceris, honora patrem tuum et matrem. 
+    20: At ille respondens, ait illi : Magister, haec omnia observavi a juventute mea.
+    21: Jesus autem intuitus eum, dilexit eum, et dixit ei : Unum tibi deest : vade, quaecumque habes vende, et da pauperibus, et habebis thesaurum in caelo : et veni, sequere me. 
+    22: Qui contristatus in verbo, abiit moerens : erat enim habens multas possessiones. 
+    23: Et circumspiciens Jesus, ait discipulis suis : Quam difficile qui pecunias habent, in regnum Dei introibunt! 
+    24: Discipuli autem obstupescebant in verbis ejus. At Jesus rursus respondens ait illis : Filioli, quam difficile est, confidentes in pecuniis, in regnum Dei introire! 
+    25: Facilius est camelum per foramen acus transire, quam divitem intrare in regnum Dei.
+    26: Qui magis admirabantur, dicentes ad semetipsos : Et quis potest salvus fieri? 
+    27: Et intuens illos Jesus, ait : Apud homines impossibile est, sed non apud Deum : omnia enim possibilia sunt apud Deum. 
+    28: Et coepit ei Petrus dicere : Ecce nos dimisimus omnia, et secuti sumus te. 
+    29: Respondens Jesus, ait : Amen dico vobis : Nemo est qui reliquerit domum, aut fratres, aut sorores, aut patrem, aut matrem, aut filios, aut agros propter me et propter Evangelium, 
+    30: qui non accipiat centies tantum, nunc in tempore hoc : domos, et fratres, et sorores, et matres, et filios, et agros, cum persecutionibus, et in saeculo futuro vitam aeternam.
+    31: Multi autem erunt primi novissimi, et novissimi primi. 
+    32: Erant autem in via ascendentes Jerosolymam : et praecedebat illos Jesus, et stupebant : et sequentes timebant. Et assumens iterum duodecim, coepit illis dicere quae essent ei eventura. 
+    33: Quia ecce ascendimus Jerosolymam, et Filius hominis tradetur principibus sacerdotum, et scribis, et senioribus, et damnabunt eum morte, et tradent eum gentibus : 
+    34: et illudent ei, et conspuent eum, et flagellabunt eum, et interficient eum : et tertia die resurget. 
+    35: Et accedunt ad eum Jacobus et Joannes filii Zebedaei, dicentes : Magister, volumus ut quodcumque petierimus, facias nobis.
+    36: At ille dixit eis : Quid vultis ut faciam vobis? 
+    37: Et dixerunt : Da nobis ut unus ad dexteram tuam, et alius ad sinistram tuam sedeamus in gloria tua. 
+    38: Jesus autem ait eis : Nescitis quid petatis : potestis bibere calicem, quem ego bibo, aut baptismo, quo ego baptizor, baptizari? 
+    39: At illi dixerunt ei : Possumus. Jesus autem ait eis : Calicem quidem, quem ego bibo, bibetis; et baptismo, quo ego baptizor, baptizabimini : 
+    40: sedere autem ad dexteram meam, vel ad sinistram, non est meum dare vobis, sed quibus paratum est.
+    41: Et audientes decem, coeperunt indignari de Jacobo et Joanne. 
+    42: Jesus autem vocans eos, ait illis : Scitis quia hi, qui videntur principari gentibus, dominantur eis : et principes eorum potestatem habent ipsorum. 
+    43: Non ita est autem in vobis, sed quicumque voluerit fieri major, erit vester minister : 
+    44: et quicumque voluerit in vobis primus esse, erit omnium servus. 
+    45: Nam et Filius hominis non venit ut ministraretur ei, sed ut ministraret, et daret animam suam redemptionem pro multis.
+    46: Et veniunt Jericho : et proficiscente eo de Jericho, et discipulis ejus, et plurima multitudine, filius Timae Bartimaeus caecus, sedebat juxta viam mendicans. 
+    47: Qui cum audisset quia Jesus Nazarenus est, coepit clamare, et dicere : Jesu fili David, miserere mei. 
+    48: Et comminabantur ei multi ut taceret. At ille multo magis clamabat : Fili David, miserere mei. 
+    49: Et stans Jesus praecepit illum vocari. Et vocant caecum, dicentes ei : Animaequior esto : surge, vocat te. 
+    50: Qui projecto vestimento suo exiliens, venit ad eum.
+    51: Et respondens Jesus dixit illi : Quid tibi vis faciam? Caecus autem dixit ei : Rabboni, ut videam. 
+    52: Jesus autem ait illi : Vade, fides tua te salvum fecit. Et confestim vidit, et sequebatur eum in via.
+
+  Chapter 11.
+
+    1: Et cum appropinquarent Jerosolymae et Bethaniae ad montem Olivarum, mittit duos ex discipulis suis, 
+    2: et ait illis : Ite in castellum, quod contra vos est, et statim introeuntes illuc, invenietis pullum ligatum, super quem nemo adhuc hominum sedit : solvite illum, et adducite. 
+    3: Et si quis vobis dixerit : Quid facitis? dicite, quia Domino necessarius est : et continuo illum dimittet huc. 
+    4: Et abeuntes invenerunt pullum ligatum ante januam foris in bivio : et solvunt eum. 
+    5: Et quidam de illic stantibus dicebant illis : Quid facitis solventes pullum?
+    6: Qui dixerunt eis sicut praeceperat illis Jesus, et dimiserunt eis. 
+    7: Et duxerunt pullum ad Jesum : et imponunt illi vestimenta sua, et sedit super eum. 
+    8: Multi autem vestimenta sua straverunt in via : alii autem frondes caedebant de arboribus, et sternebant in via. 
+    9: Et qui praeibant, et qui sequebantur, clamabant, dicentes : Hosanna : benedictus qui venit in nomine Domini : 
+    10: benedictum quod venit regnum patris nostri David : hosanna in excelsis.
+    11: Et introivit Jerosolymam in templum : et circumspectis omnibus, cum jam vespera esset hora, exiit in Bethaniam cum duodecim. 
+    12: Et alia die cum exirent a Bethania, esuriit. 
+    13: Cumque vidisset a longe ficum habentem folia, venit si quid forte inveniret in ea : et cum venisset ad eam, nihil invenit praeter folia : non enim erat tempus ficorum. 
+    14: Et respondens dixit ei : Jam non amplius in aeternum ex te fructum quisquam manducet. Et audiebant discipuli ejus. 
+    15: Et veniunt in Jerosolymam. Et cum introisset in templum, coepit ejicere vendentes et ementes in templo : et mensas numulariorum, et cathedras vendentium columbas evertit :
+    16: et non sinebat ut quisquam transferret vas per templum : 
+    17: et docebat, dicens eis : Nonne scriptum est : Quia domus mea, domus orationis vocabitur omnibus gentibus? vos autem fecistis eam speluncam latronum. 
+    18: Quo audito principes sacerdotum et scribae, quaerebant quomodo eum perderent : timebant enim eum, quoniam universa turba admirabatur super doctrina ejus. 
+    19: Et cum vespera facta esset, egrediebatur de civitate. 
+    20: Et cum mane transirent, viderunt ficum aridam factam a radicibus.
+    21: Et recordatus Petrus, dixit ei : Rabbi, ecce ficus, cui maledixisti, aruit. 
+    22: Et respondens Jesus ait illis : Habete fidem Dei. 
+    23: Amen dico vobis, quia quicumque dixerit huic monti : Tollere, et mittere in mare, et non haesitaverit in corde suo, sed crediderit, quia quodcumque dixerit fiat, fiat ei. 
+    24: Propterea dico vobis, omnia quaecumque orantes petitis, credite quia accipietis, et evenient vobis. 
+    25: Et cum stabitis ad orandum, dimittite si quis habetis adversus aliquem : ut et Pater vester, qui in caelis est, dimittat vobis peccata vestra.
+    26: Quod si vos non dimiseritis : nec Pater vester, qui in caelis est, dimittet vobis peccata vestra. 
+    27: Et veniunt rursus Jerosolymam. Et cum ambularet in templo, accedunt ad eum summi sacerdotes, et scribae, et seniores : 
+    28: et dicunt ei : In qua potestate haec facis? et quis dedit tibi hanc potestatem ut ista facias? 
+    29: Jesus autem respondens, ait illis : Interrogabo vos et ego unum verbum, et respondete mihi : et dicam vobis in qua potestate haec faciam. 
+    30: Baptismus Joannis, de caelo erat, an ex hominibus? Respondete mihi.
+    31: At illi cogitabant secum, dicentes : Si dixerimus : De caelo, dicet : Quare non credidistis ei? 
+    32: Si dixerimus : Ex hominibus, timemus populum : omnes enim habebant Joannem quia vere propheta esset. 
+    33: Et respondentes dicunt Jesu : Nescimus. Et respondens Jesus ait illis : Neque ego dico vobis in qua potestate haec faciam.
+
+  Chapter 12.
+
+    1: Et coepit illis in parabolis loqui : Vineam pastinavit homo, et circumdedit sepem, et fodit lacum, et aedificavit turrim, et locavit eam agricolis, et peregre profectus est. 
+    2: Et misit ad agricolas in tempore servum ut ab agricolis acciperet de fructu vineae. 
+    3: Qui apprehensum eum ceciderunt, et dimiserunt vacuum. 
+    4: Et iterum misit ad illos alium servum : et illum in capite vulneraverunt, et contumeliis affecerunt. 
+    5: Et rursum alium misit, et illum occiderunt : et plures alios : quosdam caedentes, alios vero occidentes.
+    6: Adhuc ergo unum habens filium carissimum, et illum misit ad eos novissimum, dicens : Quia reverebuntur filium meum. 
+    7: Coloni autem dixerunt ad invicem : Hic est haeres : venite, occidamus eum : et nostra erit haereditas. 
+    8: Et apprehendentes eum, occiderunt : et ejecerunt extra vineam. 
+    9: Quid ergo faciet dominus vineae? Veniet, et perdet colonos, et dabit vineam aliis. 
+    10: Nec scripturam hanc legistis : Lapidem quem reprobaverunt aedificantes, hic factus est in caput anguli :
+    11: a Domino factum est istud, et est mirabile in oculis nostris? 
+    12: Et quaerebant eum tenere : et timuerunt turbam : cognoverunt enim quoniam ad eos parabolam hanc dixerit. Et relicto eo abierunt. 
+    13: Et mittunt ad eum quosdam ex pharisaeis, et herodianis, ut eum caperent in verbo. 
+    14: Qui venientes dicunt ei : Magister, scimus quia verax es, et non curas quemquam : nec enim vides in faciem hominum, sed in veritate viam Dei doces. Licet dari tributum Caesari, an non dabimus? 
+    15: Qui sciens versutiam illorum, ait illos : Quid me tentatis? afferte mihi denarium ut videam.
+    16: At illi attulerunt ei. Et ait illis : Cujus est imago haec, et inscriptio? Dicunt ei : Caesaris. 
+    17: Respondens autem Jesus dixit illis : Reddite igitur quae sunt Caesaris, Caesari : et quae sunt Dei, Deo. Et mirabantur super eo. 
+    18: Et venerunt ad eum sadducaei, qui dicunt resurrectionem non esse : et interrogabant eum, dicentes : 
+    19: Magister, Moyses nobis scripsit, ut si cujus frater mortuus fuerit, et dimiserit uxorem, et filios non reliquerit, accipiat frater ejus uxorem ipsius, et resuscitet semen fratri suo. 
+    20: Septem ergo fratres erant : et primus accepit uxorem, et mortuus est non relicto semine.
+    21: Et secundus accepit eam, et mortuus est : et nec iste reliquit semen. Et tertius similiter. 
+    22: Et acceperunt eam similiter septem : et non reliquerunt semen. Novissima omnium defuncta est et mulier. 
+    23: In resurrectione ergo cum resurrexerint, cujus de his erit uxor? septem enim habuerunt eam uxorem. 
+    24: Et respondens Jesus, ait illis : Nonne ideo erratis, non scientes Scripturas, neque virtutem Dei? 
+    25: Cum enim a mortuis resurrexerint, neque nubent, neque nubentur, sed sunt sicut angeli in caelis.
+    26: De mortuis autem quod resurgant, non legistis in libro Moysi, super rubum, quomodo dixerit illi Deus, inquiens : Ego sum Deus Abraham, et Deus Isaac, et Deus Jacob? 
+    27: Non est Deus mortuorum, sed vivorum. Vos ergo multum erratis. 
+    28: Et accessit unus de scribis, qui audierat illos conquirentes, et videns quoniam bene illis responderit, interrogavit eum quod esset primum omnium mandatum. 
+    29: Jesus autem respondit ei : Quia primum omnium mandatum est : Audi Israel, Dominus Deus tuus, Deus unus est : 
+    30: et diliges Dominum Deum tuum ex tota corde tuo, et ex tota anima tua, et ex tota mente tua, et ex tota virtute tua. Hoc est primum mandatum.
+    31: Secundum autem simile est illi : Diliges proximum tuum tamquam teipsum. Majus horum aliud mandatum non est. 
+    32: Et ait illi scriba : Bene, Magister, in veritate dixisti, quia unus est Deus, et non est alius praeter eum. 
+    33: Et ut diligatur ex toto corde, et ex toto intellectu, et ex tota anima, et ex tota fortitudine, et diligere proximum tamquam seipsum, majus est omnibus holocautomatibus, et sacrificiis. 
+    34: Jesus autem videns quod sapienter respondisset, dixit illi : Non es longe a regno Dei. Et nemo jam audebat eum interrogare. 
+    35: Et respondens Jesus dicebat, docens in templo : Quomodo dicunt scribae Christum filium esse David?
+    36: Ipse enim David dicit in Spiritu Sancto : Dixit Dominus Domino meo : Sede a dextris meis, donec ponam inimicos tuos scabellum pedum tuorum. 
+    37: Ipse ergo David dicit eum Dominum, et unde est filius ejus? Et multa turba eum libenter audivit. 
+    38: Et dicebat eis in doctrina sua : Cavete a scribis, qui volunt in stolis ambulare, et salutari in foro, 
+    39: et in primis cathedris sedere in synagogis, et primos discubitus in coenis : 
+    40: qui devorant domos viduarum sub obtentu prolixae orationis : hi accipient prolixius judicium.
+    41: Et sedens Jesus contra gazophylacium, aspiciebat quomodo turba jactaret aes in gazophylacium, et multi divites jactabant multa. 
+    42: Cum venisset autem vidua una pauper, misit duo minuta, quod est quadrans, 
+    43: et convocans discipulos suos, ait illis : Amen dico vobis, quoniam vidua haec pauper plus omnibus misit, qui miserunt in gazophylacium. 
+    44: Omnes enim ex eo, quod abundabat illis, miserunt : haec vero de penuria sua omnia quae habuit misit totum victum suum.
+
+End of day 293.

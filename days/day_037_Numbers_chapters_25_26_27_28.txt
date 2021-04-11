@@ -1,0 +1,154 @@
+Day 37:
+
+Reading Numbers, chapters ['25', '26', '27', '28']:
+
+  Chapter 25.
+
+    1: Morabatur autem eo tempore Israel in Settim, et fornicatus est populus cum filiabus Moab, 
+    2: quae vocaverunt eos ad sacrificia sua. At ille comederunt et adoraverunt deos earum. 
+    3: Initiatusque est Israel Beelphegor : et iratus Dominus, 
+    4: ait ad Moysen : Tolle cunctos principes populi, et suspende eos contra solem in patibulis, ut avertatur furor meus ab Israel. 
+    5: Dixitque Moyses ad judices Israel : Occidat unusquisque proximos suos, qui initiati sunt Beelphegor.
+    6: Et ecce unus de filiis Israel intravit coram fratribus suis ad scortum Madianitidem, vidente Moyse, et omni turba filiorum Israel, qui flebant ante fores tabernaculi. 
+    7: Quod cum vidisset Phinees filius Eleazari filii Aaron sacerdotis, surrexit de medio multitudinis, et arrepto pugione, 
+    8: ingressus est post virum Israelitem in lupanar, et perfodit ambos simul, virum scilicet et mulierem in locis genitalibus. Cessavitque plaga a filiis Israel : 
+    9: et occisi sunt viginti quatuor millia hominum. 
+    10: Dixitque Dominus ad Moysen :
+    11: Phinees filius Eleazari filii Aaron sacerdotis avertit iram meam a filiis Israel : quia zelo meo commotus est contra eos, ut non ipse delerem filios Israel in zelo meo. 
+    12: Idcirco loquere ad eum : Ecce do ei pacem foederis mei, 
+    13: et erit tam ipsi quam semini ejus pactum sacerdotii sempiternum : quia zelatus est pro Deo suo, et expiavit scelus filiorum Israel. 
+    14: Erat autem nomen viri Israelitae, qui occisus est cum Madianitide, Zambri filius Salu, dux de cognatione et tribu Simeonis. 
+    15: Porro mulier Madianitis, quae pariter interfecta est, vocabatur Cozbi filia Sur principis nobilissimi Madianitarum.
+    16: Locutusque est Dominus ad Moysen, dicens : 
+    17: Hostes vos sentiant Madianitae, et percutite eos : 
+    18: quia et ipsi hostiliter egerunt contra vos, et decepere insidiis per idolum Phogor, et Cozbi filiam ducis Madian sororem suam, quae percussa est in die plagae pro sacrilegio Phogor.
+
+  Chapter 26.
+
+    1: Postquam noxiorum sanguis effusus est, dixit Dominus ad Moysen et Eleazarum filium Aaron sacerdotem : 
+    2: Numerate omnem summam filiorum Israel a viginti annis et supra, per domos et cognationes suas, cunctos qui possunt ad bella procedere. 
+    3: Locuti sunt itaque Moyses et Eleazar sacerdos, in campestribus Moab super Jordanem contra Jericho, ad eos qui erant 
+    4: a viginti annis et supra, sicut Dominus imperaverat, quorum iste est numerus. 
+    5: Ruben primogenitus Israel : hujus filius, Henoch, a quo familia Henochitarum : et Phallu, a quo familia Phalluitarum :
+    6: et Hesron, a quo familia Hesronitarum : et Charmi, a quo familia Charmitarum. 
+    7: Hae sunt familiae de stirpe Ruben : quarum numerus inventus est quadraginta tria millia, et septingenti triginta. 
+    8: Filius Phallu, Eliab : 
+    9: hujus filii, Namuel et Dathan et Abiron : isti sunt Dathan et Abiron principes populi, qui surrexerunt contra Moysen et Aaron in seditione Core, quando adversus Dominum rebellaverunt : 
+    10: et aperiens terra os suum devoravit Core, morientibus plurimis, quando combussit ignis ducentos quinquaginta viros. Et factum est grande miraculum,
+    11: ut, Core pereunte, filii illius non perirent. 
+    12: Filii Simeon per cognationes suas : Namuel, ab hoc familia Namuelitarum : Jamin, ab hoc familia Jaminitarum : Jachin, ab hoc familia Jachinitarum : 
+    13: Zare, ab hoc familia Zareitarum : Saul, ab hoc familia Saulitarum. 
+    14: Hae sunt familiae de stirpe Simeon, quarum omnis numerus fuit viginti duo millia ducenti. 
+    15: Filii Gad per cognationes suas : Sephon, ab hoc familia Sephonitarum : Aggi, ab hoc familia Aggitarum : Suni, ab hoc familia Sunitarum :
+    16: Ozni, ab hoc familia Oznitarum : Her, ab hoc familia Heritarum : 
+    17: Arod, ab hoc familia Aroditarum : Ariel, ab hoc familia Arielitarum. 
+    18: Istae sunt familiae Gad, quarum omnis numerus fuit quadraginta millia quingenti. 
+    19: Filii Juda, Her et Onan, qui ambo mortui sunt in terra Chanaan. 
+    20: Fueruntque filii Juda per cognationes suas : Sela, a quo familia Selaitarum : Phares, a quo familia Pharesitarum : Zare, a quo familia Zareitarum.
+    21: Porro filii Phares : Hesron, a quo familia Hesronitarum : et Hamul, a quo familia Hamulitarum. 
+    22: Istae sunt familiae Juda, quarum omnis numerus fuit septuaginta sex millia quingenti. 
+    23: Filii Issachar per cognationes suas : Thola, a quo familia Tholaitarum : Phua, a quo familia Phuaitarum : 
+    24: Jasub, a quo familia Jasubitarum : Semran, a quo familia Semranitarum. 
+    25: Hae sunt cognationes Issachar, quarum numerus fuit sexaginta quatuor millia trecenti.
+    26: Filii Zabulon per cognationes suas : Sared, a quo familia Sareditarum : Elon, a quo familia Elonitarum : Jalel, a quo familia Jalelitarum. 
+    27: Hae sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti. 
+    28: Filii Joseph per cognationes suas, Manasse et Ephraim. 
+    29: De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum. 
+    30: Galaad habuit filios : Jezer, a quo familia Jezeritarum : et Helec, a quo familia Helecitarum :
+    31: et Asriel, a quo familia Asrielitarum : et Sechem, a quo familia Sechemitarum : 
+    32: et Semida, a quo familia Semidaitarum : et Hepher, a quo familia Hepheritarum. 
+    33: Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias : quarum ista sunt nomina : Maala, et Noa, et Hegla, et Melcha, et Thersa. 
+    34: Hae sunt familiae Manasse, et numerus earum quinquaginta duo millia septingenti. 
+    35: Filii autem Ephraim per cognationes suas fuerunt hi : Suthala, a quo familia Suthalaitarum : Becher, a quo familia Becheritarum : Thehen, a quo familia Thehenitarum.
+    36: Porro filius Suthala fuit Heran, a quo familia Heranitarum. 
+    37: Hae sunt cognationes filiorum Ephraim : quarum numerus fuit triginta duo millia quingenti. 
+    38: Isti sunt filii Joseph per familias suas. Filii Benjamin in cognationibus suis : Bela, a quo familia Belaitarum : Asbel, a quo familia Asbelitarum : Ahiram, a quo familia Ahiramitarum : 
+    39: Supham, a quo familia Suphamitarum : Hupham, a quo familia Huphamitarum. 
+    40: Filii Bela : Hered, et Noeman. De Hered, familia Hereditarum : de Noeman, familia Noemanitarum.
+    41: Hi sunt filii Benjamin per cognationes suas : quorum numerus fuit quadraginta quinque millia sexcenti. 
+    42: Filii Dan per cognationes suas : Suham, a quo familia Suhamitarum. Hae sunt cognationes Dan per familias suas. 
+    43: Omnes fuere Suhamitae, quorum numerus erat sexaginta quatuor millia quadringenti. 
+    44: Filii Aser per cognationes suas : Jemna, a quo familia Jemnaitarum : Jessui, a quo familia Jessuitarum : Brie, a quo familia Brieitarum. 
+    45: Filii Brie : Heber, a quo familia Heberitarum : et Melchiel, a quo familia Melchielitarum.
+    46: Nomen autem filiae Aser fuit Sara. 
+    47: Hae cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti. 
+    48: Filii Nephthali per cognationes suas : Jesiel, a quo familia Jesielitarum : Guni, a quo familia Gunitarum : 
+    49: Jeser, a quo familia Jeseritarum : Sellem, a quo familia Sellemitarum. 
+    50: Hae sunt cognationes filiorum Nephthali per familias suas : quorum numerus quadraginta quinque millia quadringenti.
+    51: Ista est summa filiorum Israel, qui recensiti sunt, sexcenta millia, et mille septingenti triginta. 
+    52: Locutusque est Dominus ad Moysen, dicens : 
+    53: Istis dividetur terra juxta numerum vocabulorum in possessiones suas. 
+    54: Pluribus majorem partem dabis, et paucioribus minorem : singulis, sicut nunc recensiti sunt, tradetur possessio : 
+    55: ita dumtaxat ut sors terram tribubus dividat et familiis.
+    56: Quidquid sorte contigerit, hoc vel plures accipiant, vel pauciores. 
+    57: Hic quoque est numerus filiorum Levi per familias suas : Gerson, a quo familia Gersonitarum : Caath, a quo famiia Caathitarum : Merari, a quo familia Meraritarum. 
+    58: Hae sunt familiae Levi : familia Lobni, familia Hebroni, familia Moholi, familia Musi, familia Core. At vero Caath genuit Amram : 
+    59: qui habuit uxorem Jochabed filiam Levi, quae nata est ei in Aegypto. Haec genuit Amram viro suo filios, Aaron, et Moysen, et Mariam sororem eorum. 
+    60: De Aaron orti sunt Nadab et Abiu, et Eleazar et Ithamar :
+    61: quorum Nadab et Abiu mortui sunt, cum obtulissent ignem alienum coram Domino. 
+    62: Fueruntque omnes qui numerati sunt, viginti tria millia generis masculini ab uno mense et supra : quia non sunt recensiti inter filios Israel, nec eis cum ceteris data possessio est. 
+    63: Hic est numerus filiorum Israel, qui descripti sunt a Moyse et Eleazaro sacerdote, in campestribus Moab supra Jordanem contra Jericho : 
+    64: inter quos, nullus fuit eorum qui ante numerati sunt a Moyse et Aaron in deserto Sinai : 
+    65: praedixerat enim Dominus quod omnes morerentur in solitudine. Nullusque remansit ex eis, nisi Caleb filius Jephone, et Josue filius Nun.
+
+  Chapter 27.
+
+    1: Accesserunt autem filiae Salphaad, filii Hepher, filii Galaad, filii Machir, filii Manasse, qui fuit filius Joseph : quarum sunt nomina, Maala, et Noa, et Hegla, et Melcha, et Thersa. 
+    2: Steteruntque coram Moyse et Eleazaro sacerdote et cunctis principibus populi ad ostium tabernaculi foederis, atque dixerunt : 
+    3: Pater noster mortuus est in deserto, nec fuit in seditione, quae concitata est contra Dominum sub Core, sed in peccato suo mortuus est : hic non habuit mares filios. Cur tollitur nomen illius de familia sua, quia non habuit filium? date nobis possessionem inter cognatos patris nostri. 
+    4: Retulitque Moyses causam earum ad judicium Domini. 
+    5: Qui dixit ad eum :
+    6: Justam rem postulant filiae Salphaad : da eis possessionem inter cognatos patris sui, et ei in haereditatem succedant. 
+    7: Ad filios autem Israel loqueris haec : 
+    8: Homo cum mortuus fuerit absque filio, ad filiam ejus transibit haereditas. 
+    9: Si filiam non habuerit, habebit successores fratres suos. 
+    10: Quod si et fratres non fuerint, dabitis haereditatem fratribus patris ejus.
+    11: Sin autem nec patruos habuerit, dabitur haereditas his qui ei proximi sunt. Eritque hoc filiis Israel sanctum lege perpetua, sicut praecepit Dominus Moysi. 
+    12: Dixit quoque Dominus ad Moysen : Ascende in montem istum Abarim, et contemplare inde terram, quam daturus sum filiis Israel. 
+    13: Cumque videris eam, ibis et tu ad populum tuum, sicut ivit frater tuus Aaron : 
+    14: quia offendistis me in deserto Sin in contradictione multitudinis, nec sanctificare me voluistis coram ea super aquas. Hae sunt aquae contradictionis in Cades deserti Sin. 
+    15: Cui respondit Moyses :
+    16: Provideat Dominus Deus spirituum omnis carnis hominem, qui sit super multitudinem hanc : 
+    17: et possit exire et intrare ante eos, et educere eos vel introducere : ne sit populus Domini sicut oves absque pastore. 
+    18: Dixitque Dominus ad eum : Tolle Josue filium Nun, virum in quo est spiritus, et pone manum tuam super eum. 
+    19: Qui stabit coram Eleazaro sacerdote et omni multitudine : 
+    20: et dabis ei praecepta cunctis videntibus, et partem gloriae tuae, ut audiat eum omnis synagoga filiorum Israel.
+    21: Pro hoc, si quid agendum erit, Eleazar sacerdos consulet Dominum. Ad verbum ejus egredietur et ingredietur ipse, et omnes filii Israel cum eo, et cetera multitudo. 
+    22: Fecit Moyses ut praeceperat Dominus : cumque tulisset Josue, statuit eum coram Eleazaro sacerdote et omni frequentia populi. 
+    23: Et impositis capiti ejus manibus, cuncta replicavit quae mandaverat Dominus.
+
+  Chapter 28.
+
+    1: Dixit quoque Dominus ad Moysen : 
+    2: Praecipe filiis Israel, et dices ad eos : Oblationem meam et panes, et incensum odoris suavissimi offerte per tempora sua. 
+    3: Haec sunt sacrificia quae offerre debetis : agnos anniculos immaculatos duos quotidie in holocaustum sempiternum : 
+    4: unum offeretis mane, et alterum ad vesperum : 
+    5: decimam partem ephi similae, quae conspersa sit oleo purissimo, et habeat quartam partem hin.
+    6: Holocaustum juge est quod obtulistis in monte Sinai in odorem suavissimum incensi Domini. 
+    7: Et libabitis vini quartam partem hin per agnos singulos in sanctuario Domini. 
+    8: Alterumque agnum similiter offeretis ad vesperam juxta omnem ritum sacrificii matutini, et libamentorum ejus, oblationem suavissimi odoris Domino. 
+    9: Die autem sabbati offeretis duos agnos anniculos immaculatos, et duas decimas similae oleo conspersae in sacrificio, et liba : 
+    10: quae rite funduntur per singula sabbata in holocaustum sempiternum.
+    11: In calendis autem offeretis holocaustum Domino, vitulos de armento duos, arietem unum, agnos anniculos septem immaculatos, 
+    12: et tres decimas similae oleo conspersae in sacrificio per singulos vitulos : et duas decimas similae oleo conspersae per singulos arietes : 
+    13: et decimam decimae similae ex oleo in sacrificio per agnos singulos : holocaustum suavissimi odoris atque incensi est Domino. 
+    14: Libamenta autem vini, quae per singulas fundenda sunt victimas, ista erunt : media pars hin per singulos vitulos, tertia per arietem, quarta per agnum. Hoc erit holocaustum per omnes menses, qui sibi anno vertente succedunt. 
+    15: Hircus quoque offeretur Domino pro peccatis in holocaustum sempiternum cum libamentis suis.
+    16: Mense autem primo, quartadecima die mensis, Phase Domini erit, 
+    17: et quintadecima die solemnitas : septem diebus vescentur azymis. 
+    18: Quarum dies prima venerabilis et sancta erit : omne opus servile non facietis in ea. 
+    19: Offeretisque incensum holocaustum Domino, vitulos de armento duos, arietem unum, agnos anniculos immaculatos septem : 
+    20: et sacrificia singulorum ex simila quae conspersa sit oleo, tres decimas per singulos vitulos, et duas decimas per arietem,
+    21: et decimam decimae per agnos singulos, id est, per septem agnos. 
+    22: Et hircum pro peccato unum, ut expietur pro vobis, 
+    23: praeter holocaustum matutinum, quod semper offeretis. 
+    24: Ita facietis per singulos dies septem dierum in fomitem ignis, et in odorem suavissimum Domino, qui surget de holocausto, et de libationibus singulorum. 
+    25: Dies quoque septimus celeberrimus et sanctus erit vobis : omne opus servile non facietis in eo.
+    26: Dies etiam primitivorum, quando offeretis novas fruges Domino, expletis hebdomadibus, venerabilis et sancta erit : omne opus servile non facietis in ea. 
+    27: Offeretisque holocaustum in odorem suavissimum Domino, vitulos de armento duos, arietem unum, et agnos anniculos immaculatos septem : 
+    28: atque in sacrificiis eorum, similae oleo conspersae tres decimas per singulos vitulos, per arietes duas, 
+    29: per agnos decimam decimae, qui simul sunt agni septem. Hircum quoque, 
+    30: qui mactatur pro expiatione : praeter holocaustum sempiternum et liba ejus.
+    31: Immaculata offeretis omnia cum libationibus suis.
+
+End of day 37.

@@ -1,0 +1,166 @@
+Day 205:
+
+Reading Sirach, chapters ['21', '22', '23', '24']:
+
+  Chapter 21.
+
+    1: Fili, peccasti, non adjicias iterum : sed et de pristinis deprecare, ut tibi dimittantur. 
+    2: Quasi a facie colubri fuge peccata : et si accesseris ad illa, suscipient te. 
+    3: Dentes leonis dentes ejus, interficientes animas hominum. 
+    4: Quasi rhomphaea bis acuta omnis iniquitas : plagae illius non est sanitas. 
+    5: Objurgatio et injuriae annullabunt substantiam, et domus quae nimis locuples est annullabitur superbia : sic substantia superbi eradicabitur.
+    6: Deprecatio pauperis ex ore usque ad aures ejus perveniet, et judicium festinato adveniet illi. 
+    7: Qui odit correptionem vestigium est peccatoris, et qui timet Deum convertetur ad cor suum. 
+    8: Notus a longe potens lingua audaci, et sensatus scit labi se ab ipso. 
+    9: Qui aedificat domum suam impendiis alienis, quasi qui colligat lapides suos in hieme. 
+    10: Stupa collecta synagoga peccantium, et consummatio illorum flamma ignis.
+    11: Via peccatorum complanata lapidibus : et in fine illorum inferi, et tenebrae, et poenae. 
+    12: Qui custodit justitiam, continebit sensum ejus. 
+    13: Consummatio timoris Dei, sapientia et sensus. 
+    14: Non erudietur qui non est sapiens in bono. 
+    15: Est autem sapientia quae abundat in malo, et non est sensus ubi est amaritudo.
+    16: Scientia sapientis tamquam inundatio abundabit, et consilium illius sicut fons vitae permanet. 
+    17: Cor fatui quasi vas confractum, et omnem sapientiam non tenebit. 
+    18: Verbum sapiens quodcumque audierit scius, laudabit, et ad se adjiciet : audivit luxuriosus, et displicebit illi, et projiciet illud post dorsum suum. 
+    19: Narratio fatui quasi sarcina in via : nam in labiis sensati invenietur gratia. 
+    20: Os prudentis quaeritur in ecclesia, et verba illius cogitabunt in cordibus suis.
+    21: Tamquam domus exterminata, sic fatuo sapientia : et scientia insensati inenarrabilia verba. 
+    22: Compedes in pedibus, stulto doctrina : et quasi vincula manuum super manum dextram. 
+    23: Fatuus in risu exaltat vocem suam : vir autem sapiens vix tacite ridebit. 
+    24: Ornamentum aureum prudenti doctrina, et quasi brachiale in brachio dextro. 
+    25: Pes fatui facilis in domum proximi : et homo peritus confundetur a persona potentis.
+    26: Stultus a fenestra respiciet in domum : vir autem eruditus foris stabit. 
+    27: Stultitia hominis auscultare per ostium : et prudens gravabitur contumelia. 
+    28: Labia imprudentium stulta narrabunt; verba autem prudentium statera ponderabuntur. 
+    29: In ore fatuorum cor illorum, et in corde sapientium os illorum. 
+    30: Dum maledicit impius diabolum, maledicit ipse animam suam.
+    31: Susurro coinquinabit animam suam, et in omnibus odietur, et qui cum eo manserit odiosus erit : tacitus et sensatus honorabitur.
+
+  Chapter 22.
+
+    1: In lapide luteo lapidatus est piger : et omnes loquentur super aspernationem illius. 
+    2: De stercore boum lapidatus est piger : et omnis qui tetigerit eum excutiet manus. 
+    3: Confusio patris est de filio indisciplinato : filia autem in deminoratione fiet. 
+    4: Filia prudens haereditas viro suo : nam quae confundit, in contumeliam fit genitoris. 
+    5: Patrem et virum confundit audax, et ab impiis non minorabitur : ab utrisque autem inhonorabitur.
+    6: Musica in luctu importuna narratio : flagella et doctrina in omni tempore sapientia. 
+    7: Qui docet fatuum, quasi qui conglutinat testam. 
+    8: Qui narrat verbum non audienti, quasi qui excitat dormientem de gravi somno. 
+    9: Cum dormiente loquitur qui enarrat stulto sapientiam : et in fine narrationis dicit : Quis est hic? 
+    10: Supra mortuum plora, defecit enim lux ejus : et supra fatuum plora, defecit enim sensus.
+    11: Modicum plora super mortuum, quoniam requievit : 
+    12: nequissimi enim nequissima vita super mortem fatui. 
+    13: Luctus mortui septem dies : fatui autem et impii omnes dies vitae illorum. 
+    14: Cum stulto ne multum loquaris, et cum insensato ne abieris. 
+    15: Serva te ab illo, ut non molestiam habeas, et non coinquinaberis peccato illius.
+    16: Deflecte ab illo, et invenies requiem, et non acediaberis in stultitia illius. 
+    17: Super plumbum quid gravabitur? et quod illi aliud nomen quam fatuus? 
+    18: Arenam, et salem, et massam ferri facilius est ferre quam hominem imprudentem, et fatuum, et impium. 
+    19: Loramentum ligneum colligatum in fundamento aedificii non dissolvetur, sic et cor confirmatum in cogitatione consilii. 
+    20: Cogitatus sensati in omni tempore metu non depravabitur.
+    21: Sicut pali in excelsis, et caementa sine impensa posita, contra faciem venti non permanebunt : 
+    22: sic et cor timidum in cogitatione stulti contra impetum timoris non resistet. 
+    23: Sicut cor trepidum in cogitatione fatui omni tempore non metuet, sic et qui in praeceptis Dei permanet semper. 
+    24: Pungens oculum deducit lacrimas, et qui pungit cor profert sensum. 
+    25: Mittens lapidem in volatilia, dejiciet illa : sic et qui conviciatur amico, dissolvit amicitiam.
+    26: Ad amicum etsi produxeris gladium, non desperes : est enim regressus. Ad amicum 
+    27: si aperueris os triste, non timeas : est enim concordatio : excepto convitio, et improperio, et superbia, et mysterii revelatione, et plaga dolosa : in his omnibus effugiet amicus. 
+    28: Fidem posside cum amico in paupertate illius, ut et in bonis illius laeteris. 
+    29: In tempore tribulationis illius permane illi fidelis, ut et in haereditate illius cohaeres sis. 
+    30: Ante ignem camini vapor et fumus ignis inaltatur : sic et ante sanguinem maledicta, et contumeliae, et minae.
+    31: Amicum salutare non confundar, a facie illius non me abscondam : et si mala mihi evenerint per illum, sustinebo. 
+    32: Omnis qui audiet cavebit se ab eo. 
+    33: Quis dabit ori meo custodiam, et super labia mea signaculum certum, ut non cadam ab ipsis, et lingua mea perdat me?
+
+  Chapter 23.
+
+    1: Domine, pater et dominator vitae meae, ne derelinquas me in consilio eorum, nec sinas me cadere in illis. 
+    2: Quis superponet in cogitatu meo flagella, et in corde meo doctrinam sapientiae, ut ignorationibus eorum non parcant mihi, et non appareant delicta eorum, 
+    3: et ne adincrescant ignorantiae meae, et multiplicentur delicta mea, et peccata mea abundent, et incidam in conspectu adversariorum meorum, et gaudeat super me inimicus meus? 
+    4: Domine, pater et Deus vitae meae, ne derelinquas me in cogitatu illorum. 
+    5: Extollentiam oculorum meorum ne dederis mihi, et omne desiderium averte a me.
+    6: Aufer a me ventris concupiscentias, et concubitus concupiscentiae ne apprehendant me, et animae irreverenti et infrunitae ne tradas me. 
+    7: Doctrinam oris audite, filii : et qui custodierit illam non periet labiis, nec scandalizabitur in operibus nequissimis. 
+    8: In vanitate sua apprehenditur peccator : et superbus et maledicus scandalizabitur in illis. 
+    9: Jurationi non assuescat os tuum : multi enim casus in illa. 
+    10: Nominatio vero Dei non sit assidua in ore tuo, et nominibus sanctorum non admiscearis, quoniam non erit immunis ab eis.
+    11: Sicut enim servus interrogatus assidue a livore non minuitur, sic omnis jurans et nominans in toto a peccato non purgabitur. 
+    12: Vir multum jurans implebitur iniquitate, et non discedet a domo illius plaga. 
+    13: Et si frustraverit, delictum illius super ipsum erit : et si dissimulaverit, delinquit dupliciter : 
+    14: et si in vacuum juraverit, non justificabitur : replebitur enim retributione domus illius. 
+    15: Est et alia loquela contraria morti : non inveniatur in haereditate Jacob.
+    16: Etenim a misericordibus omnia haec auferentur, et in delictis non volutabuntur. 
+    17: Indisciplinatae loquelae non assuescat os tuum : est enim in illa verbum peccati. 
+    18: Memento patris et matris tuae : in medio enim magnatorum consistis : 
+    19: ne forte obliviscatur te Deus in conspectu illorum, et assiduitate tua infatuatus, improperium patiaris, et maluisses non nasci, et diem nativitatis tuae maledicas. 
+    20: Homo assuetus in verbis improperii in omnibus diebus suis non erudietur.
+    21: Duo genera abundant in peccatis, et tertium adducit iram et perditionem. 
+    22: Anima calida quasi ignis ardens, non extinguetur donec aliquid glutiat : 
+    23: et homo nequam in ore carnis suae non desinet donec incendat ignem. 
+    24: Homini fornicario omnis panis dulcis : non fatigabitur transgrediens usque ad finem. 
+    25: Omnis homo qui transgreditur lectum suum, contemnens in animam suam, et dicens : Quis me videt?
+    26: Tenebrae circumdant me, et parietes cooperiunt me, et nemo circumspicit me : quem vereor? delictorum meorum non memorabitur Altissimus. 
+    27: Et non intelligit quoniam omnia videt oculus illius, quoniam expellit a se timorem Dei hujusmodi hominis timor, et oculi hominum timentes illum : 
+    28: et non cognovit quoniam oculi Domini multo plus lucidiores sunt super solem, circumspicientes omnes vias hominum, et profundum abyssi, et hominum corda, intuentes in absconditas partes. 
+    29: Domino enim Deo antequam crearentur omnia sunt agnita : sic et post perfectum respicit omnia. 
+    30: Hic in plateis civitatis vindicabitur, et quasi pullus equinus fugabitur, et ubi non speravit apprehendetur.
+    31: Et erit dedecus omnibus, eo quod non intellexerit timorem Domini. 
+    32: Sic et mulier omnis relinquens virum suum, et statuens haereditatem ex alieno matrimonio : 
+    33: primo enim in lege Altissimi incredibilis fuit : secundo in virum suum deliquit : tertio in adulterio fornicata est, et ex alio viro filios statuit sibi. 
+    34: Haec in ecclesiam adducetur, et in filios ejus respicietur : 
+    35: non tradent filii ejus radices, et rami ejus non dabunt fructum :
+    36: derelinquet in maledictum memoriam ejus, et dedecus illius non delebitur. 
+    37: Et agnoscent qui derelicti sunt, quoniam nihil melius est quam timor Dei, et nihil dulcius quam respicere in mandatis Domini. 
+    38: Gloria magna est sequi Dominum : longitudo enim dierum assumetur ab eo.
+
+  Chapter 24.
+
+    1: Sapientia laudabit animam suam, et in Deo honorabitur, et in medio populi sui gloriabitur, 
+    2: et in ecclesiis Altissimi aperiet os suum, et in conspectu virtutis illius gloriabitur, 
+    3: et in medio populi sui exaltabitur, et in plenitudine sancta admirabitur, 
+    4: et in multitudine electorum habebit laudem, et inter benedictos benedicetur, dicens : 
+    5: Ego ex ore Altissimi prodivi, primogenita ante omnem creaturam.
+    6: Ego feci in caelis ut oriretur lumen indeficiens, et sicut nebula texi omnem terram. 
+    7: Ego in altissimis habitavi, et thronus meus in columna nubis. 
+    8: Gyrum caeli circuivi sola, et profundum abyssi penetravi : in fluctibus maris ambulavi. 
+    9: Et in omni terra steti : et in omni populo, 
+    10: et in omni gente primatum habui :
+    11: et omnium excellentium et humilium corda virtute calcavi. Et in his omnibus requiem quaesivi, et in haereditate Domini morabor. 
+    12: Tunc praecepit, et dixit mihi Creator omnium : et qui creavit me, requievit in tabernaculo meo. 
+    13: Et dixit mihi : In Jacob inhabita, et in Israel haereditare, et in electis meis mitte radices. 
+    14: Ab initio et ante saecula creata sum, et usque ad futurum saeculum non desinam : et in habitatione sancta coram ipso ministravi. 
+    15: Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerusalem potestas mea.
+    16: Et radicavi in populo honorificato, et in parte Dei mei haereditas illius, et in plenitudine sanctorum detentio mea. 
+    17: Quasi cedrus exaltata sum in Libano, et quasi cypressus in monte Sion : 
+    18: quasi palma exaltata sum in Cades, et quasi plantatio rosae in Jericho : 
+    19: quasi oliva speciosa in campis, et quasi platanus exaltata sum juxta aquam in plateis. 
+    20: Sicut cinnamomum et balsamum aromatizans odorem dedi; quasi myrrha electa dedi suavitatem odoris :
+    21: et quasi storax, et galbanus, et ungula, et gutta, et quasi Libanus non incisus vaporavi habitationem meam, et quasi balsamum non mistum odor meus. 
+    22: Ego quasi terebinthus extendi ramos meos, et rami mei honoris et gratiae. 
+    23: Ego quasi vitis fructificavi suavitatem odoris : et flores mei fructus honoris et honestatis. 
+    24: Ego mater pulchrae dilectionis, et timoris, et agnitionis, et sanctae spei. 
+    25: In me gratia omnis viae et veritatis : in me omnis spes vitae et virtutis.
+    26: Transite ad me, omnes qui concupiscitis me, et a generationibus meis implemini : 
+    27: spiritus enim meus super mel dulcis, et haereditas mea super mel et favum. 
+    28: Memoria mea in generatione saeculorum. 
+    29: Qui edunt me, adhuc esurient, et qui bibunt me, adhuc sitient. 
+    30: Qui audit me non confundetur, et qui operantur in me non peccabunt :
+    31: qui elucidant me, vitam aeternam habebunt. 
+    32: Haec omnia liber vitae, et testamentum Altissimi, et agnitio veritatis. 
+    33: Legem mandavit Moyses in praeceptis justitiarum, et haereditatem domui Jacob, et Israel promissiones. 
+    34: Posuit David, puero suo, excitare regem ex ipso fortissimum, et in throno honoris sedentem in sempiternum. 
+    35: Qui implet quasi Phison sapientiam, et sicut Tigris in diebus novorum :
+    36: qui adimplet quasi Euphrates sensum, qui multiplicat quasi Jordanis in tempore messis : 
+    37: qui mittit disciplinam sicut lucem, et assistens quasi Gehon in die vindemiae. 
+    38: Qui perficit primus scire ipsam, et infirmior non investigabit eam. 
+    39: A mari enim abundavit cogitatio ejus, et consilium illius ab abysso magna. 
+    40: Ego sapientiam effudi flumina :
+    41: ego quasi trames aquae immensae de fluvio : ego quasi fluvii dioryx, et sicut aquaeductus exivi de paradiso. 
+    42: Dixi : Rigabo hortum meum plantationum, et inebriabo prati mei fructum. 
+    43: Et ecce factus est mihi trames abundans, et fluvius meus appropinquavit ad mare : 
+    44: quoniam doctrinam quasi antelucanum illumino omnibus, et enarrabo illam usque ad longinquum. 
+    45: Penetrabo omnes inferiores partes terrae, et inspiciam omnes dormientes, et illuminabo omnes sperantes in Domino.
+    46: Adhuc doctrinam quasi prophetiam effundam, et relinquam illam quaerentibus sapientiam, et non desinam in progenies illorum usque in aevum sanctum. 
+    47: Videte quoniam non soli mihi laboravi, sed omnibus exquirentibus veritatem.
+
+End of day 205.

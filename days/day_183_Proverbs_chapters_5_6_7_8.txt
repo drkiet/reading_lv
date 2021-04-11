@@ -1,0 +1,138 @@
+Day 183:
+
+Reading Proverbs, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: Fili mi, attende ad sapientiam meam, et prudentiae meae inclina aurem tuam : 
+    2: ut custodias cogitationes, et disciplinam labia tua conservent. Ne attendas fallaciae mulieris; 
+    3: favus enim distillans labia meretricis, et nitidius oleo guttur ejus : 
+    4: novissima autem illius amara quasi absinthium, et acuta quasi gladius biceps. 
+    5: Pedes ejus descendunt in mortem, et ad inferos gressus illius penetrant.
+    6: Per semitam vitae non ambulant; vagi sunt gressus ejus et investigabiles. 
+    7: Nunc ergo, fili mi, audi, et ne recedas a verbis oris mei. 
+    8: Longe fac ab ea viam tuam, et ne appropinques foribus domus ejus. 
+    9: Ne des alienis honorem tuum, et annos tuos crudeli : 
+    10: ne forte implentur extranei viribus tuis, et labores tui sint in domo aliena,
+    11: et gemas in novissimis, quando consumseris carnes tuas et corpus tuum, et dicas : 
+    12: Cur detestatus sum disciplinam, et increpationibus non acquievit cor meum, 
+    13: nec audivi vocem docentium me, et magistris non inclinavi aurem meam? 
+    14: pene fui in omni malo, in medio ecclesiae et synagogae. 
+    15: Bibe aquam de cisterna tua, et fluenta putei tui;
+    16: deriventur fontes tui foras, et in plateis aquas tuas divide. 
+    17: Habeto eas solus, nec sint alieni participes tui. 
+    18: Sit vena tua benedicta, et laetare cum muliere adolescentiae tuae. 
+    19: Cerva carissima, et gratissimus hinnulus : ubera ejus inebrient te in omni tempore, in amore ejus delectare jugiter. 
+    20: Quare seduceris, fili mi, ab aliena, et foveris in sinu alterius?
+    21: Respicit Dominus vias hominis, et omnes gressus ejus considerat. 
+    22: Iniquitates suas capiunt impium, et funibus peccatorum suorum constringitur. 
+    23: Ipse morietur, quia non habuit disciplinam, et in multitudine stultitiae suae decipietur.
+
+  Chapter 6.
+
+    1: Fili mi, si spoponderis pro amico tuo, defixisti apud extraneum manum tuam; 
+    2: illaqueatus es verbis oris tui, et captus propriis sermonibus. 
+    3: Fac ergo quod dico, fili mi, et temetipsum libera, quia incidisti in manum proximi tui. Discurre, festina, suscita amicum tuum. 
+    4: Ne dederis somnum oculis tuis, nec dormitent palpebrae tuae. 
+    5: Eruere quasi damula de manu, et quasi avis de manu aucupis.
+    6: Vade ad formicam, o piger, et considera vias ejus, et disce sapientiam. 
+    7: Quae cum non habeat ducem, nec praeceptorem, nec principem, 
+    8: parat in aestate cibum sibi, et congregat in messe quod comedat. 
+    9: Usquequo, piger, dormies? quando consurges e somno tuo? 
+    10: Paululum dormies, paululum dormitabis, paululum conseres manus ut dormias;
+    11: et veniet tibi quasi viator egestas, et pauperies quasi vir armatus. Si vero impiger fueris, veniet ut fons messis tua, et egestas longe fugiet a te. 
+    12: Homo apostata vir inutilis, graditur ore perverso; 
+    13: annuit oculis, terit pede, digito loquitur, 
+    14: pravo corde machinatur malum, et omni tempore jurgia seminat. 
+    15: Huic extemplo veniet perditio sua, et subito conteretur, nec habebit ultra medicinam.
+    16: Sex sunt dies quae odit Dominus, et septimum detestatur anima ejus : 
+    17: oculos sublimes, linguam mendacem, manus effundentes innoxium sanguinem, 
+    18: cor machinans cogitationes pessimas, pedes veloces ad currendum in malum, 
+    19: proferentem mendacia testem fallacem, et eum qui seminat inter fratres discordias. 
+    20: Conserva, fili mi, praecepta patris tui, et ne dimittas legem matris tuae.
+    21: Liga ea in corde tuo jugiter, et circumda gutturi tuo. 
+    22: Cum ambulaveris, gradiantur tecum; cum dormieris, custodiant te : et evigilans loquere cum eis. 
+    23: Quia mandatum lucerna est, et lex lux, et via vitae increpatio disciplinae; 
+    24: ut custodiant te a muliere mala, et a blanda lingua extraneae. 
+    25: Non concupiscat pulchritudinem ejus cor tuum, nec capiaris nutibus illius :
+    26: pretium enim scorti vix est unius panis, mulier autem viri pretiosam animam capit. 
+    27: Numquid potest homo abscondere ignem in sinu suo, ut vestimenta illius non ardeant? 
+    28: aut ambulare super prunas, ut non comburantur plantae ejus? 
+    29: Sic qui ingreditur ad mulierem proximi sui, non erit mundus cum tetigerit eam. 
+    30: Non grandis est culpa cum quis furatus fuerit, furatur enim ut esurientem impleat animam;
+    31: deprehensus quoque reddet septuplum, et omnem substantiam domus suae tradet. 
+    32: Qui autem adulter est, propter cordis inopiam perdet animam suam; 
+    33: turpitudinem et ignominiam congregat sibi, et opprobrium illius non delebitur : 
+    34: quia zelus et furor viri non parcet in die vindictae; 
+    35: nec acquiescet cujusquam precibus, nec suscipiet pro redemptione dona plurima.
+
+  Chapter 7.
+
+    1: Fili mi, custodi sermones meos, et praecepta mea reconde tibi. 
+    2: Fili, serva mandata mea, et vives; et legem meam quasi pupillam oculi tui : 
+    3: liga eam in digitis tuis, scribe illam in tabulis cordis tui. 
+    4: Dic sapientiae : Soror mea es, et prudentiam voca amicam tuam : 
+    5: ut custodiant te a muliere extranea, et ab aliena quae verba sua dulcis facit.
+    6: De fenestra enim domus meae per cancellos prospexi, 
+    7: et video parvulos; considero vecordem juvenem, 
+    8: qui transit per plateam juxta angulum et prope viam domus illius graditur : 
+    9: in obscuro, advesperascente die, in noctis tenebris et caligine. 
+    10: Et ecce occurrit illi mulier ornatu meretricio, praeparata ad capiendas animas : garrula et vaga,
+    11: quietis impatiens, nec valens in domo consistere pedibus suis; 
+    12: nunc foris, nunc in plateis, nunc juxta angulos insidians. 
+    13: Apprehensumque deosculatur juvenem, et procaci vultu blanditur, dicens : 
+    14: Victimas pro salute vovi, hodie reddidi vota mea; 
+    15: idcirco egressa sum in occursum tuum, desiderans te videre, et reperi.
+    16: Intexui funibus lectulum meum, stravi tapetibus pietis ex Aegypto; 
+    17: aspersi cubile meum myrrha, et aloe, et cinnamomo. 
+    18: Veni, inebriemur uberibus, et fruamur cupitis amplexibus donec illucescat dies. 
+    19: Non est enim vir in domo sua : abiit via longissima; 
+    20: sacculum pecuniae secum tulit; in die plenae lunae reversurus est in domum suam.
+    21: Irretivit eum multis sermonibus, et blanditiis labiorum protraxit illum. 
+    22: Statim eam sequitur quasi bos ductus ad victimam, et quasi agnus lasciviens; et ignorans quod ad vincula stultus trahatur : 
+    23: donec transfigat sagitta jecur ejus; velut si avis festinet ad laqueum, et nescit quod de periculo animae illius agitur. 
+    24: Nunc ergo, fili mi, audi me, et attende verbis oris mei. 
+    25: Ne abstrahatur in viis illius mens tua, neque decipiaris semitis ejus;
+    26: multos enim vulneratos dejecit, et fortissimi quique interfecti sunt ab ea. 
+    27: Viae inferi domus ejus, penetrantes in interiora mortis.
+
+  Chapter 8.
+
+    1: Numquid non sapientia clamitat, et prudentia dat vocem suam? 
+    2: In summis excelsisque verticibus supra viam, in mediis semitis stans, 
+    3: juxta portas civitatis, in ipsis foribus loquitur, dicens : 
+    4: O viri, ad vos clamito, et vox mea ad filios hominum. 
+    5: Intelligite, parvuli, astutiam, et insipientes, animadvertite.
+    6: Audite, quoniam de rebus magnis locutura sum, et aperientur labia mea ut recta praedicent. 
+    7: Veritatem meditabitur guttur meum, et labia mea detestabuntur impium. 
+    8: Justi sunt omnes sermones mei : non est in eis pravum quid, neque perversum; 
+    9: recti sunt intelligentibus, et aequi invenientibus scientiam. 
+    10: Accipite disciplinam meam, et non pecuniam; doctrinam magis quam aurum eligite :
+    11: melior est enim sapientia cunctis pretiosissimis, et omne desiderabile ei non potest comparari. 
+    12: Ego sapientia, habito in consilio, et eruditis intersum cogitationibus. 
+    13: Timor Domini odit malum, arrogantiam et superbiam, et viam pravam, et os bilingue detestor. 
+    14: Meum est consilium et aequitas; mea est prudentia, mea est fortitudo. 
+    15: Per me reges regnant, et legum conditores justa decernunt;
+    16: per me principes imperant, et potentes decernunt justitiam. 
+    17: Ego diligentes me diligo, et qui mane vigilant ad me, invenient me. 
+    18: Mecum sunt divitiae et gloria, opes superbae et justitia. 
+    19: Melior est enim fructus meus auro et lapide pretioso, et genimina me argento electo. 
+    20: In viis justitiae ambulo, in medio semitarum judicii,
+    21: ut ditem diligentes me, et thesauros eorum repleam. 
+    22: Dominus possedit me in initio viarum suarum antequam quidquam faceret a principio. 
+    23: Ab aeterno ordinata sum, et ex antiquis antequam terra fieret. 
+    24: Nondum erant abyssi, et ego jam concepta eram, necdum fontes aquarum eruperant; 
+    25: necdum montes gravi mole constiterant : ante colles ego parturiebar.
+    26: Adhuc terram non fecerat, et flumina, et cardines orbis terrae. 
+    27: Quando praeparabat caelos, aderam; quando certa lege et gyro vallabat abyssos; 
+    28: quando aethera firmabat sursum, et librabat fontes aquarum; 
+    29: quando circumdabat mari terminum suum, et legem ponebat aquis, ne transirent fines suos : quando appendebat fundamenta terrae; 
+    30: cum eo eram, cuncta componens. Et delectabar per singulos dies, ludens coram eo omni tempore,
+    31: ludens in orbe terrarum; et deliciae meae esse cum filiis hominum. 
+    32: Nunc ergo, filii, audite me : beati qui custodiunt vias meas. 
+    33: Audite disciplinam, et estote sapientes, et nolite abjicere eam. 
+    34: Beatus homo qui audit me, et qui vigilat ad fores meas quotidie, et observat ad postes ostii mei. 
+    35: Qui me invenerit, inveniet vitam, et hauriet salutem a Domino.
+    36: Qui autem in me peccaverit, laedet animam suam; omnes qui me oderunt diligunt mortem.
+
+End of day 183.

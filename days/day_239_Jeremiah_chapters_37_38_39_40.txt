@@ -1,0 +1,99 @@
+Day 239:
+
+Reading Jeremiah, chapters ['37', '38', '39', '40']:
+
+  Chapter 37.
+
+    1: Et regnavit rex Sedecias filius Josiae pro Jechonia filio Joakim, quem constituit regem Nabuchodonosor rex Babylonis in terra Juda : 
+    2: et non obedivit ipse, et servi ejus, et populus terrae, verbis Domini, quae locutus est in manu Jeremiae prophetae. 
+    3: Et misit rex Sedecias Juchal filium Selemiae, et Sophoniam filium Maasiae, sacerdotem, ad Jeremiam prophetam, dicens : Ora pro nobis Dominum Deum nostrum. 
+    4: Jeremias autem libere ambulabat in medio populi : non enim miserant eum in custodiam carceris. Igitur exercitus Pharaonis egressus est de Aegypto, et audientes Chaldaei, qui obsidebant Jerusalem, hujuscemodi nuntium, recesserunt ab Jerusalem. 
+    5: Et factum est verbum Domini ad Jeremiam prophetam, dicens :
+    6: Haec dicit Dominus Deus Israel : Sic dicetis regi Juda, qui misit vos ad me interrogandum : Ecce exercitus Pharaonis, qui egressus est vobis in auxilium, revertetur in terram suam in Aegyptum : 
+    7: et redient Chaldaei, et bellabunt contra civitatem hanc, et capient eam, et succendent eam igni. 
+    8: Haec dicit Dominus : Nolite decipere animas vestras, dicentes : Euntes abibunt, et recedent a nobis Chaldaei : quia non abibunt. 
+    9: Sed, etsi percusseritis omnem exercitum Chaldaeorum qui praeliantur adversum vos, et derelicti fuerint ex eis aliqui vulnerati, singuli de tentorio suo consurgent, et incendent civitatem hanc igni. 
+    10: Ergo cum recessisset exercitus Chaldaeorum ab Jerusalem, propter exercitum Pharaonis,
+    11: egressus est Jeremias de Jerusalem ut iret in terram Benjamin, et divideret ibi possessionem in conspectu civium. 
+    12: Cumque pervenisset ad portam Benjamin, erat ibi custos portae per vices, nomine Jerias filius Selemiae filii Hananiae, et apprehendit Jeremiam prophetam, dicens : Ad Chaldaeos profugis. 
+    13: Et respondit Jeremias : Falsum est, non fugio ad Chaldaeos. Et non audivit eum, sed comprehendit Jerias Jeremiam, et adduxit eum ad principes : 
+    14: quam ob rem irati principes contra Jeremiam, caesum eum miserunt in carcerem, qui erat in domo Jonathan scribae : ipse enim praepositus erat super carcerem. 
+    15: Itaque ingressus est Jeremias in domum laci et in ergastulum : et sedit ibi Jeremias diebus multis.
+    16: Mittens autem Sedecias rex, tulit eum : et interrogavit eum in domo sua abscondite, et dixit : Putasne est sermo a Domino? Et dixit Jeremias : Est : et ait : In manus regis Babylonis traderis. 
+    17: Et dixit Jeremias ad regem Sedeciam : Quid peccavi tibi, et servis tuis, et populo tuo, quia misisti me in domum carceris? 
+    18: Ubi sunt prophetae vestri, qui prophetabant vobis, et dicebant : Non veniet rex Babylonis super vos, et super terram hanc? 
+    19: Nunc ergo audi, obsecro, domine mi rex : valeat deprecatio mea in conspectu tuo, et ne me remittas in domum Jonathan scribae, ne moriar ibi. 
+    20: Praecepit ergo rex Sedecias ut traderetur Jeremias in vestibulo carceris, et daretur ei torta panis quotidie, excepto pulmento, donec consumerentur omnes panes de civitate : et mansit Jeremias in vestibulo carceris.
+
+  Chapter 38.
+
+    1: Audivit autem Saphatias filius Mathan, et Gedelias filius Phassur, et Juchal filius Selemiae, et Phassur filius Melchiae, sermones quos Jeremias loquebatur ad omnem populum, dicens : 
+    2: Haec dicit Dominus : Quicumque manserit in civitate hac, morietur gladio, et fame, et peste : qui autem profugerit ad Chaldaeos, vivet, et erit anima ejus sospes et vivens. 
+    3: Haec dicit Dominus : Tradendo tradetur civitas haec in manu exercitus regis Babylonis, et capiet eam. 
+    4: Et dixerunt principes regi : Rogamus ut occidatur homo iste : de industria enim dissolvit manus virorum bellantium qui remanserunt in civitate hac, et manus universi populi, loquens ad eos juxta verba haec : siquidem homo iste non quaerit pacem populo huic, sed malum. 
+    5: Et dixit rex Sedecias : Ecce ipse in manibus vestris est : nec enim fas est regem vobis quidquam negare.
+    6: Tulerunt ergo Jeremiam, et projecerunt eum in lacum Melchiae filii Amelech, qui erat in vestibulo carceris : et submiserunt Jeremiam funibus in lacum, in quo non erat aqua, sed lutum : descendit itaque Jeremias in coenum. 
+    7: Audivit autem Abdemelech Aethiops, vir eunuchus, qui erat in domo regis, quod misissent Jeremiam in lacum. Porro rex sedebat in porta Benjamin : 
+    8: et egressus est Abdemelech de domo regis, et locutus est ad regem, dicens : 
+    9: Domine mi rex, male fecerunt viri isti omnia quaecumque perpetrarunt contra Jeremiam prophetam, mittentes eum in lacum, ut moriatur ibi fame : non sunt enim panes ultra in civitate. 
+    10: Praecepit itaque rex Abdemelech Aethiopi, dicens : Tolle tecum hinc triginta viros, et leva Jeremiam prophetam de lacu, antequam moriatur.
+    11: Assumptis ergo Abdemelech secum viris, ingressus est domum regis, quae erat sub cellario, et tulit inde veteres pannos, et antiqua quae computruerant, et submisit ea ad Jeremiam in lacum per funiculos. 
+    12: Dixitque Abdemelech Aethiops ad Jeremiam : Pone veteres pannos, et haec scissa et putrida, sub cubito manuum tuarum, et super funes. Fecit ergo Jeremias sic, 
+    13: et extraxerunt Jeremiam funibus, et eduxerunt eum de lacu : mansit autem Jeremias in vestibulo carceris. 
+    14: Et misit rex Sedecias, et tulit ad se Jeremiam prophetam ad ostium tertium quod erat in domo Domini : et dixit rex ad Jeremiam : Interrogo ego te sermonem, ne abscondas a me aliquid. 
+    15: Dixit autem Jeremias ad Sedeciam : Si annuntiavero tibi, numquid non interficies me? et si consilium dedero tibi, non me audies.
+    16: Juravit ergo rex Sedecias Jeremiae clam, dicens : Vivit Dominus, qui fecit nobis animam hanc, si occidero te, et si tradidero te in manus virorum istorum qui quaerunt animam tuam. 
+    17: Et dixit Jeremias ad Sedeciam : Haec dicit Dominus exercituum, Deus Israel : Si profectus exieris ad principes regis Babylonis, vivet anima tua, et civitas haec non succendetur igni : et salvus eris tu, et domus tua. 
+    18: Si autem non exieris ad principes regis Babylonis, tradetur civitas haec in manus Chaldaeorum, et succendent eam igni : et tu non effugies de manu eorum. 
+    19: Et dixit rex Sedecias ad Jeremiam : Sollicitus sum propter Judaeos qui transfugerunt ad Chaldaeos, ne forte tradar in manus eorum, et illudant mihi. 
+    20: Respondit autem Jeremias : Non te tradent. Audi, quaeso, vocem Domini, quam ego loquor ad te, et bene tibi erit, et vivet anima tua.
+    21: Quod si nolueris egredi, iste est sermo quem ostendit mihi Dominus : 
+    22: ecce omnes mulieres quae remanserunt in domo regis Juda educentur ad principes regis Babylonis, et ipsae dicent : Seduxerunt te, et praevaluerunt adversum te, viri pacifici tui : demerserunt in coeno et in lubrico pedes tuos, et recesserunt a te. 
+    23: Et omnes uxores tuae et filii tui educentur ad Chaldaeos : et non effugies manus eorum, sed in manu regis Babylonis capieris, et civitatem hanc comburet igni. 
+    24: Dixit ergo Sedecias ad Jeremiam : Nullus sciat verba haec, et non morieris. 
+    25: Si autem audierint principes quia locutus sum tecum, et venerint ad te, et dixerint tibi : Indica nobis quid locutus sis cum rege : ne celes nos, et non te interficiemus, et quid locutus est tecum rex,
+    26: dices ad eos : Prostravi ego preces meas coram rege, ne me reduci juberet in domum Jonathan, et ibi morerer. 
+    27: Venerunt ergo omnes principes ad Jeremiam, et interrogaverunt eum, et locutus est eis juxta omnia verba quae praeceperat ei rex : et cessaverunt ab eo : nihil enim fuerat auditum. 
+    28: Mansit vero Jeremias in vestibulo carceris usque ad diem quo capta est Jerusalem : et factum est ut caperetur Jerusalem.
+
+  Chapter 39.
+
+    1: Anno nono Sedeciae regis Juda, mense decimo, venit Nabuchodonosor rex Babylonis, et omnis exercitus ejus, ad Jerusalem, et obsidebant eam. 
+    2: Undecimo autem anno Sedeciae, mense quarto, quinta mensis, aperta est civitas : 
+    3: et ingressi sunt omnes principes regis Babylonis, et sederunt in porta media : Neregel, Sereser, Semegarnabu, Sarsachim, Rabsares, Neregel, Sereser, Rebmag, et omnes reliqui principes regis Babylonis. 
+    4: Cumque vidisset eos Sedecias rex Juda, et omnes viri bellatores, fugerunt : et egressi sunt nocte de civitate per viam horti regis, et per portam quae erat inter duos muros, et egressi sunt ad viam deserti. 
+    5: Persecutus est autem eos exercitus Chaldaeorum, et comprehenderunt Sedeciam in campo solitudinis Jerichontinae, et captum adduxerunt ad Nabuchodonosor regem Babylonis, in Reblatha, quae est in terra Emath : et locutus est ad eum judicia.
+    6: Et occidit rex Babylonis filios Sedeciae in Reblatha, in oculis ejus : et omnes nobiles Juda occidit rex Babylonis. 
+    7: Oculos quoque Sedeciae eruit, et vinxit eum compedibus ut duceretur in Babylonem. 
+    8: Domum quoque regis et domum vulgi succenderunt Chaldaei igni, et murum Jerusalem subverterunt. 
+    9: Et reliquias populi qui remanserant in civitate, et perfugas qui transfugerant ad eum, et superfluos vulgi qui remanserant, transtulit Nabuzardan, magister militum, in Babylonem. 
+    10: Et de plebe pauperum, qui nihil penitus habebant, dimisit Nabuzardan, magister militum, in terra Juda, et dedit eis vineas et cisternas in die illa.
+    11: Praeceperat autem Nabuchodonosor rex Babylonis de Jeremia Nabuzardan, magistro militum, dicens : 
+    12: Tolle illum, et pone super eum oculos tuos, nihilque ei mali facias : sed ut voluerit, sic facias ei. 
+    13: Misit ergo Nabuzardan princeps militiae, et Nabusezban, et Rabsares, et Neregel, et Sereser, et Rebmag, et omnes optimates regis Babylonis, 
+    14: miserunt, et tulerunt Jeremiam de vestibulo carceris, et tradiderunt eum Godoliae filio Ahicam filii Saphan, ut intraret in domum, et habitaret in populo. 
+    15: Ad Jeremiam autem factus fuerat sermo Domini, cum clausus esset in vestibulo carceris, dicens :
+    16: Vade, et dic Abdemelech Aethiopi, dicens : Haec dicit Dominus exercituum, Deus Israel : Ecce ego inducam sermones meos super civitatem hanc in malum, et non in bonum, et erunt in conspectu tuo in die illa. 
+    17: Et liberabo te in die illa, ait Dominus, et non traderis in manus virorum quos tu formidas : 
+    18: sed eruens liberabo te, et gladio non cades, sed erit tibi anima tua in salutem, quia in me habuisti fiduciam, ait Dominus.
+
+  Chapter 40.
+
+    1: Sermo qui factus est ad Jeremiam a Domino, postquam dimissus est a Nabuzardan magistro militiae de Rama, quando tulit eum vinctum catenis in medio omnium qui migrabant de Jerusalem et Juda, et ducebantur in Babylonem. 
+    2: Tollens ergo princeps militiae Jeremiam, dixit ad eum : Dominus Deus tuus locutus est malum hoc super locum istum : 
+    3: et adduxit, et fecit Dominus sicut locutus est, quia peccastis Domino, et non audistis vocem ejus : et factus est vobis sermo hic. 
+    4: Nunc ergo ecce solvi te hodie de catenis quae sunt in manibus tuis : si placet tibi ut venias mecum in Babylonem, veni, et ponam oculos meos super te : si autem displicet tibi venire mecum in Babylonem, reside : ecce omnis terra in conspectu tuo est : quod elegeris, et quo placuerit tibi ut vadas, illuc perge : 
+    5: et mecum noli venire, sed habita apud Godoliam filium Ahicam filii Saphan, quem praeposuit rex Babylonis civitatibus Juda : habita ergo cum eo in medio populi : vel quocumque placuerit tibi ut vadas, vade. Dedit quoque ei magister militiae cibaria, et munuscula, et dimisit eum.
+    6: Venit autem Jeremias ad Godoliam filium Ahicam in Masphath, et habitavit cum eo in medio populi qui relictus fuerat in terra. 
+    7: Cumque audissent omnes principes exercitus, qui dispersi fuerant per regiones, ipsi et socii eorum, quod praefecisset rex Babylonis Godoliam filium Ahicam terrae, et quod commendasset ei viros, et mulieres, et parvulos, et de pauperibus terrae, qui non fuerant translati in Babylonem, 
+    8: venerunt ad Godoliam in Masphath, et Ismahel filius Nathaniae, et Johanan et Jonathan filii Caree, et Sareas filius Thanehumeth, et filii Ophi, qui erant de Netophathi, et Jezonias filius Maachathi, ipse et viri eorum. 
+    9: Et juravit eis Godolias filius Ahicam filii Saphan, et comitibus eorum, dicens : Nolite timere servire Chaldaeis : habitate in terra, et servite regi Babylonis, et bene erit vobis. 
+    10: Ecce ego habito in Masphath, ut respondeam praecepto Chaldaeorum qui mittuntur ad nos : vos autem colligite vindemiam, et messem, et oleum, et condite in vasis vestris, et manete in urbibus vestris, quas tenetis.
+    11: Sed et omnes Judaei qui erant in Moab, et in filiis Ammon, et in Idumaea, et in universis regionibus, audito quod dedisset rex Babylonis reliquias in Judaea, et quod praeposuisset super eos Godoliam filium Ahicam filii Saphan, 
+    12: reversi sunt, inquam, omnes Judaei de universis locis ad quae profugerant, et venerunt in terram Juda ad Godoliam in Masphath, et collegerunt vinum et messam multam nimis. 
+    13: Johanan autem filius Caree, et omnes principes exercitus, qui dispersi fuerant in regionibus, venerunt ad Godoliam in Masphath, 
+    14: et dixerunt ei : Scito quod Baalis, rex filiorum Ammon, misit Ismahel filium Nathaniae percutere animam tuam. Et non credidit eis Godolias filius Ahicam. 
+    15: Johanan autem filius Caree dixit ad Godoliam seorsum in Masphath, loquens : Ibo, et percutiam Ismahel filium Nathaniae, nullo sciente, ne interficiat animam tuam, et dissipentur omnes Judaei qui congregati sunt ad te, et peribunt reliquiae Juda.
+    16: Et ait Godolias filius Ahicam ad Johanan filium Caree : Noli facere verbum hoc : falsum enim tu loqueris de Ismahel.
+
+End of day 239.

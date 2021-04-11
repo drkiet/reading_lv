@@ -1,0 +1,145 @@
+Day 142:
+
+Reading Job, chapters ['37', '38', '39', '40']:
+
+  Chapter 37.
+
+    1: Super hoc expavit cor meum, et emotum est de loco suo. 
+    2: Audite auditionem in terrore vocis ejus, et sonum de ore illius procedentem. 
+    3: Subter omnes caelos ipse considerat, et lumen illius super terminos terrae. 
+    4: Post eum rugiet sonitus, tonabit voce magnitudinis suae : et non investigabitur, cum audita fuerit vox ejus. 
+    5: Tonabit Deus in voce sua mirabiliter, qui facit magna et inscrutabilia,
+    6: qui praecipit nivi ut descendat in terram, et hiemis pluviis, et imbri fortitudinis suae : 
+    7: qui in manu omnium hominum signat, ut noverint singuli opera sua. 
+    8: Ingredietur bestia latibulum, et in antro suo morabitur. 
+    9: Ab interioribus egredietur tempestas, et ab Arcturo frigus. 
+    10: Flante Deo, concrescit gelu, et rursum latissimae funduntur aquae.
+    11: Frumentum desiderat nubes, et nubes spargunt lumen suum. 
+    12: Quae lustrant per circuitum, quocumque eas voluntas gubernantis duxerit, ad omne quod praeceperit illis super faciem orbis terrarum : 
+    13: sive in una tribu, sive in terra sua, sive in quocumque loco misericordiae suae eas jusserit inveniri. 
+    14: Ausculta haec, Job : sta, et considera mirabilia Dei. 
+    15: Numquid scis quando praeceperit Deus pluviis, ut ostenderent lucem nubium ejus?
+    16: Numquid nosti semitas nubium magnas, et perfectas scientias? 
+    17: Nonne vestimenta tua calida sunt, cum perflata fuerit terra austro? 
+    18: Tu forsitan cum eo fabricatus es caelos, qui solidissimi quasi aere fusi sunt. 
+    19: Ostende nobis quid dicamus illi : nos quippe involvimur tenebris. 
+    20: Quis narrabit ei quae loquor? etiam si locutus fuerit homo, devorabitur.
+    21: At nunc non vident lucem : subito aer cogetur in nubes, et ventus transiens fugabit eas. 
+    22: Ab aquilone aurum venit, et ad Deum formidolosa laudatio. 
+    23: Digne eum invenire non possumus : magnus fortitudine, et judicio, et justitia : et enarrari non potest. 
+    24: Ideo timebunt eum viri, et non audebunt contemplari omnes qui sibi videntur esse sapientes.
+
+  Chapter 38.
+
+    1: Respondens autem Dominus Job de turbine, dixit : 
+    2: Quis est iste involvens sententias sermonibus imperitis? 
+    3: Accinge sicut vir lumbos tuos : interrogabo te, et responde mihi. 
+    4: Ubi eras quando ponebam fundamenta terrae? indica mihi, si habes intelligentiam. 
+    5: Quis posuit mensuras ejus, si nosti? vel quis tetendit super eam lineam?
+    6: super quo bases illius solidatae sunt? aut quis demisit lapidem angularem ejus, 
+    7: cum me laudarent simul astra matutina, et jubilarent omnes filii Dei? 
+    8: Quis conclusit ostiis mare, quando erumpebat quasi de vulva procedens; 
+    9: cum ponerem nubem vestimentum ejus, et caligine illud quasi pannis infantiae obvolverem? 
+    10: Circumdedi illud terminis meis, et posui vectem et ostia,
+    11: et dixi : Usque huc venies, et non procedes amplius, et hic confringes tumentes fluctus tuos. 
+    12: Numquid post ortum tuum praecepisti diluculo, et ostendisti aurorae locum suum? 
+    13: et tenuisti concutiens extrema terrae, et excussisti impios ex ea? 
+    14: Restituetur ut lutum signaculum, et stabit sicut vestimentum. 
+    15: Auferetur ab impiis lux sua, et brachium excelsum confringetur.
+    16: Numquid ingressus es profunda maris? et in novissimis abyssi deambulasti? 
+    17: Numquid apertae sunt tibi portae mortis, et ostia tenebrosa vidisti? 
+    18: Numquid considerasti latitudinem terrae? indica mihi, si nosti, omnia : 
+    19: in qua via lux habitet, et tenebrarum quis locus sit : 
+    20: ut ducas unumquodque ad terminos suos, et intelligas semitas domus ejus.
+    21: Sciebas tunc quod nasciturus esses, et numerum dierum tuorum noveras? 
+    22: Numquid ingressus es thesauros nivis, aut thesauros grandinis aspexisti, 
+    23: quae praeparavi in tempus hostis, in diem pugnae et belli? 
+    24: Per quam viam spargitur lux, dividitur aestus super terram? 
+    25: Quis dedit vehementissimo imbri cursum, et viam sonantis tonitrui,
+    26: ut plueret super terram absque homine in deserto, ubi nullus mortalium commoratur, 
+    27: ut impleret inviam et desolatam, et produceret herbas virentes? 
+    28: Quis est pluviae pater? vel quis genuit stillas roris? 
+    29: De cujus utero egressa est glacies? et gelu de caelo quis genuit? 
+    30: In similitudinem lapidis aquae durantur, et superficies abyssi constringitur.
+    31: Numquid conjungere valebis micantes stellas Pleiadas, aut gyrum Arcturi poteris dissipare? 
+    32: Numquid producis luciferum in tempore suo, et vesperum super filios terrae consurgere facis? 
+    33: Numquid nosti ordinem caeli, et pones rationem ejus in terra? 
+    34: Numquid elevabis in nebula vocem tuam, et impetus aquarum operiet te? 
+    35: Numquid mittes fulgura, et ibunt, et revertentia dicent tibi : Adsumus?
+    36: Quis posuit in visceribus hominis sapientiam? vel quis dedit gallo intelligentiam? 
+    37: Quis enarrabit caelorum rationem, et concentum caeli quis dormire faciet? 
+    38: Quando fundebatur pulvis in terra, et glebae compingebantur? 
+    39: Numquid capies leaenae praedam, et animam catulorum ejus implebis, 
+    40: quando cubant in antris, et in specubus insidiantur?
+    41: Quis praeparat corvo escam suam, quando pulli ejus clamant ad Deum, vagantes, eo quod non habeant cibos?
+
+  Chapter 39.
+
+    1: Numquid nosti tempus partus ibicum in petris? vel parturientes cervas observasti? 
+    2: Dinumerasti menses conceptus earum, et scisti tempus partus earum? 
+    3: Incurvantur ad foetum, et pariunt, et rugitus emittunt. 
+    4: Separantur filii earum, et pergunt ad pastum : egrediuntur, et non revertuntur ad eas. 
+    5: Quis dimisit onagrum liberum, et vincula ejus quis solvit?
+    6: cui dedi in solitudine domum, et tabernacula ejus in terra salsuginis. 
+    7: Contemnit multitudinem civitatis : clamorem exactoris non audit. 
+    8: Circumspicit montes pascuae suae, et virentia quaeque perquirit. 
+    9: Numquid volet rhinoceros servire tibi, aut morabitur ad praesepe tuum? 
+    10: Numquid alligabis rhinocerota ad arandum loro tuo, aut confringet glebas vallium post te?
+    11: Numquid fiduciam habebis in magna fortitudine ejus, et derelinques ei labores tuos? 
+    12: Numquid credes illi quod sementem reddat tibi, et aream tuam congreget? 
+    13: Penna struthionis similis est pennis herodii et accipitris. 
+    14: Quando derelinquit ova sua in terra, tu forsitan in pulvere calefacies ea? 
+    15: Obliviscitur quod pes conculcet ea, aut bestia agri conterat.
+    16: Duratur ad filios suos, quasi non sint sui : frustra laboravit, nullo timore cogente. 
+    17: Privavit enim eam Deus sapientia, nec dedit illi intelligentiam. 
+    18: Cum tempus fuerit, in altum alas erigit : deridet equum et ascensorem ejus. 
+    19: Numquid praebebis equo fortitudinem, aut circumdabis collo ejus hinnitum? 
+    20: Numquid suscitabis eum quasi locustas? gloria narium ejus terror.
+    21: Terram ungula fodit, exultat audacter : in occursum pergit armatis. 
+    22: Contemnit pavorem, nec cedit gladio. 
+    23: Super ipsum sonabit pharetra : vibrabit hasta et clypeus : 
+    24: fervens et fremens sorbet terram, nec reputat tubae sonare clangorem. 
+    25: Ubi audierit buccinam, dicit : Vah! procul odoratur bellum, exhortationem ducum, et ululatum exercitus.
+    26: Numquid per sapientiam tuam plumescit accipiter, expandens alas suas ad austrum? 
+    27: Numquid ad praeceptum tuum elevabitur aquila, et in arduis ponet nidum suum? 
+    28: In petris manet, et in praeruptis silicibus commoratur atque inaccessis rupibus. 
+    29: Inde contemplatur escam, et de longe oculi ejus prospiciunt. 
+    30: Pulli ejus lambent sanguinem : et ubicumque cadaver fuerit, statim adest.
+    31: Et adjecit Dominus, et locutus est ad Job : 
+    32: Numquid qui contendit cum Deo, tam facile conquiescit? utique qui arguit Deum, debet respondere ei. 
+    33: Respondens autem Job Domino, dixit : 
+    34: Qui leviter locutus sum, respondere quid possum? manum meam ponam super os meum. 
+    35: Unum locutus sum, quod utinam non dixissem : et alterum, quibus ultra non addam.
+
+  Chapter 40.
+
+    1: Respondens autem Dominus Job de turbine, dixit : 
+    2: Accinge sicut vir lumbos tuos : interrogabo te, et indica mihi. 
+    3: Numquid irritum facies judicium meum, et condemnabis me, ut te justificeris? 
+    4: Et si habes brachium sicut Deus? et si voce simili tonas? 
+    5: Circumda tibi decorem, et in sublime erigere, et esto gloriosus, et speciosis induere vestibus.
+    6: Disperge superbos in furore tuo, et respiciens omnem arrogantem humilia. 
+    7: Respice cunctos superbos, et confunde eos, et contere impios in loco suo. 
+    8: Absconde eos in pulvere simul, et facies eorum demerge in foveam. 
+    9: Et ego confitebor quod salvare te possit dextera tua. 
+    10: Ecce behemoth quem feci tecum, foenum quasi bos comedet.
+    11: Fortitudo ejus in lumbis ejus, et virtus illius in umbilico ventris ejus. 
+    12: Stringit caudam suam quasi cedrum : nervi testiculorum ejus perplexi sunt. 
+    13: Ossa ejus velut fistulae aeris, cartilago illius quasi laminae ferreae. 
+    14: Ipse est principium viarum Dei : qui fecit eum applicabit gladium ejus. 
+    15: Huic montes herbas ferunt : omnes bestiae agri ludent ibi.
+    16: Sub umbra dormit, in secreto calami et in locis humentibus. 
+    17: Protegunt umbrae umbram ejus : circumdabunt eum salices torrentis. 
+    18: Ecce absorbebit fluvium, et non mirabitur, et habet fiduciam quod influat Jordanis in os ejus. 
+    19: In oculis ejus quasi hamo capiet eum, et in sudibus perforabit nares ejus. 
+    20: An extrahere poteris leviathan hamo, et fune ligabis linguam ejus?
+    21: Numquid pones circulum in naribus ejus, aut armilla perforabis maxillam ejus? 
+    22: Numquid multiplicabit ad te preces, aut loquetur tibi mollia? 
+    23: Numquid feriet tecum pactum, et accipies eum servum sempiternum? 
+    24: Numquid illudes ei quasi avi, aut ligabis eum ancillis tuis? 
+    25: Concident eum amici? divident illum negotiatores?
+    26: Numquid implebis sagenas pelle ejus, et gurgustium piscium capite illius? 
+    27: Pone super eum manum tuam : memento belli, nec ultra addas loqui. 
+    28: Ecce spes ejus frustrabitur eum, et videntibus cunctis praecipitabitur.
+
+End of day 142.

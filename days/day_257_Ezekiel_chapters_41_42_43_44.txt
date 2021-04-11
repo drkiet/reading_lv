@@ -1,0 +1,121 @@
+Day 257:
+
+Reading Ezekiel, chapters ['41', '42', '43', '44']:
+
+  Chapter 41.
+
+    1: Et introduxit me in templum, et mensus est frontes, sex cubitos latitudinis hinc, et sex cubitos latitudinis inde, latitudinem tabernaculi. 
+    2: Et latitudo portae, decem cubitorum erat : et latera portae, quinque cubitis hinc, et quinque cubitis inde : et mensus est longitudinem ejus quadraginta cubitoum, et latitudinem viginti cubitorum. 
+    3: Et introgressus intrinsecus, mensus est in fronte portae duos cubitos : et portam, sex cubitorum : et latitudinem portae septem cubitorum. 
+    4: Et mensus est longitudinem ejus viginti cubitorum, et latitudinem ejus viginti cubitorum, ante faciem templi. Et dixit ad me : Hoc est Sanctum sanctorum. 
+    5: Et mensus est parietem domus sex cubitorum : et latitudinem lateris quatuor cubitorum undique per circuitum domus.
+    6: Latera autem, latus ad latus, bis triginta tria : et erant eminentia, quae ingrederentur per parietem domus, in lateribus per circuitum, ut continerent, et non attingerent parietem templi. 
+    7: Et platea erat in rotundum, ascendens sursum per cochleam, et in coenaculum templi deferebat per gyrum : idcirco latius erat templum in superioribus : et sic de inferioribus ascendebatur ad superiora in medium. 
+    8: Et vidi in domo altitudinem per circuitum, fundata latera ad mensuram calami sex cubitorum spatio : 
+    9: et latitudinem per parietem lateris forinsecus quinque cubitorum : et erat interior domus in lateribus domus. 
+    10: Et inter gazophylacia latitudinem viginti cubitorum in circuitu domus undique,
+    11: et ostium lateris ad orationem : ostium unum ad viam aquilonis, et ostium unum ad viam australem : et latitudinem loci ad orationem, quinque cubitorum in circuitu. 
+    12: Et aedificium, quod erat separatum, versumque ad viam respicientem ad mare, latitudinis septuaginta cubitorum : paries autem aedificii, quinque cubitorum latitudinis per circuitum : et longitudo ejus nonaginta cubitorum. 
+    13: Et mensus est domus longitudinem, centum cubitorum : et quod separatum erat aedificium, et parietes ejus, longitudinis centum cubitorum. 
+    14: Latitudo autem ante faciem domus, et ejus quod erat separatum contra orientem, centum cubitorum. 
+    15: Et mensus est longitudinem aedificii contra faciem ejus, quod erat separatum ad dorsum : ethecas ex utraque parte centum cubitorum : et templum interius, et vestibula atrii.
+    16: Limina, et fenestras obliquas, et ethecas in circuitu per tres partes, contra uniuscujusque limen, stratumque ligno per gyrum in circuitu : terra autem usque ad fenestras, et fenestrae clausae super ostia. 
+    17: Et usque ad domum interiorem, et forinsecus per omnem parietem in circuitu intrinsecus, et forinsecus, ad mensuram. 
+    18: Et fabrefacta cherubim et palmae : et palma inter cherub et cherub, duasque facies habebat cherub. 
+    19: Faciem hominis juxta palmam ex hac parte, et faciem leonis juxta palmam ex alia parte : expressam per omnem domum in circuitu. 
+    20: De terra usque ad superiora portae, cherubim, et palmae caelatae erant in pariete templi.
+    21: Limen quadrangulum, et facies sanctuarii, aspectus contra aspectum. 
+    22: Altaris lignei trium cubitorum altitudo : et longitudo ejus duorum cubitorum : et anguli ejus, et longitudo ejus, et parietes ejus lignei. Et locutus est ad me : Haec est mensa coram Domino. 
+    23: Et duo ostia erant in templo et in sanctuario. 
+    24: Et in duobus ostiis ex utraque parte bina erant ostiola quae in se invicem plicabantur : bina enim ostia erant ex utraque parte ostiorum. 
+    25: Et caelata erant in ipsis ostiis templi cherubim, et sculpturae palmarum, sicut in parietibus quoque expressae erant : quam ob rem et grossiora erant ligna in vestibuli fronte forinsecus.
+    26: Super quae fenestrae obliquae, et similitudo palmarum hinc atque inde in humerulis vestibuli, secundum latera domus, latitudinemque parietum.
+
+  Chapter 42.
+
+    1: Et eduxit me in atrium exterius, per viam ducentem ad aquilonem, et introduxit me in gazophylacium quod erat contra separatum aedificium, et contra aedem vergentem ad aquilonem. 
+    2: In facie longitudinis, centum cubitos ostii aquilonis, et latitudinis quinquaginta cubitos, 
+    3: contra viginti cubitos atrii interioris, et contra pavimentum stratum lapide atrii exterioris, ubi erat porticus juncta porticui triplici. 
+    4: Et ante gazophylacia deambulatio decem cubitorum latitudinis, ad interiora respiciens viae cubiti unius. Et ostia eorum ad aquilonem : 
+    5: ubi erant gazophylacia in superioribus humiliora, quia supportabant porticus quae ex illis eminebant de inferioribus, et de mediis aedificii.
+    6: Tristega enim erant, et non habebant columnas, sicut erant columnae atriorum : propterea eminebant de inferioribus, et de mediis a terra cubitis quinquaginta. 
+    7: Et peribolus exterior secundum gazophylacia, quae erant in via atrii exterioris ante gazophylacia : longitudo ejus quinquaginta cubitorum : 
+    8: quia longitudo erat gazophylaciorum atrii exterioris, quinquaginta cubitorum, et longitudo ante faciem templi, centum cubitorum. 
+    9: Et erat subter gazophylacia haec introitus ab oriente, ingredientium in ea de atrio exteriori. 
+    10: In latitudine periboli atrii quod erat contra viam orientalem, in faciem aedificii separati, et erant ante aedificium gazophylacia.
+    11: Et via ante faciem eorum, juxta similitudinem gazophylaciorum quae erant in via aquilonis : secundum longitudinem eorum, sic et latitudo eorum, et omnis introitus eorum, et similitudines, et ostia eorum. 
+    12: Secundum ostia gazophylaciorum, quae erant in via respiciente ad notum : ostium in capite viae, quae via erat ante vestibulum separatum per viam orientalem ingredientibus. 
+    13: Et dixit ad me : Gazophylacia aquilonis, et gazophylacia austri, quae sunt ante aedificium separatum, haec sunt gazophylacia sancta, in quibus vescuntur sacerdotes qui appropinquant ad Dominum in Sancta sanctorum : ibi ponent Sancta sanctorum et oblationem pro peccato et pro delicto : locus enim sanctus est. 
+    14: Cum autem ingressi fuerint sacerdotes, non egredientur de sanctis in atrium exterius : et ibi reponent vestimenta sua, in quibus ministrant, quia sancta sunt, vestienturque vestimentis aliis, et sic procedent ad populum. 
+    15: Cumque complesset mensuras domus interioris, eduxit me per viam portae quae respiciebat ad viam orientalem : et mensus est eam undique per circuitum.
+    16: Mensus est autem contra ventum orientalem calamo mensurae, quingentos calamos in calamo mensurae per circuitum. 
+    17: Et mensus est contra ventum aquilonis quingentos calamos in calamo mensurae per gyrum. 
+    18: Et ad ventum australem mensus est quingentos calamos in calamo mensurae per circuitum. 
+    19: Et ad ventum occidentalem mensus est quingentos calamos in calamo mensurae. 
+    20: Per quatuor ventos mensus est murum ejus undique per circuitum, longitudinem quingentorum cubitorum, et latitudinem quingentorum cubitorum, dividentem inter sanctuarium et vulgi locum.
+
+  Chapter 43.
+
+    1: Et duxit me ad portam quae respiciebat ad viam orientalem. 
+    2: Et ecce gloria Dei Israel ingrediebatur per viam orientalem : et vox erat ei quasi vox aquarum multarum, et terra splendebat a majestate ejus. 
+    3: Et vidi visionem secundum speciem quam videram, quando venit ut disperderet civitatem : et species secundum aspectum quem videram juxta fluvium Chobar : et cecidi super faciem meam. 
+    4: Et majestas Domini ingressa est templum per viam portae quae respiciebat ad orientem. 
+    5: Et elevavit me spiritus, et introduxit me in atrium interius : et ecce repleta erat gloria Domini domus.
+    6: Et audivi loquentem ad me de domo : et vir qui stabat juxta me 
+    7: dixit ad me : Fili hominis, locus solii mei, et locus vestigiorum pedum meorum, ubi habito in medio filiorum Israel in aeternum : et non polluent ultra domus Israel nomen sanctum meum, ipsi et reges eorum, in fornicationibus suis, et in ruinis regum suorum, et in excelsis. 
+    8: Qui fabricati sunt limen suum juxta limen meum, et postes suos juxta postes meos, et murus erat inter me et eos : et polluerunt nomen sanctum meum in abominationibus quas fecerunt : propter quod consumpsi eos in ira mea. 
+    9: Nunc ergo repellant procul fornicationem suam et ruinas regum suorum a me, et habitabo in medio eorum semper. 
+    10: Tu autem, fili hominis, ostende domui Israel templum, et confundantur ab iniquitatibus suis, et metiantur fabricam,
+    11: et erubescant ex omnibus quae fecerunt. Figuram domus, et fabricae ejus, exitus et introitus, et omnem descriptionem ejus, et universa praecepta ejus, cunctumque ordinem ejus, et omnes leges ejus ostende eis, et scribes in oculis eorum, ut custodiant omnes descriptiones ejus, et praecepta illius, et faciant ea. 
+    12: Ista est lex domus in summitate montis : omnis finis ejus in circuitu, Sanctum sanctorum est. Haec est ergo lex domus. 
+    13: Istae autem mensurae altaris in cubito verissimo, qui habebat cubitum et palmum : in sinu ejus erat cubitus, et cubitus in latitudine : et definitio ejus usque ad labium ejus, et in circuitu palmus unus : haec quoque erat fossa altaris. 
+    14: Et de sinu terrae usque ad crepidinem novissimam duo cubiti, et latitudo cubiti unius : et a crepidine minore usque ad crepidinem majorem quatuor cubiti, et latitudo cubiti unius. 
+    15: Ipse autem Ariel quatuor cubitorum, et ab Ariel usque ad sursum cornua quatuor.
+    16: Et Ariel duodecim cubitorum in longitudine per duodecim cubitos latitudinis, quadrangulatum aequis lateribus. 
+    17: Et crepido quatuordecim cubitorum longitudinis per quatuordecim cubitos latitudinis in quatuor angulis ejus : et corona in circuitu ejus dimidii cubiti, et sinus ejus unius cubiti per circuitum : gradus autem ejus versi ad orientem. 
+    18: Et dixit ad me : Fili hominis, haec dicit Dominus Deus : Hi sunt ritus altaris, in quacumque die fuerit fabricatum, ut offeratur super illud holocaustum, et effundatur sanguis. 
+    19: Et dabis sacerdotibus et Levitis qui sunt de semine Sadoc, qui accedunt ad me, ait Dominus Deus, ut offerant mihi vitulum de armento pro peccato. 
+    20: Et assumens de sanguine ejus, pones super quatuor cornua ejus, et super quatuor angulos crepidinis, et super coronam in circuitu : et mundabis illud et expiabis.
+    21: Et tolles vitulum qui oblatus fuerit pro peccato, et combures eum in separato loco domus, extra sanctuarium. 
+    22: Et in die secunda offeres hircum caprarum immaculatum pro peccato : et expiabunt altare sicut expiaverunt in vitulo. 
+    23: Cumque compleveris expians illud, offeres vitulum de armento immaculatum, et arietem de grege immaculatum. 
+    24: Et offeres eos in conspectu Domini : et mittent sacerdotes super eos sal, et offerent eos holocaustum Domino. 
+    25: Septem diebus facies hircum pro peccato quotidie : et vitulum de armento, et arietem de pecoribus immaculatos offerent.
+    26: Septem diebus expiabunt altare et mundabunt illud, et implebunt manum ejus. 
+    27: Expletis autem diebus, in die octava et ultra, facient sacerdotes super altare holocausta vestra, et quae pro pace offerunt : et placatus ero vobis, ait Dominus Deus.
+
+  Chapter 44.
+
+    1: Et convertit me ad viam portae sanctuarii exterioris, quae respiciebat ad orientem : et erat clausa. 
+    2: Et dixit Dominus ad me : Porta haec clausa erit : non aperietur, et vir non transibit per eam, quoniam Dominus Deus Israel ingressus est per eam : eritque clausa 
+    3: principi. Princeps ipse sedebit in ea, ut comedat panem coram Domino : per viam portae vestibuli ingredietur, et per viam ejus egredietur. 
+    4: Et adduxit me per viam portae aquilonis in conspectu domus : et vidi, et ecce implevit gloria Domini domum Domini : et cecidi in faciem meam. 
+    5: Et dixit ad me Dominus : Fili hominis, pone cor tuum, et vide oculis tuis, et auribus tuis audi omnia quae ego loquor ad te de universis caeremoniis domus Domini, et de cunctis legibus ejus : et pones cor tuum in viis templi per omnes exitus sanctuarii.
+    6: Et dices ad exasperantem me domum Israel : Haec dicit Dominus Deus : Sufficiant vobis omnia scelera vestra, domus Israel : 
+    7: eo quod inducitis filios alienos incircumcisos corde, et incircumcisos carne, ut sint in sanctuario meo, et polluant domum meam : et offertis panes meos, adipem et sanguinem, et dissolvitis pactum meum in omnibus sceleribus vestris. 
+    8: Et non servastis praecepta sanctuarii mei, et posuistis custodes observationum mearum in sanctuario meo vobismetipsis. 
+    9: Haec dicit Dominus Deus : Omnis alienigena incircumcisus corde, et incircumcisus carne, non ingredietur sanctuarium meum : omnis filius alienus qui est in medio filiorum Israel. 
+    10: Sed et Levitae qui longe recesserunt a me in errore filiorum Israel, et erraverunt a me post idola sua, et portaverunt iniquitatem suam,
+    11: erunt in sanctuario meo aeditui, et janitores portarum domus, et ministri domus : ipsi mactabunt holocausta et victimas populi, et ipsi stabunt in conspectu eorum ut ministrent eis. 
+    12: Pro eo quod ministraverunt illis in conspectu idolorum suorum, et facti sunt domui Israel in offendiculum iniquitatis : idcirco levavi manum meam super eos, ait Dominus Deus, et portabunt iniquitatem suam. 
+    13: Et non appropinquabunt ad me ut sacerdotio fungantur mihi, neque accedent ad omne sanctuarium meum juxta Sancta sanctorum : sed portabunt confusionem suam, et scelera sua quae fecerunt. 
+    14: Et dabo eos janitores domus in omni ministerio ejus, et in universis quae fient in ea. 
+    15: Sacerdotes autem et Levitae, filii Sadoc, qui custodierunt caeremonias sanctuarii mei, cum errarent filii Israel a me, ipsi accedent ad me ut ministrent mihi : et stabunt in conspectu meo, ut offerant mihi adipem et sanguinem, ait Dominus Deus.
+    16: Ipsi ingredientur sanctuarium meum, et ipsi accedent ad mensam meam, ut ministrent mihi, et custodiant caeremonias meas. 
+    17: Cumque ingredientur portas atrii interioris, vestibus lineis induentur : nec ascendet super eos quidquam laneum, quando ministrant in portis atrii interioris et intrinsecus. 
+    18: Vittae lineae erunt in capitibus eorum, et feminalia linea erunt in lumbis eorum, et non accingentur in sudore. 
+    19: Cumque egredientur atrium exterius ad populum, exuent se vestimentis suis, in quibus ministraverant, et reponent ea in gazophylacio sanctuarii : et vestient se vestimentis aliis, et non sanctificabunt populum in vestibus suis. 
+    20: Caput autem suum non radent neque comam nutrient : sed tondentes attondent capita sua.
+    21: Et vinum non bibet omnis sacerdos, quando ingressurus est atrium interius. 
+    22: Et viduam et repudiatam non accipient uxores, sed virgines de semine domus Israel : sed et viduam quae fuerit vidua a sacerdote, accipient. 
+    23: Et populum meum docebunt quid sit inter sanctum et pollutum, et inter mundum et immundum ostendent eis. 
+    24: Et cum fuerit controversia, stabunt in judiciis meis, et judicabunt : leges meas et praecepta mea in omnibus solemnitatibus meis custodient, et sabbata mea sanctificabunt. 
+    25: Et ad mortuum hominem non ingredientur, ne polluantur, nisi ad patrem et matrem, et filium et filiam, et fratrem, et sororem quae alterum virum non habuerit : in quibus contaminabuntur.
+    26: Et postquam fuerit emundatus, septem dies numerabuntur ei. 
+    27: Et in die introitus sui in sanctuarium ad atrium interius, ut ministret mihi in sanctuario, offeret pro peccato suo, ait Dominus Deus. 
+    28: Non erit autem eis haereditas : ego haereditas eorum; et possessionem non dabitis eis in Israel : ego enim possessio eorum. 
+    29: Victimam et pro peccato et pro delicto ipsi comedent, et omne votum in Israel ipsorum erit. 
+    30: Et primitiva omnium primogenitorum, et omnia libamenta ex omnibus quae offeruntur, sacerdotum erunt : et primitiva ciborum vestrorum dabitis sacerdoti, ut reponat benedictionem domui tuae.
+    31: Omne morticinum, et captum a bestia, de avibus et de pecoribus, non comedent sacerdotes.
+
+End of day 257.

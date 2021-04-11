@@ -1,0 +1,107 @@
+Day 214:
+
+Reading Isaiah, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: Cantabo dilecto meo canticum patruelis mei vineae suae. Vinea facta est dilecto meo in cornu filio olei. 
+    2: Et sepivit eam, et lapides elegit ex illa, et plantavit eam electam; et aedificavit turrim in medio ejus, et torcular exstruxit in ea; et exspectavit ut faceret uvas, et fecit labruscas. 
+    3: Nunc ergo, habitatores Jerusalem et viri Juda, judicate inter me et vineam meam. 
+    4: Quid est quod debui ultra facere vineae meae, et non feci ei? an quod exspectavi ut faceret uvas, et fecit labruscas? 
+    5: Et nunc ostendam vobis quid ego faciam vineae meae : auferam sepem ejus, et erit in direptionem; diruam maceriam ejus, et erit in conculcationem.
+    6: Et ponam eam desertam; non putabitur et non fodietur : et ascendent vepres et spinae, et nubibus mandabo ne pluant super eam imbrem. 
+    7: Vinea enim Domini exercituum domus Israel est; et vir Juda germen ejus delectabile : et exspectavi ut faceret judicium, et ecce iniquitas; et justitiam, et ecce clamor. 
+    8: Vae qui conjungitis domum ad domum, et agrum agro copulatis usque ad terminum loci! Numquid habitabitis vos soli in medio terrae? 
+    9: In auribus meis sunt haec, dicit Dominus exercituum; nisi domus multae desertae fuerint, grandes et pulchrae, absque habitatore. 
+    10: Decem enim jugera vinearum facient lagunculam unam, et triginta modii sementis facient modios tres.
+    11: Vae qui consurgitis mane ad ebrietatem sectandam, et potandum usque ad vesperam, ut vino aestuetis! 
+    12: Cithara, et lyra, et tympanum, et tibia, et vinum in conviviis vestris; et opus Domini non respicitis, nec opera manuum ejus consideratis. 
+    13: Propterea captivus ductus est populus meus, quia non habuit scientiam, et nobiles ejus interierunt fame, et multitudo ejus siti exaruit. 
+    14: Propterea dilatavit infernus animam suam, et aperuit os suum absque ullo termino; et descendent fortes ejus, et populus ejus, et sublimes gloriosique ejus, ad eum. 
+    15: Et incurvabitur homo, et humiliabitur vir, et oculi sublimium deprimentur.
+    16: Et exaltabitur Dominus exercituum in judicio; et Deus sanctus sanctificabitur in justitia. 
+    17: Et pascentur agni juxta ordinem suum, et deserta in ubertatem versa advenae comedent. 
+    18: Vae qui trahitis iniquitatem in funiculis vanitatis, et quasi vinculum plaustri peccatum! 
+    19: qui dicitis : Festinet, et cito veniat opus ejus, ut videamus; et appropiet, et veniat consilium sancti Israel, et sciemus illud! 
+    20: Vae qui dicitis malum bonum, et bonum malum; ponentes tenebras lucem, et lucem tenebras; ponentes amarum in dulce, et dulce in amarum!
+    21: Vae qui sapientes estis in oculis vestris, et coram vobismetipsis prudentes. 
+    22: Vae qui potentes estis ad bibendum vinum, et viri fortes ad miscendam ebrietatem! 
+    23: qui justificatis impium pro muneribus, et justitiam justi aufertis ab eo! 
+    24: Propter hoc, sicut devorat stipulam lingua ignis, et calor flammae exurit, sic radix eorum quasi favilla erit, et germen eorum ut pulvis ascendet; abjecerunt enim legem Domini exercituum, et eloquium sancti Israel blasphemaverunt. 
+    25: Ideo iratus est furor Domini in populum suum, et extendit manum suam super eum, et percussit eum : et conturbati sunt montes, et facta sunt morticina eorum quasi stercus in medio platearum. In his omnibus non est adversus furor ejus, sed adhuc manus ejus extenta.
+    26: Et elevabit signum in nationibus procul, et sibilabit ad eum de finibus terrae : et ecce festinus velociter veniet. 
+    27: Non est deficiens neque laborans in eo; non dormitabit, neque dormiet; neque solvetur cingulum renum ejus, nec rumpetur corrigia calceamenti ejus. 
+    28: Sagittae ejus acutae, et omnes arcus ejus extenti. Ungulae equorum ejus ut silex, et rotae ejus quasi impetus tempestatis. 
+    29: Rugitus ejus ut leonis; rugiet ut catuli leonum : et frendet, et tenebit praedam, et amplexabitur, et non erit qui eruat. 
+    30: Et sonabit super eum in die illa sicut sonitus maris : aspiciemus in terram, et ecce tenebrae tribulationis, et lux obtenebrata est in caligine ejus.
+
+  Chapter 6.
+
+    1: In anno quo mortuus est rex Ozias, vidi Dominum sedentem super solium excelsum et elevatum; et ea quae sub ipso erant replebant templum. 
+    2: Seraphim stabant super illud : sex alae uni, et sex alae alteri; duabus velabant faciem ejus, et duabus velabant pedes ejus, et duabus volabant. 
+    3: Et clamabant alter ad alterum, et dicebant : Sanctus, sanctus, sanctus Dominus, Deus exercituum; plena est omnis terra gloria ejus. 
+    4: Et commota sunt superliminaria cardinum a voce clamantis, et domus repleta est fumo. 
+    5: Et dixi : Vae mihi, quia tacui, quia vir pollutus labiis ego sum, et in medio populi polluta labia habentis ego habito, et regem Dominum exercituum vidi oculis meis.
+    6: Et volavit ad me unus de seraphim, et in manu ejus calculus, quem forcipe tulerat de altari, 
+    7: et tetigit os meum, et dixit : Ecce tetigit hoc labia tua, et auferetur iniquitas tua, et peccatum tuum mundabitur. 
+    8: Et audivi vocem Domini dicentis : Quem mittam? et quis ibit nobis? Et dixi : Ecce ego, mitte me. 
+    9: Et dixit : Vade, et dices populo huic : Audite audientes, et nolite intelligere; et videte visionem, et nolite cognoscere. 
+    10: Excaeca cor populi hujus, et aures ejus aggrava, et oculos ejus claude : ne forte videat oculis suis, et auribus suis audiat, et corde suo intelligat, et convertatur, et sanem eum.
+    11: Et dixi : Usquequo, Domine? Et dixit : Donec desolentur civitates absque habitatore, et domus sine homine, et terra relinquetur deserta. 
+    12: Et longe faciet Dominus homines, et multiplicabitur quae derelicta fuerat in medio terrae. 
+    13: Et adhuc in ea decimatio, et convertetur, et erit in ostensionem sicut terebinthus, et sicut quercus quae expandit ramos suos; semen sanctum erit id quod steterit in ea.
+
+  Chapter 7.
+
+    1: Et factum est in diebus Achaz, filii Joathan, filii Oziae, regis Juda, ascendit Rasin, rex Syriae, et Phacee, filius Romeliae, rex Israel, in Jerusalem, ad praeliandum contra eam : et non potuerunt 
+    2: debellare eam. Et nuntiaverunt domui David, dicentes : Requievit Syria super Ephraim. Et commotum est cor ejus, et cor populi ejus, sicut moventur ligna silvarum a facie venti. 
+    3: Et dixit Dominus ad Isaiam : Egredere in occursum Achaz, tu et qui derelictus est Jasub, filius tuus, ad extremum aquaeductus piscinae superioris in via agri Fullonis; 
+    4: et dices ad eum : Vide ut sileas; noli timere, et cor tuum ne formidet a duabus caudis titionum fumigantium istorum, in ira furoris Rasin, regis Syriae, et filii Romeliae; 
+    5: eo quod consilium inierit contra te Syria in malum, Ephraim, et filius Romeliae, dicentes :
+    6: Ascendamus ad Judam, et suscitemus eum, et avellamus eum ad nos, et ponamus regem in medio ejus filium Tabeel. 
+    7: Haec dicit Dominus Deus : Non stabit, et non erit istud; 
+    8: sed caput Syriae Damascus, et caput Damasci Rasin; et adhuc sexaginta et quinque anni, et desinet Ephraim esse populus; 
+    9: et caput Ephraim Samaria, et caput Samariae filius Romeliae. Si non credideritis, non permanebitis. 
+    10: Et adjecit Dominus loqui ad Achaz, dicens :
+    11: Pete tibi signum a Domino Deo tuo, in profundum inferni, sive in excelsum supra. 
+    12: Et dixit Achaz : Non petam, et non tentabo Dominum. 
+    13: Et dixit : Audite ergo, domus David. Numquid parum vobis est molestos esse hominibus, quia molesti estis et Deo meo? 
+    14: Propter hoc dabit Dominus ipse vobis signum : ecce virgo concipiet, et pariet filium, et vocabitur nomen ejus Emmanuel. 
+    15: Butyrum et mel comedet, ut sciat reprobare malum, et eligere bonum.
+    16: Quia antequam sciat puer reprobare malum et eligere bonum, derelinquetur terra quam tu detestaris a facie duorum regum suorum. 
+    17: Adducet Dominus super te, et super populum tuum, et super domum patris tui, dies qui non venerunt a diebus separationis Ephraim a Juda, cum rege Assyriorum. 
+    18: Et erit in die illa : sibilabit Dominus muscae quae est in extremo fluminum Aegypti, et api quae est in terra Assur; 
+    19: et venient, et requiescent omnes in torrentibus vallium, et in cavernis petrarum, et in omnibus frutetis, et in universis foraminibus. 
+    20: In die illa radet Dominus in novacula conducta in his qui trans flumen sunt, in rege Assyriorum, caput et pilos pedum, et barbam universam.
+    21: Et erit in die illa : nutriet homo vaccam boum, et duas oves, 
+    22: et prae ubertate lactis comedet butyrum; butyrum enim et mel manducabit omnis qui relictus fuerit in medio terrae. 
+    23: Et erit in die illa : omnis locus ubi fuerint mille vites, mille argenteis, in sinas et in vepres erunt. 
+    24: Cum sagittis et arcu ingredientur illuc : vepres enim et spinae erunt in universa terra. 
+    25: Et omnes montes qui in sarculo sarrientur, non veniet illuc terror spinarum et veprium : et erit in pascua bovis, et in conculcationem pecoris.
+
+  Chapter 8.
+
+    1: Et dixit Dominus ad me : Sume tibi librum grandem, et scribe in eo stylo hominis : Velociter spolia detrahe, cito praedare. 
+    2: Et adhibui mihi testes fideles, Uriam sacerdotem, et Zachariam, filium Barachiae : 
+    3: et accessi ad prophetissam, et concepit, et peperit filium. Et dixit Dominus ad me : Voca nomen ejus : Accelera spolia detrahere; Festina praedari : 
+    4: quia antequam sciat puer vocare patrem suum et matrem suam, auferetur fortitudo Damasci, et spolia Samariae, coram rege Assyriorum. 
+    5: Et adjecit Dominus loqui ad me adhuc, dicens :
+    6: Pro eo quod abjecit populus iste aquas Siloe, quae vadunt cum silentio, et assumpsit magis Rasin, et filium Romeliae : 
+    7: propter hoc ecce Dominus adducet super eos aquas fluminis fortes et multas, regem Assyriorum, et omnem gloriam ejus, et ascendet super omnes rivos ejus, et fluet super universas ripas ejus; 
+    8: et ibit per Judam, inundans, et transiens : usque ad collum veniet. Et erit extensio alarum ejus implens latitudinem terrae tuae, o Emmanuel! 
+    9: Congregamini, populi, et vincimini; et audite, universae procul terrae : confortamini, et vincimini; accingite vos, et vincimini. 
+    10: Inite consilium, et dissipabitur; loquimini verbum, et non fiet : quia nobiscum Deus.
+    11: Haec enim ait Dominus ad me : Sicut in manu forti erudivit me, ne irem in via populi hujus, dicens : 
+    12: Non dicatis : Conjuratio; omnia enim quae loquitur populus iste, conjuratio est : et timorem ejus ne timeatis, neque paveatis. 
+    13: Dominum exercituum ipsum sanctificate; ipse pavor vester, et ipse terror vester : 
+    14: et erit vobis in sanctificationem; in lapidem autem offensionis, et in petram scandali, duabus domibus Israel; in laqueum et in ruinam habitantibus Jerusalem. 
+    15: Et offendent ex eis plurimi, et cadent, et conterentur, et irretientur, et capientur.
+    16: Liga testimonium, signa legem in discipulis meis. 
+    17: Et exspectabo Dominum qui abscondit faciem suam a domo Jacob, et praestolabor eum. 
+    18: Ecce ego et pueri mei quos dedit mihi Dominus in signum, et in portentum Israel a Domino exercituum, qui habitat in monte Sion : 
+    19: et cum dixerint ad vos : Quaerite a pythonibus et a divinis qui strident in incantationibus suis : numquid non populus a Deo suo requiret, pro vivis a mortuis? 
+    20: ad legem magis et ad testimonium. Quod si non dixerint juxta verbum hoc, non erit eis matutina lux.
+    21: Et transibit per eam, corruet, et esuriet; et cum esurierit, irascetur. Et maledicet regi suo, et Deo suo, et suscipiet sursum, 
+    22: et ad terram intuebitur; et ecce tribulatio et tenebrae, dissolutio et angustia, et caligo persequens, et non poterit avolare de angustia sua.
+
+End of day 214.

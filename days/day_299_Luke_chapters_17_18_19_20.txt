@@ -1,0 +1,192 @@
+Day 299:
+
+Reading Luke, chapters ['17', '18', '19', '20']:
+
+  Chapter 17.
+
+    1: Et ait ad discipulos suos : Impossibile est ut non veniant scandala : vae autem illi per quem veniunt. 
+    2: Utilius est illi si lapis molaris imponatur circa collum ejus, et projiciatur in mare quam ut scandalizet unum de pusillis istis. 
+    3: Attendite vobis : Si peccaverit in te frater tuus, increpa illum : et si poenitentiam egerit, dimitte illi. 
+    4: Et si septies in die peccaverit in te, et septies in die conversus fuerit ad te, dicens : Poenitet me, dimitte illi. 
+    5: Et dixerunt apostoli Domino : Adauge nobis fidem.
+    6: Dixit autem Dominus : Si habueritis fidem sicut granum sinapis, dicetis huic arbori moro : Eradicare, et transplantare in mare, et obediet vobis. 
+    7: Quis autem vestrum habens servum arantem aut pascentem, qui regresso de agro dicat illi : Statim transi, recumbe : 
+    8: et non dicat ei : Para quod coenem, et praecinge te, et ministra mihi donec manducem, et bibam, et post haec tu manducabis, et bibes? 
+    9: Numquid gratiam habet servo illi, quia fecit quae ei imperaverat? 
+    10: non puto. Sic et vos cum feceritis omnia quae praecepta sunt vobis, dicite : Servi inutiles sumus : quod debuimus facere, fecimus.
+    11: Et factum est, dum iret in Jerusalem, transibat per mediam Samariam et Galilaeam. 
+    12: Et cum ingrederetur quoddam castellum, occurrerunt ei decem viri leprosi, qui steterunt a longe : 
+    13: et levaverunt vocem, dicentes : Jesu praeceptor, miserere nostri. 
+    14: Quos ut vidit, dixit : Ite, ostendite vos sacerdotibus. Et factum est, dum irent, mundati sunt. 
+    15: Unus autem ex illis, ut vidit quia mundatus est, regressus est, cum magna voce magnificans Deum,
+    16: et cecidit in faciem ante pedes ejus, gratias agens : et hic erat Samaritanus. 
+    17: Respondens autem Jesus, dixit : Nonne decem mundati sunt? et novem ubi sunt? 
+    18: Non est inventus qui rediret, et daret gloriam Deo, nisi hic alienigena. 
+    19: Et ait illi : Surge, vade : quia fides tua te salvum fecit. 
+    20: Interrogatus autem a pharisaeis : Quando venit regnum Dei? respondens eis, dixit : Non venit regnum Dei cum observatione :
+    21: neque dicent : Ecce hic, aut ecce illic. Ecce enim regnum Dei intra vos est. 
+    22: Et ait ad discipulos suos : Venient dies quando desideretis videre unum diem Filii hominis, et non videbitis. 
+    23: Et dicent vobis : Ecce hic, et ecce illic. Nolite ire, neque sectemini : 
+    24: nam, sicut fulgur coruscans de sub caelo in ea quae sub caelo sunt, fulget : ita erit Filius hominis in die sua. 
+    25: Primum autem oportet illum multa pati, et reprobari a generatione hac.
+    26: Et sicut factum est in diebus Noe, ita erit et in diebus Filii hominis : 
+    27: edebant et bibebant : uxores ducebant et dabantur ad nuptias, usque in diem, qua intravit Noe in arcam : et venit diluvium, et perdidit omnes. 
+    28: Similiter sicut factum est in diebus Lot : edebant et bibebant, emebant et vendebant, plantabant et aedificabant : 
+    29: qua die autem exiit Lot a Sodomis, pluit ignem et sulphur de caelo, et omnes perdidit : 
+    30: secundum haec erit qua die Filius hominis revelabitur.
+    31: In illa hora, qui fuerit in tecto, et vasa ejus in domo, ne descendat tollere illa : et qui in agro, similiter non redeat retro. 
+    32: Memores estote uxoris Lot. 
+    33: Quicumque quaesierit animam suam salvam facere, perdet illam : et quicumque perdiderit illam, vivificabit eam. 
+    34: Dico vobis : In illa nocte erunt duo in lecto uno : unus assumetur, et alter relinquetur : 
+    35: duae erunt molentes in unum : una assumetur, et altera relinquetur : duo in agro : unus assumetur, et alter relinquetur.
+    36: Respondentes dicunt illi : Ubi Domine? 
+    37: Qui dixit illis : Ubicumque fuerit corpus, illuc congregabuntur et aquilae.
+
+  Chapter 18.
+
+    1: Dicebat autem et parabolam ad illos, quoniam oportet semper orare et non deficere, 
+    2: dicens : Judex quidam erat in quadam civitate, qui Deum non timebat, et hominem non reverebatur. 
+    3: Vidua autem quaedam erat in civitate illa, et veniebat ad eum, dicens : Vindica me de adversario meo. 
+    4: Et nolebat per multum tempus. Post haec autem dixit intra se : Etsi Deum non timeo, nec hominem revereor : 
+    5: tamen quia molesta est mihi haec vidua, vindicabo illam, ne in novissimo veniens sugillet me.
+    6: Ait autem Dominus : Audite quid judex iniquitatis dicit : 
+    7: Deus autem non faciet vindictam electorum suorum clamantium ad se die ac nocte, et patientiam habebit in illis? 
+    8: Dico vobis quia cito faciet vindictam illorum. Verumtamen Filius hominis veniens, putas, inveniet fidem in terra? 
+    9: Dixit autem et ad quosdam qui in se confidebant tamquam justi, et aspernabantur ceteros, parabolam istam : 
+    10: Duo homines ascenderunt in templum ut orarent : unus pharisaeus et alter publicanus.
+    11: Pharisaeus stans, haec apud se orabat : Deus, gratias ago tibi, quia non sum sicut ceteri hominum : raptores, injusti, adulteri, velut etiam hic publicanus : 
+    12: jejuno bis in sabbato, decimas do omnium quae possideo. 
+    13: Et publicanus a longe stans, nolebat nec oculos ad caelum levare : sed percutiebat pectus suum, dicens : Deus propitius esto mihi peccatori. 
+    14: Dico vobis, descendit hic justificatus in domum suam ab illo : quia omnis qui se exaltat, humiliabitur, et qui se humiliat, exaltabitur. 
+    15: Afferebant autem ad illum et infantes, ut eos tangeret. Quod cum viderent discipuli, increpabant illos.
+    16: Jesus autem convocans illos, dixit : Sinite pueros venire ad me, et nolite vetare eos : talium est enim regnum Dei. 
+    17: Amen dico vobis, quicumque non acceperit regnum Dei sicut puer, non intrabit in illud. 
+    18: Et interrogavit eum quidam princeps, dicens : Magister bone, quid faciens vitam aeternam possidebo? 
+    19: Dixit autem ei Jesus : Quid me dicis bonum? nemo bonus nisi solus Deus. 
+    20: Mandata nosti : non occides; non moechaberis; non furtum facies; non falsum testimonium dices; honora patrem tuum et matrem.
+    21: Qui ait : Haec omnia custodivi a juventute mea. 
+    22: Quo audito, Jesus ait ei : Adhuc unum tibi deest : omnia quaecumque habes vende, et da pauperibus, et habebis thesaurum in caelo : et veni, sequere me. 
+    23: His ille auditis, contristatus est : quia dives erat valde. 
+    24: Videns autem Jesus illum tristem factum, dixit : Quam difficile, qui pecunias habent, in regnum Dei intrabunt! 
+    25: facilius est enim camelum per foramen acus transire quam divitem intrare in regnum Dei.
+    26: Et dixerunt qui audiebant : Et quis potest salvus fieri? 
+    27: Ait illis : Quae impossibilia sunt apud homines, possibilia sunt apud Deum. 
+    28: Ait autem Petrus : Ecce nos dimisimus omnia et secuti sumus te. 
+    29: Qui dixit eis : Amen dico vobis, nemo est qui reliquit domum, aut parentes, aut fratres, aut uxorem, aut filios propter regnum Dei, 
+    30: et non recipiat multo plura in hoc tempore, et in saeculo venturo vitam aeternam.
+    31: Assumpsit autem Jesus duodecim, et ait illis : Ecce ascendimus Jerosolymam, et consummabuntur omnia quae scripta sunt per prophetas de Filio hominis : 
+    32: tradetur enim gentibus, et illudetur, et flagellabitur, et conspuetur : 
+    33: et postquam flagellaverint, occident eum, et tertia die resurget. 
+    34: Et ipsi nihil horum intellexerunt, et erat verbum istud absconditum ab eis, et non intelligebant quae dicebantur. 
+    35: Factum est autem, cum appropinquaret Jericho, caecus quidam sedebat secus viam, mendicans.
+    36: Et cum audiret turbam praetereuntem, interrogabat quid hoc esset. 
+    37: Dixerunt autem ei quod Jesus Nazarenus transiret. 
+    38: Et clamavit, dicens : Jesu, fili David, miserere mei. 
+    39: Et qui praeibant, increpabant eum ut taceret. Ipse vero multo magis clamabat : Fili David, miserere mei. 
+    40: Stans autem Jesus jussit illum adduci ad se. Et cum appropinquasset, interrogavit illum,
+    41: dicens : Quid tibi vis faciam? At ille dixit : Domine, ut videam. 
+    42: Et Jesus dixit illi : Respice, fides tua te salvum fecit. 
+    43: Et confestim vidit, et sequebatur illum magnificans Deum. Et omnis plebs ut vidit, dedit laudem Deo.
+
+  Chapter 19.
+
+    1: Et ingressus perambulabat Jericho. 
+    2: Et ecce vir nomine Zachaeus : et hic princeps erat publicanorum, et ipse dives : 
+    3: et quaerebat videre Jesum, quis esset : et non poterat prae turba, quia statura pusillus erat. 
+    4: Et praecurrens ascendit in arborem sycomorum ut videret eum : quia inde erat transiturus. 
+    5: Et cum venisset ad locum, suspiciens Jesus vidit illum, et dixit ad eum : Zachaee, festinans descende : quia hodie in domo tua oportet me manere.
+    6: Et festinans descendit, et excepit illum gaudens. 
+    7: Et cum viderent omnes, murmurabant, dicentes quod ad hominem peccatorem divertisset. 
+    8: Stans autem Zachaeus, dixit ad Dominum : Ecce dimidium bonorum meorum, Domine, do pauperibus : et si quid aliquem defraudavi, reddo quadruplum. 
+    9: Ait Jesus ad eum : Quia hodie salus domui huic facta est : eo quod et ipse filius sit Abrahae. 
+    10: Venit enim Filius hominis quaerere, et salvum facere quod perierat.
+    11: Haec illis audientibus adjiciens, dixit parabolam, eo quod esset prope Jerusalem : et quia existimarent quod confestim regnum Dei manifestaretur. 
+    12: Dixit ergo : Homo quidam nobilis abiit in regionem longinquam accipere sibi regnum, et reverti. 
+    13: Vocatis autem decem servis suis, dedit eis decem mnas, et ait ad illos : Negotiamini dum venio. 
+    14: Cives autem ejus oderant eum : et miserunt legationem post illum, dicentes : Nolumus hunc regnare super nos. 
+    15: Et factum est ut rediret accepto regno : et jussit vocari servos, quibus dedit pecuniam, ut sciret quantum quisque negotiatus esset.
+    16: Venit autem primus dicens : Domine, mna tua decem mnas acquisivit. 
+    17: Et ait illi : Euge bone serve, quia in modico fuisti fidelis, eris potestatem habens super decem civitates. 
+    18: Et alter venit, dicens : Domine, mna tua fecit quinque mnas. 
+    19: Et huic ait : Et tu esto super quinque civitates. 
+    20: Et alter venit, dicens : Domine, ecce mna tua, quam habui repositam in sudario :
+    21: timui enim te, quia homo austerus es : tollis quod non posuisti, et metis quod non seminasti. 
+    22: Dicit ei : De ore tuo te judico, serve nequam. Sciebas quod ego homo austerus sum, tollens quod non posui, et metens quod non seminavi : 
+    23: et quare non dedisti pecuniam meam ad mensam, ut ego veniens cum usuris utique exegissem illam? 
+    24: Et astantibus dixit : Auferte ab illo mnam, et date illi qui decem mnas habet. 
+    25: Et dixerunt ei : Domine, habet decem mnas.
+    26: Dico autem vobis, quia omni habenti dabitur, et abundabit : ab eo autem qui non habet, et quod habet auferetur ab eo. 
+    27: Verumtamen inimicos meos illos, qui noluerunt me regnare super se, adducite huc : et interficite ante me. 
+    28: Et his dictis, praecedebat ascendens Jerosolymam. 
+    29: Et factum est, cum appropinquasset ad Bethphage et Bethaniam, ad montem qui vocatur Oliveti, misit duos discipulos suos, 
+    30: dicens : Ite in castellum quod contra est : in quod introeuntes, invenietis pullum asinae alligatum, cui nemo umquam hominum sedit : solvite illum, et adducite.
+    31: Et si quis vos interrogaverit : Quare solvitis? sic dicetis ei : Quia Dominus operam ejus desiderat. 
+    32: Abierunt autem qui missi erant : et invenerunt, sicut dixit illis, stantem pullum. 
+    33: Solventibus autem illis pullum, dixerunt domini ejus ad illos : Quid solvitis pullum? 
+    34: At illi dixerunt : Quia Dominus eum necessarium habet. 
+    35: Et duxerunt illum ad Jesum. Et jacentes vestimenta sua supra pullum, imposuerunt Jesum.
+    36: Eunte autem illo, substernebant vestimenta sua in via : 
+    37: et cum appropinquaret jam ad descensum montis Oliveti, coeperunt omnes turbae discipulorum gaudentes laudare Deum voce magna super omnibus, quas viderant, virtutibus, 
+    38: dicentes : Benedictus, qui venit rex in nomine Domini : pax in caelo, et gloria in excelsis. 
+    39: Et quidam pharisaeorum de turbis dixerunt ad illum : Magister, increpa discipulos tuos. 
+    40: Quibus ipse ait : Dico vobis, quia si hi tacuerint, lapides clamabunt.
+    41: Et ut appropinquavit, videns civitatem flevit super illam, dicens : 
+    42: Quia si cognovisses et tu, et quidem in hac die tua, quae ad pacem tibi : nunc autem abscondita sunt ab oculis tuis. 
+    43: Quia venient dies in te : et circumdabunt te inimici tui vallo, et circumdabunt te : et coangustabunt te undique : 
+    44: et ad terram prosternent te, et filios tuos, qui in te sunt, et non relinquent in te lapidem super lapidem : eo quod non cognoveris tempus visitationis tuae. 
+    45: Et ingressus in templum, coepit ejicere vendentes in illo, et ementes,
+    46: dicens illis : Scriptum est : Quia domus mea domus orationis est : vos autem fecistis illam speluncam latronum. 
+    47: Et erat docens quotidie in templo. Principes autem sacerdotum, et scribae, et princeps plebis quaerebant illum perdere : 
+    48: et non inveniebant quid facerent illi. Omnis enim populus suspensus erat, audiens illum.
+
+  Chapter 20.
+
+    1: Et factum est in una dierum, docente illo populum in templo, et evangelizante, convenerunt principes sacerdotum, et scribae cum senioribus, 
+    2: et aiunt dicentes ad illum : Dic nobis in qua potestate haec facis? aut quis est qui dedit tibi hanc potestatem? 
+    3: Respondens autem Jesus, dixit ad illos : Interrogabo vos et ego unum verbum. Respondete mihi : 
+    4: baptismus Joannis de caelo erat, an ex hominibus? 
+    5: At illi cogitabant intra se, dicentes : Quia si dixerimus : De caelo, dicet : Quare ergo non credidistis illi?
+    6: Si autem dixerimus : Ex hominibus, plebs universa lapidabit nos : certi sunt enim Joannem prophetam esse. 
+    7: Et responderunt se nescire unde esset. 
+    8: Et Jesus ait illis : Neque ego dico vobis in qua potestate haec facio. 
+    9: Coepit autem dicere ad plebem parabolam hanc : Homo plantavit vineam, et locavit eam colonis : et ipse peregre fuit multis temporibus. 
+    10: Et in tempore misit ad cultores servum, ut de fructu vineae darent illi. Qui caesum dimiserunt eum inanem.
+    11: Et addidit alterum servum mittere. Illi autem hunc quoque caedentes, et afficientes contumelia, dimiserunt inanem. 
+    12: Et addidit tertium mittere : qui et illum vulnerantes ejecerunt. 
+    13: Dixit autem dominus vineae : Quid faciam? Mittam filium meum dilectum : forsitan, cum hunc viderint, verebuntur. 
+    14: Quem cum vidissent coloni, cogitaverunt intra se, dicentes : Hic est haeres, occidamus illum, ut nostra fiat haereditas. 
+    15: Et ejectum illum extra vineam, occiderunt. Quid ergo faciet illis dominus vineae?
+    16: veniet, et perdet colonos istos, et dabit vineam aliis. Quo audito, dixerunt illi : Absit. 
+    17: Ille autem aspiciens eos, ait : Quid est ergo hoc quod scriptum est : Lapidem quem reprobaverunt aedificantes, hic factus est in caput anguli? 
+    18: Omnis qui ceciderit super illum lapidem, conquassabitur : super quem autem ceciderit, comminuet illum. 
+    19: Et quaerebant principes sacerdotum et scribae mittere in illum manus illa hora, et timuerunt populum : cognoverunt enim quod ad ipsos dixerit similitudinem hanc. 
+    20: Et observantes miserunt insidiatores, qui se justos simularent, ut caparent eum in sermone, ut traderent illum principatui, et potestati praesidis.
+    21: Et interrogaverunt eum, dicentes : Magister, scimus quia recte dicis et doces : et non accipis personam, sed viam Dei in veritate doces. 
+    22: Licet nobis tributum dare Caesari, an non? 
+    23: Considerans autem dolum illorum, dixit ad eos : Quid me tentatis? 
+    24: ostendite mihi denarium. Cujus habet imaginem et inscriptionem? Respondentes dixerunt ei : Caesaris. 
+    25: Et ait illis : Reddite ergo quae sunt Caesaris, Caesari : et quae sunt Dei, Deo.
+    26: Et non potuerunt verbum ejus reprehendere coram plebe : et mirati in responso ejus, tacuerunt. 
+    27: Accesserunt autem quidam sadducaeorum, qui negant esse resurrectionem, et interrogaverunt eum, 
+    28: dicentes : Magister, Moyses scripsit nobis : Si frater alicujus mortuus fuerit habens uxorem, et hic sine liberis fuerit, ut accipiat eam frater ejus uxorem, et suscitet semen fratri suo. 
+    29: Septem ergo fratres erant : et primus accepit uxorem, et mortuus est sine filiis. 
+    30: Et sequens accepit illam, et ipse mortuus est sine filio.
+    31: Et tertius accepit illam. Similiter et omnes septem, et non reliquerunt semen, et mortui sunt. 
+    32: Novissime omnium mortua est et mulier. 
+    33: In resurrectione ergo, cujus eorum erit uxor? siquidem septem habuerunt eam uxorem. 
+    34: Et ait illis Jesus : Filii hujus saeculi nubunt, et traduntur ad nuptias : 
+    35: illi vero qui digni habebuntur saeculo illo, et resurrectione ex mortuis, neque nubent, neque ducent uxores :
+    36: neque enim ultra mori potuerunt : aequales enim angelis sunt, et filii sunt Dei, cum sint filii resurrectionis. 
+    37: Quia vero resurgant mortui, et Moyses ostendit secus rubum, sicut dicit Dominum, Deum Abraham, et Deum Isaac, et Deum Jacob. 
+    38: Deus autem non est mortuorum, sed vivorum : omnes enim vivunt ei. 
+    39: Respondentes autem quidam scribarum, dixerunt ei : Magister, bene dixisti. 
+    40: Et amplius non audebant eum quidquam interrogare.
+    41: Dixit autem ad illos : Quomodo dicunt Christum filium esse David? 
+    42: et ipse David dicit in libro Psalmorum : Dixit Dominus Domino meo : sede a dextris meis, 
+    43: donec ponam inimicos tuos scabellum pedum tuorum. 
+    44: David ergo Dominum illum vocat : et quomodo filius ejus est? 
+    45: Audiente autem omni populo, dixit discipulis suis :
+    46: Attendite a scribis, qui volunt ambulare in stolis, et amant salutationes in foro, et primas cathedras in synagogis, et primos discubitus in conviviis, 
+    47: qui devorant domos viduarum, simulantes longam orationem : hi accipient damnationem majorem.
+
+End of day 299.

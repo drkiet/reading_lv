@@ -1,0 +1,148 @@
+Day 169:
+
+Reading Psalms, chapters ['101', '102', '103', '104']:
+
+  Chapter 101.
+
+    1: Oratio pauperis, cum anxius fuerit, et in conspectu Domini effuderit precem suam. 
+    2: Domine, exaudi orationem meam, et clamor meus ad te veniat. 
+    3: Non avertas faciem tuam a me; in quacumque die tribulor, inclina ad me aurem tuam; in quacumque die invocavero te, velociter exaudi me. 
+    4: Quia defecerunt sicut fumus dies mei, et ossa mea sicut cremium aruerunt. 
+    5: Percussus sum ut foenum, et aruit cor meum, quia oblitus sum comedere panem meum.
+    6: A voce gemitus mei adhaesit os meum carni meae. 
+    7: Similis factus sum pellicano solitudinis; factus sum sicut nycticorax in domicilio. 
+    8: Vigilavi, et factus sum sicut passer solitarius in tecto. 
+    9: Tota die exprobrabant mihi inimici mei, et qui laudabant me adversum me jurabant : 
+    10: quia cinerem tamquam panem manducabam, et potum meum cum fletu miscebam;
+    11: a facie irae et indignationis tuae, quia elevans allisisti me. 
+    12: Dies mei sicut umbra declinaverunt, et ego sicut foenum arui. 
+    13: Tu autem, Domine, in aeternum permanes, et memoriale tuum in generationem et generationem. 
+    14: Tu exsurgens misereberis Sion, quia tempus miserendi ejus, quia venit tempus; 
+    15: quoniam placuerunt servis tuis lapides ejus, et terrae ejus miserebuntur.
+    16: Et timebunt gentes nomen tuum, Domine, et omnes reges terrae gloriam tuam; 
+    17: quia aedificavit Dominus Sion, et videbitur in gloria sua. 
+    18: Respexit in orationem humilium et non sprevit precem eorum. 
+    19: Scribantur haec in generatione altera, et populus qui creabitur laudabit Dominum. 
+    20: Quia prospexit de excelso sancto suo, Dominus de caelo in terram aspexit;
+    21: ut audiret gemitus compeditorum, ut solveret filios interemptorum; 
+    22: ut annuntient in Sion nomen Domini, et laudem ejus in Jerusalem, 
+    23: in conveniendo populos in unum, et reges ut serviant Domino. 
+    24: Respondit ei in via virtutis suae : Paucitatem dierum meorum nuntia mihi : 
+    25: ne revoces me in dimidio dierum meorum, in generationem et generationem anni tui.
+    26: Initio tu, Domine, terram fundasti, et opera manuum tuarum sunt caeli. 
+    27: Ipsi peribunt, tu autem permanes; et omnes sicut vestimentum veterascent. Et sicut opertorium mutabis eos, et mutabuntur; 
+    28: tu autem idem ipse es, et anni tui non deficient. 
+    29: Filii servorum tuorum habitabunt; et semen eorum in saeculum dirigetur.
+
+  Chapter 102.
+
+    1: Ipsi David. Benedic, anima mea, Domino, et omnia quae intra me sunt nomini sancto ejus. 
+    2: Benedic, anima mea, Domino, et noli oblivisci omnes retributiones ejus; 
+    3: qui propitiatur omnibus iniquitatibus tuis, qui sanat omnes infirmitates tuas; 
+    4: qui redimit de interitu vitam tuam, qui coronat te in misericordia et miserationibus; 
+    5: qui replet in bonis desiderium tuum : renovabitur ut aquilae juventus tua.
+    6: Faciens misericordias Dominus, et judicium omnibus injuriam patientibus. 
+    7: Notas fecit vias suas Moysi, filiis Israel voluntates suas. 
+    8: Miserator et misericors Dominus, longanimis, et multum misericors. 
+    9: Non in perpetuum irascetur, neque in aeternum comminabitur. 
+    10: Non secundum peccata nostra fecit nobis, neque secundum iniquitates nostras retribuit nobis.
+    11: Quoniam secundum altitudinem caeli a terra, corroboravit misericordiam suam super timentes se; 
+    12: quantum distat ortus ab occidente, longe fecit a nobis iniquitates nostras. 
+    13: Quomodo miseretur pater filiorum, misertus est Dominus timentibus se. 
+    14: Quoniam ipse cognovit figmentum nostrum; recordatus est quoniam pulvis sumus. 
+    15: Homo, sicut foenum dies ejus; tamquam flos agri, sic efflorebit :
+    16: quoniam spiritus pertransibit in illo, et non subsistet : et non cognoscet amplius locum suum. 
+    17: Misericordia autem Domini ab aeterno, et usque in aeternum super timentes eum. Et justitia illius in filios filiorum, 
+    18: his qui servant testamentum ejus, et memores sunt mandatorum ipsius ad faciendum ea. 
+    19: Dominus in caelo paravit sedem suam, et regnum ipsius omnibus dominabitur. 
+    20: Benedicite Domino, omnes angeli ejus, potentes virtute, facientes verbum illius, ad audiendam vocem sermonum ejus.
+    21: Benedicite Domino, omnes virtutes ejus, ministri ejus, qui facitis voluntatem ejus. 
+    22: Benedicite Domino, omnia opera ejus, in omni loco dominationis ejus. Benedic, anima mea, Domino.
+
+  Chapter 103.
+
+    1: Ipsi David. Benedic, anima mea, Domino : Domine Deus meus, magnificatus es vehementer. Confessionem et decorem induisti, 
+    2: amictus lumine sicut vestimento. Extendens caelum sicut pellem, 
+    3: qui tegis aquis superiora ejus; qui ponis nubem ascensum tuum, qui ambulas super pennas ventorum; 
+    4: qui facis angelos tuos spiritus, et ministros tuos ignem urentem. 
+    5: Qui fundasti terram super stabilitatem suam, non inclinabitur in saeculum saeculi.
+    6: Abyssus sicut vestimentum amictus ejus; super montes stabunt aquae. 
+    7: Ab increpatione tua fugient, a voce tonitrui tui formidabunt. 
+    8: Ascendunt montes, et descendunt campi in locum quem fundasti eis. 
+    9: Terminum posuisti quem non transgredientur; neque convertentur operire terram. 
+    10: Qui emittis fontes in convallibus; inter medium montium pertransibunt aquae.
+    11: Potabunt omnes bestiae agri; expectabunt onagri in siti sua. 
+    12: Super ea volucres caeli habitabunt; de medio petrarum dabunt voces. 
+    13: Rigans montes de superioribus suis; de fructu operum tuorum satiabitur terra; 
+    14: producens foenum jumentis, et herbam servituti hominum : ut educas panem de terra. 
+    15: Et vinum laetificet cor hominis; ut exhilaret faciem in oleo, et panis cor hominis confirmet.
+    16: Saturabuntur ligna campi, et cedri Libani quas plantavit; 
+    17: illic passeres nidificabunt, herodii domus dux est eorum; 
+    18: montes excelsi cervis, petra refugium herinaciis. 
+    19: Fecit lunam in tempora; sol cognovit occasum suum. 
+    20: Posuisti tenebras, et facta est nox; in ipsa pertransibunt omnes bestiae silvae;
+    21: catuli leonum rugientes ut rapiant, et quaerant a Deo escam sibi. 
+    22: Ortus est sol, et congregati sunt, et in cubilibus suis collocabuntur. 
+    23: Exibit homo ad opus suum, et ad operationem suam usque ad vesperum. 
+    24: Quam magnificata sunt opera tua, Domine! omnia in sapientia fecisti; impleta est terra possessione tua. 
+    25: Hoc mare magnum et spatiosum manibus; illic reptilia quorum non est numerus, animalia pusilla cum magnis.
+    26: Illic naves pertransibunt; draco iste quem formasti ad illudendum ei. 
+    27: Omnia a te expectant ut des illis escam in tempore. 
+    28: Dante te illis, colligent; aperiente te manum tuam, omnia implebuntur bonitate. 
+    29: Avertente autem te faciem, turbabuntur; auferes spiritum eorum, et deficient, et in pulverem suum revertentur. 
+    30: Emittes spiritum tuum, et creabuntur; et renovabis faciem terrae.
+    31: Sit gloria Domini in saeculum; laetabitur Dominus in operibus suis. 
+    32: Qui respicit terram, et facit eam tremere; qui tangit montes, et fumigant. 
+    33: Cantabo Domino in vita mea; psallam Deo meo quamdiu sum. 
+    34: Jucundum sit ei eloquium meum; ego vero delectabor in Domino. 
+    35: Deficiant peccatores a terra, et iniqui, ita ut non sint. Benedic, anima mea, Domino.
+
+  Chapter 104.
+
+    1: Alleluja. Confitemini Domino, et invocate nomen ejus; annuntiate inter gentes opera ejus. 
+    2: Cantate ei, et psallite ei; narrate omnia mirabilia ejus. 
+    3: Laudamini in nomine sancto ejus; laetetur cor quaerentium Dominum. 
+    4: Quaerite Dominum, et confirmamini; quaerite faciem ejus semper. 
+    5: Mementote mirabilium ejus quae fecit, prodigia ejus, et judicia oris ejus.
+    6: Semen Abraham, servi ejus; filii Jacob, electi ejus. 
+    7: Ipse Dominus Deus noster; in universa terra judicia ejus. 
+    8: Memor fuit in saeculum testamenti sui; verbi quod mandavit in mille generationes; 
+    9: quod disposuit ad Abraham, et juramenti sui ad Isaac; 
+    10: et statuit illud Jacob in praeceptum, et Israel in testamentum aeternum :
+    11: dicens : Tibi dabo terram Chanaan, funiculum haereditatis vestrae; 
+    12: cum essent numero brevi, paucissimi et incolae ejus. 
+    13: Et pertransierunt de gente in gentem, et de regno ad populum alterum. 
+    14: Non reliquit hominem nocere eis; et corripuit pro eis reges. 
+    15: Nolite tangere christos meos, et in prophetis meis nolite malignari.
+    16: Et vocavit famem super terram; et omne firmamentum panis contrivit. 
+    17: Misit ante eos virum; in servum venundatus est Joseph. 
+    18: Humiliaverunt in compedibus pedes ejus; ferrum pertransiit animam ejus; 
+    19: donec veniret verbum ejus, eloquium Domini inflammavit eum. 
+    20: Misit rex, et solvit eum; princeps populorum, et dimisit eum.
+    21: Constituit eum dominum domus suae, et principem omnis possessionis suae; 
+    22: ut erudiret principes ejus sicut semetipsum, et senes ejus prudentiam doceret. 
+    23: Et intravit Israel in Aegyptum; et Jacob accola fuit in terra Cham. 
+    24: Et auxit populum suum vehementer, et firmavit eum super inimicos ejus. 
+    25: Convertit cor eorum, ut odirent populum ejus, et dolum facerent in servos ejus.
+    26: Misit Moysen, servum suum, Aaron quem elegit ipsum. 
+    27: Posuit in eis verba signorum suorum, et prodigiorum in terra Cham. 
+    28: Misit tenebras, et obscuravit; et non exacerbavit sermones suos. 
+    29: Convertit aquas eorum in sanguinem, et occidit pisces eorum. 
+    30: Edidit terra eorum ranas in penetralibus regum ipsorum.
+    31: Dixit, et venit coenomyia, et ciniphes in omnibus finibus eorum. 
+    32: Posuit pluvias eorum grandinem, ignem comburentem in terra ipsorum. 
+    33: Et percussit vineas eorum, et ficulneas eorum, et contrivit lignum finium eorum. 
+    34: Dixit, et venit locusta, et bruchus cujus non erat numerus; 
+    35: et comedit omne foenum in terra eorum; et comedit omnem fructum terrae eorum.
+    36: Et percussit omne primogenitum in terra eorum, primitias omnis laboris eorum. 
+    37: Et eduxit eos cum argento et auro, et non erat in tribubus eorum infirmus. 
+    38: Laetata est Aegyptus in profectione eorum, quia incubuit timor eorum super eos. 
+    39: Expandit nubem in protectionem eorum, et ignem ut luceret eis per noctem. 
+    40: Petierunt, et venit coturnix, et pane caeli saturavit eos.
+    41: Dirupit petram, et fluxerunt aquae, abierunt in sicco flumina; 
+    42: quoniam memor fuit verbi sancti sui, quod habuit ad Abraham, puerum suum. 
+    43: Et eduxit populum suum in exsultatione, et electos suos in laetitia. 
+    44: Et dedit illis regiones gentium, et labores populorum possederunt : 
+    45: ut custodiant justificationes ejus, et legem ejus requirant.
+
+End of day 169.

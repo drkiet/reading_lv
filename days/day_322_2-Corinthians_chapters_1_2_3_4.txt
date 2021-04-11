@@ -1,0 +1,93 @@
+Day 322:
+
+Reading 2-Corinthians, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Paulus, Apostolus Jesu Christi per voluntatem Dei, et Timotheus frater, ecclesiae Dei, quae est Corinthi cum omnibus sanctis, qui sunt in universa Achaia. 
+    2: Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo. 
+    3: Benedictus Deus et Pater Domini nostri Jesu Christi, Pater misericordiarum, et Deus totius consolationis, 
+    4: qui consolatur nos in omni tribulatione nostra : ut possimus et ipsi consolari eos qui in omni pressura sunt, per exhortationem, qua exhortamur et ipsi a Deo. 
+    5: Quoniam sicut abundant passiones Christi in nobis : ita et per Christum abundat consolatio nostra.
+    6: Sive autem tribulamur pro vestra exhortatione et salute, sive consolamur pro vestra consolatione, sive exhortamur pro vestra exhortatione et salute, quae operatur tolerantiam earumdem passionum, quas et nos patimur : 
+    7: ut spes nostra firma sit pro vobis : scientes quod sicut socii passionum estis, sic eritis et consolationis. 
+    8: Non enim volumus ignorare vos, fratres, de tribulatione nostra, quae facta est in Asia, quoniam supra modum gravati sumus supra virtutem, ita ut taederet nos etiam vivere. 
+    9: Sed ipsi in nobismetipsis responsum mortis habuimus, ut non simus fidentes in mortuos, sed in Deo, qui suscitat mortuos : 
+    10: qui de tantis periculis nos eripuit, et eruit : in quem speramus quoniam et adhuc eripiet,
+    11: adjuvantibus et vobis in oratione pro nobis : ut ex multorum personis, ejus quae in nobis est donationis, per multos gratiae agantur pro nobis. 
+    12: Nam gloria nostra haec est : testimonium conscientiae nostrae, quod in simplicitate cordis et sinceritate Dei, et non in sapientia carnali, sed in gratia Dei, conversati sumus in hoc mundo : abundantius autem ad vos. 
+    13: Non enim alia scribimus vobis, quam quae legistis, et cognovistis. Spero autem quod usque in finem cognoscetis, 
+    14: sicut et cognovistis nos ex parte, quod gloria vestra sumus, sicut et vos nostra, in die Domini nostri Jesu Christi. 
+    15: Et hac confidentia volui prius venire ad vos, ut secundum gratiam haberetis :
+    16: et per vos transire in Macedoniam, et iterum a Macedonia venire ad vos, et a vobis deduci in Judaeam. 
+    17: Cum ergo hoc voluissem, numquid levitate usus sum? aut quae cogito, secundum carnem cogito, ut sit apud me Est et Non? 
+    18: Fidelis autem Deus, quia sermo noster, qui fuit apud vos, non est in illo Est et Non. 
+    19: Dei enim Filius Jesus Christus, qui in vobis per nos praedicatus est, per me, et Silvanum, et Timotheum, non fuit Est et Non, sed Est in illo fuit. 
+    20: Quotquot enim promissiones Dei sunt, in illo Est : ideo et per ipsum Amen Deo ad gloriam nostram.
+    21: Qui autem confirmat nos vobiscum in Christo, et qui unxit nos Deus : 
+    22: qui et signavit nos, et dedit pignus Spiritus in cordibus nostris. 
+    23: Ego autem testem Deum invoco in animam meam, quod parcens vobis, non veni ultra Corinthum : non quia dominamur fidei vestae, sed adjutores sumus gaudii vestri : nam fide statis.
+
+  Chapter 2.
+
+    1: Statui autem hoc ipsum apud me, ne iterum in tristitia venirem ad vos. 
+    2: Si enim ego contristo vos : et quis est, qui me laetificet, nisi qui contristatur ex me? 
+    3: Et hoc ipsum scripsi vobis, ut non cum venero, tristitiam super tristitiam habeam, de quibus oportuerat me gaudere : confidens in omnibus vobis, quia meum gaudium, omnium vestrum est. 
+    4: Nam ex multa tribulatione et angustia cordis scripsi vobis per multas lacrimas : non ut contristemini, sed ut sciatis, quam caritatem habeam abundantius in vobis. 
+    5: Si quis autem contristavit, non me contristavit : sed ex parte, ut non onerem omnes vos.
+    6: Sufficit illi, qui ejusmodi est, objurgatio haec, quae fit a pluribus : 
+    7: ita ut e contrario magis donetis, et consolemini, ne forte abundantiori tristitia absorbeatur qui ejusmodi est. 
+    8: Propter quod obsecro vos, ut confirmetis in illum caritatem. 
+    9: Ideo enim et scripsi, ut cognoscam experimentum vestrum, an in omnibus obedientes sitis. 
+    10: Cui autem aliquid donastis, et ego : nam et ego quod donavi, si quid donavi, propter vos in persona Christi,
+    11: ut non circumveniamur a Satana : non enim ignoramus cogitationes ejus. 
+    12: Cum venissem autem Troadem propter Evangelium Christi, et ostium mihi apertum esset in Domino, 
+    13: non habui requiem spiritui meo, eo quod non invenerim Titum fratrem meum, sed valefaciens eis, profectus sum in Macedoniam. 
+    14: Deo autem gratias, qui semper triumphat nos in Christo Jesu, et odorem notitiae suae manifestat per nos in omni loco : 
+    15: quia Christi bonus odor sumus Deo in iis qui salvi fiunt, et in his qui pereunt :
+    16: aliis quidem odor mortis in mortem : aliis autem odor vitae in vitam. Et ad haec quis tam idoneus? 
+    17: non enim sumus sicut plurimi, adulterantes verbum Dei, sed ex sinceritate, sed sicut ex Deo, coram Deo, in Christo loquimur.
+
+  Chapter 3.
+
+    1: Incipimus iterum nosmetipsos commendare? aut numquid egemus ( sicut quidam) commendatiis epistolis ad vos, aut ex vobis? 
+    2: Epistola nostra vos estis, scripta in cordibus nostris, quae scitur, et legitur ab omnibus hominibus : 
+    3: manifestati quod epistola estis Christi, ministrata a nobis, et scripta non atramento, sed Spiritu Dei vivi : non in tabulis lapideis, sed in tabulis cordis carnalibus. 
+    4: Fiduciam autem talem habemus per Christum ad Deum : 
+    5: non quod sufficientes simus cogitare aliquid a nobis, quasi ex nobis : sed sufficientia nostra ex Deo est :
+    6: qui et idoneos nos fecit ministros novi testamenti : non littera, sed Spiritu : littera enim occidit, Spiritus autem vivificat. 
+    7: Quod si ministratio mortis litteris deformata in lapidibus fuit in gloria, ita ut non possent intendere filii Israel in faciem Moysi propter gloriam vultus ejus, quae evacuatur : 
+    8: quomodo non magis ministratio Spiritus erit in gloria? 
+    9: Nam si ministratio damnationis gloria est : multo magis abundat ministerium justitiae in gloria. 
+    10: Nam nec glorificatum est, quod claruit in hac parte, propter excellentem gloriam.
+    11: Si enim quod evacuatur, per gloriam est : multo magis quod manet, in gloria est. 
+    12: Habentes igitur talem spem, multa fiducia utimur : 
+    13: et non sicut Moyses ponebat velamen super faciem suam, ut non intenderent filii Israel in faciem ejus, quod evacuatur, 
+    14: sed obtusi sunt sensus eorum. Usque in hodiernum enim diem, idipsum velamen in lectione veteris testamenti manet non revelatum ( quoniam in Christo evacuatur), 
+    15: sed usque in hodiernum diem, cum legitur Moyses, velamen positum est super cor eorum.
+    16: Cum autem conversus fuerit ad Dominum, auferetur velamen. 
+    17: Dominus autem Spiritus est : ubi autem Spiritus Domini, ibi libertas. 
+    18: Nos vero omnes, revelata facie gloriam Domini speculantes, in eamdem imaginem transformamur a claritate in claritatem, tamquam a Domini Spiritu.
+
+  Chapter 4.
+
+    1: Ideo habentes administrationem, juxta quod misericordiam consecuti sumus, non deficimus, 
+    2: sed abdicamus occulta dedecoris, non ambulantes in astutia, neque adulterantes verbum Dei, sed in manifestatione veritatis commendantes nosmetipsos ad omnem conscientiam hominum coram Deo. 
+    3: Quod si etiam opertum est Evangelium nostrum, in iis, qui pereunt, est opertum : 
+    4: in quibus Deus hujus saeculi excaecavit mentes infidelium, ut non fulgeat illis illuminatio Evangelii gloriae Christi, qui est imago Dei. 
+    5: Non enim nosmetipsos praedicamus, sed Jesum Christum Dominum nostrum : nos autem servos vestros per Jesum :
+    6: quoniam Deus, qui dixit de tenebris lucem splendescere, ipse illuxit in cordibus nostris ad illuminationem scientiae claritatis Dei, in facie Christi Jesu. 
+    7: Habemus autem thesaurum istum in vasis fictilibus : ut sublimitas sit virtutis Dei, et non ex nobis. 
+    8: In omnibus tribulationem patimur, sed non angustiamur : aporiamur, sed non destituimur : 
+    9: persecutionem patimur, sed non derelinquimur : dejicimur, sed non perimus : 
+    10: semper mortificationem Jesu in corpore nostro circumferentes, ut et vita Jesu manifestetur in corporibus nostris.
+    11: Semper enim nos, qui vivimus, in mortem tradimur propter Jesum : ut et vita Jesu manifestetur in carne nostra mortali. 
+    12: Ergo mors in nobis operatur, vita autem in vobis. 
+    13: Habentes autem eumdem spiritum fidei, sicut scriptum est : Credidi, propter quod locutus sum : et nos credimus, propter quod et loquimur : 
+    14: scientes quoniam qui suscitavit Jesum, et nos cum Jesu suscitabit, et constituet vobiscum. 
+    15: Omnia enim propter vos : ut gratia abundans, per multos in gratiarum actione, abundet in gloriam Dei.
+    16: Propter quod non deficimus : sed licet is, qui foris est, noster homo corrumpatur, tamen is, qui intus est, renovatur de die in diem. 
+    17: Id enim, quod in praesenti est momentaneum et leve tribulationis nostrae, supra modum in sublimitate aeternum gloriae pondus operatur in nobis, 
+    18: non contemplantibus nobis quae videntur, sed quae non videntur. Quae enim videntur, temporalia sunt : quae autem non videntur, aeterna sunt.
+
+End of day 322.

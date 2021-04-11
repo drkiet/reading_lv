@@ -1,0 +1,151 @@
+Day 313:
+
+Reading Acts, chapters ['25', '26', '27', '28']:
+
+  Chapter 25.
+
+    1: Festus ergo cum venisset in provinciam, post triduum ascendit Jerosolymam a Caesarea. 
+    2: Adieruntque eum principes sacerdotum, et primi Judaeorum adversus Paulum : et rogabant eum, 
+    3: postulantes gratiam adversus eum, ut juberet perduci eum in Jerusalem, insidias tendentes ut interficerent eum in via. 
+    4: Festus autem respondit servari Paulum in Caesarea : se autem maturius profecturum. 
+    5: Qui ergo in vobis, ait, potentes sunt, descendentes simul, si quod est in viro crimen, accusent eum.
+    6: Demoratus autem inter eos dies non amplius quam octo, aut decem, descendit Caesaream, et altera die sedit pro tribunali, et jussit Paulum adduci. 
+    7: Qui cum perductus esset, circumsteterunt eum, qui ab Jerosolyma descenderant Judaei, multas et graves causas objicientes, quas non poterant probare. 
+    8: Paulo rationem reddente : Quoniam neque in legem Judaeorum, neque in templum, neque in Caesarem quidquam peccavi. 
+    9: Festus autem volens gratiam praestare Judaeis, respondens Paulo, dixit : Vis Jerosolymam ascendere, et ibi de his judicari apud me? 
+    10: Dixit autem Paulus : Ad tribunal Caesaris sto, ibi me oportet judicari : Judaeis non nocui, sicut tu melius nosti.
+    11: Si enim nocui, aut dignum morte aliquid feci, non recuso mori : si vero nihil est eorum quae hi accusant me, nemo potest me illis donare. Caesarem appello. 
+    12: Tunc Festus cum concilio locutus, respondit : Caesarem appellasti? ad Caesarem ibis. 
+    13: Et cum dies aliquot transacti essent, Agrippa rex et Bernice descenderunt Caesaream ad salutandum Festum. 
+    14: Et cum dies plures ibi demorarentur, Festus regi indicavit de Paulo, dicens : Vir quidam est derelictus a Felice vinctus, 
+    15: de quo cum essem Jerosolymis, adierunt me principes sacerdotum, et seniores Judaeorum, postulantes adversus illum damnationem.
+    16: Ad quos respondi : Quia non est Romanis consuetudo damnare aliquem hominem prius quam is qui accusatur praesentes habeat accusatores, locumque defendendi accipiat ad abluenda crimina. 
+    17: Cum ergo huc convenissent sine ulla dilatione, sequenti die sedens pro tribunali, jussi adduci virum. 
+    18: De quo, cum stetissent accusatores, nullam causam deferebant, de quibus ego suspicabar malum. 
+    19: Quaestiones vero quasdam de sua superstitione habebant adversus eum, et de quodam Jesu defuncto, quem affirmabat Paulus vivere. 
+    20: Haesitans autem ego de hujusmodi quaestione, dicebam si vellet ire Jerosolymam, et ibi judicari de istis.
+    21: Paulo autem appellante ut servaretur ad Augusti cognitionem, jussi servari eum, donec mittam eum ad Caesarem. 
+    22: Agrippa autem dixit ad Festum : Volebam et ipse hominem audire. Cras, inquit, audies eum. 
+    23: Altera autem die cum venisset Agrippa, et Bernice cum multa ambitione, et introissent in auditorium cum tribunis, et viris principalibus civitatis, jubente Festo, adductus est Paulus. 
+    24: Et dicit Festus : Agrippa rex, et omnes qui simul adestis nobiscum viri, videtis hunc de quo omnis multitudo Judaeorum interpellavit me Jerosolymis, petentes et acclamantes non oportere eum vivere amplius. 
+    25: Ego vere comperi nihil dignum morte eum admisisse. Ipso autem hoc appellante ad Augustum, judicavi mittere.
+    26: De quo quid certum scribam domino, non habeo. Propter quod produxi eum ad vos, et maxime ad te, rex Agrippa, ut interrogatione facta habeam quid scribam. 
+    27: Sine ratione enim mihi videtur mittere vinctum, et causas ejus non significare.
+
+  Chapter 26.
+
+    1: Agrippa vero ad Paulum ait : Permittitur tibi loqui pro temetipso. Tunc Paulus extenta manu coepit rationem reddere. 
+    2: De omnibus quibus accusor a Judaeis, rex Agrippa, aestimo me beatum apud te cum sim defensurus me hodie, 
+    3: maxime te sciente omnia, et quae apud Judaeos sunt consuetudines, et quaestiones : propter quod obsecro patienter me audias. 
+    4: Et quidem vitam meam a juventute, quae ab initio fuit in gente mea in Jerosolymis, noverunt omnes Judaei : 
+    5: praescientes me ab initio ( si velint testimonium perhibere) quoniam secundum certissimam sectam nostrae religionis vixi pharisaeus.
+    6: Et nunc in spe, quae ad patres nostros repromissionis facta est a Deo, sto judicio subjectus : 
+    7: in quam duodecim tribus nostrae nocte ac die deservientes, sperant devenire. De qua spe accusor a Judaeis, rex. 
+    8: Quid incredibile judicatur apud vos, si Deus mortuos suscitat? 
+    9: Et ego quidem existimaveram me adversus nomen Jesu Nazareni debere multa contraria agere, 
+    10: quod et feci Jerosolymis, et multos sanctorum ego in carceribus inclusi, a principibus sacerdotum potestate accepta : et cum occiderentur, detuli sententiam.
+    11: Et per omnes synagogas frequenter puniens eos, compellebam blasphemare : et amplius insaniens in eos, persequebar usque in exteras civitates. 
+    12: In quibus dum irem Damascum cum potestate et permissu principum sacerdotum, 
+    13: die media in via, vidi, rex, de caelo supra splendorem solis circumfulsisse me lumen, et eos qui mecum simul erant. 
+    14: Omnesque nos cum decidissemus in terram, audivi vocem loquentem mihi hebraica lingua : Saule, Saule, quid me persequeris? durum est tibi contra stimulum calcitrare. 
+    15: Ego autem dixi : Quis es, Domine? Dominus autem dixit : Ego sum Jesus, quem tu persequeris.
+    16: Sed exsurge, et sta super pedes tuos : ad hoc enim apparui tibi, ut constituam te ministrum, et testem eorum, quae vidisti, et eorum quibus apparebo tibi, 
+    17: eripiens te de populo, et gentibus, in quas nunc ego mitto te, 
+    18: aperire oculos eorum, ut convertantur a tenebris ad lucem, et de potestate Satanae ad Deum, ut accipiant remissionem peccatorum, et sortem inter sanctos per fidem, quae est in me. 
+    19: Unde rex Agrippa, non fui incredulus caelesti visioni; 
+    20: sed his qui sunt Damasci primum, et Jerosolymis, et in omnem regionem Judaeae, et gentibus annuntiabam, ut poenitentiam agerent, et converterentur ad Deum, digna poenitentiae opera facientes.
+    21: Hac ex causa me Judaei, cum essem in templo, comprehensum tentabant interficere. 
+    22: Auxilio autem adjutus Dei usque in hodiernum diem sto, testificans minori, atque majori, nihil extra dicens quam ea quae prophetae locuti sunt futura esse, et Moyses, 
+    23: si passibilis Christus, si primus ex resurrectione mortuorum, lumen annuntiaturus est populo et gentibus. 
+    24: Haec loquente eo, et rationem reddente, Festus magna voce dixit : Insanis Paule : multae te litterae ad insaniam convertunt. 
+    25: Et Paulus : Non insanio, inquit, optime Feste, sed veritatis et sobrietatis verba loquor.
+    26: Scit enim de his rex, ad quem et constanter loquor : latere enim eum nihil horum arbitror. Neque enim in angulo quidquam horum gestum est. 
+    27: Credis rex Agrippa prophetis? Scio quia credis. 
+    28: Agrippa autem ad Paulum : In modico suades me christianum fieri. 
+    29: Et Paulus : Opto apud Deum, et in modico, et in magno, non tantum te, sed etiam omnes qui audiunt, hodie fieri tales, qualis et ego sum, exceptis vinculis his. 
+    30: Et exsurrexit rex, et praeses, et Bernice, et qui assidebant eis.
+    31: Et cum secessissent, loquebantur ad invicem, dicentes : Quia nihil morte, aut vinculis dignum quid fecit homo iste. 
+    32: Agrippa autem Festo dixit : Dimitti poterat homo hic, si non appellasset Caesarem.
+
+  Chapter 27.
+
+    1: Ut autem judicatum est navigare eum in Italiam, et tradi Paulum cum reliquis custodiis centurioni nomine Julio cohortis Augustae, 
+    2: ascendentes navem Adrumetinam, incipientes navigare circa Asiae loca, sustulimus, perseverante nobiscum Aristarcho Macedone Thessalonicensi. 
+    3: Sequenti autem die devenimus Sidonem. Humane autem tractans Julius Paulum, permisit ad amicos ire, et curam sui agere. 
+    4: Et inde cum sustulissemus, subnavigavimus Cyprum, propterea quod essent venti contrarii. 
+    5: Et pelagus Ciliciae et Pamphyliae navigantes, venimus Lystram, quae est Lyciae :
+    6: et ibi inveniens centurio navem Alexandrinam navigantem in Italiam, transposuit nos in eam. 
+    7: Et cum multis diebus tarde navigaremus, et vix devenissemus contra Gnidum, prohibente nos vento, adnavigavimus Cretae juxta Salmonem : 
+    8: et vix juxta navigantes, venimus in locum quemdam qui vocatur Boniportus, cui juxta erat civitas Thalassa. 
+    9: Multo autem tempore peracto, et cum jam non esset tuta navigatio, eo quod et jejunium jam praeteriisset, consolabatur eos Paulus, 
+    10: dicens eis : Viri, video quoniam cum injuria et multo damno non solum oneris, et navis, sed etiam animarum nostrarum incipit esse navigatio.
+    11: Centurio autem gubernatori et nauclero magis credebat, quam his quae a Paulo dicebantur. 
+    12: Et cum aptus portus non esset ad hiemandum, plurimi statuerunt consilium navigare inde, si quomodo possent, devenientes Phoenicen, hiemare, portum Cretae respicientem ad Africum et ad Corum. 
+    13: Aspirante autem austro, aestimantes propositum se tenere, cum sustulissent de Asson, legebant Cretam. 
+    14: Non post multum autem misit se contra ipsam ventus typhonicus, qui vocatur Euroaquilo. 
+    15: Cumque arrepta esset navis, et non posset conari in ventum, data nave flatibus, ferebamur.
+    16: In insulam autem quamdam decurrentes, quae vocatur Cauda, potuimus vix obtinere scapham. 
+    17: Qua sublata, adjutoriis utebantur, accingentes navem, timentes ne in Syrtim inciderent, summisso vase sic ferebantur. 
+    18: Valida autem nobis tempestate jactatis, sequenti die jactum fecerunt : 
+    19: et tertia die suis manibus armamenta navis projecerunt. 
+    20: Neque autem sole, neque sideribus apparentibus per plures dies, et tempestate non exigua imminente, jam ablata erat spes omnis salutis nostrae.
+    21: Et cum multa jejunatio fuisset, tunc stans Paulus in medio eorum, dixit : Oportebat quidem, o viri, audito me, non tollere a Creta, lucrique facere injuriam hanc et jacturam. 
+    22: Et nunc suadeo vobis bono animo esse : amissio enim nullius animae erit ex vobis, praeterquam navis. 
+    23: Astitit enim mihi hac nocte angelus Dei, cujus sum ego, et cui deservio, 
+    24: dicens : Ne timeas Paule, Caesari te oportet assistere : et ecce donavit tibi Deus omnes qui navigant tecum. 
+    25: Propter quod bono animo estote viri : credo enim Deo, quia sic erit, quemadmodum dictum est mihi.
+    26: In insulam autem quamdam oportet nos devenire. 
+    27: Sed posteaquam quartadecima nox supervenit, navigantibus nobis in Adria circa mediam noctem, suspicabantur nautae apparere sibi aliquam regionem. 
+    28: Qui et summittentes bolidem, invenerunt passus viginti : et pusillum inde separati, invenerunt passus quindecim. 
+    29: Timentes autem ne in aspera loca incideremus, de puppi mittentes anchoras quatuor, optabant diem fieri. 
+    30: Nautis vero quaerentibus fugere de navi, cum misissent scapham in mare, sub obtentu quasi inciperent a prora anchoras extendere,
+    31: dixit Paulus centurioni et militibus : Nisi hi in navi manserint, vos salvi fieri non potestis. 
+    32: Tunc absciderunt milites funes scaphae, et passi sunt eam excidere. 
+    33: Et cum lux inciperet fieri, rogabat Paulus omnes sumere cibum, dicens : Quartadecima die hodie exspectantes jejuni permanetis, nihil accipientes. 
+    34: Propter quod rogo vos accipere cibum pro salute vestra : quia nullius vestrum capillus de capite peribit. 
+    35: Et cum haec dixisset, sumens panem, gratias egit Deo in conspectu omnium : et cum fregisset, coepit manducare.
+    36: Animaequiores autem facti omnes, et ipsi sumpserunt cibum. 
+    37: Eramus vero universae animae in navi ducentae septuaginta sex. 
+    38: Et satiati cibo alleviabant navem, jactantes triticum in mare. 
+    39: Cum autem dies factus esset, terram non agnoscebant : sinum vero quemdam considerabant habentem littus, in quem cogitabant si possent ejicere navem. 
+    40: Et cum anchoras sustulissent, committebant se mari, simul laxantes juncturas gubernaculorum : et levato artemone secundum aurae flatum, tendebant ad littus.
+    41: Et cum incidissemus in locum dithalassum, impegerunt navem : et prora quidem fixa manebat immobilis, puppis vero solvebatur a vi maris. 
+    42: Militum autem consilium fuit ut custodias occiderent : nequis cum enatasset, effugeret. 
+    43: Centurio autem volens servare Paulum, prohibuit fieri : jussitque eos, qui possent natare, emittere se primos, et evadere, et ad terram exire : 
+    44: et ceteros alios in tabulis ferebant : quosdam super ea quae de navi erant. Et sic factum est, ut omnes animae evaderent ad terram.
+
+  Chapter 28.
+
+    1: Et cum evasissemus, tunc cognovimus quia Melita insula vocabatur. Barbari vero praestabant non modicam humanitatem nobis. 
+    2: Accensa enim pyra, reficiebant nos omnes propter imbrem, qui imminebat, et frigus. 
+    3: Cum congregasset autem Paulus sarmentorum aliquantam multitudinem, et imposuisset super ignem, vipera a calore cum processisset, invasit manum ejus. 
+    4: Ut vero viderunt Barbari pendentem bestiam de manu ejus, ad invicem dicebant : Utique homicida est homo hic, qui cum evaserit de mari, ultio non sinit eum vivere. 
+    5: Et ille quidem excutiens bestiam in ignem, nihil mali passus est.
+    6: At illi existimabant eum in tumorem convertendum, et subito casurum et mori. Diu autem illis exspectantibus, et videntibus nihil mali in eo fieri, convertentes se, dicebant eum esse deum. 
+    7: In locis autem illis erant praedia principis insulae, nomine Publii, qui nos suscipiens, triduo benigne exhibuit. 
+    8: Contigit autem patrem Publii febribus et dysenteria vexatum jacere. Ad quem Paulus intravit : et cum orasset, et imposuisset ei manus, salvavit eum. 
+    9: Quo facto, omnes qui in insula habebant infirmitates, accedebant, et curabantur : 
+    10: qui etiam multis honoribus nos honoraverunt, et navigantibus imposuerunt quae necessaria erant.
+    11: Post menses autem tres navigavimus in navi Alexandrina, quae in insula hiemaverat, cui erat insigne Castorum. 
+    12: Et cum venissemus Syracusam, mansimus ibi triduo. 
+    13: Inde circumlegentes devenimus Rhegium : et post unum diem, flante austro, secunda die venimus Puteolos; 
+    14: ubi inventis fratribus rogati sumus manere apud eos dies septem : et sic venimus Romam. 
+    15: Et inde cum audissent fratres, occurrerunt nobis usque ad Apii forum, ac tres Tabernas. Quos cum vidisset Paulus, gratias agens Deo, accepit fiduciam.
+    16: Cum autem venissemus Romam, permissum est Paulo manere sibimet cum custodiente se milite. 
+    17: Post tertium autem diem convocavit primos Judaeorum. Cumque convenissent, dicebat eis : Ego, viri fratres, nihil adversus plebem faciens, aut morem paternum, vinctus ab Jerosolymis traditus sum in manus Romanorum, 
+    18: qui cum interrogationem de me habuissent, voluerunt me dimittere, eo quod nulla esset causa mortis in me. 
+    19: Contradicentibus autem Judaeis, coactus sum appellare Caesarem, non quasi gentem meam habens aliquid accusare. 
+    20: Propter hanc igitur causam rogavi vos videre, et alloqui. Propter spem enim Israel catena hac circumdatus sum.
+    21: At illi dixerunt ad eum : Nos neque litteras accepimus de te a Judaea, neque adveniens aliquis fratrum nuntiavit, aut locutus est quid de te malum. 
+    22: Rogamus autem a te audire quae sentis : nam de secta hac notum est nobis quia ubique ei contradicitur. 
+    23: Cum constituissent autem illi diem, venerunt ad eum in hospitium plurimi, quibus exponebat testificans regnum Dei, suadensque eis de Jesu ex lege Moysi et prophetis a mane usque ad vesperam. 
+    24: Et quidam credebant his quae dicebantur : quidam vero non credebant. 
+    25: Cumque invicem non essent consentientes, discedebant dicente Paulo unum verbum : Quia bene Spiritus Sanctus locutus est per Isaiam prophetam ad patres nostros,
+    26: dicens : Vade ad populum istum, et dic ad eos : Aure audietis, et non intelligetis : et videntes videbitis, et non perspicietis. 
+    27: Incrassatum est enim cor populi hujus, et auribus graviter audierunt, et oculos suos compresserunt : ne forte videant oculis, et auribus audiant, et corde intelligant, et convertantur, et sanem eos. 
+    28: Notum ergo sit vobis, quoniam gentibus missum est hoc salutare Dei, et ipsi audient. 
+    29: Et cum haec dixisset, exierunt ab eo Judaei, multam habentes inter se quaestionem. 
+    30: Mansit autem biennio toto in suo conducto : et suscipiebat omnes qui ingrediebantur ad eum,
+    31: praedicans regnum Dei, et docens quae sunt de Domino Jesu Christo cum omni fiducia, sine prohibitione.
+
+End of day 313.

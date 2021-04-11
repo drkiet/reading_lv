@@ -1,0 +1,114 @@
+Day 35:
+
+Reading Numbers, chapters ['17', '18', '19', '20']:
+
+  Chapter 17.
+
+    1: Et locutus est Dominus ad Moysen, dicens : 
+    2: Loquere ad filios Israel, et accipe ab eis virgas singulas per cognationes suas, a cunctis principibus tribuum, virgas duodecim, et uniuscujusque nomen superscribes virgae suae. 
+    3: Nomen autem Aaron erit in tribu Levi, et una virga cunctas seorsum familias continebit : 
+    4: ponesque eas in tabernaculo foederis coram testimonio, ubi loquar ad te. 
+    5: Quem ex his elegero, germinabit virga ejus : et cohibebo a me querimonias filiorum Israel, quibus contra vos murmurant.
+    6: Locutusque est Moyses ad filios Israel : et dederunt ei omnes principes virgas per singulas tribus : fueruntque virgae duodecim absque virga Aaron. 
+    7: Quas cum posuisset Moyses coram Domino in tabernaculo testimonii, 
+    8: sequenti die regressus invenit germinasse virgam Aaron in domo Levi : et turgentibus gemmis eruperant flores, qui, foliis dilatatis, in amygdalas deformati sunt. 
+    9: Protulit ergo Moyses omnes virgas de conspectu Domini ad cunctos filios Israel : videruntque, et receperunt singuli virgas suas. 
+    10: Dixitque Dominus ad Moysen : Refer virgam Aaron in tabernaculum testimonii, ut servetur ibi in signum rebellium filiorum Israel, et quiescant querelae eorum a me, ne moriantur.
+    11: Fecitque Moyses sicut praeceperat Dominus. 
+    12: Dixerunt autem filii Israel ad Moysen : Ecce consumpti sumus, omnes perivimus. 
+    13: Quicumque accedit ad tabernaculum Domini, moritur. Num usque ad internecionem cuncti delendi sumus?
+
+  Chapter 18.
+
+    1: Dixitque Dominus ad Aaron : Tu, et filii tui, et domus patris tui tecum, portabitis iniquitatem sanctuarii : et tu et filii tui simul sustinebitis peccata sacerdotii vestri. 
+    2: Sed et fratres tuos de tribu Levi, et sceptrum patris tui sume tecum, praestoque sint, et ministrent tibi : tu autem et filii tui ministrabitis in tabernaculo testimonii. 
+    3: Excubabuntque Levitae ad praecepta tua, et ad cuncta opera tabernaculi : ita dumtaxat ut ad vasa sanctuarii et ad altare non accedant, ne et illi moriantur, et vos pereatis simul. 
+    4: Sint autem tecum, et excubent in custodiis tabernaculi, et in omnibus caeremoniis ejus. Alienigena non miscebitur vobis. 
+    5: Excubate in custodia sanctuarii, et in ministerio altaris : ne oriatur indignatio super filios Israel.
+    6: Ego dedi vobis fratres vestros Levitas de medio filiorum Israel, et tradidi donum Domino, ut serviant in ministeriis tabernaculi ejus. 
+    7: Tu autem et filii tui custodite sacerdotium vestrum : et omnia quae ad cultum altaris pertinent, et intra velum sunt, per sacerdotes administrabuntur : si quis externus accesserit, occidetur. 
+    8: Locutusque est Dominus ad Aaron : Ecce dedi tibi custodiam primitiarum mearum. Omnia quae sanctificantur a filiis Israel, tradidi tibi et filiis tuis pro officio sacerdotali legitima sempiterna. 
+    9: Haec ergo accipies de his, quae sanctificantur et oblata sunt Domino. Omnis oblatio, et sacrificium, et quidquid pro peccato atque delicto redditur mihi, et cedit in Sancta sanctorum, tuum erit, et filiorum tuorum. 
+    10: In sanctuario comedes illud : mares tantum edent ex eo, quia consecratum est tibi.
+    11: Primitias autem, quas voverint et obtulerint filii Israel, tibi dedi, et filiis tuis, ac filiabus tuis, jure perpetuo : qui mundus est in domo tua, vescetur eis. 
+    12: Omnem medullam olei, et vini, ac frumenti, quidquid offerunt primitiarum Domino, tibi dedi. 
+    13: Universa frugum initia, quas gignit humus, et Domino deportantur, cedent in usus tuos : qui mundus est in domo tua, vescetur eis. 
+    14: Omne quod ex voto reddiderint filii Israel, tuum erit. 
+    15: Quidquid primum erumpit e vulva cunctae carnis, quam offerunt Domino, sive ex hominibus, sive de pecoribus fuerit, tui juris erit : ita dumtaxat ut pro hominis primogenito pretium accipias, et omne animal quod immundum est redimi facias,
+    16: cujus redemptio erit post unum mensem, siclis argenti quinque, pondere sanctuarii. Siclus viginti obolos habet. 
+    17: Primogenitum autem bovis, et ovis, et caprae, non facies redimi, quia sanctificata sunt Domino. Sanguinem tantum eorum fundes super altare, et adipes adolebis in suavissimum odorem Domino. 
+    18: Carnes vero in usum tuum cedent, sicut pectusculum consecratum, et armus dexter : tua erunt. 
+    19: Omnes primitias sanctuarii, quas offerunt filii Israel Domino, tibi dedi, et filiis, ac filiabus tuis, jure perpetuo. Pactum salis est sempiternum coram Domino, tibi ac filiis tuis. 
+    20: Dixitque Dominus ad Aaron : In terra eorum nihil possidebitis, nec habebitis partem inter eos : ego pars et haereditas tua in medio filiorum Israel.
+    21: Filiis autem Levi dedi omnes decimas Israelis in possessionem, pro ministerio, quo serviunt mihi in tabernaculo foederis : 
+    22: ut non accedant ultra filii Israel ad tabernaculum, nec committant peccatum mortiferum, 
+    23: solis filiis Levi mihi in tabernaculo servientibus, et portantibus peccata populi. Legitimum sempiternum erit in generationibus vestris. Nihil aliud possidebunt, 
+    24: decimarum oblatione contenti, quas in usus eorum et necessaria separavi. 
+    25: Locutusque est Dominus ad Moysen, dicens :
+    26: Praecipe Levitis, atque denuntia : Cum acceperitis a filiis Israel decimas, quas dedi vobis, primitias earum offerte Domino, id est, decimam partem decimae, 
+    27: ut reputetur vobis in oblationem primitivorum, tam de areis quam de torcularibus : 
+    28: et universis quorum accipitis primitias, offerte Domino, et date Aaron sacerdoti. 
+    29: Omnia quae offeretis ex decimis, et in donaria Domini separabitis, optima et electa erunt. 
+    30: Dicesque ad eos : Si praeclara et meliora quaeque obtuleritis ex decimis, reputabitur vobis quasi de area, et torculari dederitis primitias :
+    31: et comedetis eas in omnibus locis vestris, tam vos quam familiae vestrae : quia pretium est pro ministerio, quo servitis in tabernaculo testimonii. 
+    32: Et non peccabitis super hoc, egregia vobis et pinguia reservantes, ne polluatis oblationes filiorum Israel, et moriamini.
+
+  Chapter 19.
+
+    1: Locutusque est Dominus ad Moysen et Aaron, dicens : 
+    2: Ista est religio victimae, quam constituit Dominus. Praecipe filiis Israel, ut adducant ad te vaccam rufam aetatis integrae, in qua nulla sit macula, nec portaverit jugum : 
+    3: tradetisque eam Eleazaro sacerdoti, qui eductam extra castram, immolabit in conspectu omnium : 
+    4: et tingens digitum in sanguine ejus, asperget contra fores tabernaculi septem vicibus, 
+    5: comburetque eam cunctis videntibus, tam pelle et carnibus ejus quam sanguine et fimo flammae traditis.
+    6: Lignum quoque cedrinum, et hyssopum, coccumque bis tinctum sacerdos mittet in flammam, quae vaccam vorat. 
+    7: Et tunc demum, lotis vestibus et corpore suo, ingredietur in castra, commaculatusque erit usque ad vesperum. 
+    8: Sed et ille qui combusserit eam, lavabit vestimenta sua et corpus, et immundus erit usque ad vesperum. 
+    9: Colliget autem vir mundus cineres vaccae, et effundet eos extra castra in loco purissimo, ut sint multitudini filiorum Israel in custodiam, et in aquam aspersionis : quia pro peccato vacca combusta est. 
+    10: Cumque laverit qui vaccae portaverat cineres vestimenta sua, immundus erit usque ad vesperum. Habebunt hoc filii Israel, et advenae qui habitant inter eos, sanctum jure perpetuo.
+    11: Qui tetigerit cadaver hominis, et propter hoc septem diebus fuerit immundus, 
+    12: aspergetur ex hac aqua die tertio et septimo, et sic mundabitur. Si die tertio aspersus non fuerit, septimo non poterit emundari. 
+    13: Omnis qui tetigerit humanae animae morticinum, et aspersus hac commistione non fuerit, polluet tabernaculum Domini et peribit ex Israel : quia aqua expiationis non est aspersus, immundus erit, et manebit spurcitia ejus super eum. 
+    14: Ista est lex hominis qui moritur in tabernaculo : omnes qui ingrediuntur tentorium illius, et universa vasa quae ibi sunt, polluta erunt septem diebus. 
+    15: Vas, quod non habuerit operculum nec ligaturam desuper, immundum erit.
+    16: Si quis in agro tetigerit cadaver occisi hominis, aut per se mortui, sive os illius, vel sepulchrum, immundus erit septem diebus. 
+    17: Tollentque de cineribus combustionis atque peccati, et mittent aquas vivas super eos in vas : 
+    18: in quibus cum homo mundus tinxerit hyssopum, asperget ex eo omne tentorium, et cunctam supellectilem, et homines hujuscemodi contagione pollutos : 
+    19: atque hoc modo mundus lustrabit immundum tertio et septimo die : expiatusque die septimo, lavabit et se et vestimenta sua, et immundus erit usque ad vesperum. 
+    20: Si quis hoc ritu non fuerit expiatus, peribit anima illius de medio ecclesiae : quia sanctuarium Domini polluit, et non est aqua lustrationis aspersus.
+    21: Erit hoc praeceptum legitimum sempiternum. Ipse quoque qui aspergit aquas, lavabit vestimenta sua. Omnis qui tetigerit aquas expiationis, immundus erit usque ad vesperum. 
+    22: Quidquid tetigerit immundus, immundum faciet : et anima, quae horum quippiam tetigerit, immunda erit usque ad vesperum.
+
+  Chapter 20.
+
+    1: Veneruntque filii Israel et omnis multitudo in desertum Sin, mense primo, et mansit populus in Cades. Mortuaque est ibi Maria, et sepulta in eodem loco. 
+    2: Cumque indigeret aqua populus, convenerunt adversum Moysen et Aaron : 
+    3: et versi in seditionem, dixerunt : Utinam periissemus inter fratres nostros coram Domino. 
+    4: Cur eduxistis ecclesiam Domini in solitudinem, ut et nos et nostra jumenta moriamur? 
+    5: quare nos fecistis ascendere de Aegypto, et adduxistis in locum istum pessimum, qui seri non potest, qui nec ficum gignit, nec vineas, nec malogranata, insuper et aquam non habet ad bibendum?
+    6: Ingressusque Moyses et Aaron, dimissa multitudine, tabernaculum foederis, corruerunt proni in terram, clamaveruntque ad Dominum, atque dixerunt : Domine Deus, audi clamorem hujus populi, et aperi eis thesaurum tuum fontem aquae vivae, ut satiati, cesset murmuratio eorum. Et apparuit gloria Domini super eos. 
+    7: Locutusque est Dominus ad Moysen, dicens : 
+    8: Tolle virgam, et congrega populum, tu et Aaron frater tuus, et loquimini ad petram coram eis, et illa dabit aquas. Cumque eduxeris aquam de petra, bibet omnis multitudo et jumenta ejus. 
+    9: Tulit igitur Moyses virgam, quae erat in conspectu Domini, sicut praeceperat ei, 
+    10: congregata multitudine ante petram : dixitque eis : Audite, rebelles et increduli : num de petra hac vobis aquam poterimus ejicere?
+    11: Cumque elevasset Moyses manum, percutiens virga bis silicem, egressae sunt aquae largissimae, ita ut populus biberet et jumenta. 
+    12: Dixitque Dominus ad Moysen et Aaron : Quia non credidistis mihi, ut sanctificaretis me coram filiis Israel, non introducetis hos populos in terram, quam dabo eis. 
+    13: Haec est aqua contradictionis, ubi jurgati sunt filii Israel contra Dominum, et sanctificatus est in eis. 
+    14: Misit interea nuntios Moyses de Cades ad regem Edom, qui dicerent : Haec mandat frater tuus Israel : Nosti omnem laborem qui apprehendit nos, 
+    15: quomodo descenderint patres nostri in Aegyptum, et habitaverimus ibi multo tempore, afflixerintque nos Aegyptii, et patres nostros :
+    16: et quomodo clamaverimus ad Dominum, et exaudierit nos, miseritque angelum, qui eduxerit nos de Aegypto. Ecce in urbe Cades, quae est in extremis finibus tuis, positi, 
+    17: obsecramus ut nobis transire liceat per terram tuam. Non ibimus per agros, nec per vineas; non bibemus aquas de puteis tuis : sed gradiemur via publica, nec ad dexteram nec ad sinistram declinantes, donec transeamus terminos tuos. 
+    18: Cui respondit Edom : Non transibis per me, alioquin armatus occurram tibi. 
+    19: Dixeruntque filii Israel : Per tritam gradiemur viam : et si biberimus aquas tuas, nos et pecora nostra, dabimus quod justum est : nulla erit in pretio difficultas, tantum velociter transeamus. 
+    20: At ille respondit : Non transibis. Statimque egressus est obvius, cum infinita multitudo, et manu forti,
+    21: nec voluit acquiescere deprecanti, ut concederet transitum per fines suos. Quam ob rem divertit ab eo Israel. 
+    22: Cumque castra movissent de Cades, venerunt in montem Hor, qui est in finibus terrae Edom : 
+    23: ubi locutus est Dominus ad Moysen : 
+    24: Pergat, inquit, Aaron ad populos suos : non enim intrabit terram, quam dedi filiis Israel, eo quod incredulus fuerit ori meo, ad aquas contradictionis. 
+    25: Tolle Aaron et filium ejus cum eo, et duces eos in montem Hor.
+    26: Cumque nudaveris patrem veste sua, indues ea Eleazarum filium ejus : Aaron colligetur, et morietur ibi. 
+    27: Fecit Moyses ut praeceperat Dominus : et ascenderunt in montem Hor coram omni multitudine. 
+    28: Cumque Aaron spoliasset vestibus suis, induit eis Eleazarum filium ejus. 
+    29: Illo mortuo in montis supercilio, descendit cum Eleazaro. 
+    30: Omnis autem multitudo videns occubuisse Aaron, flevit super eo triginta diebus per cunctas familias suas.
+
+End of day 35.

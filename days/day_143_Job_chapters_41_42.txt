@@ -1,0 +1,52 @@
+Day 143:
+
+Reading Job, chapters ['41', '42']:
+
+  Chapter 41.
+
+    1: Non quasi crudelis suscitabo eum : quis enim resistere potest vultui meo? 
+    2: Quis ante dedit mihi, ut reddam ei? omnia quae sub caelo sunt, mea sunt. 
+    3: Non parcam ei, et verbis potentibus, et ad deprecandum compositis. 
+    4: Quis revelabit faciem indumenti ejus? et in medium oris ejus quis intrabit? 
+    5: Portas vultus ejus quis aperiet? per gyrum dentium ejus formido.
+    6: Corpus illius quasi scuta fusilia, compactum squamis se prementibus. 
+    7: Una uni conjungitur, et ne spiraculum quidem incedit per eas. 
+    8: Una alteri adhaerebit, et tenentes se nequaquam separabuntur. 
+    9: Sternutatio ejus splendor ignis, et oculi ejus ut palpebrae diluculi. 
+    10: De ore ejus lampades procedunt, sicut taedae ignis accensae.
+    11: De naribus ejus procedit fumus, sicut ollae succensae atque ferventis. 
+    12: Halitus ejus prunas ardere facit, et flamma de ore ejus egreditur. 
+    13: In collo ejus morabitur fortitudo, et faciem ejus praecedit egestas. 
+    14: Membra carnium ejus cohaerentia sibi : mittet contra eum fulmina et ad locum alium non ferentur. 
+    15: Cor ejus indurabitur tamquam lapis, et stringetur quasi malleatoris incus.
+    16: Cum sublatus fuerit, timebunt angeli, et territi purgabuntur. 
+    17: Cum apprehenderit eum gladius, subsitere non poterit, neque hasta, neque thorax : 
+    18: reputabit enim quasi paleas ferrum, et quasi lignum putridum aes. 
+    19: Non fugabit eum vir sagittarius : in stipulam versi sunt ei lapides fundae. 
+    20: Quasi stipulam aestimabit malleum, et deridebit vibrantem hastam.
+    21: Sub ipso erunt radii solis, et sternet sibi aurum quasi lutum. 
+    22: Fervescere faciet quasi ollam profundum mare, et ponet quasi cum unguenta bulliunt. 
+    23: Post eum lucebit semita : aestimabit abyssum quasi senescentem. 
+    24: Non est super terram potestas quae comparetur ei, qui factus est ut nullum timeret. 
+    25: Omne sublime videt : ipse est rex super universos filios superbiae.
+
+  Chapter 42.
+
+    1: Respondens autem Job Domino, dixit : 
+    2: Scio quia omnia potes, et nulla te latet cogitatio. 
+    3: Quis est iste qui celat consilium absque scientia? ideo insipienter locutus sum, et quae ultra modum excederent scientiam meam. 
+    4: Audi, et ego loquar : interrogabo te, et responde mihi. 
+    5: Auditu auris audivi te : nunc autem oculus meus videt te.
+    6: Idcirco ipse me reprehendo, et ago poenitentiam in favilla et cinere. 
+    7: Postquam autem locutus est Dominus verba haec ad Job, dixit ad Eliphaz Themanitem : Iratus est furor meus in te, et in duos amicos tuos, quoniam non estis locuti coram me rectum, sicut servus meus Job. 
+    8: Sumite ergo vobis septem tauros et septem arietes, et ite ad servum meum Job, et offerte holocaustum pro vobis : Job autem servus meum orabit pro vobis. Faciem ejus suscipiam, ut non vobis imputetur stultitia : neque enim locuti estis ad me recta, sicut servus meus Job. 
+    9: Abierunt ergo Eliphaz Themanites, et Baldad Suhites, et Sophar Naamathites, et fecerunt sicut locutus fuerat Dominus ad eos, et suscepit Dominus faciem Job. 
+    10: Dominus quoque conversus est ad poenitentiam Job, cum oraret ille pro amicis suis : et addidit Dominus omnia quaecumque fuerant Job, duplicia.
+    11: Venerunt autem ad eum omnes fratres sui, et universae sorores suae, et cuncti qui noverant eum prius, et comederunt cum eo panem in domo ejus : et moverunt super eum caput, et consolati sunt eum super omni malo quod intulerat Dominus super eum, et dederunt ei unusquisque ovem unam, et inaurem auream unam. 
+    12: Dominus autem benedixit novissimis Job magis quam principio ejus : et facta sunt ei quatuordecim millia ovium, et sex millia camelorum, et mille juga boum, et mille asinae. 
+    13: Et fuerunt ei septem filii, et tres filiae. 
+    14: Et vocavit nomen unius Diem, et nomen secundae Cassiam, et nomen tertiae Cornustibii. 
+    15: Non sunt autem inventae mulieres speciosae sicut filiae Job in universa terra : deditque eis pater suus haereditatem inter fratres earum.
+    16: Vixit autem Job post haec centum quadraginta annis, et vidit filios suos, et filios filiorum suorum usque ad quartam generationem : et mortuus est senex et plenus dierum.
+
+End of day 143.

@@ -1,0 +1,107 @@
+Day 284:
+
+Reading Matthew, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Liber generationis Jesu Christi filii David, filii Abraham. 
+    2: Abraham genuit Isaac. Isaac autem genuit Jacob. Jacob autem genuit Judam, et fratres ejus. 
+    3: Judas autem genuit Phares, et Zaram de Thamar. Phares autem genuit Esron. Esron autem genuit Aram. 
+    4: Aram autem genuit Aminadab. Aminadab autem genuit Naasson. Naasson autem genuit Salmon. 
+    5: Salmon autem genuit Booz de Rahab. Booz autem genuit Obed ex Ruth. Obed autem genuit Jesse. Jesse autem genuit David regem.
+    6: David autem rex genuit Salomonem ex ea quae fuit Uriae. 
+    7: Salomon autem genuit Roboam. Roboam autem genuit Abiam. Abias autem genuit Asa. 
+    8: Asa autem genuit Josophat. Josophat autem genuit Joram. Joram autem genuit Oziam. 
+    9: Ozias autem genuit Joatham. Joatham autem genuit Achaz. Achaz autem genuit Ezechiam. 
+    10: Ezechias autem genuit Manassen. Manasses autem genuit Amon. Amon autem genuit Josiam.
+    11: Josias autem genuit Jechoniam, et fratres ejus in transmigratione Babylonis. 
+    12: Et post transmigrationem Babylonis : Jechonias genuit Salathiel. Salathiel autem genuit Zorobabel. 
+    13: Zorobabel autem genuit Abiud. Abiud autem genuit Eliacim. Eliacim autem genuit Azor. 
+    14: Azor autem genuit Sadoc. Sadoc autem genuit Achim. Achim autem genuit Eliud. 
+    15: Eliud autem genuit Eleazar. Eleazar autem genuit Mathan. Mathan autem genuit Jacob.
+    16: Jacob autem genuit Joseph virum Mariae, de qua natus est Jesus, qui vocatur Christus. 
+    17: Omnes itaque generationes ab Abraham usque ad David, generationes quatuordecim : et a David usque ad transmigrationem Babylonis, generationes quatuordecim : et a transmigratione Babylonis usque ad Christum, generationes quatuordecim. 
+    18: Christi autem generatio sic erat : cum esset desponsata mater ejus Maria Joseph, antequam convenirent inventa est in utero habens de Spiritu Sancto. 
+    19: Joseph autem vir ejus cum esset justus, et nollet eam traducere, voluit occulte dimittere eam. 
+    20: Haec autem eo cogitante, ecce angelus Domini apparuit in somnis ei, dicens : Joseph, fili David, noli timere accipere Mariam conjugem tuam : quod enim in ea natum est, de Spiritu Sancto est.
+    21: Pariet autem filium : et vocabis nomen ejus Jesum : ipse enim salvum faciet populum suum a peccatis eorum. 
+    22: Hoc autem totum factum est, ut adimpleretur quod dictum est a Domino per prophetam dicentem : 
+    23: Ecce virgo in utero habebit, et pariet filium : et vocabunt nomen ejus Emmanuel, quod est interpretatum Nobiscum Deus. 
+    24: Exsurgens autem Joseph a somno, fecit sicut praecepit ei angelus Domini, et accepit conjugem suam. 
+    25: Et non cognoscebat eam donec peperit filium suum primogenitum : et vocavit nomen ejus Jesum.
+
+  Chapter 2.
+
+    1: Cum ergo natus esset Jesus in Bethlehem Juda in diebus Herodis regis, ecce magi ab oriente venerunt Jerosolymam, 
+    2: dicentes : Ubi est qui natus est rex Judaeorum? vidimus enim stellam ejus in oriente, et venimus adorare eum. 
+    3: Audiens autem Herodes rex, turbatus est, et omnis Jerosolyma cum illo. 
+    4: Et congregans omnes principes sacerdotum, et scribas populi, sciscitabatur ab eis ubi Christus nasceretur. 
+    5: At illi dixerunt : In Bethlehem Judae : sic enim scriptum est per prophetam :
+    6: Et tu Bethlehem terra Juda, nequaquam minima es in principibus Juda : ex te enim exiet dux, qui regat populum meum Israel. 
+    7: Tunc Herodes clam vocatis magis diligenter didicit ab eis tempus stellae, quae apparuit eis : 
+    8: et mittens illos in Bethlehem, dixit : Ite, et interrogate diligenter de puero : et cum inveneritis, renuntiate mihi, ut et ego veniens adorem eum. 
+    9: Qui cum audissent regem, abierunt, et ecce stella, quam viderant in oriente, antecedebat eos, usque dum veniens staret supra, ubi erat puer. 
+    10: Videntes autem stellam gavisi sunt gaudio magno valde.
+    11: Et intrantes domum, invenerunt puerum cum Maria matre ejus, et procidentes adoraverunt eum : et apertis thesauris suis obtulerunt ei munera, aurum, thus, et myrrham. 
+    12: Et responso accepto in somnis ne redirent ad Herodem, per aliam viam reversi sunt in regionem suam. 
+    13: Qui cum recessissent, ecce angelus Domini apparuit in somnis Joseph, dicens : Surge, et accipe puerum, et matrem ejus, et fuge in Aegyptum, et esto ibi usque dum dicam tibi. Futurum est enim ut Herodes quaerat puerum ad perdendum eum. 
+    14: Qui consurgens accepit puerum et matrem ejus nocte, et secessit in Aegyptum : 
+    15: et erat ibi usque ad obitum Herodis : ut adimpleretur quod dictum est a Domino per prophetam dicentem : Ex Aegypto vocavi filium meum.
+    16: Tunc Herodes videns quoniam illusus esset a magis, iratus est valde, et mittens occidit omnes pueros, qui erant in Bethlehem, et in omnibus finibus ejus, a bimatu et infra secundum tempus, quod exquisierat a magis. 
+    17: Tunc adimpletum est quod dictum est per Jeremiam prophetam dicentem : 
+    18: Vox in Rama audita est ploratus, et ululatus multus : Rachel plorans filios suos, et noluit consolari, quia non sunt. 
+    19: Defuncto autem Herode, ecce angelus Domini apparuit in somnis Joseph in Aegypto, 
+    20: dicens : Surge, et accipe puerum, et matrem ejus, et vade in terram Israel : defuncti sunt enim qui quaerebant animam pueri.
+    21: Qui consurgens, accepit puerum, et matrem ejus, et venit in terram Israel. 
+    22: Audiens autem quod Archelaus regnaret in Judaea pro Herode patre suo, timuit illo ire : et admonitus in somnis, secessit in partes Galilaeae. 
+    23: Et veniens habitavit in civitate quae vocatur Nazareth : ut adimpleretur quod dictum est per prophetas : Quoniam Nazaraeus vocabitur.
+
+  Chapter 3.
+
+    1: In diebus autem illis venit Joannes Baptista praedicans in deserto Judaeae, 
+    2: et dicens : Poenitentiam agite : appropinquavit enim regnum caelorum. 
+    3: Hic est enim, qui dictus est per Isaiam prophetam dicentem : Vox clamantis in deserto : Parate viam Domini : rectas facite semitas ejus. 
+    4: Ipse autem Joannes habebat vestimentum de pilis camelorum, et zonam pelliceam circa lumbos suos : esca autem ejus erat locustae, et mel silvestre. 
+    5: Tunc exibat ad eum Jerosolyma, et omnis Judaea, et omnis regio circa Jordanem;
+    6: et baptizabantur ab eo in Jordane, confitentes peccata sua. 
+    7: Videns autem multos pharisaeorum, et sadducaeorum, venientes ad baptismum suum, dixit eis : Progenies viperarum, quis demonstravit vobis fugere a ventura ira? 
+    8: Facite ergo fructum dignum poenitentiae. 
+    9: Et ne velitis dicere intra vos : Patrem habemus Abraham. Dico enim vobis quoniam potens est Deus de lapidibus istis suscitare filios Abrahae. 
+    10: Jam enim securis ad radicem arborum posita est. Omnis ergo arbor, quae non facit fructum bonum, excidetur, et in ignem mittetur.
+    11: Ego quidem baptizo vos in aqua in poenitentiam : qui autem post me venturus est, fortior me est, cujus non sum dignus calceamenta portare : ipse vos baptizabit in Spiritu Sancto, et igni. 
+    12: Cujus ventilabrum in manu sua : et permundabit aream suam : et congregabit triticum suum in horreum, paleas autem comburet igni inextinguibili. 
+    13: Tunc venit Jesus a Galilaea in Jordanem ad Joannem, ut baptizaretur ab eo. 
+    14: Joannes autem prohibebat eum, dicens : Ego a te debeo baptizari, et tu venis ad me? 
+    15: Respondens autem Jesus, dixit ei : Sine modo : sic enim decet nos implere omnem justitiam. Tunc dimisit eum.
+    16: Baptizatus autem Jesus, confestim ascendit de aqua, et ecce aperti sunt ei caeli : et vidit Spiritum Dei descendentem sicut columbam, et venientem super se. 
+    17: Et ecce vox de caelis dicens : Hic est Filius meus dilectus, in quo mihi complacui.
+
+  Chapter 4.
+
+    1: Tunc Jesus ductus est in desertum a Spiritu, ut tentaretur a diabolo. 
+    2: Et cum jejunasset quadraginta diebus, et quadraginta noctibus, postea esuriit. 
+    3: Et accedens tentator dixit ei : Si Filius Dei es, dic ut lapides isti panes fiant. 
+    4: Qui respondens dixit : Scriptum est : Non in solo pane vivit homo, sed in omni verbo, quod procedit de ore Dei. 
+    5: Tunc assumpsit eum diabolus in sanctam civitatem, et statuit eum super pinnaculum templi,
+    6: et dixit ei : Si Filius Dei es, mitte te deorsum. Scriptum est enim : Quia angelis suis mandavit de te, et in manibus tollent te, ne forte offendas ad lapidem pedem tuum. 
+    7: Ait illi Jesus : Rursum scriptum est : Non tentabis Dominum Deum tuum. 
+    8: Iterum assumpsit eum diabolus in montem excelsum valde : et ostendit ei omnia regna mundi, et gloriam eorum, 
+    9: et dixit ei : Haec omnia tibi dabo, si cadens adoraveris me. 
+    10: Tunc dicit ei Jesus : Vade Satana : Scriptum est enim : Dominum Deum tuum adorabis, et illi soli servies.
+    11: Tunc reliquit eum diabolus : et ecce angeli accesserunt, et ministrabant ei. 
+    12: Cum autem audisset Jesus quod Joannes traditus esset, secessit in Galilaeam : 
+    13: et, relicta civitate Nazareth, venit, et habitavit in Capharnaum maritima, in finibus Zabulon et Nephthalim : 
+    14: ut adimpleretur quod dictum est per Isaiam prophetam : 
+    15: Terra Zabulon, et terra Nephthalim, via maris trans Jordanem, Galilaea gentium :
+    16: populus, qui sedebat in tenebris, vidit lucem magnam : et sedentibus in regione umbrae mortis, lux orta est eis. 
+    17: Exinde coepit Jesus praedicare, et dicere : Poenitentiam agite : appropinquavit enim regnum caelorum. 
+    18: Ambulans autem Jesus juxta mare Galilaeae, vidit duos fratres, Simonem, qui vocatur Petrus, et Andream fratrem ejus, mittentes rete in mare ( erant enim piscatores), 
+    19: et ait illis : Venite post me, et faciam vos fieri piscatores hominum. 
+    20: At illi continuo relictis retibus secuti sunt eum.
+    21: Et procedens inde, vidit alios duos fratres, Jacobum Zebedaei, et Joannem fratrem ejus, in navi cum Zebedaeo patre eorum, reficientes retia sua : et vocavit eos. 
+    22: Illi autem statim relictis retibus et patre, secuti sunt eum. 
+    23: Et circuibat Jesus totam Galilaeam, docens in synagogis eorum, et praedicans Evangelium regni : et sanans omnem languorem, et omnem infirmitatem in populo. 
+    24: Et abiit opinio ejus in totam Syriam, et obtulerunt ei omnes male habentes, variis languoribus, et tormentis comprehensos, et qui daemonia habebant, et lunaticos, et paralyticos, et curavit eos : 
+    25: et secutae sunt eum turbae multae de Galilaea, et Decapoli, et de Jerosolymis, et de Judaea, et de trans Jordanem.
+
+End of day 284.

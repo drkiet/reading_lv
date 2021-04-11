@@ -1,0 +1,142 @@
+Day 204:
+
+Reading Sirach, chapters ['17', '18', '19', '20']:
+
+  Chapter 17.
+
+    1: Deus creavit de terra hominem, et secundum imaginem suam fecit illum : 
+    2: et iterum convertit illum in ipsam, et secundum se vestivit illum virtute. 
+    3: Numerum dierum et tempus dedit illi, et dedit illi potestatem eorum quae sunt super terram. 
+    4: Posuit timorem illius super omnem carnem, et dominatus est bestiarum et volatilium. 
+    5: Creavit ex ipso adjutorium simile sibi : consilium, et linguam, et oculos, et aures, et cor dedit illis excogitandi, et disciplina intellectus replevit illos.
+    6: Creavit illis scientiam spiritus, sensu implevit cor illorum, et mala et bona ostendit illis. 
+    7: Posuit oculum suum super corda illorum, ostendere illis magnalia operum suorum : 
+    8: ut nomen sanctificationis collaudent, et gloriari in mirabilibus illius; ut magnalia enarrent operum ejus. 
+    9: Addidit illis disciplinam, et legem vitae haereditavit illos. 
+    10: Testamentum aeternum constituit cum illis, et justitiam et judicia sua ostendit illis.
+    11: Et magnalia honoris ejus vidit oculus illorum, et honorem vocis audierunt aures illorum. Et dixit illis : Attendite ab omni iniquo. 
+    12: Et mandavit illis unicuique de proximo suo. 
+    13: Viae illorum coram ipso sunt semper : non sunt absconsae ab oculis ipsius. 
+    14: In unamquamque gentem praeposuit rectorem : 
+    15: et pars Dei Israel facta est manifesta.
+    16: Et omnia opera illorum velut sol in conspectu Dei : et oculi ejus sine intermissione inspicientes in viis eorum. 
+    17: Non sunt absconsa testamenta per iniquitatem illorum, et omnes iniquitates eorum in conspectu Dei. 
+    18: Eleemosyna viri quasi signaculum cum ipso, et gratiam hominis quasi pupillam conservabit. 
+    19: Et postea resurget, et retribuet illis retributionem, unicuique in caput ipsorum, et convertet in interiores partes terrae. 
+    20: Poenitentibus autem dedit viam justitiae, et confirmavit deficientes sustinere, et destinavit illis sortem veritatis.
+    21: Convertere ad Dominum, et relinque peccata tua : 
+    22: precare ante faciem Domini, et minue offendicula. 
+    23: Revertere ad Dominum, et avertere ab injustitia tua, et nimis odito execrationem : 
+    24: et cognosce justitias et judicia Dei, et sta in sorte propositionis, et orationis altissimi Dei. 
+    25: In partes vade saeculi sancti, cum vivis et dantibus confessionem Deo.
+    26: Non demoreris in errore impiorum : ante mortem confitere : a mortuo, quasi nihil, perit confessio. 
+    27: Confiteberis vivens, vivus et sanus confiteberis : et laudabis Deum, et gloriaberis in miserationibus illius. 
+    28: Quam magna misericordia Domini, et propitiatio illius convertentibus ad se! 
+    29: Nec enim omnia possunt esse in hominibus, quoniam non est immortalis filius hominis, et in vanitate malitiae placuerunt. 
+    30: Quid lucidius sole? et hic deficiet; aut quid nequius quam quod excogitavit caro et sanguis? et hoc arguetur.
+    31: Virtutem altitudinis caeli ipse conspicit : et omnes homines terra et cinis.
+
+  Chapter 18.
+
+    1: Qui vivet in aeternum creavit omnia simul. Deus solus justificabitur, et manet invictus rex in aeternum. 
+    2: Quis sufficit enarrare opera illius? 
+    3: quis enim investigabit magnalia ejus? 
+    4: virtutem autem magnitudinis ejus quis enuntiabit? aut quis adjiciet enarrare misericordiam ejus? 
+    5: Non est minuere neque adjicere, nec est invenire magnalia Dei.
+    6: Cum consummaverit homo, tunc incipiet : et cum quieverit, aporiabitur. 
+    7: Quid est homo? et quae est gratia illius? et quid bonum aut quid nequam illius? 
+    8: Numerus dierum hominum, ut multum centum anni, quasi gutta aquae maris deputati sunt : et sicut calculus arenae, sic exigui anni in die aevi. 
+    9: Propter hoc patiens est Deus in illis, et effundit super eos misericordiam suam. 
+    10: Vidit praesumptionem cordis eorum, quoniam mala est : et cognovit subversionem illorum, quoniam nequam est.
+    11: Ideo adimplevit propitiationem suam in illis, et ostendit eis viam aequitatis. 
+    12: Miseratio hominis circa proximum suum : misericordia autem Dei super omnem carnem. 
+    13: Qui misericordiam habet, docet et erudit quasi pastor gregem suum. 
+    14: Miseretur excipientis doctrinam miserationis, et qui festinat in judiciis ejus. 
+    15: Fili, in bonis non des querelam, et in omni dato non des tristitiam verbi mali.
+    16: Nonne ardorem refrigerabit ros? sic et verbum melius quam datum. 
+    17: Nonne ecce verbum super datum bonum? sed utraque cum homine justificato. 
+    18: Stultus acriter improperabit : et datus indisciplinati tabescere facit oculos. 
+    19: Ante judicium para justitiam tibi, et antequam loquaris, disce. 
+    20: Ante languorem adhibe medicinam : et ante judicium interroga teipsum, et in conspectu Dei invenies propitiationem.
+    21: Ante languorem humilia te, et in tempore infirmitatis ostende conversationem tuam. 
+    22: Non impediaris orare semper, et ne verearis usque ad mortem justificari, quoniam merces Dei manet in aeternum. 
+    23: Ante orationem praepara animam tuam, et noli esse quasi homo qui tentat Deum. 
+    24: Memento irae in die consummationis, et tempus retributionis in conversatione faciei. 
+    25: Memento paupertatis in tempore abundantiae, et necessitatum paupertatis in die divitiarum.
+    26: A mane usque ad vesperam immutabitur tempus, et haec omnia citata in oculis Dei. 
+    27: Homo sapiens in omnibus metuet, et in diebus delictorum attendet ab inertia. 
+    28: Omnis astutus agnoscit sapientiam, et invenienti eam dabit confessionem. 
+    29: Sensati in verbis et ipsi sapienter egerunt, et intellexerunt veritatem et justitiam, et impleverunt proverbia et judicia. 
+    30: Post concupiscentias tuas non eas, et a voluntate tua avertere.
+    31: Si praestes animae tuae concupiscentias ejus, faciat te in gaudium inimicis tuis. 
+    32: Ne oblecteris in turbis nec in modicis : assidua enim est commissio illorum. 
+    33: Ne fueris mediocris in contentione ex foenore, et est tibi nihil in sacculo : eris enim invidus vitae tuae.
+
+  Chapter 19.
+
+    1: Operarius ebriosus non locupletabitur : et qui spernit modica paulatim decidet. 
+    2: Vinum et mulieres apostatare faciunt sapientes, et arguent sensatos. 
+    3: Et qui se jungit fornicariis erit nequam : putredo et vermes haereditabunt illum : et extolletur in exemplum majus, et tolletur de numero anima ejus. 
+    4: Qui credit cito levis corde est, et minorabitur : et qui delinquit in animam suam, insuper habebitur. 
+    5: Qui gaudet iniquitate, denotabitur : et qui odit correptionem, minuetur vita : et qui odit loquacitatem, extinguit malitiam.
+    6: Qui peccat in animam suam, poenitebit : et qui jucundatur in malitia, denotabitur. 
+    7: Ne iteres verbum nequam et durum, et non minoraberis. 
+    8: Amico et inimico noli narrare sensum tuum : et si est tibi delictum, noli denudare : 
+    9: audiet enim te, et custodiet te, et quasi defendens peccatum, odiet te, et sic aderit tibi semper. 
+    10: Audisti verbum adversus proximum tuum? commoriatur in te, fidens quoniam non te dirumpet.
+    11: A facie verbi parturit fatuus, tamquam gemitus partus infantis. 
+    12: Sagitta infixa femori carnis, sic verbum in corde stulti. 
+    13: Corripe amicum, ne forte non intellexerit, et dicat : Non feci : aut, si fecerit, ne iterum addat facere. 
+    14: Corripe proximum, ne forte non dixerit : et si dixerit, ne forte iteret. 
+    15: Corripe amicum, saepe enim fit commissio :
+    16: et non omni verbo credas. Est qui labitur lingua, sed non ex animo : 
+    17: quis est enim qui non deliquerit in lingua sua? Corripe proximum antequam commineris, 
+    18: et da locum timori Altissimi : quia omnis sapientia timor Dei, et in illa timere Deum, et in omni sapientia dispositio legis. 
+    19: Et non est sapientia nequitiae disciplina, et non est cogitatus peccatorum prudentia. 
+    20: Est nequitia, et in ipsa execratio, et est insipiens qui minuitur sapientia.
+    21: Melior est homo qui minuitur sapientia, et deficiens sensu, in timore, quam qui abundat sensu, et transgreditur legem Altissimi. 
+    22: Est solertia certa, et ipsa iniqua : 
+    23: et est qui emittit verbum certum enarrans veritatem. Est qui nequiter humiliat se, et interiora ejus plena sunt dolo : 
+    24: et est qui se nimium submittit a multa humilitate : et est qui inclinat faciem suam, et fingit se non videre quod ignoratum est : 
+    25: et si ab imbecillitate virium vetetur peccare, si invenerit tempus malefaciendi, malefaciet.
+    26: Ex visu cognoscitur vir, et ab occursu faciei cognoscitur sensatus. 
+    27: Amictus corporis, et risus dentium, et ingressus hominis, enuntiant de illo. 
+    28: Est correptio mendax in ira contumeliosi, et est judicium quod non probatur esse bonum : et est tacens, et ipse est prudens.
+
+  Chapter 20.
+
+    1: Quam bonum est arguere, quam irasci, et confitentem in oratione non prohibere! 
+    2: Concupiscentia spadonis devirginabit juvenculam : 
+    3: sic qui facit per vim judicium iniquum. 
+    4: Quam bonum est correptum manifestare poenitentiam! sic enim effugies voluntarium peccatum. 
+    5: Est tacens qui invenitur sapiens : et est odibilis qui procax est ad loquendum.
+    6: Est tacens non habens sensum loquelae : et est tacens sciens tempus aptum. 
+    7: Homo sapiens tacebit usque ad tempus : lascivus autem et imprudens non servabunt tempus. 
+    8: Qui multis utitur verbis laedet animam suam : et qui potestatem sibi sumit injuste, odietur. 
+    9: Est processio in malis viro indisciplinato, et est inventio in detrimentum. 
+    10: Est datum quod non est utile, et est datum cujus retributio duplex.
+    11: Est propter gloriam minoratio, et est qui ab humilitate levabit caput. 
+    12: Est qui multa redimat modico pretio, et restituens ea in septuplum. 
+    13: Sapiens in verbis seipsum amabilem facit : gratiae autem fatuorum effundentur. 
+    14: Datus insipientis non erit utilis tibi : oculi enim illius septemplices sunt. 
+    15: Exigua dabit, et multa improperabit : et apertio oris illius inflammatio est.
+    16: Hodie foeneratur quis, et cras expetit : odibilis est homo hujusmodi. 
+    17: Fatuo non erit amicus, et non erit gratia bonis illius : 
+    18: qui enim edunt panem illius, falsae linguae sunt. Quoties et quanti irridebunt eum! 
+    19: neque enim quod habendum erat directo sensu distribuit; similiter et quod non erat habendum. 
+    20: Lapsus falsae linguae quasi qui in pavimento cadens : sic casus malorum festinanter veniet.
+    21: Homo acharis quasi fabula vana, in ore indisciplinatorum assidua erit. 
+    22: Ex ore fatui reprobabitur parabola : non enim dicit illam in tempore suo. 
+    23: Est qui vetatur peccare prae inopia, et in requie sua stimulabitur. 
+    24: Est qui perdet animam suam prae confusione, et ab imprudenti persona perdet eam : personae autem acceptione perdet se. 
+    25: Est qui prae confusione promittit amico, et lucratus est eum inimicum gratis.
+    26: Opprobrium nequam in homine mendacium : et in ore indisciplinatorum assidue erit. 
+    27: Potior fur quam assiduitas viri mendacis : perditionem autem ambo haereditabunt. 
+    28: Mores hominum mendacium sine honore, et confusio illorum cum ipsis sine intermissione. 
+    29: Sapiens in verbis producet seipsum, et homo prudens placebit magnatis. 
+    30: Qui operatur terram suam inaltabit acervum frugum, et qui operatur justitiam, ipse exaltabitur : qui vero placet magnatis effugiet iniquitatem.
+    31: Xenia et dona excaecant oculos judicum, et quasi mutus, in ore avertit correptiones eorum. 
+    32: Sapientia absconsa, et thesaurus invisus, quae utilitas in utrisque? 
+    33: Melior est qui celat insipientiam suam, quam homo qui abscondit sapientiam suam.
+
+End of day 204.

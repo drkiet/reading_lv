@@ -1,0 +1,134 @@
+Day 104:
+
+Reading 2-Chronicles, chapters ['29', '30', '31', '32']:
+
+  Chapter 29.
+
+    1: Igitur Ezechias regnare coepit, cum viginti quinque esset annorum, et viginti novem annis regnavit in Jerusalem : nomen matris ejus Abia, filia Zachariae. 
+    2: Fecitque quod erat placitum in conspectu Domini juxta omnia quae fecerat David pater ejus. 
+    3: Ipse anno, et mense primo regni sui, aperuit valvas domus Domini, et instauravit eas. 
+    4: Adduxitque sacerdotes atque Levitas, et congregavit eos in plateam orientalem. 
+    5: Dixitque ad eos : Audite me, Levitae, et sanctificamini : mundate domum Domini Dei patrum vestrorum, et auferte omnem immunditiam de sanctuario.
+    6: Peccaverunt patres nostri, et fecerunt malum in conspectu Domini Dei nostri, derelinquentes eum : averterunt facies suas a tabernaculo Domini, et praebuerunt dorsum. 
+    7: Clauserunt ostia, quae erant in porticu, et extinxerunt lucernas, incensumque non adoleverunt, et holocausta non obtulerunt in sanctuario Deo Israel. 
+    8: Concitatus est itaque furor Domini super Judam et Jerusalem, tradiditque eos in commotionem, et in interitum, et in sibilum, sicut ipsi cernitis oculis vestris. 
+    9: En corruerunt patres nostri gladiis : filii nostri, et filiae nostrae, et conjuges captivae ductae sunt propter hoc scelus. 
+    10: Nunc ergo placet mihi ut ineamus foedus cum Domino Deo Israel, et avertet a nobis furorem irae suae.
+    11: Filii mei, nolite negligere : vos elegit Dominus ut stetis coram eo, et ministretis illi, colatisque eum, et cremetis ei incensum. 
+    12: Surrexerunt ergo Levitae : Mahath filius Amasai, et Joel filius Azariae de filiis Caath : porro de filiis Merari, Cis filius Abdi, et Azarias filius Jalaleel. De filiis autem Gersom, Joah filius Zemma, et Eden filius Joah. 
+    13: At vero de filiis Elisaphan, Samri, et Jahiel. De filiis quoque Asaph, Zacharias, et Mathanias : 
+    14: necnon de filiis Heman, Jahiel, et Semei : sed et de filiis Idithun, Semeias, et Oziel. 
+    15: Congregaveruntque fratres suos, et sanctificati sunt, et ingressi sunt juxta mandatum regis et imperium Domini, ut expiarent domum Dei.
+    16: Sacerdotes quoque ingressi templum Domini ut sanctificarent illud, extulerunt omnem immunditiam, quam intro repererant in vestibulo domus Domini, quam tulerunt Levitae, et asportaverunt ad torrentem Cedron foras. 
+    17: Coeperunt autem prima die mensis primi mundare, et in die octavo ejusdem mensis ingressi sunt porticum templi Domini, expiaveruntque templum diebus octo, et in die sextadecima mensis ejusdem, quod coeperant, impleverunt. 
+    18: Ingressi quoque sunt ad Ezechiam regem, et dixerunt ei : Sanctificavimus omnem domum Domini, et altare holocausti, vasaque ejus, necnon et mensam propositionis cum omnibus vasis suis, 
+    19: cunctamque templi supellectilem, quam polluerat rex Achaz in regno suo, postquam praevaricatus est : et ecce exposita sunt omnia coram altare Domini. 
+    20: Consurgensque diluculo Ezechias rex, adunavit omnes principes civitatis, et ascendit in domum Domini :
+    21: obtuleruntque simul tauros septem, et arietes septem, agnos septem, et hircos septem pro peccato, pro regno, pro sanctuario, pro Juda : dixitque sacerdotibus filiis Aaron, ut offerrent super altare Domini. 
+    22: Mactaverunt igitur tauros, et susceperunt sanguinem sacerdotes, et fuderunt illum super altare, mactaverunt etiam arietes, et illorum sanguinem super altare fuderunt, immolaveruntque agnos, et fuderunt super altare sanguinem. 
+    23: Applicuerunt hircos pro peccato coram rege, et universa multitudine, imposueruntque manus suas super eos : 
+    24: et immolaverunt illos sacerdotes, et asperserunt sanguinem eorum coram altare pro piaculo universi Israelis : pro omni quippe Israel praeceperat rex ut holocaustum fieret et pro peccato. 
+    25: Constituit quoque Levitas in domo Domini cum cymbalis, et psalteriis, et citharis secundum dispositionem David regis, et Gad videntis, et Nathan prophetae : siquidem Domini praeceptum fuit per manum prophetarum ejus.
+    26: Steteruntque Levitae tenentes organa David, et sacerdotes tubas. 
+    27: Et jussit Ezechias ut offerrent holocausta super altare : cumque offerrentur holocausta, coeperunt laudes canere Domino, et clangere tubis, atque in diversis organis, quae David rex Israel praeparaverat, concrepare. 
+    28: Omni autem turba adorante, cantores, et ii qui tenebant tubas, erant in officio suo donec compleretur holocaustum. 
+    29: Cumque finita esset oblatio, incurvatus est rex, et omnes qui erant cum eo, et adoraverunt. 
+    30: Praecepitque Ezechias, et principes Levitis, ut laudarent Dominum sermonibus David, et Asaph videntis : qui laudaverunt eum magna laetitia, et incurvato genu adoraverunt.
+    31: Ezechias autem etiam haec addidit : Implestis manus vestras Domino : accedite, et offerte victimas et laudes in domo Domini. Obtulit ergo universa multitudo hostias, et laudes, et holocausta mente devota. 
+    32: Porro numerus holocaustorum, quae obtulit multitudo, hic fuit : tauros septuaginta, arietes centum, agnos ducentos. 
+    33: Sanctificaveruntque Domino boves sexcentos, et oves tria millia. 
+    34: Sacerdotes vero pauci erant, nec poterant sufficere ut pelles holocaustorum detraherent : unde et Levitae fratres eorum adjuverunt eos, donec impleretur opus, et sanctificarentur antistites : Levitae quippe faciliori ritu sanctificantur, quam sacerdotes. 
+    35: Fuerunt ergo holocausta plurima, adipes pacificorum, et libamina holocaustorum : et completus est cultus domus Domini.
+    36: Laetatusque est Ezechas, et omnis populus, eo quod ministerium Domini esset expletum : de repente quippe hoc fieri placuerat.
+
+  Chapter 30.
+
+    1: Misit quoque Ezechias ad omnem Israel et Judam : scripsitque epistolas ad Ephraim et Manassen ut venirent ad domum Domini in Jerusalem, et facerent Phase Domino Deo Israel. 
+    2: Inito ergo consilio regis et principum, et universi coetus Jerusalem, decreverunt ut facerent Phase mense secundo. 
+    3: Non enim potuerant facere in tempore suo, quia sacerdotes, qui possent sufficere, sanctificati non fuerant, et populus nondum congregatus fuerat in Jerusalem. 
+    4: Placuitque sermo regi, et omni multitudini. 
+    5: Et decreverunt ut mitterent nuntios in universum Israel, de Bersabee usque Dan, ut venirent, et facerent Phase Domino Deo Israel in Jerusalem : multi enim non fecerant sicut lege praescriptum est.
+    6: Perrexeruntque cursores cum epistolis ex regis imperio, et principum ejus, in universum Israel et Judam, juxta id, quod rex jusserat, praedicantes : Filii Israel, revertimini ad Dominum Deum Abraham, et Isaac, et Israel : et revertetur ad reliquias, quae effugerunt manum regis Assyriorum. 
+    7: Nolite fieri sicut patres vestri et fratres, qui recesserunt a Domino Deo patrum suorum, qui tradidit eos in interitum, ut ipsi cernitis. 
+    8: Nolite indurare cervices vestras, sicut patres vestri : tradite manus Domino, et venite ad sanctuarium ejus, quod sanctificavit in aeternum : servite Domino Deo patrum vestrorum, et avertetur a vobis ira furoris ejus. 
+    9: Si enim vos reversi fueritis ad Dominum : fratres vestri, et filii habebunt misericordiam coram dominis suis, qui illos duxerunt captivos, et revertentur in terram hanc : pius enim et clemens est Dominus Deus vester, et non avertet faciem suam a vobis, si reversi fueritis ad eum. 
+    10: Igitur cursores pergebant velociter de civitate in civitatem per terram Ephraim et Manasse usque ad Zabulon, illis irridentibus et subsannantibus eos.
+    11: Attamen quidam viri ex Aser, et Manasse, et Zabulon acquiescentes consilio, venerunt Jerusalem. 
+    12: In Juda vero facta est manus Domini ut daret eis cor unum, ut facerent juxta praeceptum regis et principum verbum Domini. 
+    13: Congregatique sunt in Jerusalem populi multi ut facerent solemnitatem azymorum, in mense secundo : 
+    14: et surgentes destruxerunt altaria quae erant in Jerusalem, atque universa, in quibus idolis adolebatur incensum, subvertentes, projecerunt in torrentem Cedron. 
+    15: Immolaverunt autem Phase quartadecima die mensis secundi. Sacerdotes quoque atque Levitae tandem sanctificati, obtulerunt holocausta in domo Domini :
+    16: steteruntque in ordine suo juxta dispositionem, et legem Moysi hominis Dei : sacerdotes vero suscipiebant effundendum sanguinem de manibus Levitarum, 
+    17: eo quod multa turba sanctificata non esset : et idcirco immolarent Levitae Phase his, qui non occurrerant sanctificari Domino. 
+    18: Magna etiam pars populi de Ephraim et Manasse, et Issachar, et Zabulon, quae sanctificata non fuerat, comedit Phase, non juxta quod scriptum est : et oravit pro eis Ezechias, dicens : Dominus bonus propitiabitur 
+    19: cunctis, qui in toto corde requirunt Dominum Deum patrum suorum : et non imputabit eis quod minus sanctificati sunt. 
+    20: Quem exaudivit Dominus, et placatus est populo.
+    21: Feceruntque filii Israel, qui inventi sunt in Jerusalem, solemnitatem azymorum septem diebus in laetitia magna, laudantes Dominum per singulos dies : Levitae quoque, et sacerdotes per organa, quae suo officio congruebant. 
+    22: Et locutus est Ezechias ad cor omnium Levitarum, qui habebant intelligentiam bonam super Domino : et comederunt septem diebus solemnitatis, immolantes victimas pacificorum, et laudantes Dominum Deum patrum suorum. 
+    23: Placuitque universae multitudini ut celebrarent etiam alios dies septem : quod et fecerunt cum ingenti gaudio. 
+    24: Ezechias enim rex Juda praebuerat multitudini mille tauros, et septem millia ovium : principes vero dederant populo tauros mille, et oves decem millia : sanctificata est ergo sacerdotum plurima multitudo. 
+    25: Et hilaritate perfusa omnis turba Juda, tam sacerdotum et Levitarum, quam universae frequentiae, quae venerat ex Israel : proselytorum quoque de terra Israel, et habitantium in Juda.
+    26: Factaque est grandis celebritas in Jerusalem, qualis a diebus Salomonis filii David regis Israel in ea urbe non fuerat. 
+    27: Surrexerunt autem sacerdotes atque Levitae benedicentes populo : et exaudita est vox eorum : pervenitque oratio in habitaculum sanctum caeli.
+
+  Chapter 31.
+
+    1: Cumque haec fuissent rite celebrata, egressus est omnis Israel, qui inventus fuerat in urbibus Juda, et fregerunt simulacra, succideruntque lucos, demoliti sunt excelsa, et altaria destruxerunt, non solum de universo Juda et Benjamin, sed et de Ephraim quoque et Manasse, donec penitus everterent : reversique sunt omnes filii Israel in possessiones et civitates suas. 
+    2: Ezechias autem constituit turmas sacerdotales et Leviticas per divisiones suas, unumquemque in officio proprio, tam sacerdotum videlicet quam Levitarum, ad holocausta et pacifica, ut ministrarent et confiterentur, canerentque in portis castrorum Domini. 
+    3: Pars autem regis erat, ut de propria ejus substantia offerretur holocaustum, mane semper et vespere. Sabbatis quoque, et calendis, et solemnitatibus ceteris, sicut scriptum est in lege Moysi. 
+    4: Praecepit etiam populo habitantium Jerusalem ut darent partes sacerdotibus et Levitis, ut possent vacare legi Domini. 
+    5: Quod cum percrebruisset in auribus multitudinis, plurimas obtulere primitias filii Israel frumenti, vini, et olei : mellis quoque, et omnium, quae gignit humus, decimas obtulerunt.
+    6: Sed et filii Israel et Juda, qui habitabant in urbibus Juda, obtulerunt decimas boum et ovium, decimasque sanctorum, quae voverant Domino Deo suo : atque universa portantes, fecerunt acervos plurimos. 
+    7: Mense tertio coeperunt acervorum jacere fundamenta, et mense septimo compleverunt eos. 
+    8: Cumque ingressi fuissent Ezechias et principes ejus, viderunt acervos, et benedixerunt Domino ac populo Israel. 
+    9: Interrogavitque Ezechias sacerdotes et Levitas, cur ita jacerent acervi. 
+    10: Respondit illi Azarias sacerdos primus de stirpe Sadoc, dicens : Ex quo coeperunt offerri primitiae in domo Domini, comedimus, et saturati sumus, et remanserunt plurima, eo quod benedixerit Dominus populo suo : reliquarum autem copia est ista, quam cernis.
+    11: Praecepit igitur Ezechias, ut praepararent horrea in domo Domini. Quod cum fecissent, 
+    12: intulerunt tam primitias, quam decimas, et quaecumque voverant, fideliter. Fuit autem praefectus eorum Chonenias Levita, et Semei frater ejus, secundus, 
+    13: post quem Jahiel, et Azarias, et Nahath, et Asael, et Jerimoth, Jozabad quoque, et Eliel, et Jesmachias, et Mahath, et Banaias, praepositi sub manibus Choneniae, et Semei fratris ejus, ex imperio Ezechiae regis et Azariae pontificis domus Dei, ad quos omnia pertinebant. 
+    14: Core vero filius Jemna Levites et janitor orientalis portae, praepositus erat iis, quae sponte offerebantur Domino, primitiisque et consecratis in Sancta sanctorum. 
+    15: Et sub cura ejus Eden, et Benjamin, Jesue, et Semeias, Amarias quoque, et Sechenias in civitatibus sacerdotum ut fideliter distribuerent fratribus suis partes, minoribus atque majoribus :
+    16: exceptis maribus ab annis tribus et supra, cunctis qui ingrediebantur templum Domini, et quidquid per singulos dies conducebat in ministerio, atque observationibus juxta divisiones suas, 
+    17: sacerdotibus per familias, et Levitis a vigesimo anno et supra, per ordines et turmas suas, 
+    18: universaeque multitudini tam uxoribus, quam liberis eorum utriusque sexus, fideliter cibi de his quae sanctificata fuerant, praebebantur. 
+    19: Sed et filiorum Aaron per agros, et suburbana urbium singularum, dispositi erant viri, qui partes distribuerent universo sexui masculino de sacerdotibus et Levitis. 
+    20: Fecit ergo Ezechias universa quae diximus in omni Juda : operatusque est bonum et rectum, et verum coram Domino Deo suo,
+    21: in universa cultura ministerii domus Domini, juxta legem et caeremonias, volens requirere Deum suum in toto corde suo : fecitque et prosperatus est.
+
+  Chapter 32.
+
+    1: Post quae et hujuscemodi veritatem, venit Sennacherib rex Assyriorum, et ingressus Judam, obsedit civitates munitas, volens eas capere. 
+    2: Quod cum vidisset Ezechias, venisse scilicet Sennacherib, et totum belli impetum verti contra Jerusalem, 
+    3: inito cum principibus consilio, virisque fortissimis ut obturarent capita fontium, qui erant extra urbem : et hoc omnium decernente sententia, 
+    4: congregavit plurimam multitudinem, et obturaverunt cunctos fontes, et rivum, qui fluebat in medio terrae, dicentes : Ne veniant reges Assyriorum, et inveniant aquarum abundantiam. 
+    5: Aedificavit quoque, agens industrie, omnem murum, qui fuerat dissipatus, et exstruxit turres desuper, et forinsecus alterum murum : instauravitque Mello in civitate David, et fecit universi generis armaturam et clypeos :
+    6: constituitque principes bellatorum in exercitu : et convocavit universos in platea portae civitatis, ac locutus est ad cor eorum, dicens : 
+    7: Viriliter agite, et confortamini : nolite timere, nec paveatis regem Assyriorum, et universam multitudinem quae est cum eo : multo enim plures nobiscum sunt, quam cum illo. 
+    8: Cum illo enim est brachium carneum : nobiscum Dominus Deus noster, qui auxiliator est noster, pugnatque pro nobis. Confortatusque est populus hujuscemodi verbis Ezechiae regis Juda. 
+    9: Quae postquam gesta sunt, misit Sennacherib rex Assyriorum servos suos in Jerusalem ( ipse enim cum universo exercitu obsidebat Lachis) ad Ezechiam regem Juda, et ad omnem populum, qui erat in urbe, dicens : 
+    10: Haec dicit Sennacherib rex Assyriorum : In quo habentes fiduciam sedetis obsessi in Jerusalem?
+    11: num Ezechias decipit vos, ut tradat morti in fame, et siti, affirmans quod Dominus Deus vester liberet vos de manu regis Assyriorum? 
+    12: Numquid non iste est Ezechias, qui destruxit excelsa illius, et altaria, et praecepit Juda et Jerusalem, dicens : Coram altari uno adorabitis, et in ipse comburetis incensum? 
+    13: an ignoratis quae ego fecerim, et patres mei, cunctis terrarum populis? numquid praevaluerunt dii gentium omniumque terrarum liberare regionem suam de manu mea? 
+    14: quis est de universis diis gentium, quas vastaverunt patres mei, qui potuerit eruere populum suum de manu mea, ut possit etiam Deus vester eruere vos de hac manu? 
+    15: Non vos ergo decipiat Ezechias, nec vana persuasione deludat, neque credatis ei. Si enim nullus potuit deus cunctarum gentium atque regnorum liberare populum suum de manu mea, et de manu patrum meorum, consequenter nec Deus vester poterit eruere vos de manu mea.
+    16: Sed et alia multa locuti sunt servi ejus contra Dominum Deum, et contra Ezechiam servum ejus. 
+    17: Epistolas quoque scripsit plenas blasphemiae in Dominum Deum Israel, et locutus est adversus eum : Sicut dii gentium ceterarum non potuerunt liberare populum suum de manu mea, sic et Deus Ezechiae eruere non poterit populum suum de manu ista. 
+    18: Insuper et clamore magno, lingua judaica, contra populum, qui sedebat in muris Jerusalem, personabat, ut terreret eos, et caperet civitatem. 
+    19: Locutusque est contra Deum Jerusalem, sicut adversum deos populorum terrae, opera manuum hominum. 
+    20: Oraverunt igitur Ezechias rex, et Isaias filius Amos prophetes, adversum hanc blasphemiam, ac vociferati sunt usque in caelum.
+    21: Et misit Dominus angelum, qui percussit omnem virum robustum, et bellatorem, et principem exercitus regis Assyriorum : reversusque est cum ignominia in terram suam. Cumque ingressus esset domum dei sui, filii qui egressi fuerant de utero ejus interfecerunt eum gladio. 
+    22: Salvavitque Dominus Ezechiam et habitatores Jerusalem de manu Sennacherib regis Assyriorum, et de manu omnium, et praestitit eis quietem per circuitum. 
+    23: Multi etiam deferebant hostias, et sacrificia Domino in Jerusalem, et munera Ezechiae regi Juda : qui exaltatus est post haec coram cunctis gentibus. 
+    24: In diebus illis aegrotavit Ezechias usque ad mortem, et oravit Dominum : exaudivitque eum, et dedit ei signum. 
+    25: Sed non juxta beneficia, quae acceperat, retribuit, quia elevatum est cor ejus : et facta est contra eum ira, et contra Judam et Jerusalem.
+    26: Humiliatusque est postea eo quod exaltatum fuisset cor ejus, tam ipse, quam habitatores Jerusalem : et idcirco non venit super eos ira Domini in diebus Ezechiae. 
+    27: Fuit autem Ezechias dives, et inclytus valde, et thesauros sibi plurimos congregavit argenti, et auri, et lapidis pretiosi, aromatum, et armorum universi generis, et vasorum magni pretii. 
+    28: Apothecas quoque frumenti, vini, et oleo, et praesepia omnium jumentorum, caulasque pecorum, 
+    29: et urbes aedificavit sibi : habebat quippe greges ovium, et armentorum innumerabiles, eo quod dedisset ei Dominus substantiam multam nimis. 
+    30: Ipse est Ezechias, qui obturavit superiorem fontem aquarum Gihon, et avertit eas subter ad occidentem urbis David : in omnibus operibus suis fecit prospere quae voluit.
+    31: Attamen in legatione principum Babylonis, qui missi fuerant ad eum, ut interrogarent de portento, quod acciderat super terram, dereliquit eum Deus ut tentaretur, et nota fierent omnia quae erant in corde ejus. 
+    32: Reliqua autem sermonum Ezechiae, et misericordiarum ejus, scripta sunt in visione Isaiae filii Amos prophetae, et in libro regum Juda et Israel. 
+    33: Dormivitque Ezechias cum patribus suis, et sepelierunt eum super sepulchra filiorum David : et celebravit ejus exequias universus Juda, et omnes habitatores Jerusalem : regnavitque Manasses filius ejus pro eo.
+
+End of day 104.

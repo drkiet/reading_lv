@@ -1,0 +1,75 @@
+Day 157:
+
+Reading Psalms, chapters ['53', '54', '55', '56']:
+
+  Chapter 53.
+
+    1: In finem, in carminibus. Intellectus David, 
+    2: cum venissent Ziphaei, et dixissent ad Saul : Nonne David absconditus est apud nos? 
+    3: Deus, in nomine tuo salvum me fac, et in virtute tua judica me. 
+    4: Deus, exaudi orationem meam; auribus percipe verba oris mei. 
+    5: Quoniam alieni insurrexerunt adversum me, et fortes quaesierunt animam meam, et non proposuerunt Deum ante conspectum suum.
+    6: Ecce enim Deus adjuvat me, et Dominus susceptor est animae meae. 
+    7: Averte mala inimicis meis; et in veritate tua disperde illos. 
+    8: Voluntarie sacrificabo tibi, et confitebor nomini tuo, Domine, quoniam bonum est. 
+    9: Quoniam ex omni tribulatione eripuisti me, et super inimicos meos despexit oculus meus.
+
+  Chapter 54.
+
+    1: In finem, in carminibus. Intellectus David. 
+    2: Exaudi, Deus, orationem meam, et ne despexeris deprecationem meam; 
+    3: intende mihi, et exaudi me. Contristatus sum in exercitatione mea; et conturbatus sum 
+    4: a voce inimici, et a tribulatione peccatoris. Quoniam declinaverunt in me iniquitates, et in ira molesti erant mihi. 
+    5: Cor meum conturbatum est in me, et formido mortis cecidit super me.
+    6: Timor et tremor venerunt super me, et contexerunt me tenebrae. 
+    7: Et dixi : Quis dabit mihi pennas sicut columbae, et volabo, et requiescam? 
+    8: Ecce elongavi fugiens; et mansi in solitudine. 
+    9: Exspectabam eum qui salvum me fecit a pusillanimitate spiritus, et tempestate. 
+    10: Praecipita, Domine, divide linguas eorum; quoniam vidi iniquitatem et contradictionem in civitate.
+    11: Die ac nocte circumdabit eam super muros ejus iniquitas; et labor in medio ejus, 
+    12: et injustitia : et non defecit de plateis ejus usura et dolus. 
+    13: Quoniam si inimicus meus maledixisset mihi, sustinuissem utique. Et si is qui oderat me super me magna locutus fuisset, abscondissem me forsitan ab eo. 
+    14: Tu vero homo unanimis, dux meus, et notus meus; 
+    15: qui simul mecum dulces capiebas cibos, in domo Dei ambulavimus cum consensu.
+    16: Veniat mors super illos, et descendant in infernum viventes : quoniam nequitiae in habitaculis eorum, in medio eorum. 
+    17: Ego autem ad Deum clamavi, et Dominus salvabit me. 
+    18: Vespere, et mane, et meridie, narrabo, et annuntiabo; et exaudiet vocem meam. 
+    19: Redimet in pace animam meam ab his qui appropinquant mihi; quoniam inter multos erant mecum. 
+    20: Exaudiet Deus, et humiliabit illos, qui est ante saecula. Non enim est illis commutatio, et non timuerunt Deum.
+    21: Extendit manum suam in retribuendo; contaminaverunt testamentum ejus; 
+    22: divisi sunt ab ira vultus ejus; et appropinquavit cor illius. Molliti sunt sermones ejus super oleum; et ipsi sunt jacula. 
+    23: Jacta super Dominum curam tuam, et ipse te enutriet; non dabit in aeternum fluctuationem justo. 
+    24: Tu vero, Deus, deduces eos in puteum interitus. Viri sanguinum et dolosi non dimidiabunt dies suos; ego autem sperabo in te, Domine.
+
+  Chapter 55.
+
+    1: In finem, pro populo qui a sanctis longe factus est. David in tituli inscriptionem, cum tenuerunt eum Allophyli in Geth. 
+    2: Miserere mei, Deus, quoniam conculcavit me homo; tota die impugnans, tribulavit me. 
+    3: Conculcaverunt me inimici mei tota die; quoniam multi bellantes adversum me. 
+    4: Ab altitudine diei timebo : ego vero in te sperabo. 
+    5: In Deo laudabo sermones meos; in Deo speravi; non timebo quid faciat mihi caro.
+    6: Tota die verba mea execrabantur; adversum me omnes cogitationes eorum in malum. 
+    7: Inhabitabunt, et abscondent; ipsi calcaneum meum observabunt. Sicut sustinuerunt animam meam, 
+    8: pro nihilo salvos facies illos; in ira populos confringes. 
+    9: Deus, vitam meam annuntiavi tibi; posuisti lacrimas meas in conspectu tuo, sicut et in promissione tua; 
+    10: tunc convertentur inimici mei retrorsum : in quacumque die invocavero te, ecce cognovi quoniam Deus meus es.
+    11: In Deo laudabo verbum; in Domino laudabo sermonem. In Deo speravi : non timebo quid faciat mihi homo. 
+    12: In me sunt, Deus, vota tua, quae reddam, laudationes tibi : 
+    13: quoniam eripuisti animam meam de morte, et pedes meos de lapsu, ut placeam coram Deo in lumine viventium.
+
+  Chapter 56.
+
+    1: In finem, ne disperdas. David in tituli inscriptionem, cum fugeret a facie Saul in speluncam. 
+    2: Miserere mei, Deus, miserere mei, quoniam in te confidit anima mea. Et in umbra alarum tuarum sperabo, donec transeat iniquitas. 
+    3: Clamabo ad Deum altissimum, Deum qui benefecit mihi. 
+    4: Misit de caelo, et liberavit me; dedit in opprobrium conculcantes me. Misit Deus misericordiam suam et veritatem suam, 
+    5: et eripuit animam meam de medio catulorum leonum; dormivi conturbatus. Filii hominum dentes eorum arma et sagittae, et lingua eorum gladius acutus.
+    6: Exaltare super caelos, Deus, et in omnem terram gloria tua. 
+    7: Laqueum paraverunt pedibus meis, et incurvaverunt animam meam. Foderunt ante faciem meam foveam, et inciderunt in eam. 
+    8: Paratum cor meum, Deus, paratum cor meum; cantabo, et psalmum dicam. 
+    9: Exsurge, gloria mea; exsurge, psalterium et cithara; exsurgam diluculo. 
+    10: Confitebor tibi in populis, Domine, et psalmum dicam tibi in gentibus;
+    11: quoniam magnificata est usque ad caelos misericordia tua, et usque ad nubes veritas tua. 
+    12: Exaltare super caelos, Deus, et super omnem terram gloria tua.
+
+End of day 157.

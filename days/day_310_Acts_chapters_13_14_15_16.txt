@@ -1,0 +1,177 @@
+Day 310:
+
+Reading Acts, chapters ['13', '14', '15', '16']:
+
+  Chapter 13.
+
+    1: Erant autem in ecclesia, quae erat Antiochiae, prophetae, et doctores, in quibus Barnabas, et Simon, qui vocabatur Niger, et Lucius Cyrenensis, et Manahen, qui erat Herodis Tetrarchae collactaneus, et Saulus. 
+    2: Ministrantibus autem illis Domino, et jejunantibus, dixit illis Spiritus Sanctus : Segregate mihi Saulum et Barnabam in opus ad quod assumpsi eos. 
+    3: Tunc jejunantes, et orantes, imponentesque eis manus, dimiserunt illos. 
+    4: Et ipsi quidem missi a Spiritu Sancto abierunt Seleuciam : et inde navigaverunt Cyprum. 
+    5: Et cum venissent Salaminam, praedicabant verbum Dei in synagogis Judaeorum. Habebant autem et Joannem in ministerio.
+    6: Et cum perambulassent universam insulam usque Paphum, invenerunt quemdam virum magnum pseudoprophetam, Judaeum, cui nomen erat Barjesu, 
+    7: qui erat cum proconsule Sergio Paulo viro prudente. Hic, accersitis Barnaba et Saulo, desiderabat audire verbum Dei. 
+    8: Resistebat autem illis Elymas magus ( si enim interpretatur nomen ejus), quaerens avertere proconsulem a fide. 
+    9: Saulus autem, qui et Paulus, repletus Spiritu Sancto, intuens in eum, 
+    10: dixit : O plene omni dolo et omni fallacia, fili diaboli, inimice omnis justitiae, non desinis subvertere vias Domini rectas.
+    11: Et nunc ecce manus Domini super te, et eris caecus, non videns solem usque ad tempus. Et confestim cecidit in eum caligo, et tenebrae, et circuiens quaerebat qui ei manum daret. 
+    12: Tunc proconsul cum vidisset factum, credidit admirans super doctrina Domini. 
+    13: Et cum a Papho navigassent Paulus, et qui cum eo erant, venerunt Pergen Pamphyliae. Joannes autem discedens ab eis, reversus est Jerosolymam. 
+    14: Illi vero pertranseuntes Pergen, venerunt Antiochiam Pisidiae : et ingressi synagogam die sabbatorum, sederunt. 
+    15: Post lectionem autem legis, et prophetarum, miserunt principes synagogae ad eos, dicentes : Viri fratres, si quis est in vobis sermo exhortationis ad plebem, dicite.
+    16: Surgens autem Paulus, et manu silentium indicens, ait : Viri Israelitae, et qui timetis Deum, audite : 
+    17: Deus plebis Israel elegit patres nostros, et plebem exaltavit cum essent incolae in terra Aegypti, et in brachio excelso eduxit eos ex ea, 
+    18: et per quadraginta annorum tempus mores eorum sustinuit in deserto. 
+    19: Et destruens gentes septem in terra Chanaan, sorte distribuit eis terram eorum, 
+    20: quasi post quadringentos et quinquaginta annos : et post haec dedit judices, usque ad Samuel prophetam.
+    21: Et exinde postulaverunt regem : et dedit illis Deus Saul filium Cis, virum de tribu Benjamin, annis quadraginta : 
+    22: et amoto illo, suscitavit illis David regem : cui testimonium perhibens, dixit : Inveni David filium Jesse, virum secundum cor meum, qui faciet omnes voluntates meas. 
+    23: Hujus Deus ex semine secundum promissionem eduxit Israel salvatorem Jesum, 
+    24: praedicante Joanne ante faciem adventus ejus baptismum poenitentiae omni populo Israel. 
+    25: Cum impleret autem Joannes cursum suum, dicebat : Quem me arbitramini esse, non sum ego, sed ecce venit post me, cujus non sum dignus calceamenta pedum solvere.
+    26: Viri fratres, filii generis Abraham, et qui in vobis timent Deum, vobis verbum salutis hujus missum est. 
+    27: Qui enim habitabant Jerusalem, et principes ejus hunc ignorantes, et voces prophetarum, quae per omne sabbatum leguntur, judicantes impleverunt, 
+    28: et nullam causam mortis invenientes in eo, petierunt a Pilato, ut interficerent eum. 
+    29: Cumque consummassent omnia quae de eo scripta erant, deponentes eum de ligno, posuerunt eum in monumento. 
+    30: Deus vero suscitavit eum a mortuis tertia die : qui visus est per dies multos his,
+    31: qui simul ascenderant cum eo de Galilaea in Jerusalem : qui usque nunc sunt testes ejus ad plebem. 
+    32: Et nos vobis annuntiamus eam, quae ad patres nostros repromissio facta est : 
+    33: quoniam hanc Deus adimplevit filiis nostris resuscitans Jesum, sicut et in Psalmo secundo scriptum est : Filius meus es tu, ego hodie genui te. 
+    34: Quod autem suscitavit eum a mortuis, amplius jam non reversurum in corruptionem, ita dixit : Quia dabo vobis sancta David fidelia. 
+    35: Ideoque et alias dicit : Non dabis sanctum tuum videre corruptionem.
+    36: David enim in sua generatione cum administrasset, voluntati Dei dormivit : et appositus est ad patres suos, et vidit corruptionem. 
+    37: Quem vero Deus suscitavit a mortuis, non vidit corruptionem. 
+    38: Notum igitur sit vobis, viri fratres, quia per hunc vobis remissio peccatorum annuntiatur, et ab omnibus quibus non potuistis in lege Moysi justificari, 
+    39: in hoc omnis qui credit, justificatur. 
+    40: Videte ergo ne superveniat vobis quod dictum est in prophetis :
+    41: Videte contemptores, et admiramini, et disperdimini : quia opus operor ego in diebus vestris, opus quod non credetis, si quis enarraverit vobis. 
+    42: Exeuntibus autem illis rogabant ut sequenti sabbato loquerentur sibi verba haec. 
+    43: Cumque dimissa esset synagoga, secuti sunt multi Judaeorum, et colentium advenarum, Paulum et Barnabam : qui loquentes suadebant eis ut permanerent in gratia Dei. 
+    44: Sequenti vero sabbato pene universa civitas convenit audire verbum Dei. 
+    45: Videntes autem turbas Judaei, repleti sunt zelo, et contradicebant his quae a Paulo dicebantur, blasphemantes.
+    46: Tunc constanter Paulus et Barnabas dixerunt : Vobis oportebat primum loqui verbum Dei : sed quoniam repellitis illud, et indignos vos judicatis aeternae vitae, ecce convertimur ad gentes. 
+    47: Sic enim praecepit nobis Dominus : Posui te in lucem gentium, ut sis in salutem usque ad extremum terrae. 
+    48: Audientes autem gentes gavisae sunt, et glorificabant verbum Domini : et crediderunt quotquot erant praeordinati ad vitam aeternam. 
+    49: Disseminabatur autem verbum Domini per universam regionem. 
+    50: Judaei autem concitaverunt mulieres religiosas, et honestas, et primos civitatis, et excitaverunt persecutionem in Paulum et Barnabam : et ejecerunt eos de finibus suis.
+    51: At illi excusso pulvere pedum in eos, venerunt Iconium. 
+    52: Discipuli quoque replebantur gaudio, et Spiritu Sancto.
+
+  Chapter 14.
+
+    1: Factum est autem Iconii, ut simul introirent in synagogam Judaeorum, et loquerentur, ita ut crederet Judaeorum et Graecorum copiosa multitudo. 
+    2: Qui vero increduli fuerunt Judaei, suscitaverunt, et ad iracundiam concitaverunt animas gentium adversus fratres. 
+    3: Multo igitur tempore demorati sunt, fiducialiter agentes in Domino, testimonium perhibente verbo gratiae suae, dante signa et prodigia fieri per manus eorum. 
+    4: Divisa est autem multitudo civitatis : et quidam quidem erant cum Judaeis, quidam vero cum Apostolis. 
+    5: Cum autem factus esset impetus gentilium et Judaeorum cum principibus suis, ut contumeliis afficerent, et lapidarent eos,
+    6: intelligentes confugerunt ad civitates Lycaoniae Lystram, et Derben, et universam in circuitu regionem, et ibi evangelizantes erant. 
+    7: Et quidam vir Lystris infirmus pedibus sedebat, claudus ex utero matris suae, qui numquam ambulaverat. 
+    8: Hic audivit Paulum loquentem. Qui intuitus eum, et videns quia fidem haberet ut salvus fieret, 
+    9: dixit magna voce : Surge super pedes tuos rectus. Et exilivit, et ambulabat. 
+    10: Turbae autem cum vidissent quod fecerat Paulus, levaverunt vocem suam lycaonice, dicentes : Dii similes facti hominibus, descenderunt ad nos.
+    11: Et vocabant Barnabam Jovem, Paulum vero Mercurium : quoniam ipse erat dux verbi. 
+    12: Sacerdos quoque Jovis, qui erat ante civitatem, tauros, et coronas ante januas afferens, cum populis volebat sacrificare. 
+    13: Quod ubi audierunt Apostoli, Barnabas et Paulus, conscissis tunicis suis exilierunt in turbas clamantes, 
+    14: et dicentes : Viri, quid haec facitis? et nos mortales sumus, similes vobis homines, annuntiantes vobis ab his vanis converti ad Deum vivum, qui fecit caelum, et terram, et mare, et omnia quae in eis sunt : 
+    15: qui in praeteritis generationibus dimisit omnes gentes ingredi vias suas.
+    16: Et quidem non sine testimonio semetipsum reliquit benefaciens de caelo, dans pluvias et tempora fructifera, implens cibo et laetitia corda nostra. 
+    17: Et haec dicentes, vix sedaverunt turbas ne sibi immolarent. 
+    18: Supervenerunt autem quidam ab Antiochia et Iconio Judaei : et persuasis turbis, lapidantesque Paulum, traxerunt extra civitatem, existimantes eum mortuum esse. 
+    19: Circumdantibus autem eum discipulis, surgens intravit civitatem, et postera die profectus est cum Barnaba in Derben. 
+    20: Cumque evangelizassent civitati illi, et docuissent multos, reversi sunt Lystram, et Iconium, et Antiochiam,
+    21: confirmantes animas discipulorum, exhortantesque ut permanerent in fide : et quoniam per multas tribulationes oportet nos intrare in regnum Dei. 
+    22: Et cum constituissent illis per singulas ecclesias presbyteros, et orassent cum jejunationibus, commendaverunt eos Domino, in quem crediderunt. 
+    23: Transeuntesque Pisidiam, venerunt in Pamphyliam, 
+    24: et loquentes verbum Domini in Perge, descendeunt in Attaliam : 
+    25: et inde navigaverunt Antiochiam, unde erant traditi gratiae Dei in opus quod compleverunt.
+    26: Cum autem venissent, et congregassent ecclesiam, retulerunt quanta fecisset Deus cum illis, et quia aperuisset gentibus ostium fidei. 
+    27: Morati sunt autem tempus non modicum cum discipulis.
+
+  Chapter 15.
+
+    1: Et quidam descendentes de Judaea, docebant fratres : Quia nisi circumcidamini secundum morem Moysi, non potestis salvari. 
+    2: Facta ergo seditione non minima Paulo et Barnabae adversus illos, statuerunt ut ascenderent Paulus, et Barnabas, et quidam alii ex aliis ad Apostolos et presbyteros in Jerusalem super hac quaestione. 
+    3: Illi ergo deducti ab ecclesia pertransibant Phoenicen et Samariam, narrantes conversionem gentium : et faciebant gaudium magnum omnibus fratribus. 
+    4: Cum autem venissent Jerosolymam, suscepti sunt ab ecclesia, et ab Apostolis, et senioribus annuntiantes quanta Deus fecisset cum illis. 
+    5: Surrexerunt autem quidam de haeresi pharisaeorum, qui crediderunt, dicentes : Quia oportet circumcidi eos, praecipere quoque servare legem Moysi.
+    6: Conveneruntque Apostoli et seniores videre de verbo hoc. 
+    7: Cum autem magna conquisitio fieret, surgens Petrus dixit ad eos : Viri fratres, vos scitis quoniam ab antiquis diebus Deus in nobis elegit, per os meum, audire gentes verbum Evangelii, et credere. 
+    8: Et qui novit corda Deus, testimonium perhibuit, dans illis Spiritum Sanctum, sicut et nobis, 
+    9: et nihil discrevit inter nos et illos, fide purificans corda eorum. 
+    10: Nunc ergo quid tentatis Deum, imponere jugum super cervices discipulorum quod neque patres nostri, neque nos portare potuimus?
+    11: Sed per gratiam Domini Jesu Christi credimus salvari, quemadmodum et illi. 
+    12: Tacuit autem omnis multitudo : et audiebant Barnabam et Paulum narrantes quanta Deus fecisset signa et prodigia per eos. 
+    13: Et postquam tacuerunt, respondit Jacobus, dicens : Viri fratres, audite me. 
+    14: Simon narravit quemadmodum primum Deus visitavit sumere ex gentibus populum nomini suo. 
+    15: Et huic concordant verba prophetarum sicut scriptum est :
+    16: Post haec revertar, et reaedificabo tabernaculum David, quod decidit : et diruta ejus reaedificabo, et erigam illud : 
+    17: ut requirant ceteri hominum Dominum, et omnes gentes, super quas invocatum est nomen meum, dicit Dominus faciens haec. 
+    18: Notum a saeculo est Domino opus suum. 
+    19: Propter quod ego judico non inquietari eos qui ex gentibus convertuntur ad Deum, 
+    20: sed scribere ad eos ut abstineant se a contaminationibus simulacrorum, et fornicatione, et suffocatis, et sanguine.
+    21: Moyses enim a temporibus antiquis habet in singulis civitatibus qui eum praedicent in synagogis, ubi per omne sabbatum legitur. 
+    22: Tunc placuit Apostolis, et senioribus cum omni ecclesia, eligere viros ex eis, et mittere Antiochiam cum Paulo et Barnaba, Judam, qui cognominabatur Barsabas, et Silam, viros primos in fratribus, 
+    23: scribentes per manus eorum : Apostoli et seniores fratres, his qui sunt Antiochiae, et Syriae, et Ciliciae, fratribus ex gentibus, salutem. 
+    24: Quoniam audivimus quia quidam ex nobis exeuntes, turbaverunt vos verbis, evertentes animas vestras, quibus non mandavimus : 
+    25: placuit nobis collectis in unum eligere viros, et mittere ad vos cum carissimis nostris Barnaba et Paulo,
+    26: hominibus qui tradiderunt animas suas pro nomine Domini nostri Jesu Christi. 
+    27: Misimus ergo Judam et Silam, qui et ipsi vobis verbis referent eadem. 
+    28: Visum est enim Spiritui Sancto, et nobis nihil ultra imponere vobis oneris quam haec necessaria : 
+    29: ut abstineatis vos ab immolatis simulacrorum, et sanguine, et suffocato, et fornicatione, a quibus custodientes vos, bene agetis. Valete. 
+    30: Illi ergo dimissi, descendeunt Antiochiam : et congregata multitudine tradiderunt epistolam.
+    31: Quam cum legissent, gavisi sunt super consolatione. 
+    32: Judas autem, et Silas, et ipsi cum essent prophetae, verbo plurimo consolati sunt fratres, et confirmaverunt. 
+    33: Facto autem ibi aliquanto tempore, dimissi sunt cum pace a fratribus ad eos, qui miserant illos. 
+    34: Visum est autem Silae ibi remanere : Judas autem solus abiit Jerusalem. 
+    35: Paulus autem et Barnabas demorabantur Antiochiae docentes, et evangelizantes cum aliis pluribus verbum Domini.
+    36: Post aliquot autem dies, dixit ad Barnabam Paulus : Revertentes visitemus fratres per universas civitates, in quibus praedicavimus verbum Domini, quomodo se habeant. 
+    37: Barnabas autem volebat secum assumere et Joannem, qui cognominabatur Marcus. 
+    38: Paulus autem rogabat eum ( ut qui discessisset ab eis de Pamphylia, et non isset cum eis in opus) non debere recipi. 
+    39: Facta est autem dissensio, ita ut discederent ab invicem et Barnabas quidem, assumpto Marco, navigaret Cyprum. 
+    40: Paulus vero, electo Sila, profectus est, traditus gratiae Dei a fratribus.
+    41: Perambulabat autem Syriam et Ciliciam, confirmans ecclesias : praecipiens custodire praecepta Apostolorum et seniorum.
+
+  Chapter 16.
+
+    1: Pervenit autem Derben et Lystram. Et ecce discipulus quidam erat ibi nomine Timotheus, filius mulieris Judaeae fidelis, patre gentili. 
+    2: Huic testimonium bonum reddebant qui in Lystris erant, et Iconio fratres. 
+    3: Hunc voluit Paulus secum proficisci : et assumens circumcidit eum propter Judaeos, qui erant in illis locis. Sciebant enim omnes quod pater ejus erat gentilis. 
+    4: Cum autem pertransirent civitates, tradebant eis custodiri dogmata quae erant decreta ab Apostolis et senioribus, qui erant Jerosolymis. 
+    5: Et ecclesiae quidem confirmabantur fide, et abundabunt numero quotidie.
+    6: Transeuntes autem Phrygiam et Galatiae regionem, vetati sunt a Spiritu Sancto loqui verbum Dei in Asia. 
+    7: Cum venissent autem in Mysiam, tentabant ire in Bithyniam : et non permisit eos Spiritus Jesu. 
+    8: Cum autem pertransissent Mysiam, descendeunt Troadem : 
+    9: et visio per noctem Paulo ostensa est : vir Macedo quidam erat stans et deprecans eum, et dicens : Transiens in Macedoniam, adjuva nos. 
+    10: Ut autem visum vidit, statim quaesivimus proficisci in Macedoniam, certi facti quod vocasset nos Deus evangelizare eis.
+    11: Navigantes autem a Troade, recto cursu venimus Samothraciam, et sequenti die Neapolim : 
+    12: et inde Philippos, quae est prima partis Macedoniae civitas, colonia. Eramus autem in hac urbe diebus aliquot, conferentes. 
+    13: Die autem sabbatorum egressi sumus foras portam juxta flumen, ubi videbatur oratio esse : et sedentes loquebamur mulieribus quae convenerant. 
+    14: Et quaedam mulier nomine Lydia, purpuraria civitatis Thyatirenorum, colens Deum, audivit : cujus Dominus aperuit cor intendere his quae dicebantur a Paulo. 
+    15: Cum autem baptizata esset, et domus ejus, deprecata est dicens : Si judicastis me fidelem Domino esse, introite in domum meam, et manete. Et coegit nos.
+    16: Factum est autem euntibus nobis ad orationem, puellam quamdam habentem spiritum pythonem obviare nobis, quae quaestum magnum praestabat dominis suis divinando. 
+    17: Haec subsecuta Paulum, et nos, clamabat dicens : Isti homines servi Dei excelsi sunt, qui annuntiant vobis viam salutis. 
+    18: Hoc autem faciebat multis diebus. Dolens autem Paulus, et conversus, spiritui dixit : Praecipio tibi in nomine Jesu Christi exire ab ea. Et exiit eadem hora. 
+    19: Videntes autem domini ejus quia exivit spes quaestus eorum, apprehendentes Paulum et Silam, perduxerunt in forum ad principes : 
+    20: et offerentes eos magistratibus, dixerunt : Hi homines conturbant civitatem nostram, cum sint Judaei :
+    21: et annuntiant morem, quem non licet nobis suscipere, neque facere, cum simus Romani. 
+    22: Et cucurrit plebs adversus eos : et magistratus, scissis tunicis eorum, jusserunt eos virgis caedi. 
+    23: Et cum multas plagas eis imposuissent, miserunt eos in carcerem, praecipientes custodi ut diligenter custodiret eos. 
+    24: Qui cum tale praeceptum accepisset, misit eos in interiorem carcerem, et pedes eorum strinxit ligno. 
+    25: Media autem nocte Paulus et Silas orantes, laudabant Deum : et audiebant eos qui in custodia erant.
+    26: Subito vero terraemotus factus est magnus, ita ut moverentur fundamenta carceris. Et statim aperta sunt omnia ostia : et universorum vincula soluta sunt. 
+    27: Expergefactus autem custos carceris, et videns januas apertas carceris, evaginato gladio volebat se interficere, aestimans fugisse vinctos. 
+    28: Clamavit autem Paulus voce magna, dicens : Nihil tibi mali feceris : universi enim hic sumus. 
+    29: Petitoque lumine, introgressus est : et tremefactus procidit Paulo et Silae ad pedes : 
+    30: et producens eos foras, ait : Domini, quid me oportet facere, ut salvus fiam?
+    31: At illi dixerunt : Crede in Dominum Jesum : et salvus eris tu, et domus tua. 
+    32: Et locuti sunt ei verbum Domini cum omnibus qui erant in domo ejus. 
+    33: Et tollens eos in illa hora noctis, lavit plagas eorum : et baptizatus est ipse, et omnis domus ejus continuo. 
+    34: Cumque perduxisset eos in domum suam, apposuit eis mensam, et laetatus est cum omni domo sua credens Deo. 
+    35: Et cum dies factus esset, miserunt magistratus lictores, dicentes : Dimitte homines illos.
+    36: Nuntiavit autem custos carceris verba haec Paulo : Quia miserunt magistratus ut dimittamini, nunc igitur exeuntes, ite in pace. 
+    37: Paulus autem dixit eis : Caesos nos publice, indemnatos, homines Romanos miserunt in carcerem, et nunc occulte nos ejiciunt? Non ita : sed veniant, 
+    38: et ipsi nos ejiciant. Nuntiaverunt autem magistratibus lictores verba haec. Timueruntque audito quod Romani essent : 
+    39: et venientes deprecati sunt eos, et educentes rogabant ut egrederentur de urbe. 
+    40: Exeuntes autem de carcere, introierunt ad Lydiam : et visis fratribus consolati sunt eos, et profecti sunt.
+
+End of day 310.

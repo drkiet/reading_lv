@@ -1,0 +1,71 @@
+Day 166:
+
+Reading Psalms, chapters ['89', '90', '91', '92']:
+
+  Chapter 89.
+
+    1: Oratio Moysi, hominis Dei. Domine, refugium factus es nobis a generatione in generationem. 
+    2: Priusquam montes fierent, aut formaretur terra et orbis, a saeculo et usque in saeculum tu es Deus. 
+    3: Ne avertas hominem in humilitatem; et dixisti : Convertimini, filii hominum. 
+    4: Quoniam mille anni ante oculos tuos tamquam dies hesterna quae praeteriit, et custodia in nocte; 
+    5: quae pro nihilo habentur eorum anni erunt.
+    6: Mane sicut herba transeat; mane floreat, et transeat; vespere decidat, induret, et arescat. 
+    7: Quia defecimus in ira tua, et in furore tuo turbati sumus. 
+    8: Posuisti iniquitates nostras in conspectu tuo, saeculum nostrum in illuminatione vultus tui. 
+    9: Quoniam omnes dies nostri defecerunt; et in ira tua defecimus. Anni nostri sicut aranea meditabuntur; 
+    10: dies annorum nostrorum in ipsis septuaginta anni. Si autem in potentatibus octoginta anni, et amplius eorum labor et dolor; quoniam supervenit mansuetudo, et corripiemur.
+    11: Quis novit potestatem irae tuae, 
+    12: et prae timore tuo iram tuam dinumerare? Dexteram tuam sic notam fac, et eruditos corde in sapientia. 
+    13: Convertere, Domine; usquequo? et deprecabilis esto super servos tuos. 
+    14: Repleti sumus mane misericordia tua; et exsultavimus, et delectati sumus omnibus diebus nostris. 
+    15: Laetati sumus pro diebus quibus nos humiliasti, annis quibus vidimus mala.
+    16: Respice in servos tuos et in opera tua, et dirige filios eorum. 
+    17: Et sit splendor Domini Dei nostri super nos; et opera manuum nostrarum dirige super nos, et opus manuum nostrarum dirige.
+
+  Chapter 90.
+
+    1: Laus cantici David. Qui habitat in adjutorio Altissimi, in protectione Dei caeli commorabitur. 
+    2: Dicet Domino : Susceptor meus es tu et refugium meum; Deus meus, sperabo in eum. 
+    3: Quoniam ipse liberavit me de laqueo venantium, et a verbo aspero. 
+    4: Scapulis suis obumbrabit tibi, et sub pennis ejus sperabis. 
+    5: Scuto circumdabit te veritas ejus : non timebis a timore nocturno;
+    6: a sagitta volante in die, a negotio perambulante in tenebris, ab incursu, et daemonio meridiano. 
+    7: Cadent a latere tuo mille, et decem millia a dextris tuis; ad te autem non appropinquabit. 
+    8: Verumtamen oculis tuis considerabis et retributionem peccatorum videbis. 
+    9: Quoniam tu es, Domine, spes mea; Altissimum posuisti refugium tuum. 
+    10: Non accedet ad te malum, et flagellum non appropinquabit tabernaculo tuo.
+    11: Quoniam angelis suis mandavit de te, ut custodiant te in omnibus viis tuis. 
+    12: In manibus portabunt te, ne forte offendas ad lapidem pedem tuum. 
+    13: Super aspidem et basiliscum ambulabis, et conculcabis leonem et draconem. 
+    14: Quoniam in me speravit, liberabo eum; protegam eum, quoniam cognovit nomen meum. 
+    15: Clamabit ad me, et ego exaudiam eum; cum ipso sum in tribulatione; eripiam eum, et glorificabo eum.
+    16: Longitudine dierum replebo eum, et ostendam illi salutare meum.
+
+  Chapter 91.
+
+    1: Psalmus cantici, in die sabbati. 
+    2: Bonum est confiteri Domino, et psallere nomini tuo, Altissime. 
+    3: Ad annuntiandum mane misericordiam tuam, et veritatem tuam per noctem; 
+    4: in decachordo, psalterio, cum cantico, in cithara. 
+    5: Quia delectasti me, Domine, in factura tua; et in operibus manuum tuarum exsultabo.
+    6: Quam magnificata sunt opera tua, Domine! nimis profundae factae sunt cogitationes tuae. 
+    7: Vir insipiens non cognoscet, et stultus non intelliget haec. 
+    8: Cum exorti fuerint peccatores sicut foenum, et apparuerint omnes qui operantur iniquitatem, ut intereant in saeculum saeculi; 
+    9: tu autem Altissimus in aeternum, Domine. 
+    10: Quoniam ecce inimici tui, Domine, quoniam ecce inimici tui peribunt; et dispergentur omnes qui operantur iniquitatem.
+    11: Et exaltabitur sicut unicornis cornu meum, et senectus mea in misericordia uberi. 
+    12: Et despexit oculus meus inimicos meos, et in insurgentibus in me malignantibus audiet auris mea. 
+    13: Justus ut palma florebit; sicut cedrus Libani multiplicabitur. 
+    14: Plantati in domo Domini, in atriis domus Dei nostri florebunt. 
+    15: Adhuc multiplicabuntur in senecta uberi, et bene patientes erunt :
+    16: ut annuntient quoniam rectus Dominus Deus noster, et non est iniquitas in eo.
+
+  Chapter 92.
+
+    1: Laus cantici ipsi David, in die ante sabbatum, quando fundata est terra. Dominus regnavit, decorem indutus est : indutus est Dominus fortitudinem, et praecinxit se. Etenim firmavit orbem terrae, qui non commovebitur. 
+    2: Parata sedes tua ex tunc; a saeculo tu es. 
+    3: Elevaverunt flumina, Domine, elevaverunt flumina vocem suam, elevaverunt flumina fluctus suos, 
+    4: a vocibus aquarum multarum. Mirabiles elationes maris; mirabilis in altis Dominus. 
+    5: Testimonia tua credibilia facta sunt nimis; domum tuam decet sanctitudo, Domine, in longitudinem dierum.
+
+End of day 166.

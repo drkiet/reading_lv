@@ -1,0 +1,127 @@
+Day 223:
+
+Reading Isaiah, chapters ['41', '42', '43', '44']:
+
+  Chapter 41.
+
+    1: Taceant ad me insulae, et gentes mutent fortitudinem; accedant, et tunc loquantur; simul ad judicium propinquemus. 
+    2: Quis suscitavit ab oriente Justum, vocavit eum ut sequeretur se? Dabit in conspectu ejus gentes, et reges obtinebit; dabit quasi pulverem gladio ejus, sicut stipulam vento raptam arcui ejus. 
+    3: Persequetur eos, transibit in pace, semita in pedibus ejus non apparebit. 
+    4: Quia haec operatus est, et fecit, vocans generationes ab exordio? Ego Dominus, primus et novissimus ego sum. 
+    5: Viderunt insulae, et timuerunt; extrema terrae obstupuerunt, appropinquaverunt, et accesserunt.
+    6: Unusquisque proximo suo auxiliabitur, et fratri suo dicet : Confortare. 
+    7: Confortavit faber aerarius percutiens malleo eum, qui cudebat tunc temporis, dicens : Glutino bonum est; et confortavit eum clavis, ut non moveretur. 
+    8: Et tu, Israel, serve meus, Jacob quem elegi, semen Abraham amici mei : 
+    9: in quo apprehendi te ab extremis terrae, et a longinquis ejus vocavi te, et dixi tibi : Servus meus es tu, elegi te, et non abjeci te. 
+    10: Ne timeas, quia ego tecum sum; ne declines, quia ego Deus tuus; confortavi te, et auxiliatus sum tibi, et suscepit te dextera Justi mei.
+    11: Ecce confundentur et erubescent omnes qui pugnant adversum te; erunt quasi non sint, et peribunt viri qui contradicunt tibi. 
+    12: Quaeres eos, et non invenies, viros rebelles tuos; erunt quasi non sint, et veluti consumptio homines bellantes adversum te. 
+    13: Quia ego Dominus Deus tuus, apprehendens manum tuam, dicensque tibi : Ne timeas; ego adjuvi te. 
+    14: Noli timere, vermis Jacob, qui mortui estis ex Israel; ego auxiliatus sum tibi, dicit Dominus, et redemptor tuus Sanctus Israel. 
+    15: Ego posui te quasi plaustrum triturans novum, habens rostra serrantia; triturabis montes, et comminues, et colles quasi pulverem pones.
+    16: Ventilabis eos, et ventus tollet, et turbo disperget eos; et tu exsultabis in Domino, in Sancto Israel laetaberis. 
+    17: Egeni et pauperes quaerunt aquas, et non sunt; lingua eorum siti aruit. Ego Dominus exaudiam eos, Deus Israel, non derelinquam eos. 
+    18: Aperiam in supinis collibus flumina, et in medio camporum fontes, ponam desertum in stagna aquarum, et terram inviam in rivos aquarum. 
+    19: Dabo in solitudinem cedrum, et spinam, et myrtum, et lignum olivae; ponam in deserto abietem, ulmum, et buxum simul; 
+    20: ut videant et sciant, et recogitent, et intelligant pariter, quia manus Domini fecit hoc, et Sanctus Israel creavit illud.
+    21: Prope facite judicium vestrum, dicit Dominus; afferte, si quid forte habetis, dicit rex Jacob. 
+    22: Accedant, et nuntient nobis quaecumque ventura sunt; priora quae fuerunt nuntiate; et ponemus cor nostrum, et sciemus novissima eorum; et quae ventura sunt indicate nobis. 
+    23: Annuntiate quae ventura sunt in futurum, et sciemus quia dii estis vos; bene quoque aut male, si potestis, facite; et loquamur et videamus simul. 
+    24: Ecce vos estis ex nihilo, et opus vestrum ex eo quod non est; abominatio est qui elegit vos. 
+    25: Suscitavi ab aquilone, et veniet ab ortu solis; vocabit nomen meum; et adducet magistratus quasi lutum, et velut plastes conculans humum.
+    26: Quis annuntiavit ab exordio ut sciamus, et a principio ut dicamus : Justus es? Non est neque annuntians, neque praedicens, neque audiens sermones vestros. 
+    27: Primus ad Sion dicet : Ecce adsunt, et Jerusalem evangelistam dabo. 
+    28: Et vidi, et non erat neque ex istis quisquam qui iniret consilium, et interrogatus responderet verbum. 
+    29: Ecce omnes injusti et vana opera eorum; ventus et inane simulacra eorum.
+
+  Chapter 42.
+
+    1: Ecce servus meus, suscipiam eum; electus meus, complacuit sibi in illo anima mea : dedi spiritum meum super eum, judicium gentibus proferet. 
+    2: Non clamabit, neque accipiet personam; nec audietur vox ejus foris. 
+    3: Calamum quassatum non conteret, et linum fumigans non extinguet; in veritate educet judicium. 
+    4: Non erit tristis, neque turbulentus, donec ponat in terra judicium; et legem ejus insulae exspectabunt. 
+    5: Haec dicit Dominus Deus, creans caelos, et extendens eos; formans terram, et quae germinant ex ea, dans flatum populo qui est super eam, et spiritum calcantibus eam.
+    6: Ego Dominus vocavi te in justitia, et apprehendi manum tuam, et servavi te; et dedi te in foedus populi, in lucem gentium, 
+    7: ut aperires oculos caecorum, et educeres de conclusione vinctum, de domo carceris sedentes in tenebris. 
+    8: Ego Dominus, hoc est nomen meum; gloriam meam alteri non dabo, et laudem meam sculptilibus. 
+    9: Quae prima fuerunt, ecce venerunt; nova quoque ego annuntio : antequam oriantur, audita vobis faciam. 
+    10: Cantate Domino canticum novum, laus ejus ab extremis terrae, qui descenditis in mare, et plenitudo ejus; insulae, et habitatores earum.
+    11: Sublevetur desertum et civitates ejus. In domibus habitabit Cedar : laudate, habitatores petrae, de vertice montium clamabunt. 
+    12: Ponent Domino gloriam, et laudem ejus in insulis nuntiabunt. 
+    13: Dominus sicut fortis egredietur, sicut vir praeliator suscitabit zelum; vociferabitur, et clamabit : super inimicos suos confortabitur. 
+    14: Tacui semper, silui, patiens fui; sicut parturiens loquar; dissipabo, et absorbebo simul. 
+    15: Desertos faciam montes et colles, et omne gramen eorum exsiccabo; et ponam flumina in insulas, et stagna arefaciam.
+    16: Et ducam caecos in viam quam nesciunt, et in semitis quas ignoraverunt ambulare eos faciam; ponam tenebras coram eis in lucem, et prava in recta; haec verba feci eis, et non dereliqui eos. 
+    17: Conversi sunt retrorsum, confundantur confusione qui confidunt in sculptili, qui dicunt conflatili : Vos dii nostri. 
+    18: Surdi, audite; et caeci, intuemini ad videndum. 
+    19: Quis caecos, nisi servus meus; et surdus, nisi ad quem nuntios meos misi? Quis caecus, nisi qui venundatus est? et quis caecus, nisi servus Domini? 
+    20: Qui vides multa, nonne custodies? qui apertas habes aures, nonne audies?
+    21: Et Dominus voluit ut sanctificaret eum, et magnificaret legem, et extolleret. 
+    22: Ipse autem populus direptus, et vastatus; laqueus juvenum omnes, et in domibus carcerum absconditi sunt; facti sunt in rapinam, nec est qui eruat; in direptionem, nec est qui dicat : Redde. 
+    23: Quis est in vobis qui audiat hoc, attendat, et auscultet futura? 
+    24: Quis dedit in direptionem Jacob, et Israel vastantibus? Nonne Dominus ipse, cui peccavimus? Et noluerunt in viis ejus ambulare, et non audierunt legem ejus. 
+    25: Et effudit super eum indignationem furoris sui, et forte bellum; et combussit eum in circuitu, et non cognovit; et succendit eum, et non intellexit.
+
+  Chapter 43.
+
+    1: Et nunc haec dicit Dominus creans te, Jacob, et formans te, Israel : Noli timere, quia redemi te, et vocavi te nomine tuo; meus es tu. 
+    2: Cum transieris per aquas, tecum ero, et flumina non operient te; cum ambulaveris in igne, non combureris, et flamma non ardebit in te. 
+    3: Quia ego Dominus Deus tuus, Sanctus Israel, salvator tuus, dedi propitiationem tuam Aegyptum, Aethopiam, et Saba pro te. 
+    4: Ex quo honorabilis factus es in oculis meis, et gloriosus, ego dilexi te, et dabo homines pro te, et populos pro anima tua. 
+    5: Noli timere, quia ego tecum sum; ab oriente adducam semen tuum, et ab occidente congregabo te.
+    6: Dicam aquiloni : Da; et austro : Noli prohibere; affer filios meos de longinquo, et filias meas ab extremis terrae. 
+    7: Et omnem qui invocat nomen meum, in gloriam meam creavi eum, formavi eum, et feci eum. 
+    8: Educ foras populum caecum, et oculos habentem; surdum, et aures ei sunt. 
+    9: Omnes gentes congregatae sunt simul, et collectae sunt tribus. Quis in vobis annuntiet istud, et quae prima sunt audire nos faciet? Dent testes eorum, justificentur, et audiant et dicant : Vere. 
+    10: Vos testes mei, dicit Dominus, et servus meus quem elegi; ut sciatis, et credatis mihi, et intelligatis quia ego ipse sum; ante me non est formatus Deus, et post me non erit.
+    11: Ego sum, ego sum Dominus; et non est absque me salvator. 
+    12: Ego annuntiavi, et salvavi; auditum feci, et non fuit in vobis alienus : vos testes mei, dicit Dominus, et ego Deus. 
+    13: Et ab initio ego ipse; et non est qui de manu mea eruat. Operabor, et quis avertet illud? 
+    14: Haec dicit Dominus, redemptor vester, Sanctus Israel : Propter vos misi in Babylonem, et detraxi vectes universos, et Chaldaeos in navibus suis gloriantes. 
+    15: Ego Dominus, Sanctus vester, creans Israel, rex vester.
+    16: Haec dicit Dominus, qui dedit in mari viam, et in aquis torrentibus semitam; 
+    17: qui eduxit quadrigam et equum, agmen et robustum; simul obdormierunt, nec resurgent; contriti sunt quasi linum, et extincti sunt. 
+    18: Ne memineritis priorum, et antiqua ne intueamini. 
+    19: Ecce ego facio nova, et nunc orientur, utique cognoscetis ea; ponam in deserto viam, et in invio flumina. 
+    20: Glorificabit me bestia agri, dracones, et struthiones, quia dedi in deserto aquas, flumina in invio, ut darem potum populo meo, electo meo.
+    21: Populum istum formavi mihi, laudem meam narrabit. 
+    22: Non me invocasti, Jacob; nec laborasti in me, Israel. 
+    23: Non obtulisti mihi arietem holocausti tui, et victimis tuis non glorificasti me; non te servire feci in oblatione, nec laborem tibi praebui in thure. 
+    24: Non emisti mihi argento calamum, et adipe victimarum tuarum non inebriasti me; verumtamen servire me fecisti in peccatis tuis, praebuisti mihi laborem in iniquitatibus tuis. 
+    25: Ego sum, ego sum ipse qui deleo iniquitates tuas propter me, et peccatorum tuorum non recordabor.
+    26: Reduc me in memoriam, et judicemur simul : narra si quid habes ut justificeris. 
+    27: Pater tuus primus peccavit, et interpretes tui praevaricati sunt in me : 
+    28: et contaminavi principes sanctos; dedi ad internecionem Jacob, et Israel in blasphemiam.
+
+  Chapter 44.
+
+    1: Et nunc audi, Jacob, serve meus, et Israel, quem elegi. 
+    2: Haec dicit Dominus faciens et formans te, ab utero auxiliator tuus : Noli timere, serve meus Jacob, et rectissime, quem elegi. 
+    3: Effundam enim aquas super sitientem, et fluenta super aridam : effundam spiritum meum super semen tuum, et benedictionem meam super stirpem tuam; 
+    4: et germinabunt inter herbas, quasi salices juxta praeterfluentes aquas. 
+    5: Iste dicet : Domini ego sum; et ille vocabit in nomine Jacob; et hic scribet manu sua : Domino, et in nomine Israel assimilabitur.
+    6: Haec dicit Dominus, rex Israel, et redemptor ejus, Dominus exercituum : Ego primus, et ego novissimus; et absque me non est Deus. 
+    7: Quis similis mei? vocet, et annuntiet; et ordinem exponat mihi, ex quo constitui populum antiquum; ventura et quae futura sunt annuntient eis. 
+    8: Nolite timere, neque conturbemini; ex tunc audire te feci et annuntiavi; vos estis testes mei. Numquid est Deus absque me, et formator quem ego non noverim? 
+    9: Plastae idoli omnes nihil sunt, et amantissima eorum non proderunt eis. Ipsi sunt testes eorum, quia non vident, neque intelligunt, ut confundantur. 
+    10: Quis formavit deum, et sculptile conflavit ad nihil utile?
+    11: Ecce omnes participes ejus confundentur, fabri enim sunt ex hominibus; convenient omnes, stabunt et pavebunt, et confundentur simul. 
+    12: Faber ferrarius lima operatus est, in prunis et in malleis formavit illud, et operatus est in brachio fortitudinis suae; esuriet et deficiet, non bibet aquam et lassescet. 
+    13: Artifex lignarius extendit normam, formavit illud in runcina, fecit illud in angularibus, et in circino tornavit illud, et fecit imaginem viri quasi speciosum hominem habitantem in domo; 
+    14: succidit cedros, tulit ilicem, et quercum, quae steterat inter ligna saltus; plantavit pinum, quam pluvia nutrivit; 
+    15: et facta est hominibus in focum; sumpsit ex eis, et calefactus est; et succendit et coxit panes; de reliquo autem operatus est deum et adoravit; fecit sculptile, et curvatus est ante illud.
+    16: Medium ejus combussit igni, et de medio ejus carnes comedit; coxit pulmentum, et saturatus est, et calefactus est, et dixit : Vah! calefactus sum, vidi focum; 
+    17: reliquum autem ejus deum fecit et sculptile sibi; curvatur ante illud, et adorat illud, et obsecrat, dicens : Libera me, quia deus meus es tu! 
+    18: Nescierunt, neque intellexerunt; obliti enim sunt ne videant oculi eorum, et ne intelligant corde suo. 
+    19: Non recogitant in mente sua, neque cognoscunt, neque sentiunt, ut dicant : Medietatem ejus combussi igni, et coxi super carbones ejus panes; coxi carnes et comedi, et de reliquo ejus idolum faciam? ante truncum ligni procidam? 
+    20: Pars ejus cinis est; cor insipiens adoravit illud, et non liberabit animam suam, neque dicet : Forte mendacium est in dextera mea.
+    21: Memento horum Jacob, et Israel, quoniam servus meus es tu. Formavi te; servus meus es tu, Israel, ne obliviscaris mei. 
+    22: Delevi ut nubem iniquitates tuas, et quasi nebulam peccata tua; revertere ad me, quoniam redemi te. 
+    23: Laudate, caeli, quoniam misericordiam fecit Dominus; jubilate, extrema terrae; resonate, montes, laudationem, saltus et omne lignum ejus, quoniam redemit Dominus Jacob, et Israel gloriabitur. 
+    24: Haec dicit Dominus, redemptor tuus, et formator tuus ex utero : Ego sum Dominus, faciens omnia, extendens caelos solus, stabiliens terram, et nullus mecum; 
+    25: irrita faciens signa divinorum, et ariolos in furorem vertens; convertens sapientes retrorsum, et scientiam eorum stultam faciens;
+    26: suscitans verbum servi sui et consilium nuntiorum suorum complens; qui dico Jerusalem : Habitaberis; et civitatibus Juda : Aedificabimini, et deserta ejus suscitabo; 
+    27: qui dico profundo : Desolare, et flumina tua arefaciam; 
+    28: qui dico Cyro : Pastor meus es, et omnem voluntatem meam complebis; qui dico Jerusalem : Aedificaberis; et templo : Fundaberis.
+
+End of day 223.

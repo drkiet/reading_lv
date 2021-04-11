@@ -1,0 +1,199 @@
+Day 289:
+
+Reading Matthew, chapters ['21', '22', '23', '24']:
+
+  Chapter 21.
+
+    1: Et cum appropinquassent Jerosolymis, et venissent Bethphage ad montem Oliveti : tunc Jesus misit duos discipulos, 
+    2: dicens eis : Ite in castellum, quod contra vos est, et statim invenietis asinam alligatam, et pullum cum ea : solvite, et adducite mihi : 
+    3: et si quis vobis aliquid dixerit, dicite quia Dominus his opus habet : et confestim dimittet eos. 
+    4: Hoc autem totum factum est, ut adimpleretur quod dictum est per prophetam dicentem : 
+    5: Dicite filiae Sion : Ecce rex tuus venit tibi mansuetus, sedens super asinam, et pullum filium subjugalis.
+    6: Euntes autem discipuli fecerunt sicut praecepit illis Jesus. 
+    7: Et adduxerunt asinam, et pullum : et imposuerunt super eos vestimenta sua, et eum desuper sedere fecerunt. 
+    8: Plurima autem turba straverunt vestimenta sua in via : alii autem caedebant ramos de arboribus, et sternebant in via : 
+    9: turbae autem, quae praecedebant, et quae sequebantur, clamabant, dicentes : Hosanna filio David : benedictus, qui venit in nomine Domini : hosanna in altissimis. 
+    10: Et cum intrasset Jerosolymam, commota est universa civitas, dicens : Quis est hic?
+    11: Populi autem dicebant : Hic est Jesus propheta a Nazareth Galilaeae. 
+    12: Et intravit Jesus in templum Dei, et ejiciebat omnes vendentes et ementes in templo, et mensas numulariorum, et cathedras vendentium columbas evertit : 
+    13: et dicit eis : Scriptum est : Domus mea domus orationis vocabitur : vos autem fecistis illam speluncam latronum. 
+    14: Et accesserunt ad eum caeci, et claudi in templo : et sanavit eos. 
+    15: Videntes autem principes sacerdotum et scribae mirabilia quae fecit, et pueros clamantes in templo, et dicentes : Hosanna filio David : indignati sunt,
+    16: et dixerunt ei : Audis quid isti dicunt? Jesus autem dixit eis : Utique. Numquam legistis : Quia ex ore infantium et lactentium perfecisti laudem? 
+    17: Et relictis illis, abiit foras extra civitatem in Bethaniam : ibique mansit. 
+    18: Mane autem revertens in civitatem, esuriit. 
+    19: Et videns fici arborem unam secus viam, venit ad eam : et nihil invenit in ea nisi folia tantum, et ait illi : Numquam ex te fructus nascatur in sempiternum. Et arefacta est continuo ficulnea. 
+    20: Et videntes discipuli, mirati sunt, dicentes : Quomodo continuo aruit?
+    21: Respondens autem Jesus, ait eis : Amen dico vobis, si habueritis fidem, et non haesitaveritis, non solum de ficulnea facietis, sed et si monti huic dixeritis : Tolle, et jacta te in mare, fiet. 
+    22: Et omnia quaecumque petieritis in oratione credentes, accipietis. 
+    23: Et cum venisset in templum, accesserunt ad eum docentem principes sacerdotum, et seniores populi, dicentes : In qua potestate haec facis? et quis tibi dedit hanc potestatem? 
+    24: Respondens Jesus dixit eis : Interrogabo vos et ego unum sermonem : quem si dixeritis mihi, et ego vobis dicam in qua potestate haec facio. 
+    25: Baptismus Joannis unde erat? e caelo, an ex hominibus? At illi cogitabant inter se, dicentes :
+    26: Si dixerimus, e caelo, dicet nobis : Quare ergo non credidistis illi? Si autem dixerimus, ex hominibus, timemus turbam : omnes enim habebant Joannem sicut prophetam. 
+    27: Et respondentes Jesu, dixerunt : Nescimus. Ait illis et ipse : Nec ego dico vobis in qua potestate haec facio. 
+    28: Quid autem vobis videtur? Homo quidam habebat duos filios, et accedens ad primum, dixit : Fili, vade hodie, operare in vinea mea. 
+    29: Ille autem respondens, ait : Nolo. Postea autem, poenitentia motus, abiit. 
+    30: Accedens autem ad alterum, dixit similiter. At ille respondens, ait : Eo, domine, et non ivit :
+    31: quis ex duobus fecit voluntatem patris? Dicunt ei : Primus. Dicit illis Jesus : Amen dico vobis, quia publicani et meretrices praecedent vos in regnum Dei. 
+    32: Venit enim ad vos Joannes in via justitiae, et non credidistis ei : publicani autem et meretrices crediderunt ei : vos autem videntes nec poenitentiam habuistis postea, ut crederetis ei. 
+    33: Aliam parabolam audite : Homo erat paterfamilias, qui plantavit vineam, et sepem circumdedit ei, et fodit in ea torcular, et aedificavit turrim, et locavit eam agricolis, et peregre profectus est. 
+    34: Cum autem tempus fructuum appropinquasset, misit servos suos ad agricolas, ut acciperent fructus ejus. 
+    35: Et agricolae, apprehensis servis ejus, alium ceciderunt, alium occiderunt, alium vero lapidaverunt.
+    36: Iterum misit alios servos plures prioribus, et fecerunt illis similiter. 
+    37: Novissime autem misit ad eos filium suum, dicens : Verebuntur filium meum. 
+    38: Agricolae autem videntes filium dixerunt intra se : Hic est haeres, venite, occidamus eum, et habebimus haereditatem ejus. 
+    39: Et apprehensum eum ejecerunt extra vineam, et occiderunt. 
+    40: Cum ergo venerit dominus vineae, quid faciet agricolis illis?
+    41: Aiunt illi : Malos male perdet : et vineam suam locabit aliis agricolis, qui reddant ei fructum temporibus suis. 
+    42: Dicit illis Jesus : Numquam legistis in Scripturis : Lapidem quem reprobaverunt aedificantes, hic factus est in caput anguli : a Domino factum est istud, et est mirabile in oculis nostris? 
+    43: Ideo dico vobis, quia auferetur a vobis regnum Dei, et dabitur genti facienti fructus ejus. 
+    44: Et qui ceciderit super lapidem istum, confringetur : super quem vero ceciderit, conteret eum. 
+    45: Et cum audissent principes sacerdotum et pharisaei parabolas ejus, cognoverunt quod de ipsis diceret.
+    46: Et quaerentes eum tenere, timuerunt turbas : quoniam sicut prophetam eum habebant.
+
+  Chapter 22.
+
+    1: Et respondens Jesus, dixit iterum in parabolis eis, dicens : 
+    2: Simile factum est regnum caelorum homini regi, qui fecit nuptias filio suo. 
+    3: Et misit servos suos vocare invitatos ad nuptias, et nolebant venire. 
+    4: Iterum misit alios servos, dicens : Dicite invitatis : Ecce prandium meum paravi, tauri mei et altilia occisa sunt, et omnia parata : venite ad nuptias. 
+    5: Illi autem neglexerunt : et abierunt, alius in villam suam, alius vero ad negotiationem suam :
+    6: reliqui vero tenuerunt servos ejus, et contumeliis affectos occiderunt. 
+    7: Rex autem cum audisset, iratus est : et missis exercitibus suis, perdidit homicidas illos, et civitatem illorum succendit. 
+    8: Tunc ait servis suis : Nuptiae quidem paratae sunt, sed qui invitati erant, non fuerunt digni : 
+    9: ite ergo ad exitus viarum, et quoscumque inveneritis, vocate ad nuptias. 
+    10: Et egressi servi ejus in vias, congregaverunt omnes quos invenerunt, malos et bonos : et impletae sunt nuptiae discumbentium.
+    11: Intravit autem rex ut viderent discumbentes, et vidit ibi hominem non vestitum veste nuptiali. 
+    12: Et ait illi : Amice, quomodo huc intrasti non habens vestem nuptialem? At ille obmutavit. 
+    13: Tunc dicit rex ministris : Ligatis manibus et pedibus ejus, mittite eum in tenebras exteriores : ibi erit fletus et stridor dentium. 
+    14: Multi enim sunt vocati, pauci vero electi. 
+    15: Tunc abeuntes pharisaei, consilium inierunt ut caperent eum in sermone.
+    16: Et mittunt ei discipulos suos cum Herodianis, dicentes : Magister, scimus quia verax es, et viam Dei in veritate doces, et non est tibi cura de aliquo : non enim respicis personam hominum : 
+    17: dic ergo nobis quid tibi videtur, licet censum dare Caesari, an non? 
+    18: Cognita autem Jesus nequitia eorum, ait : Quid me tentatis hypocritae? 
+    19: Ostendite mihi numisma census. At illi obtulerunt ei denarium. 
+    20: Et ait illis Jesus : Cujus est imago haec, et superscriptio?
+    21: Dicunt ei : Caesaris. Tunc ait illis : Reddite ergo quae sunt Caesaris, Caesari : et quae sunt Dei, Deo. 
+    22: Et audientes mirati sunt, et relicto eo abierunt. 
+    23: In illo die accesserunt ad eum sadducaei, qui dicunt non esse resurrectionem : et interrogaverunt eum, 
+    24: dicentes : Magister, Moyses dixit : Si quis mortuus fuerit non habens filium, ut ducat frater ejus uxorem illius, et suscitet semen fratri suo. 
+    25: Erant autem apud nos septem fratres : et primus, uxore ducta, defunctus est : et non habens semen, reliquit uxorem suam fratri suo.
+    26: Similiter secundus, et tertius usque ad septimum. 
+    27: Novissime autem omnium et mulier defuncta est. 
+    28: In resurrectione ergo cujus erit de septem uxor? omnes enim habuerunt eam. 
+    29: Respondens autem Jesus, ait illis : Erratis nescientes Scripturas, neque virtutem Dei. 
+    30: In resurrectione enim neque nubent, neque nubentur : sed erunt sicut angeli Dei in caelo.
+    31: De resurrectione autem mortuorum non legistis quod dictum est a Deo dicente vobis : 
+    32: Ego sum Deus Abraham, et Deus Isaac, et Deus Jacob? Non est Deus mortuorum, sed viventium. 
+    33: Et audientes turbae, mirabantur in doctrina ejus. 
+    34: Pharisaei autem audientes quod silentium imposuisset sadducaeis, convenerunt in unum : 
+    35: et interrogavit eum unus ex eis legis doctor, tentans eum :
+    36: Magister, quod est mandatum magnum in lege? 
+    37: Ait illi Jesus : Diliges Dominum Deum tuum ex toto corde tuo, et in tota anima tua, et in tota mente tua. 
+    38: Hoc est maximum, et primum mandatum. 
+    39: Secundum autem simile est huic : Diliges proximum tuum, sicut teipsum. 
+    40: In his duobus mandatis universa lex pendet, et prophetae.
+    41: Congregatis autem pharisaeis, interrogavit eos Jesus, 
+    42: dicens : Quid vobis videtur de Christo? cujus filius est? Dicunt ei : David. 
+    43: Ait illis : Quomodo ergo David in spiritu vocat eum Dominum, dicens : 
+    44: Dixit Dominus Domino meo : Sede a dextris meis, donec ponam inimicos tuos scabellum pedum tuorum? 
+    45: Si ergo David vocat eum Dominum, quomodo filius ejus est?
+    46: Et nemo poterat ei respondere verbum : neque ausus fuit quisquam ex illa die eum amplius interrogare.
+
+  Chapter 23.
+
+    1: Tunc Jesus locutus est ad turbas, et ad discipulos suos, 
+    2: dicens : Super cathedram Moysi sederunt scribae et pharisaei. 
+    3: Omnia ergo quaecumque dixerint vobis, servate, et facite : secundum opera vero eorum nolite facere : dicunt enim, et non faciunt. 
+    4: Alligant enim onera gravia, et importabilia, et imponunt in humeros hominum : digito autem suo nolunt ea movere. 
+    5: Omnia vero opera sua faciunt ut videantur ab hominibus : dilatant enim phylacteria sua, et magnificant fimbrias.
+    6: Amant autem primos recubitus in coenis, et primas cathedras in synagogis, 
+    7: et salutationes in foro, et vocari ab hominibus Rabbi. 
+    8: Vos autem nolite vocari Rabbi : unus est enim magister vester, omnes autem vos fratres estis. 
+    9: Et patrem nolite vocare vobis super terram : unus est enim pater vester qui in caelis est. 
+    10: Nec vocemini magistri : quia magister vester unus est, Christus.
+    11: Qui major est vestrum, erit minister vester. 
+    12: Qui autem se exaltaverit, humiliabitur : et qui se humiliaverit, exaltabitur. 
+    13: Vae autem vobis scribae et pharisaei hypocritae, quia clauditis regnum caelorum ante homines! vos enim non intratis, nec introeuntes sinitis intrare. 
+    14: Vae vobis scribae et pharisaei hypocritae, quia comeditis domos viduarum, orationes longas orantes! propter hoc amplius accipietis judicium. 
+    15: Vae vobis scribae et pharisaei hypocritae, quia circuitis mare, et aridam, ut faciatis unum proselytum, et cum fuerit factus, facitis eum filium gehennae duplo quam vos.
+    16: Vae vobis duces caeci, qui dicitis : Quicumque juraverit per templum, nihil est : qui autem juraverit in auro templo, debet. 
+    17: Stulti et caeci : quid enim majus est? aurum, an templum, quod sanctificat aurum? 
+    18: Et quicumque juraverit in altari, nihil est : quicumque autem juraverit in dono, quod est super illud, debet. 
+    19: Caeci : quid enim majus est, donum, an altare, quod sanctificat donum? 
+    20: Qui ergo jurat in altari, jurat in eo, et in omnibus quae super illud sunt.
+    21: Et quicumque juraverit in templo, jurat in illo, et in eo qui habitat in ipso : 
+    22: et qui jurat in caelo, jurat in throno Dei, et in eo qui sedet super eum. 
+    23: Vae vobis scribae et pharisaei hypocritae, qui decimatis mentham, et anethum, et cyminum, et reliquistis quae graviora sunt legis, judicium, et misericordiam, et fidem! haec oportuit facere, et illa non omittere. 
+    24: Duces caeci, excolantes culicem, camelum autem glutientes. 
+    25: Vae vobis scribae et pharisaei hypocritae, quia mundatis quod deforis est calicis et paropsidis; intus autem pleni estis rapina et immunditia!
+    26: Pharisaee caece, munda prius quod intus est calicis, et paropsidis, ut fiat id, quod deforis est, mundum. 
+    27: Vae vobis scribae et pharisaei hypocritae, quia similes estis sepulchris dealbatis, quae a foris parent hominibus speciosa, intus vero pleni sunt ossibus mortuorum, et omni spurcitia! 
+    28: Sic et vos a foris quidem paretis hominibus justi : intus autem pleni estis hypocrisi et iniquitate. 
+    29: Vae vobis scribae et pharisaei hypocritae, qui aedificatis sepulchra prophetarum, et ornatis monumenta justorum, 
+    30: et dicitis : Si fuissemus in diebus patrum nostrorum, non essemus socii eorum in sanguine prophetarum!
+    31: itaque testimonio estis vobismetipsis, quia filii estis eorum, qui prophetas occiderunt. 
+    32: Et vos implete mensuram patrum vestrorum. 
+    33: Serpentes genimina viperarum, quomodo fugietis a judicio gehennae? 
+    34: Ideo ecce ego mitto ad vos prophetas, et sapientes, et scribas, et ex illis occidetis, et crucifigetis, et ex eis flagellabitis in synagogis vestris, et persequemini de civitate in civitatem : 
+    35: ut veniat super vos omnis sanguis justus, qui effusus est super terram, a sanguine Abel justi usque ad sanguinem Zachariae, filii Barachiae, quem occidistis inter templum et altare.
+    36: Amen dico vobis, venient haec omnia super generationem istam. 
+    37: Jerusalem, Jerusalem, quae occidis prophetas, et lapidas eos, qui ad te missi sunt, quoties volui congregare filios tuos, quemadmodum gallina congregat pullos suos sub alas, et noluisti? 
+    38: Ecce relinquetur vobis domus vestra deserta. 
+    39: Dico enim vobis, non me videbitis amodo, donec dicatis : Benedictus, qui venit in nomine Domini.
+
+  Chapter 24.
+
+    1: Et egressus Jesus de templo, ibat. Et accesserunt discipuli ejus, ut ostenderent ei aedificationes templi. 
+    2: Ipse autem respondens dixit illis : Videtis haec omnia? amen dico vobis, non relinquetur hic lapis super lapidem, qui non destruatur. 
+    3: Sedente autem eo super montem Oliveti, accesserunt ad eum discipuli secreto, dicentes : Dic nobis, quando haec erunt? et quod signum adventus tui, et consummationis saeculi? 
+    4: Et respondens Jesus, dixit eis : Videte ne quis vos seducat : 
+    5: multi enim venient in nomine meo, dicentes : Ego sum Christus : et multos seducent.
+    6: Audituri enim estis praelia, et opiniones praeliorum. Videte ne turbemini : oportet enim haec fieri, sed nondum est finis : 
+    7: consurget enim gens in gentem, et regnum in regnum, et erunt pestilentiae, et fames, et terraemotus per loca : 
+    8: haec autem omnia initia sunt dolorum. 
+    9: Tunc tradent vos in tribulationem, et occident vos : et eritis odio omnibus gentibus propter nomen meum. 
+    10: Et tunc scandalizabuntur multi, et invicem tradent, et odio habebunt invicem.
+    11: Et multi pseudoprophetae surgent, et seducent multos. 
+    12: Et quoniam abundavit iniquitas, refrigescet caritas multorum : 
+    13: qui autem perseveraverit usque in finem, hic salvus erit. 
+    14: Et praedicabitur hoc Evangelium regni in universo orbe, in testimonium omnibus gentibus : et tunc veniet consummatio. 
+    15: Cum ergo videritis abominationem desolationis, quae dicta est a Daniele propheta, stantem in loco sancto, qui legit, intelligat :
+    16: tunc qui in Judaea sunt, fugiant ad montes : 
+    17: et qui in tecto, non descendat tollere aliquid de domo sua : 
+    18: et qui in agro, non revertatur tollere tunicam suam. 
+    19: Vae autem praegnantibus et nutrientibus in illis diebus! 
+    20: Orate autem ut non fiat fuga vestra in hieme, vel sabbato :
+    21: erit enim tunc tribulatio magna, qualis non fuit ab initio mundi usque modo, neque fiet. 
+    22: Et nisi breviati fuissent dies illi, non fieret salva omnis caro : sed propter electos breviabuntur dies illi. 
+    23: Tunc si quis vobis dixerit : Ecce hic est Christus, aut illic : nolite credere. 
+    24: Surgent enim pseudochristi, et pseudoprophetae : et dabunt signa magna, et prodigia, ita ut in errorem inducantur ( si fieri potest) etiam electi. 
+    25: Ecce praedixi vobis.
+    26: Si ergo dixerint vobis : Ecce in deserto est, nolite exire; Ecce in penetralibus, nolite credere. 
+    27: Sicut enim fulgur exit ab oriente, et paret usque in occidentem : ita erit et adventus Filii hominis. 
+    28: Ubicumque fuerit corpus, illic congregabuntur et aquilae. 
+    29: Statim autem post tribulationem dierum illorum sol obscurabitur, et luna non dabit lumen suum, et stellae cadent de caelo, et virtutes caelorum commovebuntur : 
+    30: et tunc parebit signum Filii hominis in caelo : et tunc plangent omnes tribus terrae : et videbunt Filium hominis venientem in nubibus caeli cum virtute multa et majestate.
+    31: Et mittet angelos suos cum tuba, et voce magna : et congregabunt electos ejus a quatuor ventis, a summis caelorum usque ad terminos eorum. 
+    32: Ab arbore autem fici discite parabolam : cum jam ramus ejus tener fuerit, et folia nata, scitis quia prope est aestas : 
+    33: ita et vos cum videritis haec omnia, scitote quia prope est, in januis. 
+    34: Amen dico vobis, quia non praeteribit generatio haec, donec omnia haec fiant. 
+    35: Caelum et terra transibunt, verba autem mea non praeteribunt.
+    36: De die autem illa et hora nemo scit, neque angeli caelorum, nisi solus Pater. 
+    37: Sicut autem in diebus Noe, ita erit et adventus Filii hominis : 
+    38: sicut enim erant in diebus ante diluvium comedentes et bibentes, nubentes et nuptum tradentes, usque ad eum diem, quo intravit Noe in arcam, 
+    39: et non cognoverunt donec venit diluvium, et tulit omnes : ita erit et adventus Filii hominis. 
+    40: Tunc duo erunt in agro : unus assumetur, et unus relinquetur.
+    41: Duae molentes in mola : una assumetur, et una relinquetur. 
+    42: Vigilate ergo, quia nescitis qua hora Dominus vester venturus sit. 
+    43: Illud autem scitote, quoniam si sciret paterfamilias qua hora fur venturus esset, vigilaret utique, et non sineret perfodi domum suam. 
+    44: Ideo et vos estote parati : quia qua nescitis hora Filius hominis venturus est. 
+    45: Quis, putas, est fidelis servus, et prudens, quem constituit dominus suus super familiam suam ut det illis cibum in tempore?
+    46: Beatus ille servus, quem cum venerit dominus ejus, invenerit sic facientem. 
+    47: Amen dico vobis, quoniam super omnia bona sua constituet eum. 
+    48: Si autem dixerit malus servus ille in corde suo : Moram fecit dominus meus venire : 
+    49: et coeperit percutere conservos suos, manducet autem et bibat cum ebriosis : 
+    50: veniet dominus servi illius in die qua non sperat, et hora qua ignorat :
+    51: et dividet eum, partemque ejus ponet cum hypocritis : illic erit fletus et stridor dentium.
+
+End of day 289.

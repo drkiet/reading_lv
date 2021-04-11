@@ -1,0 +1,98 @@
+Day 247:
+
+Reading Ezekiel, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Et factum est in trigesimo anno, in quarto, in quinta mensis, cum essem in medio captivorum juxta fluvium Chobar, aperti sunt caeli, et vidi visiones Dei. 
+    2: In quinta mensis, ipse est annus quintus transmigrationis regis Joachim, 
+    3: factum est verbum Domini ad Ezechielem filium Buzi sacerdotem, in terra Chaldaeorum, sicut flumen Chobar : et facta est super eum ibi manus Domini. 
+    4: Et vidi, et ecce ventus turbinis veniebat ab aquilone, et nubes magna, et ignis involvens, et splendor in circuitu ejus : et de medio ejus, quasi species electri, id est, de medio ignis : 
+    5: et in medio ejus similitudo quatuor animalium. Et hic aspectus eorum, similitudo hominis in eis.
+    6: Quatuor facies uni, et quatuor pennae uni. 
+    7: Pedes eorum, pedes recti, et planta pedis eorum quasi planta pedis vituli : et scintillae quasi aspectus aeris candentis. 
+    8: Et manus hominis sub pennis eorum, in quatuor partibus : et facies et pennas per quatuor partes habebant. 
+    9: Junctaeque erant pennae eorum alterius ad alterum : non revertebantur cum incederent, sed unumquodque ante faciem suam gradiebatur. 
+    10: Similitudo autem vultus eorum, facies hominis et facies leonis a dextris ipsorum quatuor, facies autem bovis a sinistris ipsorum quatuor, et facies aquilae desuper ipsorum quatuor.
+    11: Facies eorum et pennae eorum extentae desuper : duae pennae singulorum jungebantur, et duae tegebant corpora eorum. 
+    12: Et unumquodque eorum coram facie sua ambulabat : ubi erat impetus spiritus, illuc gradiebantur, nec revertebantur cum ambularent. 
+    13: Et similitudo animalium, aspectus eorum quasi carbonum ignis ardentium, et quasi aspectus lampadarum : haec erat visio discurrens in medio animalium, splendor ignis, et de igne fulgur egrediens. 
+    14: Et animalia ibant et revertebantur, in similitudinem fulguris coruscantis. 
+    15: Cumque aspicerem animalia, apparuit rota una super terram juxta animalia, habens quatuor facies.
+    16: Et aspectus rotarum et opus earum quasi visio maris : et una similitudo ipsarum quatuor : et aspectus earum et opera quasi sit rota in medio rotae. 
+    17: Per quatuor partes earum euntes ibant, et non revertebantur cum ambularent. 
+    18: Statura quoque erat rotis, et altitudo, et horribilis aspectus : et totum corpus oculis plenum in circuitu ipsarum quatuor. 
+    19: Cumque ambularent animalia, ambulabant pariter et rotae juxta ea : et cum elevarentur animalia de terra, elevabantur simul et rotae. 
+    20: Quocumque ibat spiritus, illuc, eunte spiritu, et rotae pariter elevabantur sequentes eum : spiritus enim vitae erat in rotis.
+    21: Cum euntibus ibant, et cum stantibus stabant : et cum elevatis a terra, pariter elevabantur et rotae sequentes ea, quia spiritus vitae erat in rotis. 
+    22: Et similitudo super capita animalium firmamenti, quasi aspectus crystalli horribilis, et extenti super capita eorum desuper. 
+    23: Sub firmamento autem pennae eorum rectae alterius ad alterum : unumquodque duabus alis velabat corpus suum, et alterum similiter velabatur. 
+    24: Et audiebam sonum alarum, quasi sonum aquarum multarum, quasi sonum sublimis Dei : cum ambularent, quasi sonus erat multitudinis ut sonus castrorum : cumque starent, demittebantur pennae eorum. 
+    25: Nam cum fieret vox super firmamentum quod erat super caput eorum, stabant, et submittebant alas suas.
+    26: Et super firmamentum, quod erat imminens capiti eorum, quasi aspectus lapidis sapphiri similitudo throni : et super similitudinem throni similitudo quasi aspectus hominis desuper. 
+    27: Et vidi quasi speciem electri, velut aspectum ignis, intrinsecus ejus per circuitum : a lumbis ejus et desuper, et a lumbis ejus usque deorsum, vidi quasi speciem ignis splendentis in circuitu, 
+    28: velut aspectum arcus cum fuerit in nube in die pluviae. Hic erat aspectus splendoris per gyrum.
+
+  Chapter 2.
+
+    1: Haec visio similitudinis gloriae Domini. Et vidi, et cecidi in faciem meam, et audivi vocem loquentis, et dixit ad me : Fili hominis, sta super pedes tuos, et loquar tecum. 
+    2: Et ingressus est in me spiritus postquam locutus est mihi, et statuit me supra pedes meos : et audivi loquentem ad me, 
+    3: et dicentem : Fili hominis, mitto ego te ad filios Israel, ad gentes apostatrices, quae recesserunt a me : ipsi et patres eorum praevaricati sunt pactum meum, usque ad diem hanc. 
+    4: Et filii dura facie et indomabili corde sunt, ad quos ego mitto te : et dices ad eos : Haec dicit Dominus Deus : 
+    5: si forte vel ipsi audiant, et si forte quiescant, quoniam domus exasperans est : et scient quia propheta fuerit in medio eorum.
+    6: Tu ergo, fili hominis, ne timeas eos, neque sermones eorum metuas, quoniam increduli et subversores sunt tecum, et cum scorpionibus habitas. Verba eorum ne timeas, et vultus eorum ne formides, quia domus exasperans est. 
+    7: Loqueris ergo verba mea ad eos, si forte audiant, et quiescant : quoniam irritatores sunt. 
+    8: Tu autem, fili hominis, audi quaecumque loquor ad te, et noli esse exasperans, sicut domus exasperatrix est : aperi os tuum, et comede quaecumque ego do tibi. 
+    9: Et vidi : et ecce manus missa ad me, in qua erat involutus liber : et expandit illum coram me, qui erat scriptus intus et foris, et scriptae erant in eo lamentationes, et carmen, et vae.
+
+  Chapter 3.
+
+    1: Et dixit ad me : Fili hominis, quodcumque inveneris, comede : comede volumen istud, et vadens loquere ad filios Israel. 
+    2: Et aperui os meum, et cibavit me volumine illo : 
+    3: et dixit ad me : Fili hominis, venter tuus comedet, et viscera tua complebuntur volumine isto quod ego do tibi. Et comedi illud, et factum est in ore meo sicut mel dulce. 
+    4: Et dixit ad me : Fili hominis, vade ad domum Israel, et loqueris verba mea ad eos. 
+    5: Non enim ad populum profundi sermonis et ignotae linguae tu mitteris ad domum Israel :
+    6: neque ad populos multos profundi sermonis, et ignotae linguae, quorum non possis audire sermones : et si ad illos mittereris, ipsi audirent te : 
+    7: domus autem Israel nolunt audire te, quia nolunt audire me : omnis quippe domus Israel attrita fronte est et duro corde. 
+    8: Ecce dedi faciem tuam valentiorem faciebus eorum, et frontem tuam duriorem frontibus eorum : 
+    9: ut adamantem et ut silicem dedi faciem tuam : ne timeas eos, neque metuas a facie eorum, quia domus exasperans est. 
+    10: Et dixit ad me : Fili hominis, omnes sermones meos quos ego loquor ad te, assume in corde tuo, et auribus tuis audi :
+    11: et vade, ingredere ad transmigrationem, ad filios populi tui, et loqueris ad eos, et dices eis : Haec dicit Dominus Deus : si forte audiant et quiescant. 
+    12: Et assumpsit me spiritus, et audivi post me vocem commotionis magnae : Benedicta gloria Domini de loco suo : 
+    13: et vocem alarum animalium percutientium alteram ad alteram, et vocem rotarum sequentium animalia, et vocem commotionis magnae. 
+    14: Spiritus quoque levavit me, et assumpsit me : et abii amarus in indignatione spiritus mei : manus enim Domini erat mecum, confortans me. 
+    15: Et veni ad transmigrationem, ad acervum novarum frugum, ad eos qui habitabant juxta flumen Chobar : et sedi ubi illi sedebant, et mansi ibi septem diebus moerens in medio eorum.
+    16: Cum autem pertransissent septem dies, factum est verbum Domini ad me, dicens : 
+    17: Fili hominis, speculatorem dedi te domui Israel, et audies de ore meo verbum, et annuntiabis eis ex me. 
+    18: Si, dicente me ad impium : Morte morieris, non annuntiaveris ei, neque locutus fueris ut avertatur a via sua impia, et vivat, ipse impius in iniquitate sua morietur, sanguinem autem ejus de manu tua requiram. 
+    19: Si autem tu annuntiaveris impio, et ille non fuerit conversus ab impietate sua, et a via sua impia, ipse quidem in iniquitate sua morietur : tu autem animam tuam liberasti. 
+    20: Sed et si conversus justus a justitia sua fuerit, et fecerit iniquitatem, ponam offendiculum coram eo : ipse morietur quia non annuntiasti ei : in peccato suo morietur, et non erunt in memoria justitiae ejus quas fecit, sanguinem vero ejus de manu tua requiram.
+    21: Si autem tu annuntiaveris justo ut non peccet justus, et ille non peccaverit, vivens vivet, quia annuntiasti ei, et tu animam tuam liberasti. 
+    22: Et facta est super me manus Domini, et dixit ad me : Surgens egredere in campum, et ibi loquar tecum. 
+    23: Et surgens egressus sum in campum : et ecce ibi gloria Domini stabat, quasi gloria quam vidi juxta fluvium Chobar : et cecidi in faciem meam. 
+    24: Et ingressus est in me spiritus, et statuit me super pedes meos, et locutus est mihi, et dixit ad me : Ingredere, et includere in medio domus tuae. 
+    25: Et tu, fili hominis, ecce data sunt super te vincula, et ligabunt te in eis, et non egredieris de medio eorum.
+    26: Et linguam tuam adhaerere faciam palato tuo, et eris mutus, nec quasi vir objurgans, quia domus exasperans est. 
+    27: Cum autem locutus fuero tibi, aperiam os tuum, et dices ad eos : Haec dicit Dominus Deus : Qui audit, audiat, et qui quiescit, quiescat : quia domus exasperans est.
+
+  Chapter 4.
+
+    1: Et tu, fili hominis, sume tibi laterem, et pones eum coram te, et describes in eo civitatem Jerusalem. 
+    2: Et ordinabis adversus eam obsidionem, et aedificabis munitiones, et comportabis aggerem et dabis contra eam castra, et pones arietes in gyro. 
+    3: Et tu sume tibi sartaginem ferream, et pones eam in murum ferreum inter te et inter civitatem : et obfirmabis faciem tuam ad eam, et erit in obsidionem, et circumdabis eam : signum est domui Israel. 
+    4: Et tu dormies super latus tuum sinistrum, et pones iniquitates domus Israel super eo, numero dierum quibus dormies super illud, et assumes iniquitatem eorum. 
+    5: Ego autem dedi tibi annos iniquitatis eorum, numero dierum trecentos et nonaginta dies, et portabis iniquitatem domus Israel.
+    6: Et cum compleveris haec, dormies super latus tuum dexterum secundo, et assumes iniquitatem domus Juda quadraginta diebus : diem pro anno, diem, inquam, pro anno, dedi tibi. 
+    7: Et ad obsidionem Jerusalem convertes faciem tuam, et brachium tuum erit extentum : et prophetabis adversus eam. 
+    8: Ecce circumdedi te vinculis : et non te convertes a latere tuo in latus aliud, donec compleas dies obsidionis tuae. 
+    9: Et tu, sume tibi frumentum, et hordeum, et fabam, et lentem, et milium, et viciam : et mittes ea in vas unum, et facies tibi panes numero dierum quibus dormies super latus tuum : trecentis et nonaginta diebus comedes illud. 
+    10: Cibus autem tuus, quo vesceris, erit in pondere viginti stateres in die : a tempore usque ad tempus comedes illud.
+    11: Et aquam in mensura bibes, sextam partem hin : a tempore usque ad tempus bibes illud. 
+    12: Et quasi subcinericium hordeaceum comedes illud, et stercore quod egreditur de homine operies illud in oculis eorum. 
+    13: Et dixit Dominus : Sic comedent filii Israel panem suum pollutum inter gentes ad quas ejiciam eos. Et dixi : 
+    14: A, a, a, Domine Deus, ecce anima mea non est polluta : et morticinum, et laceratum a bestiis non comedi ab infantia mea usque nunc, et non est ingressa in os meum omnis caro immunda. 
+    15: Et dixit ad me : Ecce dedi tibi fimum boum pro stercoribus humanis, et facies panem tuum in eo.
+    16: Et dixit ad me : Fili hominis, ecce ego conteram baculum panis in Jerusalem, et comedent panem in pondere et in sollicitudine, et aquam in mensura et in angustia bibent, 
+    17: ut deficientibus pane et aqua, corruat unusquisque ad fratrem suum, et contabescant in iniquitatibus suis.
+
+End of day 247.

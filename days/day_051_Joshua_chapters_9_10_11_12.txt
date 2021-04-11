@@ -1,0 +1,134 @@
+Day 51:
+
+Reading Joshua, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Quibus auditis, cuncti reges trans Jordanem, qui versabantur in montanis et campestribus, in maritimis ac littore magni maris, hi quoque qui habitabant juxta Libanum, Hethaeus et Amorrhaeus, Chananaeus, Pherezaeus, et Hevaeus, et Jebusaeus, 
+    2: congregati sunt pariter, ut pugnarent contra Josue et Israel uno animo, eademque sententia. 
+    3: At hi qui habitabant in Gabaon, audientes cuncta quae fecerat Josue Jericho, et Hai, 
+    4: et callide cogitantes, tulerunt sibi cibaria, saccos veteres asinis imponentes, et utres vinarios scissos atque consutos, 
+    5: calceamentaque perantiqua quae ad indicium vetustatis pittaciis consuta erant, induti veteribus vestimentis : panes quoque, quos portabant ob viaticum, duri erant, et in frustra comminuti :
+    6: perrexeruntque ad Josue, qui tunc morabatur in castris Galgalae, et dixerunt ei, atque simul omni Israeli : De terra longinqua venimus, pacem vobiscum facere cupientes. Responderuntque viri Israel ad eos, atque dixerunt : 
+    7: Ne forte in terra, quae nobis sorte debetur, habitetis, et non possimus foedus inire vobiscum. 
+    8: At illi ad Josue : Servi, inquiunt, tui sumus. Quibus Josue ait : Quinam estis vos? et unde venistis? 
+    9: Responderunt : De terra longinqua valde venerunt servi tui in nomine Domini Dei tui. Audivimus enim famam potentiae ejus, cuncta quae fecit in Aegypto, 
+    10: et duobus regibus Amorrhaeorum qui fuerunt trans Jordanem, Sehon regi Hesebon, et Og regi Basan, qui erat in Astaroth :
+    11: dixeruntque nobis seniores, et omnes habitatores terrae nostrae : Tollite in manibus cibaria ob longissimam viam, et occurrite eis, et dicite : Servi vestri sumus : foedus inite nobiscum. 
+    12: En panes quando egressi sumus de domibus nostris, ut veniremus ad vos, calidos sumpsimus, nunc sicci facti sunt, et vetustate nimia comminuti. 
+    13: Utres vini novos implevimus, nunc rupti sunt et soluti. Vestes et calceamenta quibus induimur, et quae habemus in pedibus, ob longitudinem longioris viae trita sunt, et pene consumpta. 
+    14: Susceperunt igitur de cibariis eorum, et os Domini non interrogaverunt. 
+    15: Fecitque Josue cum eis pacem, et inito foedere pollicitus est quod non occiderentur : principes quoque multitudinis juraverunt eis.
+    16: Post dies autem tres initi foederis, audierunt quod in vicino habitarent, et inter eos futuri essent. 
+    17: Moveruntque castra filii Israel, et venerunt in civitates eorum die tertio, quarum haec vocabua sunt, Gabaon, et Caphira, et Beroth, et Cariathiarim. 
+    18: Et non percusserunt eos, eo quod jurassent eis principes multitudinis in nomine Domini Dei Israel. Murmuravit itaque omne vulgus contra principes. 
+    19: Qui responderunt eis : Juravimus illis in nomine Domini Dei Israel, et idcirco non possumus eos contingere. 
+    20: Sed hoc faciemus eis : reserventur quidem ut vivant, ne contra nos ira Domini concitetur, si pejeraverimus :
+    21: sed sic vivant, ut in usus universae multitudinis ligna caedant, aquasque comportent. Quibus haec loquentibus, 
+    22: vocavit Gabaonitas Josue, et dixit eis : Cur nos decipere fraude voluistis, ut diceretis : Procul valde habitamus a vobis, cum in medio nostri sitis? 
+    23: itaque sub maledictione eritis, et non deficiet de stirpe vestra ligna caedens, aquasque comportans in domum Dei mei. 
+    24: Qui responderunt : Nuntiatum est nobis servis tuis, quod promisisset Dominus Deus tuus Moysi servo suo ut traderet vobis omnem terram, et disperderet cunctos habitatores ejus. Timuimus igitur valde, et providimus animabus nostris, vestro terrore compulsi, et hoc consilium inivimus. 
+    25: Nunc autem in manu tua sumus : quod tibi bonum et rectum videtur, fac nobis.
+    26: Fecit ergo Josue ut dixerat, et liberavit eos de manu filiorum Israel, ut non occiderentur. 
+    27: Decrevitque in illo die eos esse in ministerio cuncti populi, et altaris Domini, caedentes ligna, et aquas comportantes, usque in praesens tempus, in loco quem Dominus elegisset.
+
+  Chapter 10.
+
+    1: Quae cum audisset Adonisedec rex Jerusalem, quod scilicet cepisset Josue Hai, et subvertisset eam ( sicut enim fecerat Jericho et regi ejus, sic fecit Hai, et regi illius), et quod transfugissent Gabaonitae ad Israel, et essent foederati eorum, 
+    2: timuit valde. Urbs enim magna erat Gabaon, et una civitatum regalium, et major oppido Hai, omnesque bellatores ejus fortissimi. 
+    3: Misit ergo Adonisedec rex Jerusalem ad Oham regem Hebron, et ad Pharam regem Jerimoth, ad Japhia quoque regem Lachis, et ad Dabir regem Eglon, dicens : 
+    4: Ad me ascendite, et ferte praesidium, ut expugnemus Gabaon, quare transfugerit ad Josue, et ad filios Israel. 
+    5: Congregati igitur ascenderunt quinque reges Amorrhaeorum : rex Jerusalem, rex Hebron, rex Jerimoth, rex Lachis, rex Eglon, simul cum exercitibus suis, et castrametati sunt circa Gabaon, oppugnantes eam.
+    6: Habitatores autem Gabaon urbis obsessae miserunt ad Josue, qui tunc morabatur in castris apud Galgalam, et dixerunt ei : Ne retrahas manus tuas ab auxilio servorum tuorum : ascende cito, et libera nos, ferque praesidium : convenerunt enim adversum nos omnes reges Amorrhaeorum, qui habitant in montanis. 
+    7: Ascenditque Josue de Galgalis, et omnis exercitus bellatorum cum eo, viri fortissimi. 
+    8: Dixitque Dominus ad Josue : Ne timeas eos : in manus enim tuas tradidi illos : nullus ex eis tibi resistere poterit. 
+    9: Irruit itaque Josue super eos repente, tota nocte ascendens de Galgalis. 
+    10: Et conturbavit eos Dominus a facie Israel : contrivitque plaga magna in Gabaon, ac persecutus est eos per viam ascensus Bethoron, et percussit usque Azeca et Maceda.
+    11: Cumque fugerent filios Israel, et essent in descensu Bethoron, Dominus misit super eos lapides magnos de caelo usque ad Azeca : et mortui sunt multo plures lapidibus grandinis, quam quos gladio percusserant filii Israel. 
+    12: Tunc locutus est Josue Domino, in die qua tradidit Amorrhaeum in conspectu filiorum Israel, dixitque coram eis : Sol, contra Gabaon ne movearis, et luna contra vallem Ajalon. 
+    13: Steteruntque sol et luna, donec ulcisceretur se gens de inimicis suis. Nonne scriptum est hoc in libro justorum? Stetit itaque sol in medio caeli, et non festinavit occumbere spatio unius diei. 
+    14: Nam fuit antea nec postea tam longa dies, obediente Domino voci hominis, et pugnante pro Israel. 
+    15: Reversusque est Josue cum omni Israel in castra Galgalae.
+    16: Fugerant enim quinque reges et se absconderant in spelunca urbis Maceda. 
+    17: Nuntiatumque est Josue quod inventi essent quinque reges latentes in spelunca urbis Maceda. 
+    18: Qui praecepit sociis, et ait : Volvite saxa ingentia ad os speluncae, et ponite viros industrios, qui clausos custodiant : 
+    19: vos autem nolite stare, sed persequimini hostes, et extremos quosque fugientium caedite : nec dimittatis eos urbium suarum intrare praesidia, quos tradidit Dominus Deus in manus vestras. 
+    20: Caesis ergo adversariis plaga magna, et usque ad internecionem pene consumptis, hi qui Israel effugere potuerunt, ingressi sunt civitates munitas.
+    21: Reversusque est omnis exercitus ad Josue in Maceda, ubi tunc erant castra, sani et integro numero : nullusque contra filios Israel mutire ausus est. 
+    22: Praecepitque Josue, dicens : Aperite os speluncae, et producite ad me quinque reges, qui in ea latitant. 
+    23: Feceruntque ministri ut sibi fuerat imperatum : et eduxerunt ad eum quinque reges de spelunca, regem Jerusalem, regem Hebron, regem Jerimoth, regem Lachis, regem Eglon. 
+    24: Cumque educti essent ad eum, vocavit omnes viros Israel, et ait ad principes exercitus qui secum erant : Ite, et ponite pedes super colla regum istorum. Qui cum perrexissent, et subjectorum colla pedibus calcarent, 
+    25: rursum ait ad eos : Nolite timere, nec paveatis : confortamini, et estote robusti : sic enim faciet Dominus cunctis hostibus vestris, adversum quos dimicatis.
+    26: Percussitque Josue, et interfecit eos, atque suspendit super quinque stipites : fueruntque suspensi usque ad vesperum. 
+    27: Cumque occumberet sol, praecepit sociis ut deponerent eos de patibulis. Qui depositos projecerunt in speluncam, in qua latuerant, et posuerunt super os ejus saxa ingentia, quae permanent usque in praesens. 
+    28: Eodem quoque die, Macedam cepit Josue, et percussit eam in ore gladii, regemque illius interfecit, et omnes habitatores ejus : non dimisit in ea saltem parvas reliquias. Fecitque regi Maceda, sicut fecerat regi Jericho. 
+    29: Transivit autem cum omni Israel de Maceda in Lebna, et pugnabat contra eam : 
+    30: quam tradidit Dominus cum rege suo in manus Israel : percusseruntque urbem in ore gladii, et omnes habitatores ejus : non dimiserunt in ea ullas reliquias. Feceruntque regi Lebna, sicut fecerant regi Jericho.
+    31: De Lebna transivit in Lachis cum omni Israel : et exercitu per gyrum disposito, oppugnabat eam. 
+    32: Tradiditque Dominus Lachis in manus Israel, et cepit eam die altero, atque percussit in ore gladii, omnemque animam quae fuerat in ea, sicut fecerat Lebna. 
+    33: Eo tempore ascendit Horam rex Gazer, ut auxiliaretur Lachis : quem percussit Josue cum omni populo ejus usque ad internecionem. 
+    34: Transivitque de Lachis in Eglon, et circumdedit, 
+    35: atque expugnavit eam eadem die : percussitque in ore gladii omnes animas quae erant in ea, juxta omnia quae fecerat Lachis.
+    36: Ascendit quoque cum omni Israel de Eglon in Hebron, et pugnavit contra eam : 
+    37: cepit eam, et percussit in ore gladii, regem quoque ejus, et omnia oppida regionis illius, universasque animas quae in ea fuerant commoratae : non reliquit in ea ullas reliquias : sicut fecerat Eglon, sic fecit et Hebron, cuncta quae in ea reperit consumens gladio. 
+    38: Inde reversus in Dabir, 
+    39: cepit eam atque vastavit : regem quoque ejus atque omnia per circuitum oppida percussit in ore gladii : non dimisit in ea ullas reliquias : sicut fecerat Hebron et Lebna et regibus earum, sic fecit Dabir et regi illius. 
+    40: Percussit itaque Josue omnem terram montanam et meridianam atque campestrem, et Asedoth, cum regibus suis : non dimisit in ea ullas reliquias, sed omne quod spirare poterat interfecit, sicut praeceperat ei Dominus Deus Israel,
+    41: a Cadesbarne usque Gazam. Omnem terram Gosen usque Gabaon, 
+    42: universosque reges, et regiones eorum uno impetu cepit atque vastavit : Dominus enim Deus Israel pugnavit pro eo. 
+    43: Reversusque est cum omni Israel ad locum castrorum in Galgala.
+
+  Chapter 11.
+
+    1: Quae cum audisset Jabin rex Asor, misit ad Jobab regem Madon, et ad regem Semeron, atque ad regem Achsaph : 
+    2: ad reges quoque aquilonis, qui habitabant in montanis et in planitie contra meridiem Ceneroth, in campestribus quoque et in regionibus Dor juxta mare : 
+    3: Chananaeum quoque ab oriente et occidente, et Amorrhaeum atque Hethaeum ac Pherezaeum et Jebusaeum in montanis : Hevaeum quoque qui habitabat ad radices Hermon in terra Maspha. 
+    4: Egressique sunt omnes cum turmis suis, populus multus nimis sicut arena quae est in littore maris, equi quoque et currus immensae multitudinis. 
+    5: Conveneruntque omnes reges isti in unum ad aquas Merom, ut pugnarent contra Israel.
+    6: Dixitque Dominus ad Josue : Ne timeas eos : cras enim hac eadem hora ego tradam omnes istos vulnerandos in conspectu Israel : equos eorum subnervabis, et currus igne combures. 
+    7: Venitque Josue, et omnis exercitus cum eo, adversus illos ad aquas Merom subito, et irruerunt super eos, 
+    8: tradiditque illos Dominus in manus Israel. Qui percusserunt eos, et persecuti sunt usque ad Sidonem magnam, et aquas Maserephoth, campumque Masphe, qui est ad orientalem illius partem. Ita percussit omnes, ut nullas dimitteret ex eis reliquias : 
+    9: fecitque sicut praeceperat ei Dominus, equos eorum subnervavit, currusque combussit igni. 
+    10: Reversusque statim cepit Asor : et regem ejus percussit gladio. Asor enim antiquitus inter omnia regna haec principatum tenebat.
+    11: Percussitque omnes animas quae ibidem morabantur : non dimisit in ea ullas reliquias, sed usque ad internecionem universa vastavit, ipsamque urbem peremit incendio. 
+    12: Et omnes per circuitum civitates, regesque earum cepit, percussit atque delevit, sicut praeceperat ei Moyses famulus Domini. 
+    13: Absque urbibus, quae erant in collibus et in tumulis sitae, ceteras succendit Israel : unam tantum Asor munitissimam flamma consumpsit. 
+    14: Omnemque praedam istarum urbium ac jumenta diviserunt sibi filii Israel, cunctis hominibus interfectis. 
+    15: Sicut praeceperat Dominus Moysi servo suo, ita praecepit Moyses Josue, et ille universa complevit : non praeteriit de universis mandatis, nec unum quidem verbum quod jusserat Dominus Moysi.
+    16: Cepit itaque Josue omnem terram montanam, et meridianam, terramque Gosen, et planitiem, et occidentalem plagam, montemque Israel, et campestria ejus : 
+    17: et partem montis, quae ascendit Seir usque Baalgad, per planitiem Libani subter montem Hermon : omnes reges eorum cepit, percussit, et occidit. 
+    18: Multo tempore pugnavit Josue contra reges istos. 
+    19: Non fuit civitas quae se traderet filiis Israel, praeter Hevaeum, qui habitabat in Gabaon : omnes enim bellando cepit. 
+    20: Domini enim sententia fuerat, ut indurarentur corda eorum, et pugnarent contra Israel, et caderent, et non mererentur ullam clementiam, ac perirent, sicut praeceperat Dominus Moysi.
+    21: In illo tempore venit Josue, et interfecit Enacim de montanis, Hebron, et Dabir, et Anab, et de omni monte Juda et Israel, urbesque eorum delevit. 
+    22: Non reliquit ullum de stirpe Enacim, in terra filiorum Israel : absque civitatibus Gaza, et Geth, et Azoto, in quibus solis relicti sunt. 
+    23: Cepit ergo Josue omnem terram, sicut locutus est Dominus ad Moysen, et tradidit eam in possessionem filiis Israel secundum partes et tribus suas : quievitque terra a praeliis.
+
+  Chapter 12.
+
+    1: Hi sunt reges, quos percusserunt filii Israel, et possederunt terram eorum trans Jordanem ad solis ortum, a torrente Arnon usque ad montem Hermon, et omnem orientalem plagam, quae respicit solitudinem. 
+    2: Sehon rex Amorrhaeorum, qui habitavit in Hesebon, dominatus est ab Aroer, quae sita est super ripam torrentis Arnon, et mediae partis in valle, dimidiaeque Galaad, usque ad torrentem Jaboc, qui est terminus filiorum Ammon. 
+    3: Et a solitudine usque ad mare Ceneroth contra orientem, et usque ad mare deserti, quod est mare salsissimum, ad orientalem plagam per viam quae ducit Bethsimoth : et ab australi parte, quae subjacet Asedoth, Phasga. 
+    4: Terminus Og regis Basan, de reliquiis Raphaim, qui habitavit in Astaroth, et in Edrai, et dominatus est in monte Hermon, et in Salecha, atque in universa Basan, usque ad terminos 
+    5: Gessuri, et Machati, et dimidiae partis Galaad : terminos Sehon regis Hesebon.
+    6: Moyses famulus Domini, et filii Israel percusserunt eos, tradiditque terram eorum Moyses in possessionem Rubenitis, et Gaditis, et dimidiae tribui Manasse. 
+    7: Hi sunt reges terrae, quos percussit Josue et filii Israel trans Jordanem ad occidentalem plagam, a Baalgad in campo Libani, usque ad montem cujus pars ascendit in Seir : tradiditque eam Josue in possessionem tribubus Israel, singulis partes suas, 
+    8: tam in montanis quam in planis atque campestribus. In Asedoth, et in solitudine, ac in meridie Hethaeus fuit et Amorrhaeus, Chananaeus, et Pherezaeus, Hevaeus et Jebusaeus. 
+    9: Rex Jericho unus : rex Hai, quae est ex latere Bethel, unus : 
+    10: rex Jerusalem unus, rex Hebron unus,
+    11: rex Jerimoth unus, rex Lachis unus, 
+    12: rex Eglon unus, rex Gazer unus, 
+    13: rex Dabir unus, rex Gader unus, 
+    14: rex Herma unus, rex Hered unus, 
+    15: rex Lebna unus, rex Odullam unus,
+    16: rex Maceda unus, rex Bethel unus, 
+    17: rex Taphua unus, rex Opher unus, 
+    18: rex Aphec unus, rex Saron unus, 
+    19: rex Madon unus, rex Asor unus, 
+    20: rex Semeron unus, rex Achsaph unus,
+    21: rex Thenac unus, rex Mageddo unus, 
+    22: rex Cades unus, rex Jachanan Carmeli unus, 
+    23: rex Dor, et provinciae Dor unus, rex gentium Galgal unus, 
+    24: rex Thersa unus : omnes reges triginta unus.
+
+End of day 51.

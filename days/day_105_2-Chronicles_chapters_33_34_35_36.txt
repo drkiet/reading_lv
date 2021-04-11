@@ -1,0 +1,125 @@
+Day 105:
+
+Reading 2-Chronicles, chapters ['33', '34', '35', '36']:
+
+  Chapter 33.
+
+    1: Duodecim annorum erat Manasses cum regnare coepisset, et quinquaginta quinque annis regnavit in Jerusalem. 
+    2: Fecit autem malum coram Domino juxta abominationes gentium, quas subvertit Dominus coram filiis Israel : 
+    3: et conversus instauravit excelsa, quae demolitus fuerat Ezechias pater ejus : construxitque aras Baalim, et fecit lucos, et adoravit omnem militiam caeli, et coluit eam. 
+    4: Aedificavit quoque altaria in domo Domini, de qua dixerat Dominus : In Jerusalem erit nomen meum in aeternum. 
+    5: Aedificavit autem ea cuncto exercitui caeli in duobus atriis domus Domini.
+    6: Transireque fecit filios suos per ignem in valle Benennom : observabat somnia, sectabatur auguria, maleficis artibus inserviebat, habebat secum magos, et incantatores : multaque mala operatus est coram Domino ut irritaret eum. 
+    7: Sculptile quoque, et conflatile signum posuit in domo Dei, de qua locutus est Deus ad David, et ad Salomonem filium ejus, dicens : In domo hac et in Jerusalem, quam elegi de cunctis tribubus Israel, ponam nomen meum in sempiternum. 
+    8: Et moveri non faciam pedem Israel de terra, quam tradidi patribus eorum : ita dumtaxat si custodierint facere quae praecepi eis, cunctamque legem, et caeremonias, atque judicia per manum Moysi. 
+    9: Igitur Manasses seduxit Judam, et habitatores Jerusalem, ut facerent malum super omnes gentes, quas subverterat Dominus a facie filiorum Israel. 
+    10: Locutusque est Dominus ad eum, et ad populum illius, et attendere noluerunt.
+    11: Idcirco superinduxit eis principes exercitus regis Assyriorum : ceperuntque Manassen, et vinctum catenis atque compedibus duxerunt in Babylonem. 
+    12: Qui postquam coangustatus est, oravit Dominum Deum suum : et egit poenitentiam valde coram Deo patrum suorum. 
+    13: Deprecatusque est eum, et obsecravit intente : et exaudivit orationem ejus, reduxitque eum Jerusalem in regnum suum, et cognovit Manasses quod Dominus ipse esset Deus. 
+    14: Post haec aedificavit murum extra civitatem David ad occidentem Gihon in convalle, ab introitu portae piscium per circuitum usque ad Ophel, et exaltavit illum vehementer : constituitque principes exercitus in cunctis civitatibus Juda munitis : 
+    15: et abstulit deos alienos, et simulacrum de domo Domini : aras quoque, quas fecerat in monte domus Domini, et in Jerusalem : et projecit omnia extra urbem.
+    16: Porro instauravit altare Domini, et immolavit super illud victimas, et pacifica, et laudem : praecepitque Judae ut serviret Domino Deo Israel. 
+    17: Attamen adhuc populus immolabat in excelsis Domino Deo suo. 
+    18: Reliqua autem gestorum Manasse, et obsecratio ejus ad Deum suum, verba quoque videntium, qui loquebantur ad eum in nomine Domini Dei Israel, continentur in sermonibus regum Israel. 
+    19: Oratio quoque ejus et exauditio, et cuncta peccata, atque contemptus, loca etiam in quibus aedificavit excelsa, et fecit lucos, et statuas antequam ageret poenitentiam, scripta sunt in sermonibus Hozai. 
+    20: Dormivit ergo Manasses cum patribus suis, et sepelierunt eum in domo sua : regnavitque pro eo filius ejus Amon.
+    21: Viginti duorum annorum erat Amon cum regnare coepisset, et duobus annis regnavit in Jerusalem. 
+    22: Fecitque malum in conspectu Domini, sicut fecerat Manasses pater ejus : et cunctis idolis, quae Manasses fuerat fabricatus, immolavit atque servivit. 
+    23: Et non est reveritus faciem Domini, sicut reveritus est Manasses pater ejus, et multo majora deliquit. 
+    24: Cumque conjurassent adversus eum servi sui, interfecerunt eum in domo sua. 
+    25: Porro reliqua populi multitudo, caesis iis qui Amon percusserant, constituit regem Josiam filium ejus pro eo.
+
+  Chapter 34.
+
+    1: Octo annorum erat Josias cum regnare coepisset, et triginta et uno anno regnavit in Jerusalem. 
+    2: Fecitque quod erat rectum in conspectu Domini, et ambulavit in viis David patris sui : non declinavit neque ad dextram, neque ad sinistram. 
+    3: Octavo autem anno regni sui, cum adhuc esset puer, coepit quaerere Deum patris sui David : et duodecimo anno postquam regnare coeperat, mundavit Judam et Jerusalem ab excelsis, et lucis, simulacrisque et sculptilibus. 
+    4: Destruxeruntque coram eo aras Baalim : et simulacra, quae superposita fuerant, demoliti sunt : lucos etiam, et sculptilia succidit atque comminuit : et super tumulos eorum, qui eis immolare consueverant, fragmenta dispersit. 
+    5: Ossa praeterea sacerdotum combussit in altaribus idolorum, mundavitque Judam et Jerusalem.
+    6: Sed et in urbibus Manasse, et Ephraim, et Simeon, usque Nephthali, cuncta subvertit. 
+    7: Cumque altaria dissipasset, et lucos, et sculptilia contrivisset in frustra, cunctaque delubra demolitus esset de universa terra Israel, reversus est in Jerusalem. 
+    8: Igitur anno octavodecimo regni sui, mundata jam terra, et templo Domini, misit Saphan filium Eseliae, et Maasiam principem civitatis, et Joha filium Joachaz a commentariis, ut instaurarent domum Domini Dei sui. 
+    9: Qui venerunt ad Helciam sacerdotem magnum : acceptamque ab eo pecuniam, quae illata fuerat in domum Domini, et quam congregaverant Levitae, et janitores de Manasse, et Ephraim, et universis reliquiis Israel, ab omni quoque Juda, et Benjamin, et habitatoribus Jerusalem, 
+    10: tradiderunt in manibus eorum, qui praeerant operariis in domo Domini, ut instaurarent templum, et infirma quaeque sarcirent.
+    11: At illi dederunt eam artificibus, et caementariis, ut emerent lapides de lapicidinis, et ligna ad commissuras aedificii, et ad contignationem domorum, quas destruxerant reges Juda. 
+    12: Qui fideliter cuncta faciebant. Erant autem praepositi operantium Jahath et Abdias de filiis Merari, Zacharias et Mosollam de filiis Caath, qui urgebant opus : omnes Levitae scientes organis canere. 
+    13: Super eos vero, qui ad diversos usus onera portabant, erant scribae, et magistri de Levitis janitores. 
+    14: Cumque efferrent pecuniam, quae illata fuerat in templum Domini, reperit Helcias sacerdos librum legis Domini per manum Moysi. 
+    15: Et ait ad Saphan scribam : Librum legis inveni in domo Domini : et tradidit ei.
+    16: At ille intulit volumen ad regem, et nuntiavit ei, dicens : Omnia quae dedisti in manu servorum tuorum, ecce complentur. 
+    17: Argentum, quod repertum est in domo Domini, conflaverunt : datumque est praefectis artificum, et diversa opera fabricantium. 
+    18: Praeterea tradidit mihi Helcias sacerdos hunc librum. Quem cum rege praesente recitasset, 
+    19: audissetque ille verba legis, scidit vestimenta sua : 
+    20: et praecepit Helciae, et Ahicam filio Saphan, et Abdon filio Micha, Saphan quoque scribae, et Asaae servo regis, dicens :
+    21: Ite, et orate Dominum pro me, et pro reliquiis Israel et Juda, super universis sermonibus libri istius, qui repertus est : magnus enim furor Domini stillavit super nos, eo quod non custodierint patres nostri verba Domini ut facerent omnia quae scripta sunt in isto volumine. 
+    22: Abiit ergo Helcias, et hi qui simul a rege missi fuerant, ad Oldam prophetidem, uxorem Sellum filii Thecuath filii Hasra custodis vestium, quae habitabat in Jerusalem in Secunda : et locuti sunt ei verba, quae supra narravimus. 
+    23: At illa respondit eis : Haec dicit Dominus Deus Israel : Dicite viro, qui misit vos ad me : 
+    24: Haec dicit Dominus : Ecce ego inducam mala super locum istum et super habitatores ejus, cunctaque maledicta, quae scripta sunt in libro hoc, quem legerunt coram rege Juda. 
+    25: Quia dereliquerunt me, et sacrificaverunt diis alienis, ut me ad iracundiam provocarent in cunctis operibus manuum suarum, idcirco stillabit furor meus super locum istum, et non extinguetur.
+    26: Ad regem autem Juda, qui misit vos pro Domino deprecando, sic loquimini : Haec dicit Dominus Deus Israel : Quoniam audisti verba voluminis, 
+    27: atque emollitum est cor tuum, et humiliatus es in conspectu Dei super his quae dicta sunt contra locum hunc, et habitatores Jerusalem, reveritusque faciem meam scidisti vestimenta tua, et flevisti coram me : ego quoque exaudivi te, dicit Dominus. 
+    28: Jam enim colligam te ad patres tuos, et infereris in sepulchrum tuum in pace : nec videbunt oculi tui omne malum, quod ego inducturus sum super locum istum, et super habitatores ejus. Retulerunt itaque regi cuncta quae dixerat. 
+    29: At ille convocatis universis majoribus natu Juda et Jerusalem, 
+    30: ascendit in domum Domini, unaque omnes viri Juda et habitatores Jerusalem, sacerdotes et Levitae, et cunctus populus a minimo usque ad maximum. Quibus audientibus in domo Domini, legit rex omnia verba voluminis :
+    31: et stans in tribunali suo, percussit foedus coram Domino ut ambularet post eum, et custodiret praecepta, et testimonia, et justificationes ejus in toto corde suo, et in tota anima sua, faceretque quae scripta sunt in volumine illo, quod legerat. 
+    32: Adjuravit quoque super hoc omnes, qui reperti fuerant in Jerusalem et Benjamin : et fecerunt habitatores Jerusalem juxta pactum Domini Dei patrum suorum. 
+    33: Abstulit ergo Josias cunctas abominationes de universis regionibus filiorum Israel : et fecit omnes, qui residui erant in Israel, servire Domino Deo suo. Cunctis diebus ejus non recesserunt a Domino Deo patrum suorum.
+
+  Chapter 35.
+
+    1: Fecit autem Josias in Jerusalem Phase Domino, quod immolatum est quartadecima die mensis primi : 
+    2: et constituit sacerdotes in officiis suis, hortatusque est eos ut ministrarent in domo Domini : 
+    3: Levitis quoque, ad quorum eruditionem omnis Israel sanctificabatur Domino, locutus est : Ponite arcam in sanctuario templi, quod aedificavit Salomon filius David rex Israel, nequaquam enim eam ultra portabitis : nunc autem ministrate Domino Deo vestro, et populo ejus Israel. 
+    4: Et praeparate vos per domos, et cognationes vestras in divisionibus singulorum, sicut praecepit David, rex Israel, et descripsit Salomon, filius ejus. 
+    5: Et ministrate in sanctuario per familias turmasque Leviticas,
+    6: et sanctificati immolate Phase : fratres etiam vestros, ut possint juxta verba quae locutus est Dominus in manu Moysi facere, praeparate. 
+    7: Dedit praeterea Josias omni populo, qui ibi fuerat inventus in solemnitate Phase, agnos et haedos de gregibus, et reliqui pecoris triginta millia, boum quoque tria millia : haec de regis universa substantia. 
+    8: Duces quoque ejus sponte quod voverant, obtulerunt, tam populo, quam sacerdotibus et Levitis. Porro Helcias, et Zacharias, et Jahiel principes domus Domini dederunt sacerdotibus ad faciendum Phase pecora commixtim duo millia sexcenta, et boves trecentos. 
+    9: Chonenias autem, et Semeias, etiam Nathanael fratres ejus, necnon Hasabias, et Jehiel, et Jozabad principes Levitarum, dederunt ceteris Levitis ad celebrandum Phase quinque millia pecorum, et boves quingentos. 
+    10: Praeparatumque est ministerium, et steterunt sacerdotes in officio suo : Levitae quoque in turmis, juxta regis imperium.
+    11: Et immolatum est Phase : asperseruntque sacerdotes manu sua sanguinem, et Levitae detraxerunt pelles holocaustorum : 
+    12: et separaverunt ea ut darent per domos et familias singulorum, et offerrentur Domino, sicut scriptum est in libro Moysi : de bobus quoque fecerunt similiter. 
+    13: Et assaverunt Phase super ignem, juxta quod in lege scriptum est : pacificas vero hostias coxerunt in lebetibus, et cacabis, et ollis, et festinato distribuerunt universae plebi : 
+    14: sibi autem et sacerdotibus postea paraverunt : nam in oblatione holocaustorum et adipum usque ad noctem sacerdotes fuerunt occupati : unde Levitae sibi et sacerdotibus filiis Aaron paraverunt novissimis. 
+    15: Porro cantores filii Asaph stabant in ordine suo, juxta praeceptum David, et Asaph, et Heman, et Idithun prophetarum regis : janitores vero per portas singulas observabant, ita ut nec puncto quidem discederent a ministerio : quam ob rem et fratres eorum Levitae paraverunt eis cibos.
+    16: Omnis igitur cultura Domini rite completa est in die illa ut facerent Phase, et offerrent holocausta super altare Domini, juxta praeceptum regis Josiae. 
+    17: Feceruntque filii Israel, qui reperti fuerant ibi, Phase in tempore illo, et solemnitatem azymorum septem diebus. 
+    18: Non fuit Phase simile huic in Israel a diebus Samuelis prophetae : sed nec quisquam de cunctis regibus Israel fecit Phase sicut Josias, sacerdotibus, et Levitis, et omni Judae, et Israel qui repertus fuerat, et habitantibus in Jerusalem. 
+    19: Octavodecimo anno regni Josiae hoc Phase celebratum est. 
+    20: Postquam instauraverat Josias templum, ascendit Nechao rex Aegypti ad pugnandum in Charcamis juxta Euphraten : et processit in occursum ejus Josias.
+    21: At ille, missis ad eum nuntiis, ait : Quid mihi et tibi est, rex Juda? non adversum te hodie venio, sed contra aliam pugno domum, ad quam me Deus festinato ire praecepit : desine adversum Deum facere, qui mecum est, ne interficiat te. 
+    22: Noluit Josias reverti, sed praeparavit contra eum bellum, nec acquievit sermonibus Nechao ex ore Dei : verum perrexit ut dimicaret in campo Mageddo. 
+    23: Ibique vulneratus a sagittariis, dixit pueris suis : Educite me de praelio, quia oppido vulneratus sum. 
+    24: Qui transtulerunt eum de curru in alterum currum, qui sequebatur eum more regio, et asportaverunt eum in Jerusalem, mortuusque est, et sepultus in mausoleo patrum suorum : et universus Juda et Jerusalem luxerunt eum. 
+    25: Jeremias maxime : cujus omnes cantores atque cantatrices, usque in praesentem diem, lamentationes super Josiam replicant, et quasi lex obtinuit in Israel : Ecce scriptum fertur in lamentationibus.
+    26: Reliqua autem sermonum Josiae et misericordiarum ejus, quae lege praecepta sunt Domini, 
+    27: opera quoque illius prima et novissima, scripta sunt in libro regum Juda et Israel.
+
+  Chapter 36.
+
+    1: Tulit ergo populus terrae Joachaz filium Josiae, et constituit regem pro patre suo in Jerusalem. 
+    2: Viginti trium annorum erat Joachaz, cum regnare coepisset, et tribus mensibus regnavit in Jerusalem. 
+    3: Amovit autem eum rex Aegypti cum venisset in Jerusalem, et condemnavit terram centum talentis argenti, et talento auri. 
+    4: Constituitque pro eo regem Eliakim fratrem ejus, super Judam et Jerusalem, et vertit nomen ejus Joakim : ipsum vero Joachaz tulit secum, et abduxit in Aegyptum. 
+    5: Viginti quinque annorum erat Joakim cum regnare coepisset, et undecim annis regnavit in Jerusalem : fecitque malum coram Domino Deo suo.
+    6: Contra hunc ascendit Nabuchodonosor rex Chaldaeorum, et vinctum catenis duxit in Babylonem. 
+    7: Ad quam et vasa Domini transtulit, et posuit ea in templo suo. 
+    8: Reliqua autem verborum Joakim, et abominationum ejus, quas operatus est, et quae inventa sunt in eo, continentur in libro regum Juda et Israel. Regnavit autem Joachin filius ejus pro eo. 
+    9: Octo annorum erat Joachin cum regnare coepisset, et tribus mensibus ac decem diebus regnavit in Jerusalem : fecitque malum in conspectu Domini. 
+    10: Cumque anni circulus volveretur, misit Nabuchodonosor rex, qui adduxerunt eum in Babylonem, asportatis simul pretiosissimis vasis domus Domini. Regem vero constituit Sedeciam patruum ejus super Judam et Jerusalem.
+    11: Viginti et unius anni erat Sedecias cum regnare coepisset, et undecim annis regnavit in Jerusalem : 
+    12: fecitque malum in oculis Domini Dei sui, nec erubuit faciem Jeremiae prophetae, loquentis ad se ex ore Domini. 
+    13: A rege quoque Nabuchodonosor recessit, qui adjuraverat eum per Deum : et induravit cervicem suam et cor ut non reverteretur ad Dominum Deum Israel. 
+    14: Sed et universi principes sacerdotum, et populus, praevaricati sunt inique juxta universas abominationes gentium, et polluerunt domum Domini, quam sanctificaverat sibi in Jerusalem. 
+    15: Mittebat autem Dominus Deus patrum suorum ad illos per manum nuntiorum suorum de nocte consurgens, et quotidie commonens : eo quod parceret populo et habitaculo suo.
+    16: At illi subsannabant nuntios Dei, et parvipendebant sermones ejus, illudebantque prophetis, donec ascenderet furor Domini in populum ejus, et esset nulla curatio. 
+    17: Adduxit enim super eos regem Chaldaeorum, et interfecit juvenes eorum gladio in domo sanctuarii sui, non est misertus adolescentis, et virginis, et senis, nec decrepiti quidem, sed omnes tradidit in manibus ejus. 
+    18: Universaque vasa domus Domini tam majora, quam minora, et thesauros templi, et regis, et principum transtulit in Babylonem. 
+    19: Incenderunt hostes domum Dei, destruxeruntque murum Jerusalem, universas turres combusserunt, et quidquid pretiosum fuerat, demoliti sunt. 
+    20: Si quis evaserat gladium, ductus in Babylonem servivit regi et filiis ejus, donec imperaret rex Persarum,
+    21: et compleretur sermo Domini ex ore Jeremiae, et celebraret terra sabbata sua : cunctis enim diebus desolationis egit sabbatum usque dum complerentur septuaginta anni. 
+    22: Anno autem primo, Cyri regis Persarum ad explendum sermonem Domini, quem locutus fuerat per os Jeremiae, suscitavit Dominus spiritum Cyri regis Persarum : qui jussit praedicari in universo regno suo, etiam per scripturam, dicens : 
+    23: Haec dicit Cyrus rex Persarum : Omnia regna terrae dedit mihi Dominus Deus caeli, et ipse praecepit mihi ut aedificarem ei domum in Jerusalem, quae est in Judaea : quis ex vobis est in omni populo ejus? sit Dominus Deis suus cum eo, et ascendat.
+
+End of day 105.

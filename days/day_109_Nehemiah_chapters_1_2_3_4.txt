@@ -1,0 +1,102 @@
+Day 109:
+
+Reading Nehemiah, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Verba Nehemiae filii Helchiae. Et factum est in mense Casleu, anno vigesimo, et ego eram in Susis castro. 
+    2: Et venit Hanani unus de fratribus meis, ipse et viri ex Juda : et interrogavi eos de Judaeis, qui remanserant, et supererant de captivitate, et Jerusalem. 
+    3: Et dixerunt mihi : Qui remanserunt, et relicti sunt de captivitate ibi in provincia, in afflictione magna sunt, et in opprobrio : et murus Jerusalem dissipatus est, et portae ejus combustae sunt igni. 
+    4: Cumque audissem verba hujuscemodi, sedi, et flevi, et luxi diebus multis : jejunabam, et orabam ante faciem Dei caeli : 
+    5: et dixi : Quaeso, Domine Deus caeli fortis, magne atque terribilis, qui custodis pactum et misericordiam cum his qui te diligunt, et custodiunt mandata tua :
+    6: fiant aures tuae auscultantes, et oculi tui aperti, ut audias orationem servi tui, quam ego oro coram te hodie nocte et die pro filiis Israel servis tuis : et confiteor pro peccatis filiorum Israel, quibus peccaverunt tibi : ego et domus patris mei peccavimus, 
+    7: vanitate seducti sumus, et non custodivimus mandatum tuum, et caeremonias, et judicia quae praecepisti Moysi famulo tuo. 
+    8: Memento verbi, quod mandasti Moysi servo tuo, dicens : Cum transgressi fueritis, ego dispergam vos in populos : 
+    9: et si revertamini ad me, et custodiatis praecepta mea, et faciatis ea : etiamsi abducti fueritis ad extrema caeli, inde congregabo vos, et reducam in locum, quem elegi ut habitaret nomen meum ibi. 
+    10: Et ipsi servi tui, et populus tuus : quos redemisti in fortitudine tua magna, et in manu tua valida.
+    11: Obsecro, Domine, sit auris tua attendens ad orationem servi tui, et ad orationem servorum tuorum, qui volunt timere nomen tuum : et dirige servum tuum hodie, et da ei misericordiam ante virum hunc : ego enim eram pincerna regis.
+
+  Chapter 2.
+
+    1: Factum est autem in mense Nisan, anno vigesimo Artaxerxis regis : et vinum erat ante eum, et levavi vinum, et dedi regi : et eram quasi languidus ante faciem ejus. 
+    2: Dixitque mihi rex : Quare vultus tuus tristis est, cum te aegrotum non videam? non est hoc frustra, sed malum nescio quod in corde tuo est. Et timui valde, ac nimis : 
+    3: et dixi regi : Rex in aeternum vive : quare non moereat vultus meus, quia civitas domus sepulchrorum patris mei deserta est, et portae ejus combustae sunt igni? 
+    4: Et ait mihi rex : Pro qua re postulas? Et oravi Deum caeli, 
+    5: et dixi ad regem : Si videtur regi bonum, et si placet servus tuus ante faciem tuam, ut mittas me in Judaeam ad civitatem sepulchri patris mei, et aedificabo eam.
+    6: Dixitque mihi rex, et regina quae sedebat juxta eum : Usque ad quod tempus erit iter tuum, et quando reverteris? Et placuit ante vultum regis, et misit me : et constitui ei tempus. 
+    7: Et dixi regi : Si regi videtur bonum, epistolas det mihi ad duces regionis trans flumen, ut traducant me, donec veniam in Judaeam : 
+    8: et epistolam ad Asaph custodem saltus regis, ut det mihi ligna, ut tegere possim portas turris domus, et muros civitatis, et domum, quam ingressus fuero. Et dedit mihi rex juxta manum Dei mei bonam mecum. 
+    9: Et veni ad duces regionis trans flumen, dedique eis epistolas regis. Miserat autem rex mecum principes militum, et equites. 
+    10: Et audierunt Sanaballat Horonites, et Tobias servus Ammanites : et contristati sunt afflictione magna, quod venisset homo, qui quaereret prosperitatem filiorum Israel.
+    11: Et veni Jerusalem, et eram ibi tribus diebus. 
+    12: Et surrexi nocte ego, et viri pauci mecum, et non indicavi cuiquam quid Deus dedisset in corde meo ut facerem in Jerusalem, et jumentum non erat mecum, nisi animal, cui sedebam. 
+    13: Et egressus sum per portam vallis nocte, et ante fontem draconis, et ad portam stercoris, et considerabam murum Jerusalem dissipatum, et portas ejus consumptas igni. 
+    14: Et transivi ad portam fontis, et ad aquaeductum regis, et non erat locus jumento, cui sedebam, ut transiret. 
+    15: Et ascendi per torrentem nocte, et considerabam murum, et reversus veni ad portam vallis, et redii.
+    16: Magistratus autem nesciebant quo abiissem, aut quid ego facerem : sed et Judaeis et sacerdotibus, et optimatibus, et magistratibus, et reliquis qui faciebant opus, usque ad id loci nihil indicaveram. 
+    17: Et dixi eis : Vos nostis afflictionem in qua sumus : quia Jerusalem deserta est, et portae ejus consumptae sunt igni : venite, et aedificemus muros Jerusalem, et non simus ultra opprobrium. 
+    18: Et indicavi eis manum Dei mei, quod esset bona mecum, et verba regis, quae locutus esset mihi, et aio : Surgamus, et aedificemus. Et confortatae sunt manus eorum in bono. 
+    19: Audierunt autem Sanaballat Horonites, et Tobias servus Ammanites, et Gosem Arabs, et subsannaverunt nos, et despexerunt, dixeruntque : Quae est haec res, quam facitis? numquid contra regem vos rebellatis? 
+    20: Et reddidi eis sermonem, dixique ad eos : Deus caeli ipse nos juvat, et nos servi ejus sumus : surgamus et aedificemus : vobis autem non est pars, et justitia, et memoria in Jerusalem.
+
+  Chapter 3.
+
+    1: Et surrexit Eliasib sacerdos magnus, et fratres ejus sacerdotes, et aedificaverunt portam gregis : ipsi sanctificaverunt eam, et statuerunt valvas ejus, et usque ad turrim centum cubitorum sanctificaverunt eam, usque ad turrim Hananeel. 
+    2: Et juxta eum aedificaverunt viri Jericho : et juxta eum aedificavit Zachur filius Amri. 
+    3: Portam autem piscium aedificaverunt filii Asnaa : ipsi texerunt eam, et statuerunt valvas ejus, et seras, et vectes. Et juxta eos aedificavit Marimuth filius Uriae, filii Accus. 
+    4: Et juxta eum aedificavit Mosollam filius Barachiae, filii Mesezebel : et juxta eos aedificavit Sadoc filius Baana. 
+    5: Et juxta eos aedificaverunt Thecueni : optimates autem eorum non supposuerunt colla sua in opere Domini sui.
+    6: Et portam veterem aedificaverunt Jojada filius Phasea, et Mosollam filius Besodia : ipsi texerunt eam, et statuerunt valvas ejus, et seras, et vectes. 
+    7: Et juxta eos aedificaverunt Meltias Gabaonites, et Jadon Meronathites, viri de Gabaon, et Maspha, pro duce qui erat in regione trans flumen. 
+    8: Et juxta eum aedificavit Eziel filius Araia aurifex : et juxta eum aedificavit Ananias filius pigmentarii : et dimiserunt Jerusalem usque ad murum plateae latioris. 
+    9: Et juxta eum aedificavit Raphaia filius Hur, princeps vici Jerusalem. 
+    10: Et juxta eum aedificavit Jedaia filius Haromaph contra domum suam : et juxta eum aedificavit Hattus filius Haseboniae.
+    11: Mediam partem vici aedificavit Melchias filius Herem, et Hasub filius Phahath Moab, et turrim furnorum. 
+    12: Et juxta eum aedificavit Sellum filius Alohes princeps mediae partis vici Jerusalem, ipse et filiae ejus. 
+    13: Et portam vallis aedificavit Hanun, et habitatores Zanoe : ipsi aedificaverunt eam, et statuerunt valvas ejus, et seras, et vectes, et mille cubitos in muro usque ad portam sterquilinii. 
+    14: Et portam sterquilinii aedificavit Melchias filius Rechab, princeps vici Bethacharam : ipse aedificavit eam, et statuit valvas ejus, et seras, et vectes. 
+    15: Et portam fontis aedificavit Sellum filius Cholhoza, princeps pagi Maspha : ipse aedificavit eam, et texit, et statuit valvas ejus, et seras, et vectes, et muros piscinae Siloe in hortum regis, et usque ad gradus, qui descendunt de civitate David.
+    16: Post eum aedificavit Nehemias filius Azboc, princeps dimidiae partis vici Bethsur, usque contra sepulchrum David, et usque ad piscinam, quae grandi opere constructa est, et usque ad domum fortium. 
+    17: Post eum aedificaverunt Levitae, Rehum filius Benni : post eum aedificavit Hasebias princeps dimidiae partis vici Ceilae in vico suo. 
+    18: Post eum aedificaverunt fratres eorum Bavai filius Enadad, princeps dimidiae partis Ceilae. 
+    19: Et aedificavit juxta eum Azer filius Josue, princeps Maspha, mensuram secundam, contra ascensum firmissimi anguli. 
+    20: Post eum in monte aedificavit Baruch filius Zachai mensuram secundam, ab angulo usque ad portam domus Eliasib sacerdotis magni.
+    21: Post eum aedificavit Merimuth filius Uriae filii Haccus, mensuram secundam, a porta domus Eliasib, donec extenderetur domus Eliasib. 
+    22: Et post eum aedificaverunt sacerdotes, viri de campestribus Jordanis. 
+    23: Post eum aedificavit Benjamin et Hasub contra domum suam : et post eum aedificavit Azarias filius Maasiae filii Ananiae contra domum suam. 
+    24: Post eum aedificavit Bennui filius Henadad mensuram secundam, a domo Azariae usque ad flexuram, et usque ad angulum. 
+    25: Phalel filius Ozi contra flexuram et turrim, quae eminet de domo regis excelsa, id est, in atrio carceris : post eum Phadaia filius Pharos.
+    26: Nathinaei autem habitabant in Ophel usque contra portam aquarum ad orientem, et turrim, quae prominebat. 
+    27: Post eum aedificaverunt Thecueni mensuram secundam e regione, a turre magna et eminente usque ad murum templi. 
+    28: Sursum autem a porta equorum aedificaverunt sacerdotes, unusquisque contra domum suam. 
+    29: Post eos aedificavit Sadoc filius Emmer contra domum suam. Et post eum aedificavit Semaia filius Secheniae, custos portae orientalis. 
+    30: Post eum aedificavit Hanania filius Selemiae, et Hanun filius Seleph sextus, mensuram secundam : post eum aedificavit Mosollam filius Barachiae, contra gazophylacium suum. Post eum aedificavit Melchias filius aurificis usque ad domum Nathinaeorum, et scruta vendentium contra portam judicialem, et usque ad coenaculum anguli.
+    31: Et inter coenaculum anguli in porta gregis, aedificaverunt aurifices et negotiatores.
+
+  Chapter 4.
+
+    1: Factum est autem, cum audisset Sanaballat quod aedificaremus murum, iratus est valde : et motus nimis subsannavit Judaeos, 
+    2: et dixit coram fratribus suis, et frequentia Samaritanorum : Quid Judaei faciunt imbecilles? num dimittent eos gentes? num sacrificabunt, et complebunt in una die? numquid aedificare poterunt lapides de acervis pulveris, qui combusti sunt? 
+    3: Sed et Tobias Ammanites proximus ejus, ait : Aedificent : si ascenderit vulpes, transiliet murum eorum lapideum. 
+    4: Audi, Deus noster, quia facti sumus despectui : converte opprobrium super caput eorum, et da eos in despectionem in terra captivitatis. 
+    5: Ne operias iniquitatem eorum, et peccatum eorum coram facie tua non deleatur, quia irriserunt aedificantes.
+    6: Itaque aedificavimus murum, et conjunximus totum usque ad partem dimidiam : et provocatum est cor populi ad operandum. 
+    7: Factum est autem, cum audisset Sanaballat, et Tobias, et Arabes, et Ammanitae, et Azotii, quod obducta esset cicatrix muri Jerusalem, et quod coepissent interrupta concludi, irati sunt nimis. 
+    8: Et congregati sunt omnes pariter ut venirent, et pugnarent contra Jerusalem, et molirentur insidias. 
+    9: Et oravimus Deum nostrum, et posuimus custodes super murum die ac nocte contra eos. 
+    10: Dixit autem Judas : Debilitata est fortitudo portantis, et humus nimia est, et nos non poterimus aedificare murum.
+    11: Et dixerunt hostes nostri : Nesciant, et ignorent donec veniamus in medium eorum, et interficiamus eos, et cessare faciamus opus. 
+    12: Factum est autem venientibus Judaeis, qui habitabant juxta eos, et dicentibus nobis per decem vices, ex omnibus locis quibus venerant ad nos, 
+    13: statui in loco post murum per circuitum populum in ordinem cum gladiis suis, et lanceis, et arcubus. 
+    14: Et perspexi atque surrexi : et aio ad optimates et magistratus, et ad reliquam partem vulgi : Nolite timere a facie eorum : Domini magni et terribilis mementote, et pugnate pro fratribus vestris, filiis vestris, et filiabus vestris, et uxoribus vestris, et domibus vestris. 
+    15: Factum est autem, cum audissent inimici nostri nuntiatum esse nobis, dissipavit Deus consilium eorum. Et reversi sumus omnes ad muros, unusquisque ad opus suum.
+    16: Et factum est a die illa, media pars juvenum eorum faciebat opus, et media parata erat ad bellum, et lanceae, et scuta, et arcus, et loricae, et principes post eos in omni domo Juda, 
+    17: aedificantium in muro, et portantium onera, et imponentium : una manu sua faciebat opus, et altera tenebat gladium : 
+    18: aedificentium enim unusquisque gladio erat accinctus renes. Et aedificabant, et clangebant buccina juxta me. 
+    19: Et dixi ad optimates, et ad magistratus, et ad reliquam partem vulgi : Opus grande est et latum, et nos separati sumus in muro procul alter ab altero : 
+    20: in loco quocumque audieritis clangorem tubae, illuc concurrite ad nos : Deus noster pugnabit pro nobis.
+    21: Et nos ipsi faciamus opus : et media pars nostrum teneat lanceas ab ascensu aurorae donec egrediantur astra. 
+    22: In tempore quoque illo dixi populo : Unusquisque cum puero suo maneat in medio Jerusalem, et sint nobis vices per noctem et diem ad operandum. 
+    23: Ego autem et fratres mei, et pueri mei, et custodes, qui erant post me, non deponebamus vestimenta nostra : unusquisque tantum nudabatur ad baptismum.
+
+End of day 109.

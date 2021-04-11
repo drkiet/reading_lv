@@ -1,0 +1,134 @@
+Day 182:
+
+Reading Proverbs, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Parabolae Salomonis, filii David, regis Israel, 
+    2: ad sciendam sapientiam et disciplinam; 
+    3: ad intelligenda verba prudentiae, et suscipiendam erudtionem doctrinae, justitiam, et judicium, et aequitatem : 
+    4: ut detur parvulis astutia, adolescenti scientia et intellectus. 
+    5: Audiens sapiens, sapientior erit, et intelligens gubernacula possidebit.
+    6: Animadvertet parabolam et interpretationem, verba sapientum et aenigmata eorum. 
+    7: Timor Domini principium sapientiae; sapientiam atque doctrinam stulti despiciunt. 
+    8: Audi, fili mi, disciplinam patris tui, et ne dimittas legem matris tuae : 
+    9: ut addatur gratia capiti tuo, et torques collo tuo. 
+    10: Fili mi, si te lactaverint peccatores, ne acquiescas eis.
+    11: Si dixerint : Veni nobiscum, insidiemur sanguini; abscondamus tendiculas contra insontem frustra; 
+    12: deglutiamus eum sicut infernus viventem, et integrum quasi descendentem in lacum : 
+    13: omnem pretiosam substantiam reperiemus; implebimus domos nostras spoliis; 
+    14: sortem mitte nobiscum, marsupium unum sit omnium nostrum : 
+    15: fili mi, ne ambules cum eis; prohibe pedem tuum a semitis eorum :
+    16: pedes enim illorum ad malum currunt, et festinant ut effundant sanguinem. 
+    17: Frustra autem jacitur rete ante oculos pennatorum. 
+    18: Ipsi quoque contra sanguinem suum insidiantur, et moliuntur fraudes contra animas suas. 
+    19: Sic semitae omnis avari : animas possidentium rapiunt. 
+    20: Sapientia foris praedicat; in plateis dat vocem suam :
+    21: in capite turbarum clamitat; in foribus portarum urbis profert verba sua, dicens : 
+    22: Usquequo, parvuli, diligitis infantiam, et stulti ea quae sibi sunt noxia cupient, et imprudentes odibunt scientiam? 
+    23: convertimini ad correptionem meam. En proferam vobis spiritum meum, et ostendam vobis verba mea. 
+    24: Quia vocavi, et renuistis; extendi manum meam, et non fuit qui aspiceret : 
+    25: despexistis omne consilium meum, et increpationes meas neglexistis.
+    26: Ego quoque in interitu vestro ridebo, et subsannabo cum vobis id quod timebatis advenerit. 
+    27: Cum irruerit repentina calamitas, et interitus quasi tempestas ingruerit; quando venerit super vos tribulatio et angustia; 
+    28: tunc invocabunt me, et non exaudiam; mane consurgent, et non invenient me : 
+    29: eo quod exosam habuerint disciplinam, et timorem Domini non susceperint, 
+    30: nec acquieverint consilio meo, et detraxerint universae correptioni meae.
+    31: Comedent igitur fructus viae suae, suisque consiliis saturabuntur. 
+    32: Aversio parvulorum interficiet eos, et prosperitas stultorum perdet illos. 
+    33: Qui autem me audierit absque terrore requiescet, et abundantia perfruetur, timore malorum sublato.
+
+  Chapter 2.
+
+    1: Fili mi, si susceperis sermones meos, et mandata mea absconderis penes te : 
+    2: ut audiat sapientiam auris tua, inclina cor tuum ad cognoscendam prudentiam. 
+    3: Si enim sapientiam invocaveris, et inclinaveris cor tuum prudentiae; 
+    4: si quaesieris eam quasi pecuniam, et sicut thesauros effoderis illam : 
+    5: tunc intelliges timorem Domini, et scientiam Dei invenies,
+    6: quia Dominus dat sapientiam, et ex ore ejus prudentia et scientia. 
+    7: Custodiet rectorum salutem, et proteget gradientes simpliciter, 
+    8: servans semitas justitiae, et vias sanctorum custodiens. 
+    9: Tunc intelliges justitiam, et judicium, et aequitatem, et omnem semitam bonam. 
+    10: Si intraverit sapientia cor tuum, et scientia animae tuae placuerit,
+    11: consilium custodiet te, et prudentia servabit te; 
+    12: ut eruaris a via mala, et ab homine qui perversa loquitur; 
+    13: qui relinquunt iter rectum, et ambulant per vias tenebrosas; 
+    14: qui laetantur cum malefecerint, et exsultant in rebus pessimis; 
+    15: quorum viae perversae sunt, et infames gressus eorum.
+    16: Ut eruaris a muliere aliena, et ab extranea quae mollit sermones suos, 
+    17: et relinquit ducem pubertatis suae, 
+    18: et pacti Dei sui oblita est. Inclinata est enim ad mortem domus ejus, et ad inferos semitae ipsius. 
+    19: Omnes qui ingrediuntur ad eam non revertentur, nec apprehendent semitas vitae. 
+    20: Ut ambules in via bona, et cales justorum custodias :
+    21: qui enim recti sunt habitabunt in terra, et simplices permanebunt in ea; 
+    22: impii vero de terra perdentur, et qui inique agunt auferentur ex ea.
+
+  Chapter 3.
+
+    1: Fili mi, ne obliviscaris legis meae, et praecepta mea cor tuum custodiat; 
+    2: longitudinem enim dierum, et annos vitae, et pacem apponent tibi. 
+    3: Misericordia et veritas te non deserant; circumda eas gutturi tuo, et describe in tabulis cordis tui; 
+    4: et invenies gratiam, et disciplinam bonam, coram Deo et hominibus. 
+    5: Habe fiduciam in Domino ex toto corde tuo, et ne innitaris prudentiae tuae.
+    6: In omnibus viis tuis cogita illum, et ipse diriget gressus tuos. 
+    7: Ne sis sapiens apud temetipsum; time Deum, et recede a malo : 
+    8: sanitas quippe erit umbilico tuo, et irrigatio ossium tuorum. 
+    9: Honora Dominum de tua substantia, et de primitiis omnium frugum tuarum da ei; 
+    10: et implebuntur horrea tua saturitate, et vino torcularia tua redundabunt.
+    11: Disciplinam Domini, fili mi, ne abjicias, nec deficias cum ab eo corriperis : 
+    12: quem enim diligit Dominus corripit, et quasi pater in filio complacet sibi. 
+    13: Beatus homo qui invenit sapientiam, et qui affluit prudentia. 
+    14: Melior est acquisitio ejus negotiatione argenti, et auri primi et purissimi fructus ejus. 
+    15: Pretiosior est cunctis opibus, et omnia quae desiderantur huic non valent comparari.
+    16: Longitudo dierum in dextera ejus, et in sinistra illius divitiae et gloria. 
+    17: Viae ejus viae pulchrae, et omnes semitae illius pacificae. 
+    18: Lignum vitae est his qui apprehenderint eam, et qui tenuerit eam beatus. 
+    19: Dominus sapientia fundavit terram, stabilivit caelos prudentia. 
+    20: Sapientia illius eruperunt abyssi, et nubes rore concrescunt.
+    21: Fili mi, ne effluant haec ab oculis tuis. Custodi legem atque consilium, 
+    22: et erit vita animae tuae, et gratia faucibus tuis. 
+    23: Tunc ambulabis fiducialiter in via tua, et pes tuus non impinget. 
+    24: Si dormieris, non timebis; quiesces, et suavis erit somnus tuus. 
+    25: Ne paveas repentino terrore, et irruentes tibi potentias impiorum.
+    26: Dominus enim erit in latere tuo, et custodiet pedem tuum, ne capiaris. 
+    27: Noli prohibere benefacere eum qui potest; si vales, et ipse benefac. 
+    28: Ne dicas amico tuo : Vade, et revertere, cras dabo tibi, cum statim possis dare. 
+    29: Ne moliaris amico tuo malum, cum ille in te habeat fiduciam. 
+    30: Ne contendas adversus hominem frustra, cum ipse tibi nihil mali fecerit.
+    31: Ne aemuleris hominem injustum, nec imiteris vias ejus : 
+    32: quia abominatio Domini est omnis illusor, et cum simplicibus sermocinatio ejus. 
+    33: Egestas a Domino in domo impii; habitacula autem justorum benedicentur. 
+    34: Ipse deludet illusores, et mansuetis dabit gratiam. 
+    35: Gloriam sapientes possidebunt; stultorum exaltatio ignominia.
+
+  Chapter 4.
+
+    1: Audite, filii, disciplinam patris, et attendite ut sciatis prudentiam. 
+    2: Donum bonum tribuam vobis : legem meam ne derelinquatis. 
+    3: Nam et ego filius fui patris mei, tenellus et unigenitus coram matre mea. 
+    4: Et docebat me, atque dicebat : Suscipiat verba mea cor tuum; custodi praecepta mea, et vives. 
+    5: Posside sapientiam, posside prudentiam. Ne obliviscaris, neque declines a verbis oris mei.
+    6: Ne dimittas eam, et custodiet te : dilige eam, et conservabit te. 
+    7: Principium sapientiae, posside sapientiam; et in omni possessione tua acquire prudentiam. 
+    8: Arripe illam, et exaltabit te; glorificaberis ab ea cum eam fueris amplexatus. 
+    9: Dabit capiti tuo augmenta gratiarum, et corona inclyta proteget te. 
+    10: Audi, fili mi, et suscipe verba mea, ut multiplicentur tibi anni vitae.
+    11: Viam sapientiae monstrabo tibi; ducam te per semitas aequitatis; 
+    12: quas cum ingressus fueris, non arctabuntur gressus tui, et currens non habebis offendiculum. 
+    13: Tene disciplinam, ne dimittas eam; custodi illam, quia ipsa est vita tua. 
+    14: Ne delecteris in semitis impiorum, nec tibi placeat malorum via. 
+    15: Fuge ab ea, nec transeas per illam; declina, et desere eam.
+    16: Non enim dormiunt nisi malefecerint, et rapitur somnus ab eis nisi supplantaverint. 
+    17: Comedunt panem impietatis, et vinum iniquitatis bibunt. 
+    18: Justorum autem semita quasi lux splendens procedit, et crescit usque ad perfectam diem. 
+    19: Via impiorum tenebrosa; nesciunt ubi corruant. 
+    20: Fili mi, ausculta sermones meos, et ad eloquia mea inclina aurem tuam.
+    21: Ne recedant ab oculis tuis, custodi ea in medio cordis tui : 
+    22: vita enim sunt invenientibus ea, et universae carni sanitas. 
+    23: Omni custodia serva cor tuum, quia ex ipso vita procedit. 
+    24: Remove a te os pravum, et detrahentia labia sint procul a te. 
+    25: Oculi tui recta videant, et palpebrae tuae praecedant gressus tuos.
+    26: Dirige semitam pedibus tuis, et omnes viae tuae stabilientur. 
+    27: Ne declines ad dexteram neque ad sinistram; averte pedem tuum a malo : vias enim quae a dextris sunt novit Dominus : perversae vero sunt quae a sinistris sunt. Ipse autem rectos faciet cursus tuos, itinera autem tua in pace producet.
+
+End of day 182.

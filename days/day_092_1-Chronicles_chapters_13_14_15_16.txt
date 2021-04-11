@@ -1,0 +1,120 @@
+Day 92:
+
+Reading 1-Chronicles, chapters ['13', '14', '15', '16']:
+
+  Chapter 13.
+
+    1: Init autem consilium David cum tribunis, et centurionibus, et universis principibus, 
+    2: et ait ad omnem coetum Israel : Si placet vobis, et a Domino Deo nostro egreditur sermo, quem loquor, mittamus ad fratres nostros reliquos in universas regiones Israel, et ad sacerdotes, et Levitas, qui habitant in suburbanis urbium, ut congregentur ad nos, 
+    3: et reducamus arcam Dei nostri ad nos : non enim requisivimus eam in diebus Saul. 
+    4: Et respondit universa multitudo ut ita fieret : placuerat enim sermo omni populo. 
+    5: Congregavit ergo David cunctum Israel a Sihor Aegypti, usque dum ingrediaris Emath, ut adduceret arcam Dei de Cariathiarim.
+    6: Et ascendit David, et omnis vir Israel, ad collem Cariathiarim, qui est in Juda, ut afferret inde arcam Domini Dei sedentis super cherubim, ubi invocatum est nomen ejus. 
+    7: Imposueruntque arcam Dei super plaustrum novum, de domo Abinadab : Oza autem, et frater ejus minabant plaustrum. 
+    8: Porro David, et universus Israel, ludebant coram Deo omni virtute in canticis, et in citharis et psalteriis, et tympanis, et cymbalis, et tubis. 
+    9: Cum autem pervenisset ad aream Chidon, tetendit Oza manum suam, ut sustentaret arcam : bos quippe lasciviens paululum inclinaverat eam. 
+    10: Iratus est itaque Dominus contra Ozam, et percussit eum, eo quod tetigisset arcam : et mortuus est ibi coram Domino.
+    11: Contristatusque est David, eo quod divisisset Dominus Ozam : vocavitque locum illum Divisio Ozae, usque in praesentem diem. 
+    12: Et timuit Deum tunc temporis, dicens : Quomodo possum ad me introducere arcam Dei? 
+    13: et ob hanc causam non adduxit eam ad se, hoc est, in civitatem David, sed avertit in domum Obededom Gethaei. 
+    14: Mansit ergo arca Dei in domo Obededom tribus mensibus : et benedixit Dominus domui ejus, et omnibus quae habebat.
+
+  Chapter 14.
+
+    1: Misit quoque Hiram rex Tyri nuntios ad David, et ligna cedrina, et artifices parietum, lignorumque, ut aedificarent ei domum. 
+    2: Cognovitque David quod confirmasset eum Dominus in regem super Israel, et sublevatum esset regnum suum super populum ejus Israel. 
+    3: Accepit quoque David alias uxores in Jerusalem : genuitque filios et filias. 
+    4: Et haec nomina eorum, qui nati sunt ei in Jerusalem : Samua, et Sobab, Nathan, et Salomon, 
+    5: Jebahar, et Elisua, et Eliphalet,
+    6: Noga quoque, et Napheg, et Japhia, 
+    7: Elisama, et Baaliada, et Eliphalet. 
+    8: Audientes autem Philisthiim eo quod unctus esset David regem super universum Israel, ascenderunt omnes ut quaererent eum : quod cum audisset David, egressus est obviam eis. 
+    9: Porro Philisthiim venientes, diffusi sunt in valle Raphaim. 
+    10: Consuluitque David Dominum, dicens : Si ascendam ad Philisthaeos, et si trades eos in manu mea? Et dixit ei Dominus : Ascende, et tradam eos in manu tua.
+    11: Cumque illi ascendissent in Baalpharasim, percussit eos ibi David, et dixit : Divisit Deus inimicos meos per manum meam, sicut dividuntur aquae : et idcirco vocatum est nomen illius loci Baalpharasim. 
+    12: Dereliqueruntque ibi deos suos, quos David jussit exuri. 
+    13: Alia etiam vice Philisthiim irruerunt, et diffusi sunt in valle. 
+    14: Consuluitque rursum David Deum, et dixit ei Deus : Non ascendas post eos : recede ab eis, et venies contra illos ex adverso pyrorum. 
+    15: Cumque audieris sonitum gradientis in cacumine pyrorum, tunc egredieris ad bellum : egressus est enim Deus ante te, ut percutiat castra Philisthiim.
+    16: Fecit ergo David sicut praeceperat ei Deus, et percussit castra Philisthinorum, de Gabaon usque Gazera. 
+    17: Divulgatumque est nomen David in universis regionibus, et Dominus dedit pavorem ejus super omnes gentes.
+
+  Chapter 15.
+
+    1: Fecit quoque sibi domos in civitate David : et aedificavit locum arcae Dei, tetenditque ei tabernaculum. 
+    2: Tunc dixit David : Illicitum est ut a quocumque portetur arca Dei nisi a Levitis, quos elegit Dominus ad portandum eam, et ad ministrandum sibi usque in aeternum. 
+    3: Congregavitque universum Israel in Jerusalem, ut afferretur arca Dei in locum suum, quem praeparaverat ei : 
+    4: necnon et filios Aaron, et Levitas. 
+    5: De filiis Caath, Uriel princeps fuit, et fratres ejus centum viginti.
+    6: De filiis Merari, Asaia princeps : et fratres ejus ducenti viginti. 
+    7: De filiis Gersom, Joel princeps : et fratres ejus centum triginta. 
+    8: De filiis Elisaphan, Semeias princeps : et fratres ejus ducenti. 
+    9: De filiis Hebron, Eliel princeps : et fratres ejus octoginta. 
+    10: De filiis Oziel, Aminadab princeps : et fratres ejus centum duodecim.
+    11: Vocavitque David Sadoc, et Abiathar sacerdotes, et Levitas, Uriel, Asaiam, Joel, Semeiam, Eliel, et Aminadab : 
+    12: et dixit ad eos : Vos, qui estis principes familiarum Leviticarum, sanctificamini cum fratribus vestris, et afferte arcam Domini Dei Israel ad locum qui ei praeparatus est : 
+    13: ne ut a principio, quia non eratis praesentes, percussit nos Dominus; sic et nunc fiat, illicitum quid nobis agentibus. 
+    14: Sanctificati sunt ergo sacerdotes, et Levitae, ut portarent arcam Domini Dei Israel. 
+    15: Et tulerunt filii Levi arcam Dei, sicut praeceperat Moyses juxta verbum Domini, humeris suis in vectibus.
+    16: Dixitque David principibus Levitarum, ut constituerent de fratribus suis cantores in organis musicorum, nablis videlicet, et lyris, et cymbalis, ut resonaret in excelsis sonitus laetitiae. 
+    17: Constitueruntque Levitas : Heman filium Joel, et de fratribus ejus Asaph filium Barachiae : de filiis vero Merari, fratribus eorum : Ethan filium Casaiae. 
+    18: Et cum eis fratres eorum : in secundo ordine, Zachariam, et Ben, et Jaziel, et Semiramoth, et Jahiel, et Ani, Eliab, et Banaiam, et Maasiam, et Mathathiam, et Eliphalu, et Maceniam, et Obededom, et Jehiel, janitores. 
+    19: Porro cantores, Heman, Asaph, et Ethan, in cymbalis aeneis concrepantes. 
+    20: Zacharias autem, et Oziel, et Semiramoth, et Jahiel, et Ani, et Eliab, et Maasias, et Banaias in nablis arcana cantabant.
+    21: Porro Mathathias, et Eliphalu, et Macenias, et Obededom, et Jehiel, et Ozaziu, in citharis pro octava canebant epinicion. 
+    22: Chonenias autem princeps Levitarum, prophetiae praeerat, ad praecindendam melodiam : erat quippe valde sapiens. 
+    23: Et Barachias, et Elcana, janitores arcae. 
+    24: Porro Sebenias, et Josaphat, et Nathanael, et Amasai, et Zacharias, et Banaias, et Eliezer sacerdotes, clangebant tubis coram arca Dei : et Obededom, et Jehias, erant janitores arcae. 
+    25: Igitur David, et omnes majores natu Israel, et tribuni, ierunt ad deportandam arcam foederis Domini de domo Obededom cum laetitia.
+    26: Cumque adjuvisset Deus Levitas, qui portabant arcam foederis Domini, immolabantur septem tauri, et septem arietes. 
+    27: Porro David erat indutus stola byssina, et universi Levitae qui portabant arcam, cantoresque et Chonenias princeps prophetiae inter cantores : David autem etiam indutus erat ephod lineo. 
+    28: Universusque Israel deducebant arcam foederis Domini in jubilo, et sonitu buccinae, et tubis, et cymbalis, et nablis, et citharis concrepantes. 
+    29: Cumque pervenisset arca foederis Domini usque ad civitatem David, Michol filia Saul prospiciens per fenestram, vidit regem David saltantem atque ludentem, et despexit eum in corde suo.
+
+  Chapter 16.
+
+    1: Attulerunt igitur arcam Dei, et constituerunt eam in medio tabernaculi, quod tetenderat ei David : et obtulerunt holocausta, et pacifica coram Deo. 
+    2: Cumque complesset David offerens holocausta, et pacifica, benedixit populo in nomine Domini. 
+    3: Et divisit universis per singulos, a viro usque ad mulierem, tortam panis, et partem assae carnis bubalae, et frixam oleo similam. 
+    4: Constituitque coram arca Domini de Levitis, qui ministrarent, et recordarentur operum ejus, et glorificarent, atque laudarent Dominum Deum Israel : 
+    5: Asaph principem, et secundum ejus Zachariam : porro Jahiel, et Semiramoth, et Jehiel, et Mathathiam, et Eliab, et Banaiam, et Obededom : Jehiel super organa psalterii, et lyras : Asaph autem ut cymbalis personaret :
+    6: Banaiam vero, et Jaziel sacerdotes, canere tuba jugiter coram arca foederis Domini. 
+    7: In illo die fecit David principem ad confitendum Domino Asaph, et fratres ejus : 
+    8: Confitemini Domino, et invocate nomen ejus : notas facite in populis adinventiones ejus. 
+    9: Cantate ei, et psallite ei : et narrate omnia mirabilia ejus. 
+    10: Laudate nomen sanctum ejus : laetetur cor quaerentium Dominum.
+    11: Quaerite Dominum, et virtutem ejus : quaerite faciem ejus semper. 
+    12: Recordamini mirabilium ejus quae fecit : signorum illius, et judiciorum oris ejus, 
+    13: semen Israel servi ejus; filii Jacob electi ejus. 
+    14: Ipse Dominus Deus noster : in universa terra judicia ejus. 
+    15: Recordamini in sempiternum pacti ejus : sermonis, quem praecepit in mille generationes,
+    16: quem pepigit cum Abraham : et juramenti illius cum Isaac. 
+    17: Et constituit illud Jacob in praeceptum : et Israel in pactum sempiternum, 
+    18: dicens : Tibi dabo terram Chanaan, funiculum haereditatis vestrae, 
+    19: cum essent pauci numero, parvi et coloni ejus. 
+    20: Et transierunt de gente in gentem, et de regno ad populum alterum.
+    21: Non dimisit quemquam calumniari eos, sed increpavit pro eis reges. 
+    22: Nolite tangere christos meos : et in prophetis meis nolite malignari. 
+    23: Cantate Domino omnis terra, annuntiate ex die in diem salutare ejus, 
+    24: narrate in gentibus gloriam ejus : in cunctis populis mirabilia ejus. 
+    25: Quia magnus Dominus, et laudabilis nimis : et horribilis super omnes deos.
+    26: Omnes enim dii populorum, idola : Dominus autem caelos fecit. 
+    27: Confessio et magnificentia coram eo : fortitudo et gaudium in loco ejus. 
+    28: Afferte Domino, familiae populorum : afferte Domino gloriam et imperium. 
+    29: Date Domino gloriam; nomini ejus levate sacrificium, et venite in conspectu ejus : et adorate Dominum in decore sancto. 
+    30: Commoveatur a facie ejus omnis terra : ipse enim fundavit orbem immobilem.
+    31: Laetentur caeli, et exultet terra; et dicant in nationibus : Dominus regnavit. 
+    32: Tonet mare, et plenitudo ejus : exultent agri, et omnia quae in eis sunt. 
+    33: Tunc laudabunt ligna saltus coram Domino : quia venit judicare terram. 
+    34: Confitemini Domino, quoniam bonus : quoniam in aeternum misericordia ejus. 
+    35: Et dicite : Salva nos, Deus salvator noster : et congrega nos, et erue de gentibus, ut confiteamur nomini sancto tuo, et exultemus in carminibus tuis.
+    36: Benedictus Dominus Deus Israel, ab aeterno usque in aeternum. Et dicat omnis populo : Amen, et hymnum Domino. 
+    37: Reliquit itaque ibi coram arca foederis Domini Asaph, et fratres ejus, ut ministrarent in conspectu arcae jugiter per singulos dies, et vices suas. 
+    38: Porro Obededom, et fratres ejus sexaginta octo : et Obededom filium Idithun, et Hosa constituit janitores. 
+    39: Sadoc autem sacerdotem, et fratres ejus sacerdotes, coram tabernaculo Domini in excelso, quod erat in Gabaon, 
+    40: ut offerrent holocausta Domino super altare holocautomatis jugiter, mane et vespere, juxta omnia quae scripta sunt in lege Domini, quam praecepit Israeli.
+    41: Et post eum Heman, et Idithun, et reliquos electos, unumquemque vocabulo suo ad confitendum Domino, quoniam in aeternum misericordia ejus. 
+    42: Heman quoque, et Idithun canentes tuba, et quatientes cymbala, et omnia musicorum organa et canendum Deo : filios autem Idithun fecit esse portarios. 
+    43: Reversusque est omnis populus in domum suam : et David, ut benediceret etiam domui suae.
+
+End of day 92.

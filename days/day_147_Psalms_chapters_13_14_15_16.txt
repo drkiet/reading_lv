@@ -1,0 +1,55 @@
+Day 147:
+
+Reading Psalms, chapters ['13', '14', '15', '16']:
+
+  Chapter 13.
+
+    1: In finem. Psalmus David. Dixit insipiens in corde suo : Non est Deus. Corrupti sunt, et abominabiles facti sunt in studiis suis; non est qui faciat bonum, non est usque ad unum. 
+    2: Dominus de caelo prospexit super filios hominum, ut videat si est intelligens, aut requirens Deum. 
+    3: Omnes declinaverunt, simul inutiles facti sunt. Non est qui faciat bonum, non est usque ad unum. Sepulchrum patens est guttur eorum; linguis suis dolose agebant. Venenum aspidum sub labiis eorum. Quorum os maledictione et amaritudine plenum est; veloces pedes eorum ad effundendum sanguinem. Contritio et infelicitas in viis eorum, et viam pacis non cognoverunt; non est timor Dei ante oculos eorum. 
+    4: Nonne cognoscent omnes qui operantur iniquitatem, qui devorant plebem meam sicut escam panis? 
+    5: Dominum non invocaverunt; illic trepidaverunt timore, ubi non erat timor.
+    6: Quoniam Dominus in generatione justa est, consilium inopis confudistis, quoniam Dominus spes ejus est. 
+    7: Quis dabit ex Sion salutare Israel? Cum averterit Dominus captivitatem plebis suae, exsultabit Jacob, et laetabitur Israel.
+
+  Chapter 14.
+
+    1: Psalmus David. Domine, quis habitabit in tabernaculo tuo? aut quis requiescet in monte sancto tuo? 
+    2: Qui ingreditur sine macula, et operatur justitiam; 
+    3: qui loquitur veritatem in corde suo; qui non egit dolum in lingua sua; nec fecit proximo suo malum, et opprobrium non accepit adversus proximos suos. 
+    4: Ad nihilum deductus est in conspectu ejus malignus; timentes autem Dominum glorificat. Qui jurat proximo suo, et non decipit; 
+    5: qui pecuniam suam non dedit ad usuram, et munera super innocentem non accepit. Qui facit haec non movebitur in aeternum.
+
+  Chapter 15.
+
+    1: Tituli inscriptio, ipsi David. Conserva me, Domine, quoniam speravi in te. 
+    2: Dixi Domino : Deus meus es tu, quoniam bonorum meorum non eges. 
+    3: Sanctis, qui sunt in terra ejus, mirificavit omnes voluntates meas in eis. 
+    4: Multiplicatae sunt infirmitates eorum, postea acceleraverunt. Non congregabo conventicula eorum de sanguinibus; nec memor ero nominum eorum per labia mea. 
+    5: Dominus pars haereditatis meae, et calicis mei : tu es qui restitues haereditatem meam mihi.
+    6: Funes ceciderunt mihi in praeclaris; etenim haereditas mea praeclara est mihi. 
+    7: Benedicam Dominum qui tribuit mihi intellectum; insuper et usque ad noctem increpuerunt me renes mei. 
+    8: Providebam Dominum in conspectu meo semper, quoniam a dextris est mihi, ne commovear. 
+    9: Propter hoc laetatum est cor meum, et exsultavit lingua mea; insuper et caro mea requiescet in spe. 
+    10: Quoniam non derelinques animam meam in inferno, nec dabis sanctum tuum videre corruptionem.
+    11: Notas mihi fecisti vias vitae; adimplebis me laetitia cum vultu tuo : delectationes in dextera tua usque in finem.
+
+  Chapter 16.
+
+    1: Oratio David. Exaudi, Domine, justitiam meam; intende deprecationem meam. Auribus percipe orationem meam, non in labiis dolosis. 
+    2: De vultu tuo judicium meum prodeat; oculi tui videant aequitates. 
+    3: Probasti cor meum, et visitasti nocte; igne me examinasti, et non est inventa in me iniquitas. 
+    4: Ut non loquatur os meum opera hominum : propter verba labiorum tuorum, ego custodivi vias duras. 
+    5: Perfice gressus meos in semitis tuis, ut non moveantur vestigia mea.
+    6: Ego clamavi, quoniam exaudisti me, Deus; inclina aurem tuam mihi, et exaudi verba mea. 
+    7: Mirifica misericordias tuas, qui salvos facis sperantes in te. 
+    8: A resistentibus dexterae tuae custodi me, ut pupillam oculi. Sub umbra alarum tuarum protege me, 
+    9: a facie impiorum qui me afflixerunt. Inimici mei animam meam circumdederunt; 
+    10: adipem suum concluserunt; os eorum locutum est superbiam.
+    11: Projicientes me nunc circumdederunt me; oculos suos statuerunt declinare in terram. 
+    12: Susceperunt me sicut leo paratus ad praedam, et sicut catulus leonis habitans in abditis. 
+    13: Exsurge, Domine : praeveni eum, et supplanta eum; eripe animam meam ab impio. 
+    14: Frameam tuam ab inimicis manus tuae. Domine, a paucis de terra divide eos in vita eorum; de absconditis tuis adimpletus est venter eorum. Saturati sunt filiis, et dimiserunt reliquias suas parvulis suis. 
+    15: Ego autem in justitia apparebo conspectui tuo; satiabor cum apparuerit gloria tua.
+
+End of day 147.

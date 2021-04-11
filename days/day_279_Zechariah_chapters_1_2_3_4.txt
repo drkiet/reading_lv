@@ -1,0 +1,75 @@
+Day 279:
+
+Reading Zechariah, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: In mense octavo, in anno secundo Darii regis, factum est verbum Domini ad Zachariam filium Barachiae filii Addo prophetam, dicens : 
+    2: Iratus est Dominus super patres vestros iracundia. 
+    3: Et dices ad eos : Haec dicit Dominus exercituum : Convertimini ad me, ait Dominus exercituum, et convertar ad vos, dicit Dominus exercituum. 
+    4: Ne sitis sicut patres vestri, ad quos clamabant prophetae priores, dicentes : Haec dicit Dominus exercituum : Convertimini de viis vestris malis, et de cogitationibus vestris pessimis : et non audierunt, neque attenderunt ad me, dicit Dominus. 
+    5: Patres vestri, ubi sunt? et prophetae numquid in sempiternum vivent?
+    6: Verumtamen verba mea, et legitima mea, quae mandavi servis meis prophetis, numquid non comprehenderunt patres vestros, et conversi sunt, et dixerunt : Sicut cogitavit Dominus exercituum facere nobis secundum vias nostras, et secundum adinventiones nostras, fecit nobis? 
+    7: In die vigesima et quarta undecimi mensis Sabath, in anno secundo Darii, factum est verbum Domini ad Zachariam filium Barachiae filii Addo prophetam, dicens : 
+    8: Vidi per noctem, et ecce vir ascendens super equum rufum, et ipse stabat inter myrteta, quae erant in profundo, et post eum equi rufi, varii, et albi. 
+    9: Et dixi : Quid sunt isti, domine mi? Et dixit ad me angelus qui loquebatur in me : Ego ostendam tibi quid sint haec. 
+    10: Et respondit vir qui stabat inter myrteta, et dixit : Isti sunt quos misit Dominus ut perambulent terram.
+    11: Et responderunt angelo Domini, qui stabat inter myrteta, et dixerunt : Perambulavimus terram, et ecce omnis terra habitatur, et quiescit. 
+    12: Et respondit angelus Domini, et dixit : Domine exercituum, usquequo tu non misereberis Jerusalem, et urbium Juda, quibus iratus es? iste jam septuagesimus annus est. 
+    13: Et respondit Dominus angelo qui loquebatur in me verba bona, verba consolatoria. 
+    14: Et dixit ad me angelus qui loquebatur in me : Clama, dicens : Haec dicit Dominus exercituum : Zelatus sum Jerusalem et Sion zelo magno, 
+    15: et ira magna ego irascor super gentes opulentas, quia ego iratus sum parum, ipsi vero adjuverunt in malum.
+    16: Propterea haec dicit Dominus : Revertar ad Jerusalem in misericordiis, et domus mea aedificabitur in ea, ait Dominus exercituum, et perpendiculum extendetur super Jerusalem. 
+    17: Adhuc clama, dicens : Haec dicit Dominus exercituum : Adhuc affluent civitates meae bonis, et consolabitur adhuc Dominus Sion, et eliget adhuc Jerusalem. 
+    18: Et levavi oculos meos, et vidi, et ecce quatuor cornua. 
+    19: Et dixi ad angelum qui loquebatur in me : Quid sunt haec? Et dixit ad me : Haec sunt cornua quae ventilaverunt Judam, et Israel, et Jerusalem. 
+    20: Et ostendit mihi Dominus quatuor fabros.
+    21: Et dixi : Quid isti veniunt facere? Qui ait, dicens : Haec sunt cornua quae ventilaverunt Judam per singulos viros, et nemo eorum levavit caput suum : et venerunt isti deterrere ea, ut dejiciant cornua gentium, quae levaverunt cornu super terram Juda ut dispergerent eam.
+
+  Chapter 2.
+
+    1: Et levavi oculos meos, et vidi, et ecce vir, et in manu ejus funiculus mensorum. 
+    2: Et dixi : Quo tu vadis? Et dixit ad me : Ut metiar Jerusalem, et videam quanta sit latitudo ejus, et quanta longitudo ejus. 
+    3: Et ecce angelus qui loquebatur in me egrediebatur, et angelus alius egrediebatur in occursum ejus : 
+    4: et dixit ad eum : Curre, loquere ad puerum istum, dicens : Absque muro habitabitur Jerusalem, prae multitudine hominum et jumentorum in medio ejus. 
+    5: Et ego ero ei, ait Dominus, murus ignis in circuitu, et in gloria ero in medio ejus.
+    6: O, o, fugite de terra aquilonis, dicit Dominus, quoniam in quatuor ventos caeli dispersi vos, dicit Dominus. 
+    7: O Sion! fuge, quae habitas apud filiam Babylonis : 
+    8: quia haec dicit Dominus exercituum : Post gloriam misit me ad gentes quae spoliaverunt vos : qui enim tetigerit vos, tangit pupillam oculi mei : 
+    9: quia ecce ego levo manum meam super eos, et erunt praedae his qui serviebant sibi : et cognoscetis quia Dominus exercituum misit me. 
+    10: Lauda et laetare, filia Sion, quia ecce ego venio, et habitabo in medio tui, ait Dominus.
+    11: Et applicabuntur gentes multae ad Dominum in die illa, et erunt mihi in populum, et habitabo in medio tui : et scies quia Dominus exercituum misit me ad te. 
+    12: Et possidebit Dominus Judam partem suam in terra sanctificata, et eliget adhuc Jerusalem. 
+    13: Sileat omnis caro a facie Domini, quia consurrexit de habitaculo sancto suo.
+
+  Chapter 3.
+
+    1: Et ostendit mihi Dominus Jesum sacerdotem magnum, stantem coram angelo Domini : et Satan stabat a dextris ejus ut adversaretur ei. 
+    2: Et dixit Dominus ad Satan : Increpet Dominus in te, Satan! et increpet Dominus in te, qui elegit Jerusalem! numquid non iste torris est erutus de igne? 
+    3: Et Jesus erat indutus vestibus sordidis, et stabat ante faciem angeli. 
+    4: Qui respondit, et ait ad eos qui stabant coram se, dicens : Auferte vestimenta sordida ab eo. Et dixit ad eum : Ecce abstuli a te iniquitatem tuam, et indui te mutatoriis. 
+    5: Et dixit : Ponite cidarim mundam super caput ejus. Et posuerunt cidarim mundam super caput ejus, et induerunt eum vestibus : et angelus Domini stabat.
+    6: Et contestabatur angelus Domini Jesum, dicens : 
+    7: Haec dicit Dominus exercituum : Si in viis meis ambulaveris, et custodiam meam custodieris, tu quoque judicabis domum meam, et custodies atria mea, et dabo tibi ambulantes de his qui nunc hic assistunt. 
+    8: Audi, Jesu sacerdos magne, tu et amici tui, qui habitant coram te, quia viri portendentes sunt : ecce enim ego adducam servum meum Orientem. 
+    9: Quia ecce lapis quem dedi coram Jesu : super lapidem unum septem oculi sunt : ecce ego caelabo sculpturam ejus, ait Dominus exercituum, et auferam iniquitatem terrae illius in die una. 
+    10: In die illa, dicit Dominus exercituum, vocabit vir amicum suum subter vitem et subter ficum.
+
+  Chapter 4.
+
+    1: Et reversus est angelus qui loquebatur in me, et suscitavit me quasi virum qui suscitatur de somno suo. 
+    2: Et dixit ad me : Quid tu vides? Et dixi : Vidi, et ecce candelabrum aureum totum, et lampas ejus super caput ipsius, et septem lucernae ejus super illud, et septem infusoria lucernis quae erant super caput ejus. 
+    3: Et duae olivae super illud : una a dextris lampadis, et una a sinistris ejus. 
+    4: Et respondi, et aio ad angelum qui loquebatur in me, dicens : Quid sunt haec, domine mi? 
+    5: Et respondit angelus qui loquebatur in me, et dixit ad me : Numquid nescis quid sunt haec? Et dixi : Non, domine mi.
+    6: Et respondit, et ait ad me, dicens : Hoc est verbum Domini ad Zorobabel, dicens : Non in exercitu, nec in robore, sed in spiritu meo, dicit Dominus exercituum. 
+    7: Quis tu, mons magne, coram Zorobabel? In planum : et educet lapidem primarium, et exaequabit gratiam gratiae ejus. 
+    8: Et factum est verbum Domini ad me, dicens : 
+    9: Manus Zorobabel fundaverunt domum istam, et manus ejus perficient eam : et scietis quia Dominus exercituum misit me ad vos. 
+    10: Quis enim despexit dies parvos? Et laetabuntur, et videbunt lapidem stantem in manu Zorobabel. Septem isti oculi sunt Domini, qui discurrunt in universam terram.
+    11: Et respondi, et dixi ad eum : Quid sunt duae olivae istae, ad dexteram candelabri, et ad sinistram ejus? 
+    12: Et respondi secundo, et dixi ad eum : Quid sunt duae spicae olivarum quae sunt juxta duo rostra aurea in quibus sunt suffusoria ex auro? 
+    13: Et ait ad me, dicens : Numquid nescis quid sunt haec? Et dixi : Non, domine mi. 
+    14: Et dixit : Isti sunt duo filii olei, qui assistunt Dominatori universae terrae.
+
+End of day 279.

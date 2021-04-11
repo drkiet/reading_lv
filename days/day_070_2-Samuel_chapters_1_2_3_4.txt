@@ -1,0 +1,127 @@
+Day 70:
+
+Reading 2-Samuel, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Factum est autem, postquam mortuus est Saul, ut David reverteretur a caede Amalec, et maneret in Siceleg duos dies. 
+    2: In die autem tertia apparuit homo veniens de castris Saul veste conscissa, et pulvere conspersus caput : et ut venit ad David, cecidit super faciem suam, et adoravit. 
+    3: Dixitque ad eum David : Unde venis? Qui ait ad eum : De castris Israel fugi. 
+    4: Et dixit ad eum David : Quod est verbum quod factum est? indica mihi. Qui ait : Fugit populus ex praelio, et multi corruentes e populo mortui sunt : sed et Saul et Jonathas filius ejus interierunt. 
+    5: Dixitque David ad adolescentem, qui nuntiabat ei : Unde scis quia mortuus est Saul, et Jonathas filius ejus?
+    6: Et ait adolescens, qui nuntiabat ei : Casu veni in montem Gelboe, et Saul incumbebat super hastam suam : porro currus et equites appropinquabant ei, 
+    7: et conversus post tergum suum, vidensque me vocavit. Cui cum respondissem : Adsum : 
+    8: dixit mihi : Quisnam es tu? Et aio ad eum : Amalecites ego sum. 
+    9: Et locutus est mihi : Sta super me, et interfice me : quoniam tenent me angustiae, et adhuc tota anima mea in me est. 
+    10: Stansque super eum, occidi illum : sciebam enim quod vivere non poterat post ruinam : et tuli diadema quod erat in capite ejus, et armillam de brachio illius, et attuli ad te dominum meum huc.
+    11: Apprehendens autem David vestimenta sua scidit, omnesque viri, qui erant cum eo, 
+    12: et planxerunt, et fleverunt, et jejunaverunt usque ad vesperam super Saul, et super Jonathan filium ejus, et super populum Domini, et super domum Israel, eo quod corruissent gladio. 
+    13: Dixitque David ad juvenem qui nuntiaverat ei : Unde es tu? Qui respondit : Filius hominis advenae Amalecitae ego sum. 
+    14: Et ait ad eum David : Quare non timuisti mittere manum tuam ut occideres christum Domini? 
+    15: Vocansque David unum de pueris suis, ait : Accedens irrue in eum. Qui percussit illum, et mortuus est.
+    16: Et ait ad eum David : Sanguis tuus super caput tuum : os enim tuum locutum est adversum te, dicens : Ego interfeci christum Domini. 
+    17: Planxit autem David planctum hujuscemodi super Saul, et super Jonathan filium ejus, 
+    18: ( et praecepit ut docerent filios Juda arcum, sicut scriptum est in libro justorum), et ait : Considera Israel, pro his qui mortui sunt, super excelsa tua vulnerati, 
+    19: inclyti, Israel, super montes tuos interfecti sunt : quomodo ceciderunt fortes? 
+    20: Nolite annuntiare in Geth, neque annuntietis in compitis Ascalonis : ne forte laetentur filiae Philisthiim, ne exultent filiae incircumcisorum.
+    21: Montes Gelboe, nec ros, nec pluvia veniant super vos, neque sint agri primitiarum : quia ibi abjectus est clypeus fortium, clypeus Saul, quasi non esset unctus oleo. 
+    22: A sanguine interfectorum, ab adipe fortium, sagitta Jonathae numquam rediit retrorsum, et gladius Saul non est reversus inanis. 
+    23: Saul et Jonathas amabiles, et decori in vita sua, in morte quoque non sunt divisi : aquilis velociores, leonibus fortiores. 
+    24: Filiae Israel super Saul flete, qui vestiebat vos coccino in deliciis, qui praebebat ornamenta aurea cultui vestro. 
+    25: Quomodo ceciderunt fortes in praelio? Jonathas in excelsis tuis occisus est?
+    26: Doleo super te frater mi Jonatha decore nimis, et amabilis super amorem mulierum. Sicut mater unicum amat filium suum, ita ego te diligebam. 
+    27: Quomodo ceciderunt robusti, et perierunt arma bellica?
+
+  Chapter 2.
+
+    1: Igitur post haec consuluit David Dominum, dicens : Num ascendam in unam de civitatibus Juda? Et ait Dominus ad eum : Ascende. Dixitque David : Quo ascendam? Et respondit ei : In Hebron. 
+    2: Ascendit ergo David, et duae uxores ejus, Achinoam Jezraelites, et Abigail uxor Nabal Carmeli : 
+    3: sed et viros, qui erant cum eo, duxit David singulos cum domo sua : et manserunt in oppidis Hebron. 
+    4: Veneruntque viri Juda, et unxerunt ibi David, ut regnaret super domum Juda. Et nuntiatum est David, quod viri Jabes Galaad sepelissent Saul. 
+    5: Misit ergo David nuntios ad viros Jabes Galaad, dixitque ad eos : Benedicti vos Domino, qui fecistis misericordiam hanc cum domino vestro Saul, et sepelistis eum.
+    6: Et nunc retribuet vobis quidem Dominus misericordiam et veritatem : sed et ego reddam gratiam, eo quod fecistis verbum istud. 
+    7: Confortentur manus vestrae, et estote filii fortitudinis : licet enim mortuus sit dominus vester Saul, tamen me unxit domus Juda in regem sibi. 
+    8: Abner autem filius Ner princeps exercitus Saul, tulit Isboseth filium Saul, et circumduxit eum per castra, 
+    9: regemque constituit super Galaad, et super Gessuri, et super Jezrael, et super Ephraim, et super Benjamin, et super Israel universum. 
+    10: Quadraginta annorum erat Isboseth filius Saul cum regnare coepisset super Israel, et duobus annis regnavit : sola autem domus Juda sequebatur David.
+    11: Et fuit numerus dierum, quos commoratus est David, imperans in Hebron super domum Juda, septem annorum, et sex mensium. 
+    12: Egressusque est Abner filius Ner, et pueri Isboseth filii Saul, de castris in Gabaon. 
+    13: Porro Joab filius Sarviae, et pueri David egressi sunt, et occurrerunt eis juxta piscinam Gabaon. Et cum in unum convenissent, e regione sederunt : hi ex una parte piscinae, et illi ex altera. 
+    14: Dixitque Abner ad Joab : Surgant pueri et ludant coram nobis. Et respondit Joab : Surgant. 
+    15: Surrexerunt ergo, et transierunt numero duodecim de Benjamin, ex parte Isboseth filii Saul, et duodecim de pueris David.
+    16: Apprehensoque unusquisque capite comparis sui, defixit gladium in latus contrarii, et ceciderunt simul : vocatumque est nomen loci illius : Ager robustorum, in Gabaon. 
+    17: Et ortum est bellum durum satis in die illa : fugatusque est Abner, et viri Israel a pueris David. 
+    18: Erant autem ibi tres filii Sarviae, Joab, et Abisai, et Asael : porro Asael cursor velocissimus fuit, quasi unus de capreis quae morantur in silvis. 
+    19: Persequebatur autem Asael Abner, et non declinavit ad dextram neque ad sinistram omittens persequi Abner. 
+    20: Respexit itaque Abner post tergum suum, et ait : Tune es Asael? Qui respondit : Ego sum.
+    21: Dixitque ei Abner : Vade ad dexteram, sive ad sinistram et apprehende unum de adolescentibus, et tolle tibi spolia ejus. Noluit autem Asael omittere quin urgeret eum. 
+    22: Rursumque locutus est Abner ad Asael : Recede, noli me sequi, ne compellar confodere te in terram, et levare non potero faciem meam ad Joab fratrem tuum. 
+    23: Qui audire contempsit, et noluit declinare : percussit ergo eum Abner aversa hasta in inguine, et transfodit, et mortuus est in eodem loco : omnesque qui transibant per locum illum, in quo ceciderat Asael, et mortuus erat, subsistebant. 
+    24: Persequentibus autem Joab, et Abisai fugientem Abner, sol occubuit : et venerunt usque ad collem aquaeductus, qui est ex adverso vallis itineris deserti in Gabaon. 
+    25: Congregatique sunt filii Benjamin ad Abner : et conglobati in unum cuneum, steterunt in summitate tumuli unius.
+    26: Et exclamavit Abner ad Joab, et ait : Num usque ad internecionem tuus mucro desaeviet? an ignoras quod periculosa sit desperatio? Usquequo non dicis populo ut omittat persequi fratres suos? 
+    27: Et ait Joab : Vivit Dominus, si locutus fuisses, mane recessisset populus persequens fratrem suum. 
+    28: Insonuit ergo Joab buccina, et stetit omnis exercitus, nec persecuti sunt ultra Israel, neque iniere certamen. 
+    29: Abner autem et viri ejus abierunt per campestria, tota nocte illa : et transierunt Jordanem, et lustrata omni Beth-horon, venerunt ad castra. 
+    30: Porro Joab reversus, omisso Abner, congregavit omnem populum : et defuerunt de pueris David decem et novem viri, excepto Asaele.
+    31: Servi autem David percusserunt de Benjamin, et de viris qui erant cum Abner, trecentos sexaginta, qui et mortui sunt. 
+    32: Tuleruntque Asael, et sepelierunt eum in sepulchro patris sui in Bethlehem : et ambulaverunt tota nocte Joab et viri qui erant cum eo, et in ipso crepusculo pervenerunt in Hebron.
+
+  Chapter 3.
+
+    1: Facta est ergo longa concertatio inter domum Saul, et inter domum David : David proficiscens, et semper seipso robustior, domus autem Saul decrescens quotidie. 
+    2: Natique sunt filii David in Hebron : fuitque primogenitus ejus Amnon, de Achinoam Jezraelitide. 
+    3: Et post eum Cheleab, de Abigail uxore Nabal Carmeli : porro tertius Absalom, filius Maacha filiae Tholmai regis Gessur. 
+    4: Quartus autem Adonias, filius Haggith : et quintus Saphathia, filius Abital. 
+    5: Sextus quoque Jethraam, de Egla uxore David : hi nati sunt David in Hebron.
+    6: Cum ergo esset praelium inter domum Saul et domum David, Abner filius Ner regebat domum Saul. 
+    7: Fuerat autem Sauli concubina nomine Respha, filia Aja. Dixitque Isboseth ad Abner : 
+    8: Quare ingressus es ad concubinam patris mei? Qui iratus nimis propter verba Isboseth, ait : Numquid caput canis ego sum adversum Judam hodie, qui fecerim misericordiam super domum Saul patris tui, et super fratres et proximos ejus, et non tradidi te in manus David, et tu requisisti in me quod argueres pro muliere hodie? 
+    9: Haec faciat Deus Abner, et haec addat ei, nisi quomodo juravit Dominus David, sic faciam cum eo, 
+    10: ut transferatur regnum de domo Saul, et elevetur thronus David super Israel, et super Judam, a Dan usque Bersabee.
+    11: Et non potuit respondere ei quidquam, quia metuebat illum. 
+    12: Misit ergo Abner nuntios ad David pro se dicentes : Cujus est terra? et ut loquerentur : Fac mecum amicitias, et erit manus mea tecum, et reducam ad te universum Israel. 
+    13: Qui ait : Optime : ego faciam tecum amicitias : sed unam rem peto a te, dicens : Non videbis faciem meam antequam adduxeris Michol filiam Saul : et sic venies, et videbis me. 
+    14: Misit autem David nuntios ad Isboseth filium Saul, dicens : Redde uxorem meam Michol, quam despondi mihi centum praeputiis Philisthiim. 
+    15: Misit ergo Isboseth, et tulit eam a viro suo Phaltiel, filio Lais.
+    16: Sequebaturque eam vir suus, plorans usque Bahurim : et dixit ad eum Abner : Vade, et revertere. Qui reversus est. 
+    17: Sermonem quoque intulit Abner ad seniores Israel, dicens : Tam heri quam nudiustertius quaerebatis David ut regnaret super vos. 
+    18: Nunc ergo facite : quoniam Dominus locutus est ad David, dicens : In manu servi mei David salvabo populum meum Israel de manu Philisthiim, et omnium inimicorum ejus. 
+    19: Locutus est autem Abner etiam ad Benjamin. Et abiit ut loqueretur ad David in Hebron omnia quae placuerant Israeli et universo Benjamin. 
+    20: Venitque ad David in Hebron cum viginti viris : et fecit David Abner, et viris ejus qui venerant cum eo, convivium.
+    21: Et dixit Abner ad David : Surgam, ut congregem ad te dominum meum regem omnem Israel, et ineam tecum foedus, et imperes omnibus, sicut desiderat anima tua. Cum ergo deduxisset David Abner, et ille isset in pace, 
+    22: statim pueri David et Joab venerunt, caesis latronibus, cum praeda magna nimis : Abner autem non erat cum David in Hebron, quia jam dimiserat eum, et profectus fuerat in pace. 
+    23: Et Joab, et omnis exercitus, qui erat cum eo, postea venerunt : nuntiatum est itaque Joab a narrantibus : Venit Abner filius Ner ad regem, et dimisit eum, et abiit in pace. 
+    24: Et ingressus est Joab ad regem, et ait : Quid fecisti? Ecce venit Abner ad te : quare dimisisti eum, et abiit et recessit? 
+    25: Ignoras Abner filium Ner, quoniam ad hoc venit ad te ut deciperet te, et sciret exitum tuum, et introitum tuum, et nosset omnia quae agis?
+    26: Egressus itaque Joab a David, misit nuntios post Abner, et reduxit eum a cisterna Sira, ignorante David. 
+    27: Cumque rediisset Abner in Hebron, seorsum adduxit eum Joab ad medium portae, ut loqueretur ei, in dolo : et percussit illum ibi in inguine, et mortuus est in ultionem sanguinis Asael fratris ejus. 
+    28: Quod cum audisset David rem jam gestam, ait : Mundus ego sum, et regnum meum apud Dominum usque in sempiternum a sanguine Abner filii Ner, 
+    29: et veniat super caput Joab, et super omnem domum patris ejus : nec deficiat de domo Joab fluxum seminis sustinens, et leprosus, et tenens fusum, et cadens gladio, et indigens pane. 
+    30: Igitur Joab et Abisai frater ejus interfecerunt Abner, eo quod occidisset Asael fratrem eorum in Gabaon in praelio.
+    31: Dixit autem David ad Joab, et ad omnem populum, qui erat cum eo : Scindite vestimenta vestra, et accingimini saccis, et plangite ante exequias Abner : porro rex David sequebatur feretrum. 
+    32: Cumque sepelissent Abner in Hebron, levavit rex David vocem suam, et flevit super tumulum Abner : flevit autem et omnis populus. 
+    33: Plangensque rex et lugens Abner, ait : Nequaquam ut mori solent ignavi, mortuus est Abner. 
+    34: Manus tuae ligatae non sunt, et pedes tui non sunt compedibus aggravati : sed sicut solent cadere coram filiis iniquitatis, sic corruisti. Congeminansque omnis populus flevit super eum. 
+    35: Cumque venisset universa multitudo cibum capere cum David, clara adhuc die juravit David, dicens : Haec faciat mihi Deus, et haec addat, si ante occasum solis gustavero panem vel aliud quidquam.
+    36: Omnisque populus audivit, et placuerunt eis cuncta quae fecit rex in conspectu totius populi. 
+    37: Et cognovit omne vulgus et universus Israel in die illa, quoniam non actum fuisset a rege ut occideretur Abner filius Ner. 
+    38: Dixit quoque rex ad servos suos : Num ignoratis quoniam princeps et maximus cecidit hodie in Israel? 
+    39: Ego autem adhuc delicatus, et unctus rex : porro viri isti filii Sarviae duri sunt mihi : retribuat Dominus facienti malum juxta malitiam suam.
+
+  Chapter 4.
+
+    1: Audivit autem Isboseth filius Saul quod cecidisset Abner in Hebron : et dissolutae sunt manus ejus, omnisque Israel perturbatus est. 
+    2: Duo autem viri principes latronum erant filio Saul, nomen uni Baana, et nomen alteri Rechab, filii Remmon Berothitae de filiis Benjamin : siquidem et Beroth reputata est in Benjamin. 
+    3: Et fugerunt Berothitae in Gethaim, fueruntque ibi advenae usque ad tempus illud. 
+    4: Erat autem Jonathae filio Saul filius debilis pedibus : quinquennis enim fuit, quando venit nuntius de Saul et Jonatha ex Jezrahel. Tollens itaque eum nutrix sua, fugit : cumque festinaret ut fugeret, cecidit, et claudus effectus est : habuitque vocabulum Miphiboseth. 
+    5: Venientes igitur filii Remmon Berothitae, Rechab et Baana, ingressi sunt fervente die domum Isboseth : qui dormiebat super stratum suum meridie. Et ostiaria domus purgans triticum, obdormivit.
+    6: Ingressi sunt autem domum latenter assumentes spicas tritici, et percusserunt eum in inguine Rechab et Baana frater ejus, et fugerunt. 
+    7: Cum autem ingressi fuissent domum, ille dormiebat super lectum suum in conclavi, et percutientes interfecerunt eum : sublatoque capite ejus, abierunt per viam deserti tota nocte, 
+    8: et attulerunt caput Isboseth ad David in Hebron : dixeruntque ad regem : Ecce caput Isboseth filii Saul inimici tui, qui quaerebat animam tuam : et dedit Dominus domino meo regi ultionem hodie de Saul, et de semine ejus. 
+    9: Respondens autem David Rechab, et Baana fratri ejus, filiis Remmon Berothitae, dixit ad eos : Vivit Dominus, qui eruit animam meam de omni angustia, 
+    10: quoniam eum, qui annuntiaverat mihi, et dixerat : Mortuus est Saul : qui putabat se prospera nuntiare, tenui, et occidi eum in Siceleg, cui oportebat mercedem dare pro nuntio.
+    11: Quanto magis nunc cum homines impii interfecerunt virum innoxium in domo sua, super lectum suum, non quaeram sanguinem ejus de manu vestra, et auferam vos de terra? 
+    12: Praecepit itaque David pueris suis, et interfecerunt eos : praecidentesque manus et pedes eorum, suspenderunt eos super piscinam in Hebron : caput autem Isboseth tulerunt, et sepelierunt in sepulchro Abner in Hebron.
+
+End of day 70.

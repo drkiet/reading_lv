@@ -1,0 +1,131 @@
+Day 55:
+
+Reading Judges, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Post mortem Josue, consuluerunt filii Israel Dominum, dicentes : Quis ascendet ante nos contra Chananaeum, et erit dux belli? 
+    2: Dixitque Dominus : Judas ascendet : ecce tradidi terram in manus ejus. 
+    3: Et ait Judas Simeoni fratri suo : Ascende mecum in sortem meam, et pugna contra Chananaeum, ut et ego pergam tecum in sortem tuam. Et abiit cum eo Simeon. 
+    4: Ascenditque Judas, et tradidit Dominus Chananaeum ac Pherezaeum in manus eorum : et percusserunt in Bezec decem millia virorum. 
+    5: Inveneruntque Adonibezec in Bezec, et pugnaverunt contra eum, ac percusserunt Chananaeum et Pherezaeum.
+    6: Fugit autem Adonibezec : quem persecuti comprehenderunt, caesis summitatibus manuum ejus ac pedum. 
+    7: Dixitque Adonibezec : Septuaginta reges amputatis manuum ac pedum summitatibus colligebant sub mensa mea ciborum reliquias : sicut feci, ita reddidit mihi Deus. Adduxeruntque eum in Jerusalem, et ibi mortuus est. 
+    8: Oppugnantes ergo filii Juda Jerusalem, ceperunt eam, et percusserunt in ore gladii, tradentes cunctam incendio civitatem. 
+    9: Et postea descendentes pugnaverunt contra Chananaeum, qui habitabat in montanis, et ad meridiem, et in campestribus. 
+    10: Pergensque Judas contra Chananaeum, qui habitabat in Hebron ( cujus nomen fuit antiquitus Cariath Arbe), percussit Sesai, et Ahiman, et Tholmai :
+    11: atque inde profectus abiit ad habitatores Dabir, cujus nomen vetus erat Cariath Sepher, id est, civitas litterarum. 
+    12: Dixitque Caleb : Qui percusserit Cariath Sepher, et vastaverit eam, dabo ei Axam filiam meam uxorem. 
+    13: Cumque cepisset eam Othoniel filius Cenez frater Caleb minor, dedit ei Axam filiam suam conjugem. 
+    14: Quam pergentem in itinere monuit vir suus ut peteret a patre suo agrum. Quae cum suspirasset sedens in asino, dixit ei Caleb : Quid habes? 
+    15: At illa respondit : Da mihi benedictionem, quia terram arentem dedisti mihi : da et irriguam aquis. Dedit ergo ei Caleb irriguum superius, et irriguum inferius.
+    16: Filii autem Cinaei cognati Moysi ascenderunt de civitate palmarum cum filiis Juda, in desertum sortis ejus, quod est ad meridiem Arad, et habitaverunt cum eo. 
+    17: Abiit autem Judas cum Simeone fratre suo, et percusserunt simul Chananaeum qui habitabat in Sephaath, et interfecerunt eum. Vocatumque est nomen urbis, Horma, id est, anathema. 
+    18: Cepitque Judas Gazam cum finibus suis, et Ascalonem, atque Accaron cum terminis suis. 
+    19: Fuitque Dominus cum Juda, et montana possedit : nec potuit delere habitatores vallis, quia falcatis curribus abundabant. 
+    20: Dederuntque Caleb Hebron, sicut dixerat Moyses, qui delevit ex ea tres filios Enac.
+    21: Jebusaeum autem habitatorem Jerusalem non deleverunt filii Benjamin : habitavitque Jebusaeus cum filiis Benjamin in Jerusalem, usque in praesentem diem. 
+    22: Domus quoque Joseph ascendit in Bethel, fuitque Dominus cum eis. 
+    23: Nam cum obsiderent urbem, quae prius Luza vocabatur, 
+    24: viderunt hominem egredientem de civitate, dixeruntque ad eum : Ostende nobis introitum civitatis, et faciemus tecum misericordiam. 
+    25: Qui cum ostendisset eis, percusserunt urbem in ore gladii : hominem autem illum, et omnem cognationem ejus, dimiserunt.
+    26: Qui dimissus, abiit in terram Hetthim, et aedificavit ibi civitatem, vocavitque eam Luzam : quae ita appellatur usque in praesentem diem. 
+    27: Manasses quoque non delevit Bethsan, et Thanac cum viculis suis, et habitatores Dor, et Jeblaam, et Mageddo cum viculis suis, coepitque Chananaeus habitare cum eis. 
+    28: Postquam autem confortatus est Israel, fecit eos tributarios, et delere noluit. 
+    29: Ephraim etiam non interfecit Chananaeum, qui habitabat in Gazer, sed habitavit cum eo. 
+    30: Zabulon non delevit habitatores Cetron, et Naalol : sed habitavit Chananaeus in medio ejus, factusque est ei tributarius.
+    31: Aser quoque non delevit habitatores Accho, et Sidonis, Ahalab, et Achazib, et Helba, et Aphec, et Rohob : 
+    32: habitavitque in medio Chananaei habitatoris illius terrae, nec interfecit eum. 
+    33: Nephthali quoque non delevit habitatores Bethsames, et Bethanath : et habitavit inter Chananaeum habitatorem terrae, fueruntque ei Bethsamitae et Bethanitae tributarii. 
+    34: Arctavitque Amorrhaeus filios Dan in monte, nec dedit eis locum ut ad planiora descenderent : 
+    35: habitavitque in monte Hares, quod interpretatur testaceo, in Ajalon et Salebim. Et aggravata est manus domus Joseph, factusque est ei tributarius.
+    36: Fuit autem terminus Amorrhaei ab ascensu Scorpionis, petra, et superiora loca.
+
+  Chapter 2.
+
+    1: Ascenditque angelus Domini de Galgalis ad Locum flentium, et ait : Eduxi vos de Aegypto, et introduxi in terram, pro qua juravi patribus vestris : et pollicitus sum ut non facerem irritum pactum meum vobiscum in sempiternum : 
+    2: ita dumtaxat ut non feriretis foedus cum habitatoribus terrae hujus, sed aras eorum subverteretis : et noluistis audire vocem meam : cur hoc fecistis? 
+    3: Quam ob rem nolui delere eos a facie vestra : ut habeatis hostes, et dii eorum sint vobis in ruinam. 
+    4: Cumque loqueretur angelus Domini haec verba ad omnes filios Israel, elevaverunt ipsi vocem suam, et fleverunt. 
+    5: Et vocatum est nomen loci illius, Locus flentium, sive lacrimarum : immolaveruntque ibi hostias Domini.
+    6: Dimisit ergo Josue populum, et abierunt filii Israel unusquisque in possessionem suam, ut obtinerent eam : 
+    7: servieruntque Domino cunctis diebus ejus, et seniorum, qui longo post eum vixerunt tempore, et noverant omnia opera Domini quae fecerat cum Israel. 
+    8: Mortuus est autem Josue filius Nun, famulus Domini, centum et decem annorum, 
+    9: et sepelierunt eum in finibus possessionis suae in Thamnathsare in monte Ephraim, a septentrionali plaga montis Gaas. 
+    10: Omnisque illa generatio congregata est ad patres suos : et surrexerunt alii, qui non noverant Dominum, et opera quae fecerat cum Israel.
+    11: Feceruntque filii Israel malum in conspectu Domini, et servierunt Baalim. 
+    12: Ac dimiserunt Dominum Deum patrum suorum, qui eduxerat eos de terra Aegypti : et secuti sunt deos alienos, deosque populorum, qui habitabant in circuitu eorum, et adoraverunt eos : et ad iracundiam concitaverunt Dominum, 
+    13: dimittentes eum, et servientes Baal et Astaroth. 
+    14: Iratusque Dominus contra Israel, tradidit eos in manus diripientium : qui ceperunt eos, et vendiderunt hostibus, qui habitabant per gyrum : nec potuerunt resistere adversariis suis, 
+    15: sed quocumque pergere voluissent, manus Domini super eos erat, sicut locutus est, et juravit eis, et vehementer afflicti sunt.
+    16: Suscitavitque Dominus judices, qui liberarent eos de vastantium manibus : sed nec eos audire voluerunt, 
+    17: fornicantes cum diis alienis, et adorantes eos. Cito deseruerunt viam, per quam ingressi fuerant patres eorum : et audientes mandata Domini, omnia fecere contraria. 
+    18: Cumque Dominus judices suscitaret, in diebus eorum flectebatur misericordia, et audiebat afflictorum gemitus, et liberabat eos de caede vastantium. 
+    19: Postquam autem mortuus esset judex, revertebantur, et multo faciebant pejora quam fecerant patres eorum, sequentes deos alienos, servientes eis, et adorantes illos. Non dimiserunt adinventiones suas, et viam durissimam, per quam ambulare consueverunt. 
+    20: Iratusque est furor Domini in Israel, et ait : Quia irritum fecit gens ista pactum meum, quod pepigeram cum patribus eorum, et vocem meam audire contempsit :
+    21: et ego non delebo gentes, quas dimisit Josue, et mortuus est : 
+    22: ut in ipsis experiar Israel, utrum custodiant viam Domini, et ambulent in ea, sicut custodierunt patres eorum, an non. 
+    23: Dimisit ergo Dominus omnes nationes has, et cito subvertere noluit, nec tradidit in manus Josue.
+
+  Chapter 3.
+
+    1: Hae sunt gentes quas Dominus dereliquit, ut erudiret in eis Israelem, et omnes qui non noverant bella Chananaeorum : 
+    2: ut postea discerent filii eorum certare cum hostibus, et habere consuetudinem praeliandi : 
+    3: quinque satrapas Philisthinorum, omnemque Chananaeum, et Sidonium, atque Hevaeum, qui habitabat in monte Libano, de monte Baal Hermon usque ad introitum Emath. 
+    4: Dimisitque eos, ut in ipsis experiretur Israelem, utrum audiret mandata Domini quae praeceperat patribus eorum per manum Moysi, an non. 
+    5: Itaque filii Israel habitaverunt in medio Chananaei, et Hethaei, et Amorrhaei, et Pherezaei, et Hevaei, et Jebusaei :
+    6: et duxerunt uxores filias eorum, ipsique filias suas filiis eorum tradiderunt, et servierunt diis eorum. 
+    7: Feceruntque malum in conspectu Domini, et obliti sunt Dei sui, servientes Baalim et Astaroth. 
+    8: Iratusque contra Israel Dominus, tradidit eos in manus Chusan Rasathaim regis Mesopotamiae, servieruntque ei octo annis. 
+    9: Et clamaverunt ad Dominum, qui suscitavit eis salvatorem, et liberavit eos, Othoniel videlicet filium Cenez, fratrem Caleb minorem : 
+    10: fuitque in eo spiritus Domini, et judicavit Israel. Egressusque est ad pugnam, et tradidit Dominus in manus ejus Chusan Rasathaim regem Syriae, et oppressit eum.
+    11: Quievitque terra quadraginta annis, et mortuus est Othoniel filius Cenez. 
+    12: Addiderunt autem filii Israel facere malum in conspectu Domini : qui confortavit adversum eos Eglon regem Moab, quia fecerunt malum in conspectu ejus. 
+    13: Et copulavit ei filios Ammon, et Amalec : abiitque et percussit Israel, atque possedit urbem palmarum. 
+    14: Servieruntque filii Israel Eglon regi Moab decem et octo annis. 
+    15: Et postea clamaverunt ad Dominum, qui suscitavit eis salvatorem vocabulo Aod, filium Gera, filii Jemini, qui utraque manu pro dextera utebatur. Miseruntque filii Israel per illum munera Eglon regi Moab.
+    16: Qui fecit sibi gladium ancipitem, habentem in medio capulum longitudinis palmae manus, et accinctus est eo subter sagum in dextro femore. 
+    17: Obtulitque munera Eglon regi Moab. Erat autem Eglon crassus nimis. 
+    18: Cumque obtulisset ei munera, prosecutus est socios, qui cum eo venerant. 
+    19: Et reversus de Galgalis, ubi erant idola, dixit ad regem : Verbum secretum habeo ad te, o rex. Et ille imperavit silentium : egressisque omnibus qui circa eum erant, 
+    20: ingressus est Aod ad eum : sedebat autem in aestivo coenaculo solus, dixitque : Verbum Dei habeo ad te. Qui statim surrexit de throno.
+    21: Extenditque Aod sinistram manum, et tulit sicam de dextro femore suo, infixitque eam in ventre ejus 
+    22: tam valide, ut capulus sequeretur ferrum in vulnere, ac pinguissimo adipe stringeretur. Nec eduxit gladium, sed ita ut percusserat, reliquit in corpore : statimque per secreta naturae alvi stercora proruperunt. 
+    23: Aod autem clausis diligentissime ostiis coenaculi, et obfirmatis sera, 
+    24: per posticum egressus est. Servique regis ingressi viderunt clausas fores coenaculi, atque dixerunt : Forsitan purgat alvum in aestivo cubiculo. 
+    25: Expectantesque diu donec erubescerent, et videntes quod nullus aperiret, tulerunt clavem : et aperientes invenerunt dominum suum in terra jacentem mortuum.
+    26: Aod autem, dum illi turbarentur, effugit, et pertransiit locum idolorum, unde reversus fuerat. Venitque in Seirath : 
+    27: et statim insonuit buccina in monte Ephraim : descenderuntque cum eo filii Israel, ipso in fronte gradiente. 
+    28: Qui dixit ad eos : Sequimini me : tradidit enim Dominus inimicos nostros Moabitas in manus nostras. Descenderuntque post eum, et occupaverunt vada Jordanis quae transmittunt in Moab : et non dimiserunt transire quemquam : 
+    29: sed percusserunt Moabitas in tempore illo, circiter decem millia, omnes robustos et fortes viros. Nullus eorum evadere potuit. 
+    30: Humiliatusque est Moab in die illo sub manu Israel : et quievit terra octoginta annis.
+    31: Post hunc fuit Samgar filius Anath, qui percussit de Philisthiim sexcentos viros vomere : et ipse quoque defendit Israel.
+
+  Chapter 4.
+
+    1: Addideruntque filii Israel facere malum in conspectu Domini post mortem Aod, 
+    2: et tradidit illos Dominus in manus Jabin regis Chanaan, qui regnavit in Asor : habuitque ducem exercitus sui nomine Sisaram, ipse autem habitabat in Haroseth gentium. 
+    3: Clamaveruntque filii Israel ad Dominum : nongentos enim habebat falcatos currus, et per viginti annos vehementer oppresserat eos. 
+    4: Erat autem Debbora prophetis uxor Lapidoth, quae judicabat populum in illo tempore. 
+    5: Et sedebat sub palma, quae nomine illius vocabatur, inter Rama et Bethel in monte Ephraim : ascendebantque ad eam filii Israel in omne judicium.
+    6: Quae misit et vocavit Barac filium Abinoem de Cedes Nephthali : dixitque ad eum : Praecepit tibi Dominus Deus Israel : Vade, et duc exercitum in montem Thabor, tollesque tecum decem millia pugnatorum de filiis Nephthali, et de filiis Zabulon : 
+    7: ego autem adducam ad te in loco torrentis Cison, Sisaram principem exercitus Jabin, et currus ejus, atque omnem multitudinem, et tradam eos in manu tua. 
+    8: Dixitque ad eam Barac : Si venis mecum, vadam : si nolueris venire mecum, non pergam. 
+    9: Quae dixit ad eum : Ibo quidem tecum, sed in hac vice victoria non reputabitur tibi, quia in manu mulieris tradetur Sisara. Surrexit itaque Debbora, et perrexit cum Barac in Cedes. 
+    10: Qui, accitis Zabulon et Nephthali, ascendit cum decem millibus pugnatorum, habens Debboram in comitatu suo.
+    11: Haber autem Cinaeus recesserat quondam a ceteris Cinaeis fratribus suis filiis Hobab, cognati Moysi : et tetenderat tabernacula usque ad vallem, quae vocatur Sennim, et erat juxta Cedes. 
+    12: Nuntiatumque est Sisarae quod ascendisset Barac filius Abinoem in montem Thabor : 
+    13: et congregavit nongentos falcatos currus, et omnem exercitum de Haroseth gentium ad torrentem Cison. 
+    14: Dixitque Debbora ad Barac : Surge, haec est enim dies, in qua tradidit Dominus Sisaram in manus tuas : en ipse ductor est tuus. Descendit itaque Barac de monte Thabor, et decem millia pugnatorum cum eo. 
+    15: Perterruitque Dominus Sisaram, et omnes currus ejus, universamque multitudinem in ore gladii ad conspectum Barac : in tantum, ut Sisara de curru desiliens, pedibus fugeret,
+    16: et Barac persequeretur fugientes currus, et exercitum usque ad Haroseth gentium, et omnis hostium multitudo usque ad internecionem caderet. 
+    17: Sisara autem fugiens pervenit ad tentorium Jahel uxoris Haber Cinaei. Erat enim pax inter Jabin regem Asor, et domum Haber Cinaei. 
+    18: Egressa igitur Jahel in occursum Sisarae, dixit ad eum : Intra ad me, domine mi : intra, ne timeas. Qui ingressus tabernaculum ejus, et opertus ab ea pallio, 
+    19: dixit ad eam : Da mihi, obsecro, paululum aquae, quia sitio valde. Quae aperuit utrem lactis, et dedit ei bibere, et operuit illum. 
+    20: Dixitque Sisara ad eam : Sta ante ostium tabernaculi : et cum venerit aliquis interrogans te, et dicens : Numquid hic est aliquis? respondebis : Nullus est.
+    21: Tulit itaque Jahel uxor Haber clavum tabernaculi, assumens pariter et malleum : et ingressa abscondite et cum silentio, posuit supra tempus capitis ejus clavum, percussumque malleo defixit in cerebrum usque ad terram : qui soporem morti consocians defecit, et mortuus est. 
+    22: Et ecce Barac sequens Sisaram veniebat : egressaque Jahel in occursum ejus, dixit ei : Veni, et ostendam tibi virum quem quaeris. Qui cum intrasset ad eam, vidit Sisaram jacentem mortuum, et clavum infixum in tempore ejus. 
+    23: Humiliavit ergo Deus in die illo Jabin regem Chanaan coram filiis Israel : 
+    24: qui crescebant quotidie, et forti manu opprimebant Jabin regem Chanaan, donec delerent eum.
+
+End of day 55.

@@ -1,0 +1,178 @@
+Day 76:
+
+Reading 1-Kings, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Et rex David senuerat, habebatque aetatis plurimos dies : cumque operiretur vestibus, non calefiebat. 
+    2: Dixerunt ergo ei servi sui : Quaeramus domino nostro regi adolescentulam virginem, et stet coram rege, et foveat eum, dormiatque in sinu suo, et calefaciat dominum nostrum regem. 
+    3: Quaesierunt igitur adolescentulam speciosam in omnibus finibus Israel, et invenerunt Abisag Sunamitidem, et adduxerunt eam ad regem. 
+    4: Erat autem puella pulchra nimis, dormiebatque cum rege, et ministrabat ei : rex vero non cognovit eam. 
+    5: Adonias autem filius Haggith elevabatur, dicens : Ego regnabo. Fecitque sibi currus et equites, et quinquaginta viros, qui currerent ante eum.
+    6: Nec corripuit eum pater suus aliquando, dicens : Quare hoc fecisti? Erat autem et ipse pulcher valde, secundus natu post Absalom. 
+    7: Et sermo ei cum Joab filio Sarviae, et cum Abiathar sacerdote, qui adjuvabant partes Adoniae. 
+    8: Sadoc vero sacerdos, et Banaias filius Jojadae, et Nathan propheta, et Semei et Rei, et robur exercitus David, non erat cum Adonia. 
+    9: Immolatis ergo Adonias arietibus et vitulis, et universis pinguibus juxta lapidem Zoheleth, qui erat vicinus fonti Rogel, vocavit universos fratres suos filios regis, et omnes viros Juda servos regis. 
+    10: Nathan autem prophetam, et Banaiam, et robustos quosque, et Salomonem fratrem suum non vocavit.
+    11: Dixit itaque Nathan ad Bethsabee matrem Salomonis : Num audisti quod regnaverit Adonias filius Haggith, et dominus noster David hoc ignorat? 
+    12: Nunc ergo veni, accipe consilium a me, et salva animam tuam, filiique tui Salomonis. 
+    13: Vade, et ingredere ad regem David, et dic ei : Nonne tu, domine mi rex, jurasti mihi ancillae tuae, dicens : Salomon filius tuus regnabit post me, et ipse sedebit in solio meo? Quare ergo regnat Adonias? 
+    14: Et adhuc ibi te loquente cum rege, ego veniam post te, et complebo sermones tuos. 
+    15: Ingressa est itaque Bethsabee ad regem in cubiculum : rex autem senuerat nimis, et Abisag Sunamitis ministrabat ei.
+    16: Inclinavit se Bethsabee, et adoravit regem. Ad quam rex : Quid tibi, inquit, vis? 
+    17: Quae respondens, ait : Domine mi, tu jurasti per Dominum Deum tuum ancillae tuae : Salomon filius tuus regnabit post me, et ipse sedebit in solio meo. 
+    18: Et ecce nunc Adonias regnat, te, domine mi rex, ignorante. 
+    19: Mactavit boves, et pinguia quaeque, et arietes plurimos, et vocavit omnes filios regis, Abiathar quoque sacerdotem, et Joab principem militiae : Salomonem autem servum tuum non vocavit. 
+    20: Verumtamen, domine mi rex, in te oculi respiciunt totius Israel, ut indices eis, quis sedere debeat in solio tuo, domine mi rex, post te.
+    21: Eritque, cum dormierit dominus meus rex cum patribus suis, erimus ego et filius meus Salomon peccatores. 
+    22: Adhuc illa loquente cum rege, Nathan propheta venit. 
+    23: Et nuntiaverunt regi, dicentes : Adest Nathan propheta. Cumque introisset in conspectu regis, et adorasset eum pronus in terram, 
+    24: dixit Nathan : Domine mi rex, tu dixisti : Adonias regnet post me, et ipse sedeat super thronum meum? 
+    25: Quia descendit hodie, et immolavit boves, et pinguia, et arietes plurimos, et vocavit universos filios regis et principes exercitus, Abiathar quoque sacerdotem, illisque vescentibus, et bibentibus coram eo, et dicentibus : Vivat rex Adonias :
+    26: me servum tuum, et Sadoc sacerdotem, et Banaiam filium Jojadae, et Salomonem famulum tuum non vocavit. 
+    27: Numquid a domino meo rege exivit hoc verbum, et mihi non indicasti servo tuo quis sessurus esset super thronum domini mei regis post eum? 
+    28: Et respondit rex David, dicens : Vocate ad me Bethsabee. Quae cum fuisset ingressa coram rege, et stetisset ante eum, 
+    29: juravit rex, et ait : Vivit Dominus, qui eruit animam meam de omni angustia, 
+    30: quia sicut juravi tibi per Dominum Deum Israel, dicens : Salomon filius tuus regnabit post me, et ipse sedebit super solium meum pro me : sic faciam hodie.
+    31: Summissoque Bethsabee in terram vultu, adoravit regem, dicens : Vivat dominus meus David in aeternum. 
+    32: Dixit quoque rex David : Vocate mihi Sadoc sacerdotem, et Nathan prophetam, et Banaiam filium Jojadae. Qui cum ingressi fuissent coram rege, 
+    33: dixit ad eos : Tollite vobiscum servos domini vestri, et imponite Salomonem filium meum super mulam meam : et ducite eum in Gihon. 
+    34: Et ungat eum ibi Sadoc sacerdos, et Nathan propheta, in regem super Israel : et canetis buccina, atque dicetis : Vivat rex Salomon. 
+    35: Et ascendetis post eum, et veniet, et sedebit super solium meum, et ipse regnabit pro me : illique praecipiam ut sit dux super Israel, et super Judam.
+    36: Et respondit Banaias filius Jojadae regi, dicens : Amen : sic loquatur Dominus Deus domini mei regis. 
+    37: Quomodo fuit Dominus cum domino meo rege, sic sit cum Salomone, et sublimius faciat solium ejus a solio domini mei regis David. 
+    38: Descendit ergo Sadoc sacerdos, et Nathan propheta, et Banaias filius Jojadae, et Cerethi, et Phelethi : et imposuerunt Salomonem super mulam regis David, et adduxerunt eum in Gihon. 
+    39: Sumpsitque Sadoc sacerdos cornu olei de tabernaculo, et unxit Salomonem : et cecinerunt buccina, et dixit omnis populus : Vivat rex Salomon. 
+    40: Et ascendit universa multitudo post eum, et populus canentium tibiis, et laetantium gaudio magno, et insonuit terra a clamore eorum.
+    41: Audivit autem Adonias, et omnes qui invitati fuerant ab eo, jamque convivium finitum erat : sed et Joab, audita voce tubae, ait : Quid sibi vult clamor civitatis tumultuantis? 
+    42: Adhuc illo loquente, Jonathas filius Abiathar sacerdotis venit : cui dixit Adonias : Ingredere, quia vir fortis es, et bona nuntians. 
+    43: Responditque Jonathas Adoniae : Nequaquam : dominus enim noster rex David regem constituit Salomonem : 
+    44: misitque cum eo Sadoc sacerdotem, et Nathan prophetam, et Banaiam filium Jojadae, et Cerethi, et Phelethi, et imposuerunt eum super mulam regis. 
+    45: Unxeruntque eum Sadoc sacerdos, et Nathan propheta regem in Gihon : et ascenderunt inde laetantes, et insonuit civitas : haec est vox, quam audistis.
+    46: Sed et Salomon sedet super solium regni. 
+    47: Et ingressi servi regis benedixerunt domino nostro regi David, dicentes : Amplificet Deus nomen Salomonis super nomen tuum, et magnificet thronus ejus super thronum tuum. Et adoravit rex in lectulo suo : 
+    48: et locutus est : Benedictus Dominus Deus Israel, qui dedit hodie sedentem in solio meo, videntibus oculis meis. 
+    49: Territi sunt ergo, et surrexerunt omnes qui invitati fuerant ab Adonia, et ivit unusquisque in viam suam. 
+    50: Adonias autem timens Salomonem, surrexit, et abiit, tenuitque cornu altaris.
+    51: Et nuntiaverunt Salomoni, dicentes : Ecce Adonias timens regem Salomonem, tenuit cornu altaris, dicens : Juret mihi rex Salomon hodie, quod non interficiat servum suum gladio. 
+    52: Dixitque Salomon : Si fuerit vir bonus, non cadet ne unus quidem capillus ejus in terram : sin autem malum inventum fuerit in eo, morietur. 
+    53: Misit ergo rex Salomon, et eduxit eum ab altari : et ingressus adoravit regem Salomonem : dixitque ei Salomon : Vade in domum tuam.
+
+  Chapter 2.
+
+    1: Appropinquaverunt autem dies David ut moreretur, praecepitque Salomoni filio suo, dicens : 
+    2: Ego ingredior viam universae terrae : confortare, et esto vir : 
+    3: et observa custodias Domini Dei tui, ut ambules in viis ejus, ut custodias caeremonias ejus, et praecepta ejus, et judicia, et testimonia, sicut scriptum est in lege Moysi : ut intelligas universa quae facis, et quocumque te verteris : 
+    4: ut confirmet Dominus sermones suos, quos locutus est de me, dicens : Si custodierint filii tui vias suas, et ambulaverint coram me in veritate, in omni corde suo, et in omni anima sua, non auferetur tibi vir de solio Israel. 
+    5: Tu quoque nosti quae fecerit mihi Joab filius Sarviae, quae fecerit duobus principibus exercitus Israel, Abner filio Ner, et Amasae filio Jether : quos occidit, et effudit sanguinem belli in pace, et posuit cruorem praelii in balteo suo, qui erat circa lumbos ejus, et in calceamento suo, quod erat in pedibus ejus.
+    6: Facies ergo juxta sapientiam tuam, et non deduces canitiem ejus pacifice ad inferos. 
+    7: Sed et filiis Berzellai Galaaditis reddes gratiam, eruntque comedentes in mensa tua : occurrerunt enim mihi quando fugiebam a facie Absalom fratris tui. 
+    8: Habes quoque apud te Semei filium Gera filii Jemini de Bahurim, qui maledixit mihi maledictione pessima, quando ibam ad castra : sed quia descendit mihi in occursum cum transirem Jordanem, et juravi ei per Dominum, dicens : Non te interficiam gladio : 
+    9: tu noli pati eum esse innoxium. Vir autem sapiens es, ut scias quae facies ei, deducesque canos ejus cum sanguine ad inferos. 
+    10: Dormivit igitur David cum patribus suis, et sepultus est in civitate David.
+    11: Dies autem, quibus regnavit David super Israel, quadraginta anni sunt : in Hebron regnavit septem annis : in Jerusalem, triginta tribus. 
+    12: Salomon autem sedit super thronum David patris sui, et firmatum est regnum ejus nimis. 
+    13: Et ingressus est Adonias filius Haggith ad Bethsabee matrem Salomonis. Quae dixit ei : Pacificusne est ingressus tuus? Qui respondit : Pacificus. 
+    14: Addiditque : Sermo mihi est ad te. Cui ait : Loquere. Et ille : 
+    15: Tu, inquit, nosti, quia meum erat regnum, et me praeposuerat omnis Israel sibi in regem : sed translatum est regnum, et factum est fratris mei : a Domino enim constitutum est ei.
+    16: Nunc ergo petitionem unam precor a te : ne confundas faciem meam. Quae dixit ad eum : Loquere. 
+    17: Et ille ait : Precor ut dicas Salomoni regi ( neque enim negare tibi quidquam potest) ut det mihi Abisag Sunamitidem uxorem. 
+    18: Et ait Bethsabee : Bene, ego loquar pro te regi. 
+    19: Venit ergo Bethsabee ad regem Salomonem, ut loqueretur ei pro Adonia : et surrexit rex in occursum ejus, adoravitque eam, et sedit super thronum suum : positusque est thronus matri regis, quae sedit ad dexteram ejus. 
+    20: Dixitque ei : Petitionem unam parvulam ego deprecor a te, ne confundas faciem meam. Et dixit ei rex : Pete, mater mea : neque enim fas est ut avertam faciem tuam.
+    21: Quae ait : Detur Abisag Sunamitis Adoniae fratri tuo uxor. 
+    22: Responditque rex Salomon, et dixit matri suae : Quare postulas Abisag Sunamitidem Adoniae? Postula ei et regnum : ipse est enim frater meus major me, et habet Abiathar sacerdotem, et Joab filium Sarviae. 
+    23: Juravit itaque rex Salomon per Dominum, dicens : Haec faciat mihi Deus, et haec addat, quia contra animam suam locutus est Adonias verbum hoc. 
+    24: Et nunc vivit Dominus, qui firmavit me, et collocavit me super solium David patris mei, et qui fecit mihi domum, sicut locutus est, quia hodie occidetur Adonias. 
+    25: Misitque rex Salomon per manum Banaiae filii Jojadae, qui interfecit eum, et mortuus est.
+    26: Abiathar quoque sacerdoti dixit rex : Vade in Anathoth ad agrum tuum, equidem vir mortis es : sed hodie te non interficiam, quia portasti arcam Domini Dei coram David patre meo, et sustinuisti laborem in omnibus in quibus laboravit pater meus. 
+    27: Ejecit ergo Salomon Abiathar, ut non esset sacerdos Domini, ut impleretur sermo Domini, quem locutus est super domum Heli in Silo. 
+    28: Venit autem nuntius ad Joab, quod Joab declinasset post Adoniam, et post Salomonem non declinasset : fugit ergo Joab in tabernaculum Domini, et apprehendit cornu altaris. 
+    29: Nuntiatumque est regi Salomoni quod fugisset Joab in tabernaculum Domini, et esset juxta altare : misitque Salomon Banaiam, filium Jojadae, dicens : Vade, interfice eum. 
+    30: Et venit Banaias ad tabernaculum Domini, et dixit ei : Haec dicit rex : Egredere. Qui ait : Non egrediar, sed hic moriar. Renuntiavit Banaias regi sermonem, dicens : Haec locutus est Joab, et haec respondit mihi.
+    31: Dixitque ei rex : Fac sicut locutus est : et interfice eum, et sepeli, et amovebis sanguinem innocentem, qui effusus est a Joab, a me, et a domo patris mei. 
+    32: Et reddet Dominus sanguinem ejus super caput ejus, quia interfecit duos viros justos, melioresque se : et occidit eos gladio, patre meo David ignorante, Abner filium Ner principem militiae Israel, et Amasam filium Jether principem exercitus Juda : 
+    33: et revertetur sanguis illorum in caput Joab, et in caput seminis ejus in sempiternum. David autem et semini ejus, et domui, et throno illius, sit pax usque in aeternum a Domino. 
+    34: Ascendit itaque Banaias filius Jojadae, et aggressus eum interfecit : sepultusque est in domo sua in deserto. 
+    35: Et constituit rex Banaiam filium Jojadae pro eo super exercitum, et Sadoc sacerdotem posuit pro Abiathar.
+    36: Misit quoque rex, et vocavit Semei, dixitque ei : Aedifica tibi domum in Jerusalem, et habita ibi : et non egredieris inde huc atque illuc. 
+    37: Quacumque autem die egressus fueris, et transieris torrentem Cedron, scito te interficiendum : sanguis tuus erit super caput tuum. 
+    38: Dixitque Semei regi : Bonus sermo : sicut locutus est dominus meus rex, sic faciet servus tuus. Habitavit itaque in Semei in Jerusalem diebus multis. 
+    39: Factum est autem post annos tres ut fugerent servi Semei ad Achis filium Maacha regem Geth : nuntiatumque est Semei quod servi ejus issent in Geth. 
+    40: Et surrexit Semei, et stravit asinum suum : ivitque ad Achis in Geth ad requirendum servos suos, et adduxit eos de Geth.
+    41: Nuntiatum est autem Salomoni quod isset Semei in Geth de Jerusalem, et rediisset. 
+    42: Et mittens vocavit eum, dixitque illi : Nonne testificatus sum tibi per Dominum, et praedixi tibi : Quacumque die egressus, ieris huc et illuc, scito te esse moriturum : et respondisti mihi : Bonus sermo, quem audivi? 
+    43: Quare ergo non custodisti jusjurandum Domini, et praeceptum quod praeceperam tibi? 
+    44: Dixitque rex ad Semei : Tu nosti omne malum cujus tibi conscium est cor tuum, quod fecisti David patri meo : reddidit Dominus malitiam tuam in caput tuum. 
+    45: Et rex Salomon benedictus, et thronus David erit stabilis coram Domino usque in sempiternum.
+    46: Jussit itaque rex Banaiae filio Jojadae, qui egressus, percussit eum, et mortuus est.
+
+  Chapter 3.
+
+    1: Confirmatum est igitur regnum in manu Salomonis, et affinitate conjunctus est Pharaoni regi Aegypti : accepit namque filiam ejus, et adduxit in civitatem David, donec compleret aedificans domum suam, et domum Domini, et murum Jerusalem per circuitum. 
+    2: Attamen populus immolabat in excelsis : non enim aedificatum erat templum nomini Domini usque in diem illum. 
+    3: Dilexit autem Salomon Dominum, ambulans in praeceptis David patris sui, excepto quod in excelsis immolabat, et accendebat thymiama. 
+    4: Abiit itaque in Gabaon, ut immolaret ibi : illud quippe erat excelsum maximum : mille hostias in holocaustum obtulit Salomon super altare illud in Gabaon. 
+    5: Apparuit autem Dominus Salomoni per somnium nocte, dicens : Postula quod vis ut dem tibi.
+    6: Et ait Salomon : Tu fecisti cum servo tuo David patre meo misericordiam magnam, sicut ambulavit in conspectu tuo in veritate, et justitia, et recto corde tecum : custodisti ei misericordiam tuam grandem, et dedisti ei filium sedentem super thronum ejus, sicut est hodie. 
+    7: Et nunc Domine Deus, tu regnare fecisti servum tuum pro David patre meo : ego autem sum puer parvulus, et ignorans egressum et introitum meum. 
+    8: Et servus tuus in medio est populi, quem elegisti, populi infiniti, qui numerari et supputari non potest prae multitudine. 
+    9: Dabis ergo servo tuo cor docile, ut populum tuum judicare possit, et discernere inter bonum et malum. Quis enim poterit judicare populum istum, populum tuum hunc multum? 
+    10: Placuit ergo sermo coram Domino, quod Salomon postulasset hujuscemodi rem.
+    11: Et dixit Dominus Salomoni : Quia postulasti verbum hoc, et non petisti tibi dies multos, nec divitias, aut animas inimicorum tuorum, sed postulasti tibi sapientiam ad discernendum judicium : 
+    12: ecce feci tibi secundum sermones tuos, et dedi tibi cor sapiens et intelligens, in tantum ut nullus ante te similis fuerit, nec post te surrecturus sit. 
+    13: Sed et haec, quae non postulasti, dedi tibi : divitias scilicet, et gloriam, ut nemo fuerit similis tui in regibus cunctis retro diebus. 
+    14: Si autem ambulaveris in viis meis, et custodieris praecepta mea, et mandata mea, sicut ambulavit pater tuus, longos faciam dies tuos. 
+    15: Igitur evigilavit Salomon, et intellexit quod esset somnium : cumque venisset Jerusalem, stetit coram arca foederis Domini, et obtulit holocausta, et fecit victimas pacificas, et grande convivium universis famulis suis.
+    16: Tunc venerunt duae mulieres meretrices ad regem, steteruntque coram eo, 
+    17: quarum una ait : Obsecro, mi domine : ego et mulier haec habitabamus in domo una, et peperi apud eam in cubiculo. 
+    18: Tertia autem die postquam ego peperi, peperit et haec : et eramus simul, nullusque alius nobiscum in domo, exceptis nobis duabus. 
+    19: Mortuus est autem filius mulieris hujus nocte. Dormiens quippe oppressit eum. 
+    20: Et consurgens intempestae noctis silentio, tulit filium meum de latere meo, ancillae tuae dormientis, et collocavit in sinu suo : suum autem filium, qui erat mortuus, posuit in sinu meo.
+    21: Cumque surrexissem mane ut darem lac filio meo, apparuit mortuus : quem diligentius intuens clara luce, deprehendi non esse meum quem genueram. 
+    22: Responditque altera mulier : Non est ita ut dicis, sed filius tuus mortuus est, meum autem vivit. E contrario illa dicebat : Mentiris : filius quippe meus vivit, et filius tuus mortuus est. Atque in hunc modum contendebant coram rege. 
+    23: Tunc rex ait : Haec dicit : Filius meus vivit, et filius tuus mortuus est : et ista respondit : Non, sed filius tuus mortuus est, meus autem vivit. 
+    24: Dixit ergo rex : Afferte mihi gladium. Cumque attulissent gladium coram rege, 
+    25: Dividite, inquit, infantem vivum in duas partes, et date dimidiam partem uni, et dimidiam partem alteri.
+    26: Dixit autem mulier, cujus filius erat vivus, ad regem ( commota sunt quippe viscera ejus super filio suo) : Obsecro, domine, date illi infantem vivum, et nolite interficere eum. E contrario illa dicebat : Nec mihi, nec tibi sit, sed dividatur. 
+    27: Respondit rex, et ait : Date huic infantem vivum, et non occidatur : haec est enim mater ejus. 
+    28: Audivit itaque omnis Israel judicium quod judicasset rex, et timuerunt regem, videntes sapientiam Dei esse in eo ad faciendum judicium.
+
+  Chapter 4.
+
+    1: Erat autem rex Salomon regnans super omnem Israel : 
+    2: et hi principes quos habebat : Azarias filius Sadoc sacerdotis : 
+    3: Elihoreph et Ahia filii Sisa scribae : Josaphat filius Ahilud a commentariis : 
+    4: Banaias filius Jojadae super exercitum : Sadoc autem et Abiathar sacerdotes. 
+    5: Azarias filius Nathan super eos qui assistebant regi : Zabud filius Nathan sacerdos, amicus regis :
+    6: et Ahisar praepositus domus : et Adoniram filius Abda super tributa. 
+    7: Habebat autem Salomon duodecim praefectos super omnem Israel, qui praebebant annonam regi et domui ejus : per singulos enim menses in anno, singuli necessaria ministrabant. 
+    8: Et haec nomina eorum : Benhur, in monte Ephraim. 
+    9: Bendecar, in Macces, et in Salebim, et in Bethsames, et in Elon, et in Bathanan. 
+    10: Benhesed in Aruboth; ipsius erat Socho, et omnis terra Epher.
+    11: Benabinadab, cujus omnis Nephath Dor, Tapheth filiam Salomonis habebat uxorem. 
+    12: Bana filius Ahilud regebat Thanac et Mageddo, et universam Bethsan, quae est juxta Sarthana subter Jezrahel, a Bethsan usque Abelmehula e regione Jecmaan. 
+    13: Bengaber in Ramoth Galaad : habebat Avothiair filii Manasse in Galaad, ipse praeerat in omni regione Argob, quae est in Basan, sexaginta civitatibus magnis atque muratis, quae habebant seras aereas. 
+    14: Abinadab filius Addo praeerat in Manaim. 
+    15: Achimaas in Nephthali : sed et ipse habebat Basemath filiam Salomonis in conjugio.
+    16: Baana filius Husi, in Aser, et in Baloth. 
+    17: Josaphat filius Pharue, in Issachar. 
+    18: Semei filius Ela, in Benjamin. 
+    19: Gaber filius Uri, in terra Galaad, in terra Sehon regis Amorrhaei et Og regis Basan, super omnia quae erant in illa terra. 
+    20: Juda et Israel innumerabiles, sicut arena maris in multitudine : comedentes, et bibentes, atque laetantes.
+    21: Salomon autem erat in ditione sua, habens omnia regna a flumine terrae Philisthiim usque ad terminum Aegypti : offerentium sibi munera, et servientium ei cunctis diebus vitae ejus. 
+    22: Erat autem cibus Salomonis per dies singulos triginta cori similae, et sexaginta cori farinae, 
+    23: decem boves pingues, et viginti boves pascuales, et centum arietes, excepta venatione cervorum, caprearum, atque bubalorum, et avium altilium. 
+    24: Ipse enim obtinebat omnem regionem quae erat trans flumen, a Taphsa usque ad Gazan, et cunctos reges illarum regionum : et habebat pacem ex omni parte in circuitu. 
+    25: Habitabatque Juda et Israel absque timore ullo, unusquisque sub vite sua et sub ficu sua, a Dan usque Bersabee cunctis diebus Salomonis.
+    26: Et habebat Salomon quadraginta millia praesepia equorum currilium, et duodecim millia equestrium. 
+    27: Nutriebantque eos supradicti regis praefecti : sed et necessaria mensae regis Salomonis cum ingenti cura praebebant in tempore suo. 
+    28: Hordeum quoque, et paleas equorum, et jumentorum, deferebant in locum ubi erat rex, juxta constitutum sibi. 
+    29: Dedit quoque Deus sapientiam Salomoni et prudentiam multam nimis, et latitudinem cordis quasi arenam quae est in littore maris. 
+    30: Et praecedebat sapientia Salomonis sapientiam omnium Orientalium et Aegyptiorum,
+    31: et erat sapientior cunctis hominibus : sapientior Ethan Ezrahita, et Heman, et Chalcol, et Dorda filiis Mahol : et erat nominatus in universis gentibus per circuitum. 
+    32: Locutus est quoque Salomon tria millia parabola : et fuerunt carmina ejus quinque et mille. 
+    33: Et disputavit super lignis a cedro quae est in Libano, usque ad hyssopum quae egreditur de pariete : et disseruit de jumentis, et volucribus, et reptilibus, et piscibus. 
+    34: Et veniebant de cunctis populis ad audiendam sapientiam Salomonis, et ab universis regibus terrae, qui audiebant sapientiam ejus.
+
+End of day 76.

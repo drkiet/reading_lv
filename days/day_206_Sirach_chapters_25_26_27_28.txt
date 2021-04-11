@@ -1,0 +1,144 @@
+Day 206:
+
+Reading Sirach, chapters ['25', '26', '27', '28']:
+
+  Chapter 25.
+
+    1: In tribus placitum est spiritui meo, quae sunt probata coram Deo et hominibus : 
+    2: concordia fratrum, et amor proximorum, et vir et mulier bene sibi consentientes. 
+    3: Tres species odivit anima mea, et aggravor valde animae illorum : 
+    4: pauperem superbum, divitem mendacem, senem fatuum et insensatum. 
+    5: Quae in juventute tua non congregasti, quomodo in senectute tua invenies?
+    6: Quam speciosum canitiei judicium, et presbyteris cognoscere consilium! 
+    7: Quam speciosa veteranis sapientia, et gloriosus intellectus et consilium! 
+    8: Corona senum multa peritia, et gloria illorum timor Dei. 
+    9: Novem insuspicabilia cordis magnificavi : et decimum dicam in lingua hominibus : 
+    10: homo qui jucundatur in filiis, vivens et videns subversionem inimicorum suorum.
+    11: Beatus qui habitat cum muliere sensata, et qui lingua sua non est lapsus, et qui non servivit indignis se. 
+    12: Beatus qui invenit amicum verum, et qui enarrat justitiam auri audienti. 
+    13: Quam magnus qui invenit sapientiam et scientiam! sed non est super timentem Dominum. 
+    14: Timor Dei super omnia se superposuit. 
+    15: Beatus homo cui donatum est habere timorem Dei : qui tenet illum, cui assimilabitur?
+    16: Timor Dei initium dilectionis ejus : fidei autem initium agglutinandum est ei. 
+    17: Omnis plaga tristitia cordis est, et omnis malitia nequitia mulieris. 
+    18: Et omnem plagam, et non plagam videbit cordis : 
+    19: et omnem nequitiam, et non nequitiam mulieris : 
+    20: et omnem obductum, et non obductum odientium :
+    21: et omnem vindictam, et non vindictam inimicorum. 
+    22: Non est caput nequius super caput colubri, 
+    23: et non est ira super iram mulieris. Commorari leoni et draconi placebit, quam habitare cum muliere nequam. 
+    24: Nequitia mulieris immutat faciem ejus : et obcaecat vultum suum tamquam ursus, et quasi saccum ostendit. In medio proximorum ejus 
+    25: ingemuit vir ejus, et audiens suspiravit modicum.
+    26: Brevis omnis malitia super malitiam mulieris : sors peccatorum cadat super illam. 
+    27: Sicut ascensus arenosus in pedibus veterani, sic mulier linguata homini quieto. 
+    28: Ne respicias in mulieris speciem, et non concupiscas mulierem in specie. 
+    29: Mulieris ira, et irreverentia, et confusio magna. 
+    30: Mulier si primatum habeat, contraria est viro suo.
+    31: Cor humile, et facies tristis, et plaga cordis, mulier nequam. 
+    32: Manus debiles et genua dissoluta, mulier quae non beatificat virum suum. 
+    33: A muliere initium factum est peccati, et per illam omnes morimur. 
+    34: Non des aquae tuae exitum, nec modicum : nec mulieri nequam veniam prodeundi. 
+    35: Si non ambulaverit ad manum tuam, confundet te in conspectu inimicorum.
+    36: A carnibus tuis abscinde illam, ne semper te abutatur.
+
+  Chapter 26.
+
+    1: Mulieris bonae beatus vir : numerus enim annorum illius duplex. 
+    2: Mulier fortis oblectat virum suum, et annos vitae illius in pace implebit. 
+    3: Pars bona mulier bona, in parte timentium Deum dabitur viro pro factis bonis : 
+    4: divitis autem et pauperis cor bonum, in omni tempore vultus illorum hilaris. 
+    5: A tribus timuit cor meum, et in quarto facies mea metuit :
+    6: delaturam civitatis, et collectionem populi : 
+    7: columniam mendacem super mortem omnia gravia : 
+    8: dolor cordis et luctus, mulier zelotypa. 
+    9: In muliere zelotypa flagellum linguae, omnibus communicans. 
+    10: Sicut boum jugum quod movetur, ita et mulier nequam : qui tenet illam quasi qui apprehendit scorpionem.
+    11: Mulier ebriosa ira magna, et contumelia : et turpitudo illius non tegetur. 
+    12: Fornicatio mulieris in extollentia oculorum, et in palpebris illius agnoscetur. 
+    13: In filia non avertente se, firma custodiam, ne inventa occasione utatur se. 
+    14: Ab omni irreverentia oculorum ejus cave, et ne mireris si te neglexerit. 
+    15: Sicut viator sitiens ad fontem os aperiet, et ab omni aqua proxima bibet, et contra omnem palum sedebit, et contra omnem sagittam aperiet pharetram donec deficiat.
+    16: Gratia mulieris sedulae delectabit virum suum, et ossa illius impinguabit. 
+    17: Disciplina illius datum Dei est. 
+    18: Mulier sensata et tacita, non est immutatio eruditae animae. 
+    19: Gratia super gratiam mulier sancta et pudorata. 
+    20: Omnis autem ponderatio non est digna continentis animae.
+    21: Sicut sol oriens mundo in altissimis Dei, sic mulieris bonae species in ornamentum domus ejus. 
+    22: Lucerna splendens super candelabrum sanctum, et species faciei super aetatem stabilem. 
+    23: Columnae aureae super bases argenteas, et pedes firmi super plantas stabilis mulieris. 
+    24: Fundamenta aeterna supra petram solidam, et mandata Dei in corde mulieris sanctae. 
+    25: In duobus contristatum est cor meum, et in tertio iracundia mihi advenit :
+    26: vir bellator deficiens per inopiam; et vir sensatus contemptus; 
+    27: et qui transgreditur a justitia ad peccatum : Deus paravit eum ad rhomphaeam. 
+    28: Duae species difficiles et periculosae mihi apparuerunt : difficile exuitur negotians a negligentia, et non justificabitur caupo a peccatis labiorum.
+
+  Chapter 27.
+
+    1: Propter inopiam multi deliquerunt : et qui quaerit locupletari avertit oculum suum. 
+    2: Sicut in medio compaginis lapidum palus figitur, sic et inter medium venditionis et emptionis angustiabitur peccatum : 
+    3: conteretur cum delinquente delictum. 
+    4: Si non in timore Domini tenueris te instanter, cito subvertetur domus tua. 
+    5: Sicut in percussura cribri remanebit pulvis, sic aporia hominis in cogitatu illius.
+    6: Vasa figuli probat fornax, et homines justos tentatio tribulationis. 
+    7: Sicut rusticatio de ligno ostendit fructum illius, sic verbum ex cogitatu cordis hominis. 
+    8: Ante sermonem non laudes virum : haec enim tentatio est hominum. 
+    9: Si sequaris justitiam, apprehendes illam, et indues quasi poderem honoris : et inhabitabis cum ea, et proteget te in sempiternum, et in die agnitionis invenies firmamentum. 
+    10: Volatilia ad sibi similia conveniunt : et veritas ad eos qui operantur illam revertetur.
+    11: Leo venationi insidiatur semper : sic peccata operantibus iniquitates. 
+    12: Homo sanctus in sapientia manet sicut sol : nam stultus sicut luna mutatur. 
+    13: In medio insensatorum serva verbum tempori : in medio autem cogitantium assiduus esto. 
+    14: Narratio peccantium odiosa, et risus illorum in deliciis peccati. 
+    15: Loquela multum jurans horripilationem capiti statuet, et irreverentia ipsius obturatio aurium.
+    16: Effusio sanguinis in rixa superborum, et maledictio illorum auditus gravis. 
+    17: Qui denudat arcana amici fidem perdit, et non inveniet amicum ad animum suum. 
+    18: Dilige proximum, et conjungere fide cum illo. 
+    19: Quod si denudaveris absconsa illius, non persequeris post eum. 
+    20: Sicut enim homo qui perdit amicum suum, sic et qui perdit amicitiam proximi sui.
+    21: Et sicut qui dimittit avem de manu sua, sic dereliquisti proximum tuum, et non eum capies. 
+    22: Non illum sequaris, quoniam longe abest : effugit enim quasi caprea de laqueo, quoniam vulnerata est anima ejus : 
+    23: ultra eum non poteris colligare. Et maledicti est concordatio : 
+    24: denudare autem amici mysteria, desperatio est animae infelicis. 
+    25: Annuens oculo fabricat iniqua, et nemo eum abjiciet.
+    26: In conspectu oculorum tuorum condulcabit os suum, et super sermones tuos admirabitur : novissime autem pervertet os suum, et in verbis tuis dabit scandalum. 
+    27: Multa odivi, et non coaequavi ei, et Dominus odiet illum. 
+    28: Qui in altum mittit lapidem, super caput ejus cadet : et plaga dolosa dolosi dividet vulnera. 
+    29: Et qui foveam fodit incidet in eam : et qui statuit lapidem proximo offendet in eo : et qui laqueum alii ponit, peribit in illo. 
+    30: Facienti nequissimum consilium, super ipsum devolvetur, et non agnoscet unde adveniat illi.
+    31: Illusio et improperium superborum, et vindicta sicut leo insidiabitur illi. 
+    32: Laqueo peribunt qui oblectantur casu justorum, dolor autem consumet illos antequam moriantur. 
+    33: Ira et furor utraque execrabilia sunt, et vir peccator continens erit illorum.
+
+  Chapter 28.
+
+    1: Qui vindicari vult, a Domino inveniet vindictam, et peccata illius servans servabit. 
+    2: Relinque proximo tuo nocenti te, et tunc deprecanti tibi peccata solventur. 
+    3: Homo homini reservat iram, et a Deo quaerit medelam : 
+    4: in hominem similem sibi non habet misericordiam, et de peccatis suis deprecatur. 
+    5: Ipse cum caro sit reservat iram, et propitiationem petit a Deo : quis exorabit pro delictis illius?
+    6: Memento novissimorum, et desine inimicari : 
+    7: tabitudo enim et mors imminent in mandatis ejus. 
+    8: Memorare timorem Dei, et non irascaris proximo. 
+    9: Memorare testamentum Altissimi, et despice ignorantiam proximi. 
+    10: Abstine te a lite, et minues peccata.
+    11: Homo enim iracundus incendit litem, et vir peccator turbabit amicos, et in medio pacem habentium immittet inimicitiam. 
+    12: Secundum enim ligna silvae sic ignis exardescit : et secundum virtutem hominis sic iracundia illius erit, et secundum substantiam suam exaltabit iram suam. 
+    13: Certamen festinatum incendit ignem, et lis festinans effundit sanguinem : et lingua testificans adducit mortem. 
+    14: Si sufflaveris in scintillam, quasi ignis exardebit : et si exspueris super illam, extinguetur : utraque ex ore proficiscuntur. 
+    15: Susurro et bilinguis maledictus, multos enim turbabit pacem habentes.
+    16: Lingua tertia multos commovit, et dispersit illos de gente in gentem. 
+    17: Civitates muratas divitum destruxit, et domus magnatorum effodit. 
+    18: Virtutes populorum concidit, et gentes fortes dissolvit. 
+    19: Lingua tertia mulieres viratas ejecit, et privavit illas laboribus suis. 
+    20: Qui respicit illam non habebit requiem, nec habebit amicum in quo requiescat.
+    21: Flagelli plaga livorem facit : plaga autem linguae comminuet ossa. 
+    22: Multi ceciderunt in ore gladii : sed non sic quasi qui interierunt per linguam suam. 
+    23: Beatus qui tectus est a lingua nequam, qui in iracundiam illius non transivit, et qui non attraxit jugum illius, et in vinculis ejus non est ligatus : 
+    24: jugum enim illius jugum ferreum est, et vinculum illius vinculum aereum est; 
+    25: mors illius mors nequissima : et utilis potius infernus quam illa.
+    26: Perseverantia illius non permanebit, sed obtinebit vias injustorum, et in flamma sua non comburet justos. 
+    27: Qui relinquunt Deum incident in illam, et exardebit in illis, et non extinguetur, et immittetur in illos quasi leo, et quasi pardus laedet illos. 
+    28: Sepi aures tuas spinis : linguam nequam noli audire : et ori tuo facito ostia et seras. 
+    29: Aurum tuum et argentum tuum confla, et verbis tuis facito stateram, et frenos ori tuo rectos : 
+    30: et attende ne forte labaris in lingua, et cadas in conspectu inimicorum insidiantium tibi, et sit casus tuus insanabilis in mortem.
+
+End of day 206.

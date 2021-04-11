@@ -1,0 +1,131 @@
+Day 82:
+
+Reading 2-Kings, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Praevaricatus est autem Moab in Israel, postquam mortuus est Achab. 
+    2: Ceciditque Ochozias per cancellos coenaculi sui, quod habebat in Samaria, et aegrotavit : misitque nuntios, dicens ad eos : Ite, consulite Beelzebub deum Accaron, utrum vivere queam de infirmitate mea hac. 
+    3: Angelus autem Domini locutus est ad Eliam Thesbiten, dicens : Surge, et ascende in occursum nuntiorum regis Samariae, et dices ad eos : Numquid non est Deus in Israel, ut eatis ad consulendum Beelzebub deum Accaron? 
+    4: Quam ob rem haec dicit Dominus : De lectulo, super quem ascendisti, non descendes, sed morte morieris. Et abiit Elias. 
+    5: Reversique sunt nuntii ad Ochoziam. Qui dixit eis : Quare reversi estis?
+    6: At illi responderunt ei : Vir occurrit nobis, et dixit ad nos : Ite, et revertimini ad regem, qui misit vos, et dicetis ei : Haec dicit Dominus : Numquid, quia non erat Deus in Israel, mittis ut consulatur Beelzebub deus Accaron? Idcirco de lectulo, super quem ascendisti, non descendes, sed morte morieris. 
+    7: Qui dixit eis : Cujus figurae et habitus est vir ille, qui occurrit vobis, et locutus est verba haec? 
+    8: At illi dixerunt : Vir pilosus, et zona pellicea accinctus renibus. Qui ait : Elias Thesbites est. 
+    9: Misitque ad eum quinquagenarium principem, et quinquaginta qui erant sub eo. Qui ascendit ad eum : sedentique in vertice montis, ait : Homo Dei, rex praecepit ut descendas. 
+    10: Respondensque Elias, dixit quinquagenario : Si homo Dei sum, descendat ignis de caelo, et devoret te, et quinquaginta tuos. Descendit itaque ignis de caelo, et devoravit eum, et quinquaginta qui erant cum eo.
+    11: Rursumque misit ad eum principem quinquagenarium alterum, et quinquaginta cum eo. Qui locutus est illi : Homo Dei, haec dicit rex : Festina, descende. 
+    12: Respondens Elias, ait : Si homo Dei ego sum, descendat ignis de caelo, et devoret te, et quinquaginta tuos. Descendit ergo ignis de caelo, et devoravit illum, et quinquaginta ejus. 
+    13: Iterum misit principem quinquagenarium tertium, et quinquaginta qui erant cum eo. Qui cum venisset, curvavit genua contra Eliam, et precatus est eum, et ait : Homo Dei, noli despicere animam meam, et animas servorum tuorum qui mecum sunt. 
+    14: Ecce descendit ignis de caelo, et devoravit duos principes quinquagenarios primos, et quinquagenos qui cum eis erant : sed nunc obsecro ut miserearis animae meae. 
+    15: Locutus est autem angelus Domini ad Eliam, dicens : Descende cum eo, ne timeas. Surrexit igitur, et descendit cum eo ad regem,
+    16: et locutus est ei : Haec dicit Dominus : Quia misisti nuntios ad consulendum Beelzebub deum Accaron, quasi non esset Deus in Israel, a quo posses interrogare sermonem, ideo de lectulo super quem ascendisti, non descendes, sed morte morieris. 
+    17: Mortuus est ergo juxta sermonem Domini, quem locutus est Elias, et regnavit Joram frater ejus pro eo, anno secundo Joram filii Josaphat regis Judae : non enim habebat filium. 
+    18: Reliqua autem verborum Ochoziae, quae operatus est, nonne haec scripta sunt in libro sermonum dierum regum Israel?
+
+  Chapter 2.
+
+    1: Factum est autem cum levare vellet Dominus Eliam per turbinem in caelum, ibant Elias et Eliseus de Galgalis. 
+    2: Dixitque Elias ad Eliseum : Sede hic, quia Dominus misit me usque in Bethel. Cui ait Eliseus : Vivit Dominus, et vivit anima tua, quia non derelinquam te. Cumque descendissent Bethel, 
+    3: egressi sunt filii prophetarum, qui erant in Bethel, ad Eliseum, et dixerunt ei : Numquid nosti, quia hodie Dominus tollet dominum tuum a te? Qui respondit : Et ego novi : silete. 
+    4: Dixit autem Elias ad Eliseum : Sede hic, quia Dominus misit me in Jericho. Et ille ait : Vivit Dominus, et vivit anima tua, quia non derelinquam te. Cumque venissent Jericho, 
+    5: accesserunt filii prophetarum, qui erant in Jericho, ad Eliseum, et dixerunt ei : Numquid nosti quia Dominus hodie tollet dominum tuum a te? Et ait : Ego novi : silete.
+    6: Dixit autem ei Elias : Sede hic, quia Dominus misit me usque ad Jordanem. Qui ait : Vivit Dominus, et vivit anima tua, quia non derelinquam te. Ierunt igitur ambo pariter, 
+    7: et quinquaginta viri de filiis prophetarum secuti sunt eos, qui et steterunt econtra, longe : illi autem ambo stabant super Jordanem. 
+    8: Tulitque Elias pallium suum, et involvit illud, et percussit aquas, quae divisae sunt in utramque partem, et transierunt ambo per siccum. 
+    9: Cumque transissent, Elias dixit ad Eliseum : Postula quod vis ut faciam tibi, antequam tollar a te. Dixitque Eliseus : Obsecro ut fiat in me duplex spiritus tuus. 
+    10: Qui respondit : Rem difficilem postulasti : attamen si videris me, quando tollar a te, erit tibi quod petisti : si autem non videris, non erit.
+    11: Cumque pergerent, et incedentes sermocinarentur, ecce currus igneus, et equi ignei diviserunt utrumque : et ascendit Elias per turbinem in caelum. 
+    12: Eliseus autem videbat, et clamabat : Pater mi, pater mi, currus Israel, et auriga ejus. Et non vidit eum amplius : apprehenditque vestimenta sua, et scidit illa in duas partes. 
+    13: Et levavit pallium Eliae, quod ceciderat ei : reversusque stetit super ripam Jordanis, 
+    14: et pallio Eliae, quod ceciderat ei, percussit aquas, et non sunt divisae : et dixit : Ubi est Deus Eliae etiam nunc? Percussitque aquas, et divisae sunt huc atque illuc, et transiit Eliseus. 
+    15: Videntes autem filii prophetarum, qui erant in Jericho econtra, dixerunt : Requievit spiritus Eliae super Eliseum. Et venientes in occursum ejus, adoraverunt eum proni in terram,
+    16: dixeruntque illi : Ecce, cum servis tuis sunt quinquaginta viri fortes, qui possunt ire, et quaerere dominum tuum, ne forte tulerit eum spiritus Domini, et projecerit eum in unum montium, aut in unam vallium. Qui ait : Nolite mittere. 
+    17: Coegeruntque eum, donec acquiesceret, et diceret : Mittite. Et miserunt quinquaginta viros : qui cum quaesissent tribus diebus, non invenerunt. 
+    18: Et reversi sunt ad eum : at ille habitabat in Jericho, et dixit eis : Numquid non dixi vobis : Nolite mittere? 
+    19: Dixerunt quoque viri civitatis ad Eliseum : Ecce habitatio civitatis hujus optima est, sicut tu ipse domine perspicis : sed aquae pessimae sunt, et terra sterilis. 
+    20: At ille ait : Afferte mihi vas novum, et mittite in illud sal. Quod cum attulissent,
+    21: egressus ad fontem aquarum misit in illum sal, et ait : Haec dicit Dominus : Sanavi aquas has, et non erit ultra in eis mors, neque sterilitas. 
+    22: Sanatae sunt ergo aquae usque in diem hanc, juxta verbum Elisei, quod locutus est. 
+    23: Ascendit autem inde in Bethel : cumque ascenderet per viam, pueri parvi egressi sunt de civitate, et illudebant ei, dicentes : Ascende calve, ascende calve. 
+    24: Qui cum respexisset, vidit eos, et maledixit eis in nomine Domini : egressique sunt duo ursi de saltu, et laceraverunt ex eis quadraginta duos pueros. 
+    25: Abiit autem inde in montem Carmeli, et inde reversus est in Samariam.
+
+  Chapter 3.
+
+    1: Joram vero filius Achab regnavit super Israel in Samaria anno decimo octavo Josaphat regis Judae. Regnavitque duodecim annis. 
+    2: Et fecit malum coram Domino, sed non sicut pater suus et mater : tulit enim statuas Baal, quas fecerat pater ejus. 
+    3: Verumtamen in peccatis Jeroboam filii Nabat, qui peccare fecit Israel, adhaesit, nec recessit ab eis. 
+    4: Porro Mesa rex Moab nutriebat pecora multa, et solvebat regi Israel centum millia agnorum, et centum millia arietum cum velleribus suis. 
+    5: Cumque mortuus fuisset Achab, praevaricatus est foedus, quod habebat cum rege Israel.
+    6: Egressus est igitur rex Joram in die illa de Samaria, et recensuit universum Israel. 
+    7: Misitque ad Josaphat regem Juda, dicens : Rex Moab recessit a me, veni mecum contra eum ad praelium. Qui respondit : Ascendam : qui meus est, tuus est : populus meus, populus tuus : et equi mei, equi tui. 
+    8: Dixitque : Per quam viam ascendemus? At ille respondit : Per desertum Idumaeae. 
+    9: Perrexerunt igitur rex Israel, et rex Juda, et rex Edom, et circuierunt per viam septem dierum, nec erat aqua exercitui, et jumentis quae sequebantur eos. 
+    10: Dixitque rex Israel : Heu heu heu, congregavit nos Dominus tres reges, ut traderet in manus Moab.
+    11: Et ait Josaphat : Estne hic propheta Domini, ut deprecemur Dominum per eum? Et respondit unus de servis regis Israel : Est hic Eliseus filius Saphat, qui fundebat aquam super manus Eliae. 
+    12: Et ait Josaphat : Est apud eum sermo Domini. Descenditque ad eum rex Israel, et Josaphat rex Juda, et rex Edom. 
+    13: Dixit autem Eliseus ad regem Israel : Quid mihi et tibi est? Vade ad prophetas patris tui, et matris tuae. Et ait illi rex Israel : Quare congregavit Dominus tres reges hos, ut traderet eos in manus Moab? 
+    14: Dixitque ad eum Eliseus : Vivit Dominus exercituum, in cujus conspectu sto, quod si non vultum Josaphat regis Judae erubescerem, non attendissem quidem te, nec respexissem. 
+    15: Nunc autem adducite mihi psaltem. Cumque caneret psaltes, facta est super eum manus Domini, et ait :
+    16: Haec dicit Dominus : Facite alveum torrentis hujus fossas et fossas. 
+    17: Haec enim dicit Dominus : Non videbitis ventum, neque pluviam : et alveus iste replebitur aquis, et bibetis vos, et familiae vestrae, et jumenta vestra. 
+    18: Parumque est hoc in conspectu Domini : insuper tradet etiam Moab in manus vestras. 
+    19: Et percutietis omnem civitatem munitam, et omnem urbem electam, et universum lignum fructiferum succidetis, cunctosque fontes aquarum obturabitis, et omnem agrum egregium operietis lapidibus. 
+    20: Factum est igitur mane, quando sacrificium offerri solet, et ecce, aquae veniebant per viam Edom, et repleta est terra aquis.
+    21: Universi autem Moabitae audientes quod ascendissent reges ut pugnarent adversum eos, convocaverunt omnes qui accincti erant balteo desuper, et steterunt in terminis. 
+    22: Primoque mane surgentes, et orto jam sole ex adverso aquarum, viderunt Moabitae econtra aquas rubras quasi sanguinem, 
+    23: dixeruntque : Sanguis gladii est : pugnaverunt reges contra se, et caesi sunt mutuo : nunc perge ad praedam Moab. 
+    24: Perrexeruntque in castra Israel : porro consurgens Israel, percussit Moab : at illi fugerunt coram eis. Venerunt igitur qui vicerant, et percusserunt Moab, 
+    25: et civitates destruxerunt : et omnem agrum optimum, mittentes singuli lapides, repleverunt : et universos fontes aquarum obturaverunt : et omnia ligna fructifera succiderunt, ita ut muri tantum fictiles remanerent : et circumdata est civitas a fundibulariis, et magna ex parte percussa.
+    26: Quod cum vidisset rex Moab, praevaluisse scilicet hostes, tulit secum septingentos viros educentes gladium, ut irrumperent ad regem Edom : et non potuerunt. 
+    27: Arripiensque filium suum primogenitum, qui regnaturus erat pro eo, obtulit holocaustum super murum : et facta est indignatio magna in Israel, statimque recesserunt ab eo, et reversi sunt in terram suam.
+
+  Chapter 4.
+
+    1: Mulier autem quaedam de uxoribus prophetarum clamabat ad Eliseum, dicens : Servus tuus vir meus mortuus est, et tu nosti quia servus tuus fuit timens Dominum : et ecce creditor venit ut tollat duos filios meos ad serviendum sibi. 
+    2: Cui dixit Eliseus : Quid vis ut faciam tibi? Dic mihi, quid habes in domo tua? At illa respondit : Non habeo ancilla tua quidquam in domo mea nisi parum olei, quo ungar. 
+    3: Cui ait : Vade, pete mutuo ab omnibus vicinis tuis vasa vacua non pauca : 
+    4: et ingredere, et claude ostium tuum, cum intrinsecus fueris tu, et filii tui : et mitte inde in omnia vasa haec : et cum plena fuerint, tolles. 
+    5: Ivit itaque mulier, et clausit ostium super se, et super filios suos : illi offerebant vasa, et illa infundebat.
+    6: Cumque plena fuissent vasa, dixit ad filium suum : Affer mihi adhuc vas. Et ille respondit : Non habeo. Stetitque oleum. 
+    7: Venit autem illa, et indicavit homini Dei. Et ille : Vade, inquit, vende oleum, et redde creditori tuo : tu autem, et filii tui vivite de reliquo. 
+    8: Facta est autem quaedam dies, et transibat Eliseus per Sunam : erat autem ibi mulier magna, quae tenuit eum ut comederet panem : cumque frequenter inde transiret, divertebat ad eam ut comederet panem. 
+    9: Quae dixit ad virum suum : Animadverto quod vir Dei sanctus est iste, qui transit per nos frequenter. 
+    10: Faciamus ergo ei coenaculum parvum, et ponamus ei in eo lectulum, et mensam, et sellam, et candelabrum, ut cum venerit ad nos, maneat ibi.
+    11: Facta est ergo dies quaedam, et veniens divertit in coenaculum, et requievit ibi. 
+    12: Dixitque ad Giezi puerum suum : Voca Sunamitidem istam. Qui cum vocasset eam, et illa stetisset coram eo, 
+    13: dixit ad puerum suum : Loquere ad eam : Ecce, sedule in omnibus ministrasti nobis, quid vis ut faciam tibi? Numquid habes negotium, et vis ut loquar regi, sive principi militiae? Quae respondit : In medio populi mei habito. 
+    14: Et ait : Quid ergo vult ut faciam ei? Dixitque Giezi : Ne quaeras : filium enim non habet, et vir ejus senex est. 
+    15: Praecepit itaque ut vocaret eam : quae cum vocata fuisset, et stetisset ante ostium,
+    16: dixit ad eam : In tempore isto, et in hac eadem hora, si vita comes fuerit, habebis in utero filium. At illa respondit : Noli quaeso, domine mi, vir Dei, noli mentiri ancillae tuae. 
+    17: Et concepit mulier, et peperit filium in tempore, et in hora eadem, qua dixerat Eliseus. 
+    18: Crevit autem puer. Et cum esset quaedam dies, et egressus isset ad patrem suum, ad messores, 
+    19: ait patri suo : Caput meum doleo, caput meum doleo. At ille dixit puero : Tolle, et duc eum ad matrem suam. 
+    20: Qui cum tulisset, et duxisset eum ad matrem suam, posuit eum illa super genua sua usque ad meridiem, et mortuus est.
+    21: Ascendit autem, et collocavit eum super lectulum hominis Dei, et clausit ostium : et egressa, 
+    22: vocavit virum suum, et ait : Mitte mecum, obsecro, unum de pueris, et asinam, ut excurram usque ad hominem Dei, et revertar. 
+    23: Qui ait illi : Quam ob causam vadis ad eum? hodie non sunt calendae, neque sabbatum. Quae respondit : Vadam. 
+    24: Stravitque asinam, et praecepit puero : Mina, et propera, ne mihi moram facias in eundo : et hoc age quod praecipio tibi. 
+    25: Profecta est igitur, et venit ad virum Dei in montem Carmeli : cumque vidisset eam vir Dei econtra, ait ad Giezi puerum suum : Ecce Sunamitis illa.
+    26: Vade ergo in occursum ejus, et dic ei : Recte ne agitur circa te, et circa virum tuum, et circa filium tuum? Quae respondit : Recte. 
+    27: Cumque venisset ad virum Dei in montem, apprehendit pedes ejus : et accessit Giezi ut amoveret eam. Et ait homo Dei : Dimitte illam : anima enim ejus in amaritudine est, et Dominus celavit a me, et non indicavit mihi. 
+    28: Quae dixit illi : Numquid petivi filium a domino meo? numquid non dixi tibi : Ne illudas me? 
+    29: Et ille ait ad Giezi : Accinge lumbos tuos, et tolle baculum meum in manu tua, et vade. Si occurrerit tibi homo, non salutes eum : et si salutaverit te quispiam, non respondeas illi : et pones baculum meum super faciem pueri. 
+    30: Porro mater pueri ait : Vivit Dominus, et vivit anima tua, non dimittam te. Surrexit ergo, et secutus est eam.
+    31: Giezi autem praecesserat ante eos, et posuerat baculum super faciem pueri, et non erat vox, neque sensus : reversusque est in occursum ejus, et nuntiavit ei, dicens : Non surrexit puer. 
+    32: Ingressus est ergo Eliseus domum, et ecce puer mortuus jacebat in lectulo ejus : 
+    33: ingressusque clausit ostium super se, et super puerum, et oravit ad Dominum. 
+    34: Et ascendit, et incubuit super puerum : posuitque os suum super os ejus, et oculos suos super oculos ejus, et manus suas super manus ejus : et incurvavit se super eum, et calefacta est caro pueri. 
+    35: At ille reversus, deambulavit in domo, semel huc atque illuc : et ascendit, et incubuit super eum : et oscitavit puer septies, aperuitque oculos.
+    36: At ille vocavit Giezi, et dixit ei : Voca Sunamitidem hanc. Quae vocata, ingressa est ad eum. Qui ait : Tolle filium tuum. 
+    37: Venit illa, et corruit ad pedes ejus, et adoravit super terram : tulitque filium suum, et egressa est. 
+    38: Et Eliseus reversus est in Galgala. Erat autem fames in terra, et filii prophetarum habitabant coram eo. Dixitque uni de pueris suis : Pone ollam grandem, et coque pulmentum filiis prophetarum. 
+    39: Et egressus est unus in agrum ut colligeret herbas agrestes : invenitque quasi vitem silvestrem, et collegit ex ea colocynthidas agri, et implevit pallium suum, et reversus concidit in ollam pulmenti : nesciebat enim quid esset. 
+    40: Infuderunt ergo sociis, ut comederent : cumque gustassent de coctione, clamaverunt, dicentes : Mors in olla, vir Dei. Et non potuerunt comedere.
+    41: At ille : Afferte, inquit, farinam. Cumque tulissent, misit in ollam, et ait : Infunde turbae, ut comedant. Et non fuit amplius quidquam amaritudinis in olla. 
+    42: Vir autem quidam venit de Baalsalisa deferens viro Dei panes primitiarum, viginti panes hordeaceos, et frumentum novum in pera sua. At ille dixit : Da populo, ut comedat. 
+    43: Responditque ei minister ejus : Quantum est hoc, ut apponam centum viris? Rursum ille ait : Da populo, ut comedat : haec enim dicit Dominus : Comedent, et supererit. 
+    44: Posuit itaque coram eis : qui comederunt, et superfuit juxta verbum Domini.
+
+End of day 82.

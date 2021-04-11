@@ -1,0 +1,185 @@
+Day 128:
+
+Reading 1-Maccabees, chapters ['13', '14', '15', '16']:
+
+  Chapter 13.
+
+    1: Et audivit Simon quod congregavit Tryphon exercitum copiosum ut veniret in terram Juda, et attereret eam. 
+    2: Videns quia in tremore populus est, et in timore, ascendit Jerusalem, et congregavit populum : 
+    3: et adhortans dixit : Vos scitis quanta ego, et fratres mei, et domus patris mei, fecimus pro legibus et pro sanctis, praelia, et angustias quales vidimus : 
+    4: horum gratia perierunt fratres mei omnes propter Israel, et relictus sum ego solus. 
+    5: Et nunc non mihi contingat parcere animae meae in omni tempore tribulationis : non enim melior sum fratribus meis.
+    6: Vindicabo itaque gentem meam, et sancta, natos quoque nostros, et uxores : quia congregatae sunt universae gentes conterere nos inimicitiae gratia. 
+    7: Et accensus est spiritus populi simul ut audivit sermones istos : 
+    8: et responderunt voce magna, dicentes : Tu es dux noster loco Judae, et Jonathae fratris tui : 
+    9: pugna praelium nostrum : et omnia, quaecumque dixeris nobis, faciemus. 
+    10: Et congregans omnes viros bellatores, acceleravit consummare universos muros Jerusalem, et munivit eam in gyro.
+    11: Et misit Jonathan filium Absalomi, et cum eo exercitum novum in Joppen, et ejectis his qui erant in ea, remansit illic ipse. 
+    12: Et movit Tryphon a Ptolemaida cum exercitu multo, ut veniret in terram Juda, et Jonathas cum eo in custodia. 
+    13: Simon autem applicuit in Addus contra faciem campi. 
+    14: Et ut cognovit Tryphon quia surrexit Simon loco fratris sui Jonathae, et quia commissurus esset cum eo praelium, misit ad eum legatos, 
+    15: dicens : Pro argento, quod debebat frater tuus Jonathas in ratione regis propter negotia quae habuit, detinuimus eum.
+    16: Et nunc mitte argenti talenta centum, et duos filios ejus obsides, ut non dimissus fugiat a nobis, et remittemus eum. 
+    17: Et cognovit Simon quia cum dolo loqueretur secum : jussit tamen dari argentum et pueros, ne inimicitiam magnam sumeret ad populum Israel, dicentem : 
+    18: Quia non misit ei argentum, et pueros, propterea periit. 
+    19: Et misit pueros, et centum talenta : et mentitus est, et non dimisit Jonathan. 
+    20: Et post haec venit Tryphon intra regionem, ut contereret eam : et gyraverunt per viam quae ducit Ador : et Simon et castra ejus ambulabant in omnem locum quocumque ibant.
+    21: Qui autem in arce erant, miserunt ad Tryphonem legatos, ut festinaret venire per desertum, et mitteret illis alimonias. 
+    22: Et paravit Tryphon omnem equitatum, ut veniret illa nocte : erat autem nix multa valde, et non venit in Galaaditim. 
+    23: Et cum appropinquasset Bascaman, occidit Jonathan et filios ejus illic. 
+    24: Et convertit Tryphon, et abiit in terram suam. 
+    25: Et misit Simon, et accepit ossa Jonathae fratris sui, et sepelivit ea in Modin civitate patrum ejus.
+    26: Et planxerunt eum omnis Israel planctu magno, et luxerunt eum dies multos. 
+    27: Et aedificavit Simon super sepulchrum patris sui et fratrum suorum aedificium altum visu, lapide polito retro et ante. 
+    28: Et statuit septem pyramidas, unam contra unam, patri et matri, et quatuor fratribus : 
+    29: et his circumposuit columnas magnas : et super columnas arma, ad memoriam aeternam : et juxta arma naves sculptas, quae viderentur ab omnibus navigantibus mare : 
+    30: hoc est sepulchrum, quod fecit in Modin usque in hunc diem.
+    31: Tryphon autem cum iter faceret cum Antiocho rege adolescente, dolo occidit eum : 
+    32: et regnavit loco ejus, et imposuit sibi diadema Asiae, et fecit plagam magnam in terra. 
+    33: Et aedificavit Simon praesidia Judaeae, muniens ea turribus excelsis, et muris magnis, et portis, et seris : et posuit alimenta in munitionibus. 
+    34: Et elegit Simon viros, et misit ad Demetrium regem ut faceret remissionem regioni : quia actus omnes Tryphonis per direptionem fuerant gesti. 
+    35: Et Demetrius rex ad verba ista respondit ei, et scripsit epistolam talem :
+    36: Rex Demetrius Simoni summo sacerdoti et amico regum, et senioribus, et genti Judaeorum, salutem. 
+    37: Coronam auream, et bahem, quam misistis, suscepimus : et parati sumus facere vobiscum pacem magnam, et scribere praepositis regis remittere vobis quae indulsimus. 
+    38: Quaecumque enim constituimus, vobis constant : munitiones, quas aedificastis, vobis sint : 
+    39: remittimus quoque ignorantias et peccata usque in hodiernum diem, et coronam quam debebatis : et si quid aliud erat tributarium in Jerusalem, jam non sit tributarium. 
+    40: Et si qui ex vobis apti sunt conscribi inter nostros, conscribantur, et sit inter nos pax.
+    41: Anno centesimo septuagesimo, ablatum est jugum gentium ab Israel. 
+    42: Et coepit populus Israel scribere in tabulis, et gestis publicis, anno primo sub Simone summo sacerdote, magno duce, et principe Judaeorum. 
+    43: In diebus illis applicuit Simon ad Gazam, et circumdedit eam castris, et fecit machinas, et applicuit ad civitatem, et percussit turrem unam, et comprehendit eam. 
+    44: Et eruperant qui erant intra machinam in civitatem, et factus est motus magnus in civitate. 
+    45: Et ascenderunt qui erant in civitate cum uxoribus et filiis supra murum, scissis tunicis suis, et clamaverunt voce magna, postulantes a Simone dextras sibi dari,
+    46: et dixerunt : Non nobis reddas secundum malitias nostras, sed secundum misericordias tuas. 
+    47: Et flexus Simon, non debellavit eos : ejecit tamen eos de civitate, et mundavit aedes in quibus fuerant simulacra, et tunc intravit in eam cum hymnis benedicens Dominum : 
+    48: et ejecta ab ea omni immunditia, collocavit in ea viros qui legem facerent : et munivit eam, et fecit sibi habitationem. 
+    49: Qui autem erant in arce Jerusalem, prohibebantur egredi et ingredi regionem, et emere ac vendere : et esurierunt valde, et multi ex eis fame perierunt, 
+    50: et clamaverunt ad Simonem ut dextras acciperent : et dedit illis : et ejecit eos inde, et mundavit arcem a contaminationibus :
+    51: et intraverunt in eam tertia et vigesima die secundi mensis, anno centesimo septuagesimo primo, cum laude, et ramis palmarum, et cinyris, et cymbalis, et nablis, et hymnis, et canticis, quia contritus est inimicus magnus ex Israel. 
+    52: Et constituit ut omnibus annis agerentur dies hi cum laetitia. 
+    53: Et munivit montem templi, qui erat secus arcem, et habitavit ibi ipse, et qui cum eo erant. 
+    54: Et vidit Simon Joannem filium suum, quod fortis praelii vir esset : et posuit eum ducem virtutum universarum : et habitavit in Gazaris.
+
+  Chapter 14.
+
+    1: Anno centesimo septuagesimo secundo, congregavit rex Demetrius exercitum suum, et abiit in Mediam ad contrahenda sibi auxilia, ut expugnaret Tryphonem. 
+    2: Et audivit Arsaces rex Persidis et Mediae, quia intravit Demetrius confines suos : et misit unum de principibus suis ut comprehenderet eum vivum, et adduceret eum ad se. 
+    3: Et abiit, et percussit castra Demetrii : et comprehendit eum, et duxit eum ad Arsacem, et posuit eum in custodiam. 
+    4: Et siluit omnis terra Juda omnibus diebus Simonis, et quaesivit bona genti suae : et placuit illis potestas ejus et gloria ejus omnibus diebus. 
+    5: Et cum omni gloria sua accepit Joppen in portum, et fecit introitum in insulis maris.
+    6: Et dilatavit fines gentis suae, et obtinuit regionem. 
+    7: Et congregavit captivitatem multam, et dominatus est Gazarae, et Bethsurae, et arci : et abstulit immunditias ex ea, et non erat qui resisteret ei. 
+    8: Et unusquisque colebat terram suam cum pace : et terra Juda dabat fructus suos, et ligna camporum fructum suum. 
+    9: Seniores in plateis sedebant omnes, et de bonis terrae tractabant, et juvenes induebant se gloriam, et stolas belli. 
+    10: Et civitatibus tribuebat alimonias, et constituebat eas ut essent vasa munitionis quoadusque nominatum est nomen gloriae ejus usque ad extremum terrae.
+    11: Fecit pacem super terram, et laetatus est Israel laetitia magna. 
+    12: Et sedit unusquisque sub vite sua, et sub ficulnea sua : et non erat qui eos terreret. 
+    13: Defecit impugnans eos super terram : reges contriti sunt in diebus illis. 
+    14: Et confirmavit omnes humiles populi sui, et legem exquisivit, et abstulit omnem iniquum et malum : 
+    15: sancta glorificavit, et multiplicavit vasa sanctorum.
+    16: Et auditum est Romae quia defunctus esset Jonathas, et usque in Spartiatas : et contristati sunt valde. 
+    17: Ut audierunt autem quod Simon frater ejus factus esset summus sacerdos loco ejus, et ipse obtineret omnem regionem, et civitates in ea, 
+    18: scripserunt ad eum in tabulis aereis, ut renovarent amicitias et societatem quam fecerant cum Juda et cum Jonatha, fratribus ejus. 
+    19: Et lectae sunt in conspectu ecclesiae in Jerusalem. Et hoc exemplum epistolarum, quas Spartiatae miserunt : 
+    20: Spartianorum principes et civitates, Simoni sacerdoti magno, et senioribus, et sacerdotibus, et reliquo populo Judaeorum, fratribus, salutem.
+    21: Legati, qui missi sunt ad populum nostrum, nuntiaverunt nobis de vestra gloria, et honore, ac laetitia : et gavisi sumus in introitu eorum. 
+    22: Et scripsimus quae ab eis erant dicta in conciliis populi, sic : Numenius Antiochi, et Antipater Jasonis filius, legati Judaeorum, venerunt ad nos, renovantes nobiscum amicitiam pristinam. 
+    23: Et placuit populo excipere viros gloriose, et ponere exemplum sermonum eorum in segregatis populi libris, ut sit ad memoriam populo Spartiatarum. Exemplum autem horum scripsimus Simoni magno sacerdoti. 
+    24: Post haec autem misit Simon Numenium Romam, habentem clypeum aureum magnum, pondo mnarum mille, ad statuendam cum eis societatem. Cum autem audisset populus Romanus 
+    25: sermones istos, dixerunt : Quam gratiarum actionem reddemus Simoni, et filiis ejus?
+    26: restituit enim ipse fratres suos, et expugnavit inimicos Israel ab eis, et statuerunt ei libertatem, et descripserunt in tabulis aereis, et posuerunt in titulis in monte Sion. 
+    27: Et hoc est exemplum scripturae : Octavadecima die mensis Elul, anno centesimo septuagesimo secundo, anno tertio sub Simone sacerdote magno in Asaramel, 
+    28: in conventu magno sacerdotum, et populi, et principum gentis, et seniorum regionis, nota facta sunt haec : quoniam frequenter facta sunt praelia in regione nostra, 
+    29: Simon autem Mathathiae filius, ex filiis Jarib, et fratres ejus, dederunt se periculo, et restiterunt adversariis gentis suae, ut starent sancta ipsorum, et lex : et gloria magna glorificaverunt gentem suam. 
+    30: Et congregavit Jonathas gentem suam, et factus est illis sacerdos magnus, et appositus est ad populum suum.
+    31: Et voluerunt inimici eorum calcare et atterere regionem ipsorum, et extendere manus in sancta eorum. 
+    32: Tunc restitit Simon, et pugnavit pro gente sua, et erogavit pecunias multas, et armavit viros virtutis gentis suae, et dedit illis stipendia : 
+    33: et munivit civitates Judaeae, et Bethsuram, quae erat in finibus Judaeae, ubi erant arma hostium antea : et posuit illic praesidium viros Judaeos. 
+    34: Et Joppen munivit, quae erat ad mare, et Gazaram, quae est in finibus Azoti, in qua hostes antea habitabant : et collocavit illic Judaeos, et quaecumque apta erant ad correptionem eorum, posuit in eis. 
+    35: Et vidit populus actum Simonis, et gloriam quam cogitabat facere genti suae, et posuerunt eum ducem suum, et principem sacerdotum, eo quod ipse fecerat haec omnia, et justitiam, et fidem, quam conservavit genti suae, et exquisivit omni modo exaltare populum suum.
+    36: Et in diebus ejus prosperatum est in manibus ejus, ut tollerentur gentes de regione ipsorum, et qui in civitate David erant, in Jerusalem in arce, de qua procedebant, et contaminabant omnia quae in circuitu sanctorum sunt, et inferebant plagam magnam castitati : 
+    37: et collocavit in ea viros Judaeos ad tutamentum regionis, et civitatis, et exaltavit muros Jerusalem. 
+    38: Et rex Demetrius statuit illi summum sacerdotium. 
+    39: Secundum haec fecit eum amicum suum, et glorificavit eum gloria magna. 
+    40: Audivit enim quod appellati sunt Judaei a Romanis amici, et socii, et fratres, et quia susceperunt legatos Simonis gloriose,
+    41: et quia Judaei et sacerdotes eorum consenserunt eum esse ducem suum, et summum sacerdotem in aeternum, donec surgat propheta fidelis : 
+    42: et ut sit super eos dux, et ut cura esset illi pro sanctis, et ut constitueret praepositos super opera eorum, et super regionem, et super arma, et super praesidia : 
+    43: et cura sit illi de sanctis : et ut audiatur ab omnibus, et scribantur in nomine ejus omnes conscriptiones in regione : et ut operiatur purpura et auro : 
+    44: et ne liceat ulli ex populo et ex sacerdotibus irritum facere aliquid horum, et contradicere his quae ab eo dicuntur, aut convocare conventum in regione sine ipso, et vestiri purpura, et uti fibula aurea : 
+    45: qui autem fecerit extra haec, aut irritum fecerit aliquid horum, reus erit.
+    46: Et complacuit omni populo statuere Simonem, et facere secundum verba ista. 
+    47: Et suscepit Simon, et placuit ei ut summo sacerdotio fungeretur, et esset dux et princeps gentis Judaeorum, et sacerdotum, et praeesset omnibus. 
+    48: Et scripturam istam dixerunt ponere in tabulis aereis, et ponere eas in peribolo sanctorum, in loco celebri : 
+    49: exemplum autem eorum ponere in aerario, ut habeat Simon, et filii ejus.
+
+  Chapter 15.
+
+    1: Et misit rex Antiochus filius Demetrii epistolas ab insulis maris Simoni sacerdoti, et principi gentis Judaeorum, et universae genti : 
+    2: et erant continentes hunc modum : Rex Antiochus Simoni sacerdoti magno, et genti Judaeorum salutem. 
+    3: Quoniam quidem pestilentes obtinuerunt regnum patrum nostrorum, volo autem vendicare regnum, et restituere illud sicut erat antea : et electam feci multitudinem exercitus, et feci naves bellicas. 
+    4: Volo autem procedere per regionem ut ulciscar in eos, qui corruperunt regionem nostram, et qui desolaverunt civitates multas in regno meo. 
+    5: Nunc ergo statuo tibi omnes oblationes, quas remiserunt tibi ante me omnes reges, et quaecumque alia dona remiserunt tibi :
+    6: et permitto tibi facere percussuram proprii numismatis in regione tua : 
+    7: Jerusalem autem sanctam esse, et liberam : et omnia arma, quae fabricata sunt, et praesidia, quae construxisti, quae tenes, maneant tibi. 
+    8: Et omne debitum regis, et quae futura sunt regi, ex hoc et in totum tempus remittuntur tibi. 
+    9: Cum autem obtinuerimus regnum nostrum, glorificabimus te, et gentem tuam, et templum, gloria magna, ita ut manifestetur gloria vestra in universa terra. 
+    10: Anno centesimo septuagesimo quarto exiit Antiochus in terram patrum suorum, et convenerunt ad eum omnes exercitus, ita ut pauci relicti essent cum Tryphone.
+    11: Et insecutus est eum Antiochus rex, et venit Doram fugiens per maritimam : 
+    12: sciebat enim quod congregata sunt mala in eum, et reliquit eum exercitus : 
+    13: et applicuit Antiochus super Doram cum centum viginti millibus virorum belligeratorum, et octo millibus equitum : 
+    14: et circuivit civitatem, et naves a mari accesserunt : et vexabant civitatem a terra et mari, et neminem sinebant ingredi vel egredi. 
+    15: Venit autem Numenius, et qui cum eo fuerant, ab urbe Roma, habentes epistolas regibus et regionibus scriptas, in quibus continebantur haec :
+    16: Lucius consul Romanorum, Ptolemaeo regi salutem. 
+    17: Legati Judaeorum venerunt ad nos amici nostri, renovantes pristinam amicitiam et societatem, missi a Simone principe sacerdotum et populo Judaeorum. 
+    18: Attulerunt autem et clypeum aureum mnarum mille. 
+    19: Placuit itaque nobis scribere regibus et regionibus, ut non inferant illis mala, neque impugnent eos, et civitates eorum, et regiones eorum : et ut non ferant auxilium pugnantibus adversus eos. 
+    20: Visum autem est nobis accipere ab eis clypeum.
+    21: Si qui ergo pestilentes refugerunt de regione ipsorum ad vos, tradite eos Simoni principi sacerdotum, ut vindicet in eos secundum legem suam. 
+    22: Haec eadem scripta sunt Demetrio regi, et Attalo, et Ariarathi, et Arsaci, 
+    23: et in omnes regiones : et Lampsaco, et Spartiatis, et in Delum, et in Myndum, et in Sicyonem, et in Cariam, et in Samum, et in Pamphyliam, et in Lyciam, et in Alicarnassum, et in Coo, et in Siden, et in Aradon, et in Rhodum, et in Phaselidem, et in Gortynam, et Gnidum, et Cyprum, et Cyrenen. 
+    24: Exemplum autem eorum scripserunt Simoni principi sacerdotum, et populo Judaeorum. 
+    25: Antiochus autem rex applicuit castra in Doram secundo, admovens ei semper manus, et machinas faciens : et conclusit Tryphonem, ne procederet :
+    26: et misit ad eum Simon duo millia virorum electorum in auxilium, et argentum, et aurum, et vasa copiosa : 
+    27: et noluit ea accipere, sed rupit omnia, quae pactus est cum eo antea, et alienavit se ab eo. 
+    28: Et misit ad eum Athenobium unum de amicis suis, ut tractaret cum ipso, dicens : Vos tenetis Joppen, et Gazaram, et arcem, quae est in Jerusalem, civitates regni mei : 
+    29: fines earum desolastis, et fecistis plagam magnam in terra, et dominati estis per loca multa in regno meo. 
+    30: Nunc ergo tradite civitates quas occupastis, et tributa locorum in quibus dominati estis extra fines Judaeae :
+    31: sin autem, date pro illis quingenta talenta argenti, et exterminii, quod exterminastis, et tributorum civitatum alia talenta quingenta : sin autem, veniemus, et expugnabimus vos. 
+    32: Et venit Athenobius amicus regis in Jerusalem, et vidit gloriam Simonis, et claritatem in auro, et argento, et apparatum copiosum : et obstupuit, et retulit ei verba regis. 
+    33: Et respondit ei Simon, et dixit ei : Neque alienam terram sumpsimus, neque aliena detinemus : sed haereditatem patrum nostrorum, quae injuste ab inimicis nostris aliquo tempore possessa est. 
+    34: Nos vero tempus habentes, vindicamus haereditatem patrum nostrorum. 
+    35: Nam de Joppe et Gazara quae expostulas, ipsi faciebant in populo plagam magnam, et in regione nostra : horum damus talenta centum. Et non respondit ei Athenobius verbum.
+    36: Reversus autem cum ira ad regem, renuntiavit ei verba ista, et gloriam Simonis, et universa quae vidit, et iratus est rex ira magna. 
+    37: Tryphon autem fugit navi in Orthosiada. 
+    38: Et constituit rex Cendebaeum ducem maritimum, et exercitum peditum et equitum dedit illi. 
+    39: Et mandavit illi movere castra contra faciem Judaeae : et mandavit ei aedificare Gedorem, et obstruere portas civitatis, et debellare populum. Rex autem persequebatur Typhonem. 
+    40: Et pervenit Cendebaeus Jamniam, et coepit irritare plebem, et conculcare Judaeam, et captivare populum, et interficere, et aedificare Gedorem.
+    41: Et collocavit illic equites et exercitum, ut egressi perambularent viam Judaeae, sicut constituit ei rex.
+
+  Chapter 16.
+
+    1: Et ascendit Joannes de Gazaris, et nuntiavit Simoni patri suo quae fecit Cendebaeus in populo ipsorum. 
+    2: Et vocavit Simon duos filios seniores, Judam et Joannem, et ait illis : Ego, et fratres mei, et domus patris mei expugnavimus hostes Israel ab adolescentia usque in hunc diem : et prosperatum est in manibus nostris liberare Israel aliquoties. 
+    3: Nunc autem senui : sed estote loco meo, et fratres mei, et egressi pugnate pro gente nostra : auxilium vero de caelo vobiscum sit. 
+    4: Et elegit de regione viginti millia virorum belligeratorum, et equites : et profecti sunt ad Cendebaeum, et dormierunt in Modin. 
+    5: Et surrexerunt mane, et abierunt in campum : ecce exercitus copiosus in obviam illis peditum et equitum : et fluvius torrens erat inter medium ipsorum.
+    6: Et admovit castra contra faciem eorum ipse et populus ejus, et vidit populum trepidantem ad transfretandum torrentem : et transfretavit primus, et viderunt eum viri, et transierunt post eum. 
+    7: Et divisit populum et equites in medio peditum : erat autem equitatus adversariorum copiosus nimis. 
+    8: Et exclamaverunt sacris tubis, et in fugam conversus est Cendebaeus et castra ejus : et ceciderunt ex eis multi vulnerati : residui autem in munitionem fugerunt. 
+    9: Tunc vulneratus est Judas frater Joannis : Joannes autem insecutus est eos, donec venit Cedronem, quam aedificavit : 
+    10: et fugerunt usque ad turres, quae erant in agris Azoti, et succendit eas igni. Et ceciderunt ex illis duo millia virorum, et reversus est in Judaeam in pace.
+    11: Et Ptolemaeus filius Abobi constitutus erat dux in campo Jericho, et habebat argentum et aurum multum : 
+    12: erat enim gener summi sacerdotis. 
+    13: Et exaltatum est cor ejus, et volebat obtinere regionem, et cogitabat dolum adversus Simonem et filios ejus, ut tolleret eos. 
+    14: Simon autem, perambulans civitates quae erant in regione Judaeae, et sollicitudinem gerens earum, descendit in Jericho ipse, et Mathathias filius ejus, et Judas, anno centesimo septuagesimo septimo, mense undecimo : hic est mensis Sabath. 
+    15: Et suscepit eos filius Abobi in munitiunculam, quae vocatur Doch, cum dolo, quam aedificavit : et fecit eis convivium magnum, et abscondit illic viros.
+    16: Et cum inebriatus esset Simon et filii ejus, surrexit Ptolemaeus cum suis, et sumpserunt arma sua, et intraverunt in convivium : et occiderunt eum, et duos filios ejus, et quosdam pueros ejus : 
+    17: et fecit deceptionem magnam in Israel, et reddidit mala pro bonis. 
+    18: Et scripsit haec Ptolemaeus, et misit regi ut mitteret ei exercitum in auxilium, et traderet ei regionem, et civitates eorum, et tributa. 
+    19: Et misit alios in Gazaram tollere Joannem : et tribunis misit epistolas, ut venirent ad se, et daret eis argentum, et aurum, et dona. 
+    20: Et alios misit occupare Jerusalem et montem templi.
+    21: Et praecurrens quidam, nuntiavit Joanni in Gazara quia periit pater ejus et fratres ejus, et quia misit te quoque interfici. 
+    22: Ut audivit autem, vehementer expavit : et comprehendit viros, qui venerant perdere eum, et occidit eos : cognovit enim quia quaerebant eum perdere. 
+    23: Et cetera sermonum Joannis, et bellorum ejus, et bonarum virtutum, quibus fortiter gessit, et aedificii murorum, quos exstruxit, et rerum gestarum ejus : 
+    24: ecce haec scripta sunt in libro dierum sacerdotii ejus, ex quo factus est princeps sacerdotum post patrem suum.
+
+End of day 128.

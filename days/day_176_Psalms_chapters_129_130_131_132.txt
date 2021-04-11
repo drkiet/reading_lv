@@ -1,0 +1,49 @@
+Day 176:
+
+Reading Psalms, chapters ['129', '130', '131', '132']:
+
+  Chapter 129.
+
+    1: Canticum graduum. De profundis clamavi ad te, Domine; 
+    2: Domine, exaudi vocem meam. Fiant aures tuae intendentes in vocem deprecationis meae. 
+    3: Si iniquitates observaveris, Domine, Domine, quis sustinebit? 
+    4: Quia apud te propitiatio est; et propter legem tuam sustinui te, Domine. Sustinuit anima mea in verbo ejus; 
+    5: speravit anima mea in Domino.
+    6: A custodia matutina usque ad noctem, speret Israel in Domino; 
+    7: quia apud Dominum misericordia, et copiosa apud eum redemptio. 
+    8: Et ipse redimet Israel ex omnibus iniquitatibus ejus.
+
+  Chapter 130.
+
+    1: Canticum graduum David. Domine, non est exaltatum cor meum, neque elati sunt oculi mei, neque ambulavi in magnis, neque in mirabilibus super me. 
+    2: Si non humiliter sentiebam, sed exaltavi animam meam; sicut ablactatus est super matre sua, ita retributio in anima mea. 
+    3: Speret Israel in Domino, ex hoc nunc et usque in saeculum.
+
+  Chapter 131.
+
+    1: Canticum graduum. Memento, Domine, David, et omnis mansuetudinis ejus; 
+    2: sicut juravit Domino, votum vovit Deo Jacob : 
+    3: Si introiero in tabernaculum domus meae; si ascendero in lectum strati mei; 
+    4: si dedero somnum oculis meis, et palpebris meis dormitationem, 
+    5: et requiem temporibus meis, donec inveniam locum Domino, tabernaculum Deo Jacob.
+    6: Ecce audivimus eam in Ephrata; invenimus eam in campis silvae. 
+    7: Introibimus in tabernaculum ejus; adorabimus in loco ubi steterunt pedes ejus. 
+    8: Surge, Domine, in requiem tuam, tu et arca sanctificationis tuae. 
+    9: Sacerdotes tui induantur justitiam, et sancti tui exsultent. 
+    10: Propter David, servum tuum, non avertas faciem christi tui.
+    11: Juravit Dominus David veritatem, et non frustrabitur eam : De fructu ventris tui ponam super sedem tuam. 
+    12: Si custodierint filii tui testamentum meum, et testimonia mea haec quae docebo eos, et filii eorum usque in saeculum sedebunt super sedem tuam. 
+    13: Quoniam elegit Dominus Sion, elegit eam in habitationem sibi. 
+    14: Haec requies mea in saeculum saeculi; hic habitabo, quoniam elegi eam. 
+    15: Viduam ejus benedicens benedicam; pauperes ejus saturabo panibus.
+    16: Sacerdotes ejus induam salutari, et sancti ejus exsultatione exsultabunt. 
+    17: Illuc producam cornu David; paravi lucernam christo meo. 
+    18: Inimicos ejus induam confusione; super ipsum autem efflorebit sanctificatio mea.
+
+  Chapter 132.
+
+    1: Canticum graduum David. Ecce quam bonum et quam jucundum, habitare fratres in unum! 
+    2: Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, quod descendit in oram vestimenti ejus; 
+    3: sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in saeculum.
+
+End of day 176.

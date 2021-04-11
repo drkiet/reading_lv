@@ -1,0 +1,123 @@
+Day 68:
+
+Reading 1-Samuel, chapters ['25', '26', '27', '28']:
+
+  Chapter 25.
+
+    1: Mortuus est autem Samuel, et congregatus est universus Israel, et planxerunt eum, et sepelierunt eum in domo sua in Ramatha. Consurgensque David descendit in desertum Pharan. 
+    2: Erat autem vir quispiam in solitudine Maon, et possessio ejus in Carmelo, et homo ille magnus nimis : erantque ei oves tria millia, et mille caprae : et accidit ut tonderetur grex ejus in Carmelo. 
+    3: Nomen autem viri illius erat Nabal : et nomen uxoris ejus Abigail : eratque mulier illa prudentissima, et speciosa : porro vir ejus durus, et pessimus, et malitiosus : erat autem de genere Caleb. 
+    4: Cum ergo audisset David in deserto quod tonderet Nabal gregem suum, 
+    5: misit decem juvenes, et dixit eis : Ascendite in Carmelum, et venietis ad Nabal, et salutabitis eum ex nomine meo pacifice.
+    6: Et dicetis : Sit fratribus meis, et tibi pax, et domui tuae pax, et omnibus, quaecumque habes, sit pax. 
+    7: Audivi quod tonderent pastores tui, qui erant nobiscum in deserto : numquam eis molesti fuimus, nec aliquando defuit quidquam eis de grege, omni tempore quo fuerunt nobiscum in Carmelo. 
+    8: Interroga pueros tuos, et indicabunt tibi. Nunc ergo inveniant pueri tui gratiam in oculis tuis : in die enim bona venimus : quodcumque invenerit manus tua, da servis tuis, et filio tuo David. 
+    9: Cumque venissent pueri David, locuti sunt ad Nabal omnia verba haec ex nomine David : et siluerunt. 
+    10: Respondens autem Nabal pueris David, ait : Quis est David? et quis est filius Isai? hodie increverunt servi qui fugiunt dominos suos.
+    11: Tollam ergo panes meos, et aquas meas, et carnes pecorum, quae occidi tonsoribus meis, et dabo viris quos nescio unde sint? 
+    12: Regressi sunt itaque pueri David per viam suam, et reversi venerunt, et nuntiaverunt ei omnia verba quae dixerat. 
+    13: Tunc ait David pueris suis : Accingatur unusquisque gladio suo. Et accincti sunt singuli gladiis suis, accinctusque est et David ense suo : et secuti sunt David quasi quadringenti viri : porro ducenti remanserunt ad sarcinas. 
+    14: Abigail autem uxori Nabal nuntiavit unus de pueris suis, dicens : Ecce David misit nuntios de deserto, ut benedicerent domino nostro : et aversatus est eos. 
+    15: Homines isti boni satis fuerant nobis, et non molesti : nec quidquam aliquando periit omni tempore, quo fuimus conversati cum eis in deserto :
+    16: pro muro erant nobis tam in nocte quam in die, omnibus diebus quibus pavimus apud eos greges. 
+    17: Quam ob rem considera, et recogita quid facias : quoniam completa est malitia adversum virum tuum, et adversum domum tuam, et ipse est filius Belial, ita ut nemo possit ei loqui. 
+    18: Festinavit igitur Abigail, et tulit ducentos panes, et duos utres vini, et quinque arietes coctos, et quinque sata polentae, et centum ligaturas uvae passae, et ducentas massas caricarum, et posuit super asinos : 
+    19: dixitque pueris suis : Praecedite me : ecce ego post tergum sequar vos : viro autem suo Nabal non indicavit. 
+    20: Cum ergo ascendisset asinum, et descenderet ad radices montis, David et viri ejus descendebant in occursum ejus : quibus et illa occurrit.
+    21: Et ait David : Vere frustra servavi omnia quae hujus erant in deserto, et non periit quidquam de cunctis quae ad eum pertinebant : et reddidit mihi malum pro bono. 
+    22: Haec faciat Deus inimicis David, et haec addat, si reliquero de omnibus quae ad ipsum pertinent usque mane, mingentem ad parietem. 
+    23: Cum autem vidisset Abigail David, festinavit, et descendit de asino, et procidit coram David super faciem suam, et adoravit super terram, 
+    24: et cecidit ad pedes ejus, et dixit : In me sit, domine mi, haec iniquitas : loquatur, obsecro ancilla tua in auribus tuis : et audi verba famulae tuae. 
+    25: Ne ponat, oro, dominus meus rex cor suum super virum istum iniquum Nabal : quoniam secundum nomen suum stultus est, et stultitia est cum eo : ego autem ancilla tua non vidi pueros tuos, domine mi, quos misisti.
+    26: Nunc ergo, domine mi, vivit Dominus, et vivit anima tua, qui prohibuit te ne venires in sanguinem, et salvavit manum tuam tibi : et nunc fiant sicut Nabal inimici tui, et qui quaerunt domino meo malum. 
+    27: Quapropter suscipe benedictionem hanc, quam attulit ancilla tua tibi domino meo : et da pueris qui sequuntur te dominum meum. 
+    28: Aufer iniquitatem famulae tuae : faciens enim faciet Dominus tibi domino meo domum fidelem, quia praelia Domini, domine mi, tu praeliaris : malitia ergo non inveniatur in te omnibus diebus vitae tuae. 
+    29: Si enim surrexerit aliquando homo persequens te, et quaerens animam tuam, erit anima domini mei custodita quasi in fasciculo viventium, apud Dominum Deum tuum : porro inimicorum tuorum anima rotabitur, quasi in impetu et circulo fundae. 
+    30: Cum ergo fecerit Dominus tibi domino meo omnia quae locutus est bona de te, et constituerit te ducem super Israel,
+    31: non erit tibi hoc in singultum, et in scrupulum cordis domino meo, quod effuderis sanguinem innoxium, aut ipse te ultus fueris : et cum benefecerit Dominus domino meo, recordaberis ancillae tuae. 
+    32: Et ait David ad Abigail : Benedictus Dominus Deus Israel, qui misit hodie te in occursum meum, et benedictum eloquium tuum, 
+    33: et benedicta tu, quae prohibuisti me hodie ne irem ad sanguinem, et ulciscerer me manu mea. 
+    34: Alioquin vivit Dominus Deus Israel, qui prohibuit me ne malum facerem tibi : nisi cito venisses in occursum mihi, non remansisset Nabal usque ad lucem matutinam, mingens ad parietem. 
+    35: Suscepit ergo David de manu ejus omnia quae attulerat ei, dixitque ei : Vade pacifice in domum tuam, ecce audivi vocem tuam, et honoravi faciem tuam.
+    36: Venit autem Abigail ad Nabal : et ecce erat ei convivium in domo ejus, quasi convivium regis, et cor Nabal jucundum : erat enim ebrius nimis : et non indicavit ei verbum pusillum aut grande usque mane. 
+    37: Diluculo autem cum digessisset vinum Nabal, indicavit ei uxor sua verba haec, et emortuum est cor ejus intrinsecus, et factus est quasi lapis. 
+    38: Cumque pertransissent decem dies, percussit Dominus Nabal, et mortuus est. 
+    39: Quod cum audisset David mortuum Nabal, ait : Benedictus Dominus, qui judicavit causam opprobrii mei de manu Nabal, et servum suum custodivit a malo, et malitiam Nabal reddidit Dominus in caput ejus. Misit ergo David, et locutus est ad Abigail, ut sumeret eam sibi in uxorem. 
+    40: Et venerunt pueri David ad Abigail in Carmelum, et locuti sunt ad eam, dicentes : David misit nos ad te, ut accipiat te sibi in uxorem.
+    41: Quae consurgens, adoravit prona in terram, et ait : Ecce famula tua sit in ancillam, ut lavet pedes servorum domini mei. 
+    42: Et festinavit, et surrexit Abigail, et ascendit super asinum, et quinque puellae ierunt cum ea, pedissequae ejus, et secuta est nuntios David : et facta est illi uxor. 
+    43: Sed et Achinoam accepit David de Jezrael : et fuit utraque uxor ejus. 
+    44: Saul autem dedit Michol filiam suam uxorem David, Phalti filio Lais, qui erat de Gallim.
+
+  Chapter 26.
+
+    1: Et venerunt Ziphaei ad Saul in Gabaa, dicentes : Ecce, David absconditus est in colle Hachila, quae est ex adverso solitudinis. 
+    2: Et surrexit Saul, et descendit in desertum Ziph, et cum eo tria millia virorum de electis Israel, ut quaereret David in deserto Ziph. 
+    3: Et castrametatus est Saul in Gabaa Hachila, quae erat ex adverso solitudinis in via : David autem habitabat in deserto. Videns autem quod venisset Saul post se in desertum, 
+    4: misit exploratores, et didicit quod illuc venisset certissime. 
+    5: Et surrexit David clam, et venit ad locum ubi erat Saul : cumque vidisset locum in quo dormiebat Saul, et Abner filius Ner, princeps militiae ejus, et Saulem dormientem in tentorio, et reliquum vulgus per circuitum ejus,
+    6: ait David ad Achimelech Hethaeum, et Abisai filium Sarviae, fratrem Joab, dicens : Quis descendet mecum ad Saul in castra? Dixitque Abisai : Ego descendam tecum. 
+    7: Venerunt ergo David et Abisai ad populum nocte, et invenerunt Saul jacentem et dormientem in tentorio, et hastam fixam in terra ad caput ejus : Abner autem et populum dormientes in circuitu ejus. 
+    8: Dixitque Abisai ad David : Conclusit Deus inimicum tuum hodie in manus tuas : nunc ergo perfodiam eum lancea in terra, semel, et secundo opus non erit. 
+    9: Et dixit David ad Abisai : Ne interficias eum : quis enim extendet manum suam in christum Domini, et innocens erit? 
+    10: Et dixit David : Vivit Dominus, quia nisi Dominus percusserit eum, aut dies ejus venerit ut moriatur, aut in praelium descendens perierit :
+    11: propitius sit mihi Dominus ne extendam manum meam in christum Domini : nunc igitur tolle hastam, quae est ad caput ejus, et scyphum aquae, et abeamus. 
+    12: Tulit igitur David hastam, et scyphum aquae, qui erat ad caput Saul, et abierunt : et non erat quisquam, qui videret, et intelligeret, et evigilaret, sed omnes dormiebant, quia sopor Domini irruerat super eos. 
+    13: Cumque transisset David ex adverso, et stetisset in vertice montis de longe, et esset grande intervallum inter eos, 
+    14: clamavit David ad populum, et ad Abner filium Ner, dicens : Nonne respondebis, Abner? Et respondens Abner, ait : Quis es tu, qui clamas, et inquietas regem? 
+    15: Et ait David ad Abner : Numquid non vir tu es? et quis alius similis tui in Israel? quare ergo non custodisti dominum tuum regem? ingressus est enim unus de turba ut interficeret regem, dominum tuum.
+    16: Non est bonum hoc, quod fecisti : vivit Dominus, quoniam filii mortis estis vos, qui non custodistis dominum vestrum, christum Domini : nunc ergo vide ubi sit hasta regis, et ubi sit scyphus aquae qui erat ad caput ejus. 
+    17: Cognovit autem Saul vocem David, et dixit : Numquid vox haec tua, fili mi David? Et ait David : Vox mea, domine mi rex. 
+    18: Et ait : Quam ob causam dominus meus persequitur servum suum? Quid feci? aut quod est malum in manu mea? 
+    19: Nunc ergo audi, oro, domine mi rex, verba servi tui : si Dominus incitat te adversum me, odoretur sacrificium : si autem filii hominum, maledicti sunt in conspectu Domini : qui ejecerunt me hodie, ut non habitem in haereditate Domini, dicentes : Vade, servi diis alienis. 
+    20: Et nunc non effundatur sanguis meus in terram coram Domino : quia egressus est rex Israel ut quaerat pulicem unum, sicut persequitur perdix in montibus.
+    21: Et ait Saul : Peccavi, revertere fili mi David : nequaquam enim ultra tibi malefaciam, eo quod pretiosa fuerit anima mea in oculis tuis hodie : apparet enim quod stulte egerim, et ignoraverim multa nimis. 
+    22: Et respondens David, ait : Ecce hasta regis : transeat unus de pueris regis, et tollat eam. 
+    23: Dominus autem retribuet unicuique secundum justitiam suam et fidem : tradidit enim te Dominus hodie in manum meam, et nolui extendere manum meam in christum Domini. 
+    24: Et sicut magnificata est anima tua hodie in oculis meis, sic magnificetur anima mea in oculis Domini, et liberet me de omni angustia. 
+    25: Ait ergo Saul ad David : Benedictus tu fili mi David : et quidem faciens facies, et potens poteris. Abiit autem David in viam suam, et Saul reversus est in locum suum.
+
+  Chapter 27.
+
+    1: Et ait David in corde suo : Aliquando incidam una die in manus Saul : nonne melius est ut fugiam, et salver in terra Philisthinorum, ut desperet Saul, cessetque me quaerere in cunctis finibus Israel? Fugiam ergo manus ejus. 
+    2: Et surrexit David, et abiit ipse, et sexcenti viri cum eo, ad Achis filium Maoch regem Geth. 
+    3: Et habitavit David cum Achis in Geth, ipse et viri ejus : vir et domus ejus : et David, et duae uxores ejus, Achinoam Jezrahelitis, et Abigail uxor Nabal Carmeli. 
+    4: Et nuntiatum est Sauli quod fugisset David in Geth, et non addidit ultra quaerere eum. 
+    5: Dixit autem David ad Achis : Si inveni gratiam in oculis tuis, detur mihi locus in una urbium regionis hujus, ut habitem ibi : cur enim manet servus tuus in civitate regis tecum?
+    6: Dedit itaque ei Achis in die illa Siceleg : propter quam causam facta est Siceleg regum Juda, usque in diem hanc. 
+    7: Fuit autem numerus dierum, quibus habitavit David in regione Philisthinorum, quatuor mensium. 
+    8: Et ascendit David et viri ejus, et agebant praedas de Gessuri, et de Gerzi, et de Amalecitis : hi enim pagi habitabantur in terra antiquitus, euntibus Sur usque ad terram Aegypti. 
+    9: Et percutiebat David omnem terram, nec relinquebat viventem virum et mulierem : tollensque oves, et boves, et asinos, et camelos, et vestes, revertebatur, et veniebat ad Achis. 
+    10: Dicebat autem ei Achis : In quem irruisti hodie? Respondebat David : Contra meridiem Judae, et contra meridiem Jerameel, et contra meridiem Ceni.
+    11: Virum et mulierem non vivificabat David, nec adducebat in Geth, dicens : Ne forte loquantur adversum nos : Haec fecit David : et hoc erat decretum illi omnibus diebus quibus habitavit in regione Philisthinorum. 
+    12: Credidit ergo Achis David, dicens : Multa mala operatus est contra populum suum Israel : erit igitur mihi servus sempiternus.
+
+  Chapter 28.
+
+    1: Factum est autem in diebus illis, congregaverunt Philisthiim agmina sua, ut praepararentur ad bellum contra Israel : dixitque Achis ad David : Sciens nunc scito, quoniam mecum egredieris in castris tu, et viri tui. 
+    2: Dixitque David ad Achis : Nunc scies quae facturus est servus tuus. Et ait Achis ad David : Et ego custodem capitis mei ponam te cunctis diebus. 
+    3: Samuel autem mortuus est, planxitque eum omnis Israel, et sepelierunt eum in Ramatha urbe sua. Et Saul abstulit magos et hariolos de terra. 
+    4: Congregatique sunt Philisthiim, et venerunt, et castrametati sunt in Sunam : congregavit autem et Saul universum Israel, et venit in Gelboe. 
+    5: Et vidit Saul castra Philisthiim, et timuit, et expavit cor ejus nimis.
+    6: Consuluitque Dominum, et non respondit ei neque per somnia, neque per sacerdotes, neque per prophetas. 
+    7: Dixitque Saul servis suis : Quaerite mihi mulierem habentem pythonem, et vadam ad eam, et sciscitabor per illam. Et dixerunt servi ejus ad eum : Est mulier pythonem habens in Endor. 
+    8: Mutavit ergo habitum suum, vestitusque est aliis vestimentis, et abiit ipse, et duo viri cum eo, veneruntque ad mulierem nocte, et ait illi : Divina mihi in pythone, et suscita mihi quem dixero tibi. 
+    9: Et ait mulier ad eum : Ecce, tu nosti quanta fecerit Saul, et quomodo eraserit magos et hariolos de terra : quare ergo insidiaris animae meae, ut occidar? 
+    10: Et juravit ei Saul in Domino, dicens : Vivit Dominus, quia non eveniet tibi quidquam mali propter hanc rem.
+    11: Dixitque ei mulier : Quem suscitabo tibi? Qui ait : Samuelem mihi suscita. 
+    12: Cum autem vidisset mulier Samuelem, exclamavit voce magna, et dixit ad Saul : Quare imposuisti mihi? Tu es enim Saul. 
+    13: Dixitque ei rex : Noli timere : quid vidisti? Et ait mulier ad Saul : Deos vidi ascendentes de terra. 
+    14: Dixitque ei : Qualis est forma ejus? Quae ait : Vir senex ascendit, et ipse amictus est pallio. Et intellexit Saul quod Samuel esset, et inclinavit se super faciem suam in terra, et adoravit. 
+    15: Dixit autem Samuel ad Saul : Quare inquietasti me ut suscitarer? Et ait Saul : Coarctor nimis : siquidem Philisthiim pugnant adversum me, et Deus recessit a me, et exaudire me noluit neque in manu prophetarum, neque per somnia : vocavi ergo te, ut ostenderes mihi quid faciam.
+    16: Et ait Samuel : Quid interrogas me, cum Dominus recesserit a te, et transierit ad aemulum tuum? 
+    17: Faciet enim tibi Dominus sicut locutus est in manu mea, et scindet regnum tuum de manu tua et dabit illud proximo tuo David : 
+    18: quia non obedisti voci Domini, neque fecisti iram furoris ejus in Amalec : idcirco quod pateris, fecit tibi Dominus hodie. 
+    19: Et dabit Dominus etiam Israel tecum in manus Philisthiim : cras autem tu et filii tui mecum eritis : sed et castra Israel tradet Dominus in manus Philisthiim. 
+    20: Statimque Saul cecidit porrectus in terram : extimuerat enim verba Samuelis, et robur non erat in eo, quia non comederat panem tota die illa.
+    21: Ingressa est itaque mulier illa ad Saul ( conturbatus enim erat valde), dixitque ad eum : Ecce obedivit ancilla tua voci tuae, et posui animam meam in manu mea : et audivi sermones tuos, quos locutus es ad me. 
+    22: Nunc igitur audi et tu vocem ancillae tuae, et ponam coram te buccellam panis, ut comedens convalescas, et possis iter agere. 
+    23: Qui renuit, et ait : Non comedam. Coegerunt autem eum servi sui et mulier, et tandem audita voce eorum surrexit de terra, et sedit super lectum. 
+    24: Mulier autem illa habebat vitulum pascualem in domo, et festinavit, et occidit eum : tollensque farinam, miscuit eam, et coxit azyma, 
+    25: et posuit ante Saul et ante servos ejus. Qui cum comedissent, surrexerunt, et ambulaverunt per totam noctem illam.
+
+End of day 68.

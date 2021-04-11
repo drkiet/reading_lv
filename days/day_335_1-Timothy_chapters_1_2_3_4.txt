@@ -1,0 +1,84 @@
+Day 335:
+
+Reading 1-Timothy, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Paulus Apostolus Jesu Christi secundum imperium Dei Salvatoris nostri, et Christi Jesu spei nostrae, 
+    2: Timotheo dilecto filio in fide. Gratia, misericordia, et pax a Deo Patre, et Christo Jesu Domino nostro. 
+    3: Sicut rogavi te ut remaneres Ephesi cum irem in Macedoniam, ut denuntiares quibusdam ne aliter docerent, 
+    4: neque intenderent fabulis, et genealogiis interminatis : quae quaestiones praestant magis quam aedificationem Dei, quae est in fide. 
+    5: Finis autem praecepti est caritas de corde puro, et conscientia bona, et fide non ficta.
+    6: A quibus quidam aberrantes, conversi sunt in vaniloquium, 
+    7: volentes esse legis doctores, non intelligentes neque quae loquuntur, neque de quibus affirmant. 
+    8: Scimus autem quia bona est lex si quis ex legitime utatur : 
+    9: sciens hoc quia lex justo non est posita, sed injustis, et non subditis, impiis, et peccatoribus, sceleratis, et contaminatis, parricidis, et matricidis, homicidis, 
+    10: fornicariis, masculorum concubitoribus, plagiariis, mendacibus, et perjuris, et si quid aliud sanae doctrinae adversatur,
+    11: quae est secundum Evangelium gloriae beati Dei, quod creditum est mihi. 
+    12: Gratias ago ei, qui me confortavit, Christo Jesu Domino nostro, quia fidelem me existimavit, ponens in ministerio : 
+    13: qui prius blasphemus fui, et persecutor, et contumeliosus : sed misericordiam Dei consecutus sum, quia ignorans feci in incredulitate. 
+    14: Superabundavit autem gratia Domini nostri cum fide, et dilectione, quae est in Christo Jesu. 
+    15: Fidelis sermo, et omni acceptione dignus : quod Christus Jesus venit in hunc mundum peccatores salvos facere, quorum primus ego sum.
+    16: Sed ideo misericordiam consecutus sum : ut in me primo ostenderet Christus Jesus omnem patientiam ad informationem eorum, qui credituri sunt illi, in vitam aeternam. 
+    17: Regi autem saeculorum immortali, invisibili, soli Deo honor et gloria in saecula saeculorum. Amen. 
+    18: Hoc praeceptum commendo tibi, fili Timothee, secundum praecedentes in te prophetias, ut milites in illis bonam militiam, 
+    19: habens fidem, et bonam conscientiam, quam quidam repellentes, circa fidem naufragaverunt : 
+    20: ex quibus est Hymenaeus, et Alexander : quos tradidi Satanae, ut discant non blasphemare.
+
+  Chapter 2.
+
+    1: Obsecro igitur primum omnium fieri obsecrationes, orationes, postulationes, gratiarum actiones, pro omnibus hominibus : 
+    2: pro regibus, et omnibus qui in sublimitate sunt, ut quietam et tranquillam vitam agamus in omni pietate, et castitate : 
+    3: hoc enim bonum est, et acceptum coram Salvatore nostro Deo, 
+    4: qui omnes homines vult salvos fieri, et ad agnitionem veritatis venire. 
+    5: Unus enim Deus, unus et mediator Dei et hominum homo Christus Jesus :
+    6: qui dedit redemptionem semetipsum pro omnibus, testimonium temporibus suis : 
+    7: in quo positus sum ego praedicator, et Apostolus ( veritatem dico, non mentior) doctor gentium in fide, et veritate. 
+    8: Volo ergo viros orare in omni loco, levantes puras manus sine ira et disceptatione. 
+    9: Similiter et mulieres in habitu ornato, cum verecundia et sobrietate ornantes se, et non in tortis crinibus, aut auro, aut margaritas, vel veste pretiosa : 
+    10: sed quod decet mulieres, promittentes pietatem per opera bona.
+    11: Mulier in silentio discat cum omni subjectione. 
+    12: Docere autem mulierem non permitto, neque dominari in virum : sed esse in silentio. 
+    13: Adam enim primus formatus est : deinde Heva : 
+    14: et Adam non est seductus : mulier autem seducta in praevaricatione fuit. 
+    15: Salvabitur autem per filiorum generationem, si permanserit in fide, et dilectione, et sanctificatione cum sobrietate.
+
+  Chapter 3.
+
+    1: Fidelis sermo : si quis episcopatum desiderat, bonum opus desiderat. 
+    2: Oportet ergo episcopum irreprehensibilem esse, unius uxoris virum, sobrium, prudentem, ornatum, pudicum, hospitalem, doctorem, 
+    3: non vinolentum, non percussorem, sed modestum : non litigiosum, non cupidum, sed 
+    4: suae domui bene praepositum : filios habentem subditos cum omni castitate. 
+    5: Si quis autem domui suae praeesse nescit, quomodo ecclesiae Dei diligentiam habebit?
+    6: Non neophytum : ne in superbiam elatus, in judicium incidat diaboli. 
+    7: Oportet autem illum et testimonium habere bonum ab iis qui foris sunt, ut non in opprobrium incidat, et in laqueum diaboli. 
+    8: Diaconos similiter pudicos, non bilingues, non multo vino deditos, non turpe lucrum sectantes : 
+    9: habentes mysterium fidei in conscientia pura. 
+    10: Et hi autem probentur primum : et sic ministrent, nullum crimen habentes.
+    11: Mulieres similiter pudicas, non detrahentes, sobrias, fideles in omnibus. 
+    12: Diaconi sint unius uxoris viri, qui filiis suis bene praesint, et suis domibus. 
+    13: Qui enim bene ministraverint, gradum bonum sibi acquirent, et multam fiduciam in fide, quae est in Christo Jesu. 
+    14: Haec tibi scribo, sperans me ad te venire cito : 
+    15: si autem tardavero, ut scias quomodo oporteat te in domo Dei conversari, quae est ecclesia Dei vivi, columna et firmamentum veritatis.
+    16: Et manifeste magnum est pietatis sacramentum, quod manifestatum est in carne, justificatum est in spiritu, apparuit angelis, praedicatum est gentibus, creditum est in mundo, assumptum est in gloria.
+
+  Chapter 4.
+
+    1: Spiritus autem manifeste dicit, quia in novissimis temporibus discedent quidam a fide, attendentes spiritibus erroris, et doctrinis daemoniorum, 
+    2: in hypocrisi loquentium mendacium, et cauteriatam habentium suam conscientiam, 
+    3: prohibentium nubere, abstinere a cibis, quod Deus creavit ad percipiendum cum gratiarum actione fidelibus, et iis qui cognoverunt veritatem. 
+    4: Quia omnis creatura Dei bona est, et nihil rejiciendum quod cum gratiarum actione percipitur : 
+    5: sanctificatur enim per verbum Dei, et orationem.
+    6: Haec proponens fratribus, bonus eris minister Christi Jesu enutritus verbis fidei, et bonae doctrinae, quam assecutus es. 
+    7: Ineptas autem, et aniles fabulas devita : exerce autem teipsum ad pietatem. 
+    8: Nam corporalis exercitatio, ad modicum utilis est : pietas autem ad omnia utilis est, promissionem habens vitae, quae nunc est, et futurae. 
+    9: Fidelis sermo, et omni acceptione dignus. 
+    10: In hoc enim laboramus, et maledicimur, quia speramus in Deum vivum, qui est Salvator omnium hominum, maxime fidelium.
+    11: Praecipe haec, et doce. 
+    12: Nemo adolescentiam tuam contemnat : sed exemplum esto fidelium in verbo, in conversatione, in caritate, in fide, in castitate. 
+    13: Dum venio, attende lectioni, exhortationi, et doctrinae. 
+    14: Noli negligere gratiam, quae in te est, quae data est tibi per prophetiam, cum impositione manuum presbyterii. 
+    15: Haec meditare, in his esto : ut profectus tuus manifestus sit omnibus.
+    16: Attende tibi, et doctrinae : insta in illis. Hoc enim faciens, et teipsum salvum facies, et eos qui te audiunt.
+
+End of day 335.

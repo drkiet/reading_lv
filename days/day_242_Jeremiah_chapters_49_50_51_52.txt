@@ -1,0 +1,200 @@
+Day 242:
+
+Reading Jeremiah, chapters ['49', '50', '51', '52']:
+
+  Chapter 49.
+
+    1: Ad filios Ammon. Haec dicit Dominus : Numquid non filii sunt Israel, aut haeres non est ei? Cur igitur haereditate possedit Melchom Gad, et populus ejus in urbibus ejus habitavit? 
+    2: Ideo dies veniunt, dicit Dominus, et auditum faciam super Rabbath filiorum Ammon fremitum praelii, et erit in tumultum dissipata, filiaeque ejus igni succendentur, et possidebit Israel possessores suos, ait Dominus. 
+    3: Ulula, Hesebon, quoniam vastata est Hai : clamate, filiae Rabbath, accingite vos ciliciis, plangite et circuite per sepes, quoniam Melchom in transmigrationem ducetur, sacerdotes ejus et principes ejus simul. 
+    4: Quid gloriaris in vallibus? defluxit vallis tua, filia delicata, quae confidebas in thesauris tuis, et dicebas : Quis veniet ad me? 
+    5: Ecce ego inducam super te terrorem, ait Dominus Deus exercituum, ab omnibus qui sunt in circuitu tuo : et dispergemini singuli a conspectu vestro, nec erit qui congreget fugientes.
+    6: Et post haec reverti faciam captivos filiorum Ammon, ait Dominus. 
+    7: Ad Idumaeam. Haec dicit Dominus exercituum : Numquid non ultra est sapientia in Theman? Periit consilium a filiis, inutilis facta est sapientia eorum. 
+    8: Fugite et terga vertite : descendite in voraginem, habitatores Dedan : quoniam perditionem Esau adduxi super eum, tempus visitationis ejus. 
+    9: Si vindemiatores venissent super te, non reliquissent racemum : si fures in nocte, rapuissent quod sufficeret sibi. 
+    10: Ego vero, discooperui Esau : revelavi abscondita ejus, et celari non poterit : vastatum est semen ejus, et fratres ejus, et vicini ejus, et non erit.
+    11: Relinque pupillos tuos : ego faciam eos vivere : et viduae tuae in me sperabunt. 
+    12: Quia haec dicit Dominus : Ecce quibus non erat judicium ut biberent calicem, bibentes bibent : et tu, quasi innocens relinqueris? non eris innocens, sed bibens bibes. 
+    13: Quia per memetipsum juravi, dicit Dominus, quod in solitudinem, et in opprobrium, et in desertum, et in maledictionem erit Bosra, et omnes civitates ejus erunt in solitudines sempiternas. 
+    14: Auditum audivi a Domino, et legatus ad gentes missus est : Congregamini, et venite contra eam, et consurgamus in praelium. 
+    15: Ecce enim parvulum dedi te in gentibus, contemptibilem inter homines.
+    16: Arrogantia tua decepit te, et superbia cordis tui, qui habitas in cavernis petrae, et apprehendere niteris altitudinem collis : cum exaltaveris quasi aquila nidum tuum, inde detraham te, dicit Dominus. 
+    17: Et erit Idumaea deserta : omnis qui transibit per eam stupebit, et sibilabit super omnes plagas ejus. 
+    18: Sicut subversa est Sodoma, et Gomorrha, et vicinae ejus, ait Dominus : non habitabit ibi vir, et non incolet eam filius hominis. 
+    19: Ecce quasi leo ascendet de superbia Jordanis ad pulchritudinem robustam, quia subito currere faciam eum ad illam. Et quis erit electus, quem praeponam ei? quis enim similis mei? et quis sustinebit me? et quis est iste pastor, qui resistat vultui meo? 
+    20: Propterea audite consilium Domini, quod iniit de Edom, et cogitationes ejus, quas cogitavit de habitatoribus Theman : si non dejecerint eos parvuli gregis, nisi dissipaverint cum eis habitaculum eorum.
+    21: A voce ruinae eorum commota est terra, clamor in mari Rubro auditus est vocis ejus. 
+    22: Ecce quasi aquila ascendet, et avolabit, et expandet alas suas super Bosran : et erit cor fortium Idumaeae in die illa quasi cor mulieris parturientis. 
+    23: Ad Damascum : Confusa est Emath et Arphad, quia auditum pessimum audierunt : turbati sunt in mari; prae sollicitudine quiescere non potuit. 
+    24: Dissoluta est Damascus, versa est in fugam : tremor apprehendit eam, angustia et dolores tenuerunt eam quasi parturientem. 
+    25: Quomodo dereliquerunt civitatem laudabilem, urbem laetitiae?
+    26: Ideo cadent juvenes ejus in plateis ejus, et omnes viri praelii conticescent in die illa, ait Dominus exercituum. 
+    27: Et succendam ignem in muro Damasci, et devorabit moenia Benadad. 
+    28: Ad Cedar, et ad regna Asor, quae percussit Nabuchodonosor rex Babylonis. Haec dicit Dominus : Surgite, et ascendite ad Cedar, et vastate filios orientis. 
+    29: Tabernacula eorum, et greges eorum capient : pelles eorum, et omnia vasa eorum, et camelos eorum tollent sibi, et vocabunt super eos formidinem in circuitu. 
+    30: Fugite, abite vehementer, in voraginibus sedete, qui habitatis Asor, ait Dominus : iniit enim contra vos Nabuchodonosor rex Babylonis consilium, et cogitavit adversum vos cogitationes.
+    31: Consurgite, et ascendite ad gentem quietam, et habitantem confidenter, ait Dominus : non ostia, nec vectes eis : soli habitant. 
+    32: Et erunt cameli eorum in direptionem, et multitudo jumentorum in praedam : et dispergam eos in omnem ventum, qui sunt attonsi in comam, et ex omni confinio eorum adducam interitum super eos, ait Dominus. 
+    33: Et erit Asor in habitaculum draconum, deserta usque in aeternum : non manebit ibi vir, nec incolet eam filius hominis. 
+    34: Quod facum est verbum Domini ad Jeremiam prophetam adversus Aelam, in principio regni Sedeciae regis Juda, dicens : 
+    35: Haec dicit Dominus exercituum : Ecce ego confrigam arcum Aelam, et summam fortitudinem eorum :
+    36: et inducam super Aelam quatuor ventos a quatuor plagis caeli, et ventilabo eos in omnes ventos istos, et non erit gens ad quam non perveniant profugi Aelam. 
+    37: Et pavere faciam Aelam coram inimicis suis, et in conspectu quaerentium animam eorum : et adducam super eos malum, iram furoris mei, dicit Dominus, et mittam post eos gladium donec consumam eos. 
+    38: Et ponam solium meum in Aelam, et perdam inde reges et principes, ait Dominus. 
+    39: In novissimis autem diebus reverti faciam captivos Aelam, dicit Dominus.
+
+  Chapter 50.
+
+    1: Verbum quod locutus est Dominus de Babylone et de terra Chaldaeorum, in manu Jeremiae prophetae. 
+    2: Annuntiate in gentibus, et auditum facite : levate signum, praedicate, et nolite celare : dicite : Capta est Babylon, confusus est Bel, victus est Merodach, confusa sunt sculptilia ejus, superata sunt idola eorum. 
+    3: Quoniam ascendit contra eam gens ab aquilone, quae ponet terram ejus in solitudinem, et non erit qui habitet in ea ab homine usque ad pecus : et moti sunt, et abierunt. 
+    4: In diebus illis, et in tempore illo, ait Dominus, venient filii Israel ipsi et filii Juda simul : ambulantes et flentes properabunt, et Dominum Deum suum quaerent : 
+    5: in Sion interrogabunt viam, huc facies eorum : venient, et apponentur ad Dominum foedere sempiterno, quod nulla oblivione delebitur.
+    6: Grex perditus factus est populus meus, pastores eorum seduxerunt eos, feceruntque vagari in montibus : de monte in collem transierunt, obliti sunt cubilis sui. 
+    7: Omnes qui invenerunt comederunt eos, et hostes eorum dixerunt : Non peccavimus : pro eo quod peccaverunt Domino decori justitiae, et exspectationi patrum eorum Domino. 
+    8: Recedite de medio Babylonis, et de terra Chaldaeorum egredimini, et estote quasi haedi ante gregem. 
+    9: Quoniam ecce ego suscito, et adducam in Babylonem congregationem gentium magnarum de terra aquilonis, et praeparabuntur adversus eam, et inde capietur : sagitta ejus quasi viri fortis interfectoris : non revertetur vacua. 
+    10: Et erit Chaldaea in praedam : omnes vastantes eam replebuntur, ait Dominus.
+    11: Quoniam exsultatis, et magna loquimini, diripientes haereditatem meam : quoniam effusi estis sicut vituli super herbam, et mugistis sicut tauri : 
+    12: confusa est mater vestra nimis, et adaequata pulveri, quae genuit vos : ecce novissima erit in gentibus, deserta, invia, et arens. 
+    13: Ab ira Domini non habitabitur, sed redigetur tota in solitudinem : omnis qui transibit per Babylonem stupebit, et sibilabit super universis plagis ejus. 
+    14: Praeparamini contra Babylonem per circuitum, omnes qui tenditis arcum : debellate eam, non parcatis jaculis, quia Domino peccavit. 
+    15: Clamate adversus eam, ubique dedit manum, ceciderunt fundamenta ejus, destructi sunt muri ejus, quoniam ultio Domini est : ultionem accipite de ea : sicut fecit, facite ei.
+    16: Disperdite satorem de Babylone, et tenentem falcem in tempore messis : a facie gladii columbae unusquisque ad populum suum convertetur, et singuli ad terram suam fugient. 
+    17: Grex dispersus Israel, leones ejecerunt eum : primus comedit eum rex Assur : iste novissimus exossavit eum Nabuchodonosor rex Babylonis. 
+    18: Propterea haec dicit Dominus exercituum, Deus Israel : Ecce ego visitabo regem Babylonis et terram ejus, sicut visitavi regem Assur : 
+    19: et reducam Israel ad habitaculum suum : et pascetur Carmelum et Basan, et in monte Ephraim et Galaad saturabitur anima ejus. 
+    20: In diebus illis, et in tempore illo, ait Dominus, quaeretur iniquitas Israel, et non erit : et peccatum Juda, et non invenietur, quoniam propitius ero eis quos reliquero.
+    21: Super terram dominantium ascende, et super habitatores ejus visita : dissipa, et interfice quae post eos sunt, ait Dominus, et fac juxta omnia quae praecepi tibi. 
+    22: Vox belli in terra, et contritio magna. 
+    23: Quomodo confractus est et contritus malleus universae terrae? quomodo versa est in desertum Babylon in gentibus? 
+    24: Illaqueavi te, et capta es, Babylon, et nesciebas : inventa es et apprehensa, quoniam Dominum provocasti. 
+    25: Aperuit Dominus thesaurum suum, et protulit vasa irae suae, quoniam opus est Domino Deo exercituum, in terra Chaldaeorum.
+    26: Venite ad eam ab extremis finibus, aperite ut exeant qui conculcent eam : tollite de via lapides, et redigite in acervos : et interficite eam, nec sit quidquam reliquum. 
+    27: Dissipate universos fortes ejus, descendant in occisionem : vae eis, quia venit dies eorum, tempus visitationis eorum! 
+    28: Vox fugientium, et eorum qui evaserunt de terra Babylonis, ut annuntient in Sion ultionem Domini Dei nostri, ultionem templi ejus. 
+    29: Annuntiate in Babylonem plurimis, omnibus qui tendunt arcum : consistite adversus eam per gyrum, et nullus evadat : reddite ei secundum opus suum : juxta omnia quae fecit, facite illi, quia contra Dominum erecta est, adversum Sanctum Israel. 
+    30: Idcirco cadent juvenes ejus in plateis ejus, et omnes viri bellatores ejus conticescent in die illa, ait Dominus.
+    31: Ecce ego ad te, superbe! dicit Dominus Deus exercituum : quia venit dies tuus, tempus visitationis tuae. 
+    32: Et cadet superbus, et corruet, et non erit qui suscitet eum : et succendam ignem in urbibus ejus, et devorabit omnia in circuitu ejus. 
+    33: Haec dicit Dominus exercituum : Calumniam sustinent filii Israel, et filii Juda simul : omnes qui ceperunt eos, tenent, nolunt dimittere eos. 
+    34: Redemptor eorum fortis, Dominus exercituum nomen ejus : judicio defendet causam eorum, ut exterreat terram, et commoveat habitatores Babylonis. 
+    35: Gladius ad Chaldaeos, ait Dominus, et ad habitatores Babylonis, et ad principes, et ad sapientes ejus.
+    36: Gladius ad divinos ejus, qui stulti erunt : gladius ad fortes illius, qui timebunt. 
+    37: Gladius ad equos ejus, et ad currus ejus, et ad omne vulgus quod est in medio ejus : et erunt quasi mulieres : gladius ad thesauros ejus, qui diripientur. 
+    38: Siccitas super aquas ejus erit, et arescent, quia terra sculptilium est, et in portentis gloriantur. 
+    39: Propterea habitabunt dracones cum faunis ficariis, et habitabunt in ea struthiones, et non inhabitabitur ultra usque in sempiternum, nec exstruetur usque ad generationem et generationem. 
+    40: Sicut subvertit Dominus Sodomam, et Gomorrham, et vicinas ejus, ait Dominus, non habitabit ibi vir, et non incolet eam filius hominis.
+    41: Ecce populus venit ab aquilone, et gens magna, et reges multi consurgent a finibus terrae. 
+    42: Arcum et scutum apprehendent : crudeles sunt, et immisericordes : vox eorum quasi mare sonabit : et super equos ascendent, sicut vir paratus ad praelium contra te, filia Babylon. 
+    43: Audivit rex Babylonis famam eorum, et dissolutae sunt manus ejus : angustia apprehendit eum, dolor quasi parturientem. 
+    44: Ecce quasi leo ascendet, de superbia Jordanis ad pulchritudinem robustam, quia subito currere faciam eum ad illam. Et quis erit electus, quem praeponam ei? quis est enim similis mei? et quis sustinebit me? et quis est iste pastor, qui resistat vultui meo? 
+    45: Propterea audite consilium Domini, quod mente concepit adversum Babylonem, et cogitationes ejus, quas cogitavit super terram Chaldaeorum : nisi detraxerint eos parvuli gregum, nisi dissipatum fuerit cum ipsis habitaculum eorum.
+    46: A voce captivitatis Babylonis commota est terra, et clamor inter gentes auditus est.
+
+  Chapter 51.
+
+    1: Haec dicit Dominus : Ecce ego suscitabo super Babylonem et super habitatores ejus, qui cor suum levaverunt contra me, quasi ventum pestilentem : 
+    2: et mittam in Babylonem ventilatores, et ventilabunt eam et demolientur terram ejus, quoniam venerunt super eam undique in die afflictionis ejus. 
+    3: Non tendat qui tendit arcum suum, et non ascendat loricatus : nolite parcere juvenibus ejus : interficite omnem militiam ejus. 
+    4: Et cadent interfecti in terra Chaldaeorum, et vulnerati in regionibus ejus. 
+    5: Quoniam non fuit viduatus Israel et Juda a Deo suo, Domino exercituum, terra autem eorum repleta est delicto a Sancto Israel.
+    6: Fugite de medio Babylonis, et salvet unusquisque animam suam : nolite tacere super iniquitatem ejus, quoniam tempus ultionis est a Domino, vicissitudinem ipse retribuet ei. 
+    7: Calix aureus Babylon in manu Domini, inebrians omnem terram : de vino ejus biberunt gentes, et ideo commotae sunt. 
+    8: Subito cecidit Babylon, et contrita est. Ululate super eam : tollite resinam ad dolorem ejus, si forte sanetur. 
+    9: Curavimus Babylonem, et non est sanata : derelinquamus eam, et eamus unusquisque in terram suam, quoniam pervenit usque ad caelos judicium ejus, et elevatum est usque ad nubes. 
+    10: Protulit Dominus justitias nostras : venite, et narremus in Sion opus Domini Dei nostri.
+    11: Acuite sagittas, implete pharetras : suscitavit Dominus spiritum regum Medorum : et contra Babylonem mens ejus est ut perdat eam, quoniam ultio Domini est, ultio templi sui. 
+    12: Super muros Babylonis levate signum, augete custodiam, levate custodes, praeparate insidias, quia cogitavit Dominus, et fecit quaecumque locutus est contra habitatores Babylonis. 
+    13: Quae habitas super aquas multas, locuples in thesauris, venit finis tuus, pedalis praecisionis tuae. 
+    14: Juravit Dominus exercituum per animam suam : Quoniam replebo te hominibus quasi brucho, et super te celeuma cantabitur. 
+    15: Qui fecit terram in fortitudine sua, praeparavit orbem in sapientia sua, et prudentia sua extendit caelos.
+    16: Dante eo vocem, multiplicantur aquae in caelo : qui levat nubes ab extremo terrae, fulgura in pluviam fecit, et produxit ventum de thesauris suis. 
+    17: Stultus factus est omnis homo a scientia; confusus est omnis conflator in sculptili, quia mendax est conflatio eorum, nec est spiritus in eis. 
+    18: Vana sunt opera, et risu digna : in tempore visitationis suae peribunt. 
+    19: Non sicut haec, pars Jacob, quia qui fecit omnia ipse est : et Israel sceptrum haereditatis ejus : Dominus exercituum nomen ejus. 
+    20: Collidis tu mihi vasa belli : et ego collidam in te gentes, et disperdam in te regna :
+    21: et collidam in te equum et equitem ejus : et collidam in te currum et ascensorem ejus : 
+    22: et collidam in te virum et mulierem : et collidam in te senem et puerum : et collidam in te juvenem et virginem : 
+    23: et collidam in te pastorem et gregem ejus : et collidam in te agricolam et jugales ejus : et collidam in te duces et magistratus : 
+    24: et reddam Babyloni, et cunctis habitatoribus Chaldaeae, omne malum suum, quod fecerunt in Sion, in oculis vestris, ait Dominus. 
+    25: Ecce ego ad te, mons pestifer, ait Dominus, qui corrumpis universam terram : et extendam manum meam super te, et evolvam te de petris, et dabo te in montem combustionis :
+    26: et non tollent de te lapidem in angulum, et lapidem in fundamenta : sed perditus in aeternum eris, ait Dominus. 
+    27: Levate signum in terra, clangite buccina in gentibus, sanctificate super eam gentes, annuntiate contra illam regibus Ararat, Menni, et Ascenez : numerate contra eam Taphsar, adducite equum quasi bruchum aculeatum. 
+    28: Sanctificate contra eam gentes, reges Mediae, duces ejus, et universos magistratus ejus, cunctamque terram potestatis ejus. 
+    29: Et commovebitur terra et conturbabitur, quia evigilabit contra Babylonem cogitatio Domini, ut ponat terram Babylonis desertam et inhabitabilem. 
+    30: Cessaverunt fortes Babylonis a praelio, habitaverunt in praesidiis : devoratum est robur eorum, et facti sunt quasi mulieres : incensa sunt tabernacula ejus, contriti sunt vectes ejus.
+    31: Currens obviam currenti veniet, et nuntius obvius nuntianti, ut annuntiet regi Babylonis quia capta est civitas ejus a summo usque ad summum. 
+    32: Et vada praeoccupata sunt, et paludes incensae sunt igni, et viri bellatores conturbati sunt. 
+    33: Quia haec dicit Dominus exercituum, Deus Israel : Filia Babylonis quasi area, tempus triturae ejus : adhuc modicum, et veniet tempus messionis ejus. 
+    34: Comedit me, devoravit me Nabuchodonosor rex Babylonis : reddidit me quasi vas inane : absorbuit me quasi draco, replevit ventrem suum teneritudine mea, et ejecit me. 
+    35: Iniquitas adversum me et caro mea super Babylonem, dicit habitatio Sion : et sanguis meus super habitatores Chaldaeae, dicit Jerusalem.
+    36: Propterea haec dicit Dominus : Ecce ego judicabo causam tuam, et ulciscar ultionem tuam : et desertum faciam mare ejus, et siccabo venam ejus. 
+    37: Et erit Babylon in tumulos, habitatio draconum, stupor et sibilus, eo quod non sit habitator. 
+    38: Simul ut leones rugient, excutient comas veluti catuli leonum. 
+    39: In calore eorum ponam potus eorum, et inebriabo eos, ut sopiantur, et dormiant somnum sempiternum, et non consurgant, dicit Dominus. 
+    40: Deducam eos quasi agnos ad victimam, et quasi arietes cum haedis.
+    41: Quomodo capta est Sesach, et comprehensa est inclyta universae terrae! quomodo facta est in stuporem Babylon inter gentes! 
+    42: Ascendit super Babylonem mare, multitudine fluctuum ejus operta est. 
+    43: Factae sunt civitates ejus in stuporem, terra inhabitabilis et deserta, terra in qua nullus habitet, nec transeat per eam filius hominis. 
+    44: Et visitabo super Bel in Babylone, et ejiciam quod absorbuerat de ore ejus : et non confluent ad eum ultra gentes, siquidem et murus Babylonis corruet. 
+    45: Egredimini de medio ejus, populus meus, ut salvet unusquisque animam suam ab ira furoris Domini,
+    46: et ne forte mollescat cor vestrum, et timeatis auditum qui audietur in terra : et veniet in anno auditio, et post hunc annum auditio, et iniquitas in terra, et dominator super dominatorem. 
+    47: Propterea ecce dies veniunt, et visitabo super sculptilia Babylonis, et omnis terra ejus confundetur, et universi interfecti ejus cadent in medio ejus. 
+    48: Et laudabunt super Babylonem caeli et terra, et omnia quae in eis sunt, quia ab aquilone venient ei praedones, ait Dominus. 
+    49: Et quomodo fecit Babylon, ut caderent occisi in Israel, sic de Babylone cadent occisi in universa terra. 
+    50: Qui fugistis gladium, venite, nolite stare : recordamini procul Domini, et Jerusalem ascendat super cor vestrum.
+    51: Confusi sumus, quoniam audivimus opprobrium : operuit ignominia facies nostras, quia venerunt alieni super sanctificationem domus Domini. 
+    52: Propterea ecce dies veniunt, ait Dominus, et visitabo super sculptilia ejus, et in omni terra ejus mugiet vulneratus. 
+    53: Si ascenderit Babylon in caelum, et firmaverit in excelso robur suum, a me venient vastatores ejus, ait Dominus. 
+    54: Vox clamoris de Babylone, et contritio magna de terra Chaldaeorum : 
+    55: quoniam vastavit Dominus Babylonem, et perdidit ex ea vocem magnam : et sonabunt fluctus eorum quasi aquae multae, dedit sonitum vox eorum,
+    56: quia venit super eam, id est super Babylonem, praedo, et apprehensi sunt fortes ejus, et emarcuit arcus eorum, quia fortis ultor Dominus reddens retribuet. 
+    57: Et inebriabo principes ejus, et sapientes ejus, et duces ejus, et magistratus ejus, et fortes ejus : et dormient somnum sempiternum, et non expergiscentur, ait rex ( Dominus exercituum nomen ejus). 
+    58: Haec dicit Dominus exercituum : Murus Babylonis ille latissimus suffossione suffodietur, et portae ejus excelsae igni comburentur, et labores populorum ad nihilum, et gentium in ignem erunt, et disperibunt. 
+    59: Verbum quod praecepit Jeremias propheta Saraiae filio Neriae filii Maasiae, cum pergeret cum Sedecia rege in Babylonem, in anno quarto regni ejus : Saraias autem erat princeps prophetiae. 
+    60: Et scripsit Jeremias omne malum, quod venturum erat super Babylonem, in libro uno, omnia verba haec quae scripta sunt contra Babylonem.
+    61: Et dixit Jeremias ad Saraiam : Cum veneris in Babylonem, et videris, et legeris omnia verba haec, 
+    62: dices : Domine, tu locutus es contra locum istum, ut disperderes eum, ne sit qui in eo habitet, ab homine usque ad pecus, et ut sit perpetua solitudo. 
+    63: Cumque compleveris legere librum istum, ligabis ad eum lapidem, et projicies illum in medium Euphraten, 
+    64: et dices : Sic submergetur Babylon, et non consurget a facie afflictionis quam ego adduco super eam, et dissolvetur. Hucusque verba Jeremiae.
+
+  Chapter 52.
+
+    1: Filius viginti et unius anni erat Sedecias cum regnare coepisset, et undecim annis regnavit in Jerusalem. Et nomen matris ejus Amital, filia Jeremiae, de Lobna. 
+    2: Et fecit malum in oculis Domini, juxta omnia quae fecerat Joakim, 
+    3: quoniam furor Domini erat in Jerusalem et in Juda, usquequo projiceret eos a facie sua : et recessit Sedecias a rege Babylonis. 
+    4: Factum est autem in anno nono regni ejus, in mense decimo, decima mensis, venit Nabuchodonosor rex Babylonis, ipse et omnis exercitus ejus, adversus Jerusalem : et obsederunt eam, et aedificaverunt contra eam munitiones in circuitu. 
+    5: Et fuit civitas obsessa usque ad undecimum annum regis Sedeciae.
+    6: Mense autem quarto, nona mensis, obtinuit fames civitatem, et non erant alimenta populo terrae. 
+    7: Et dirupta est civitas, et omnes viri bellatores ejus fugerunt, exieruntque de civitate nocte, per viam portae quae est inter duos muros, et ducit ad hortum regis, Chaldaeis obsidentibus urbem in gyro, et abierunt per viam quae ducit in eremum. 
+    8: Persecutus est autem Chadaeorum exercitus regem, et apprehenderunt Sedeciam in deserto quod est juxta Jericho : et omnis comitatus ejus diffugit ab eo. 
+    9: Cumque comprehendissent regem, adduxerunt eum ad regem Babylonis in Reblatha, quae est in terra Emath, et locutus est ad eum judicia. 
+    10: Et jugulavit rex Babylonis filios Sedeciae in oculis ejus, sed et omnes principes Juda occidit in Reblatha.
+    11: Et oculos Sedeciae eruit, et vinxit eum compedibus, et adduxit eum rex Babylonis in Babylonem, et posuit eum in domo carceris usque ad diem mortis ejus. 
+    12: In mense autem quinto, decima mensis, ipse est annus nonusdecimus Nabuchodonosor regis Babylonis, venit Nabuzardan, princeps militiae, qui stabat coram rege Babylonis, in Jerusalem, 
+    13: et incendit domum Domini, et domum regis, et omnes domos Jerusalem, et omnem domum magnam igni combussit : 
+    14: et totum murum Jerusalem per circuitum destruxit cunctus exercitus Chaldaeorum, qui erat cum magistro militiae. 
+    15: De pauperibus autem populi et de reliquo vulgo, quod remanserat in civitate, et de perfugis qui transfugerant ad regem Babylonis, et ceteros de multitudine transtulit Nabuzardan, princeps militiae.
+    16: De pauperibus vero terrae reliquit Nabuzardan, princeps militiae, vinitores et agricolas. 
+    17: Columnas quoque aereas quae erant in domo Domini, et bases, et mare aeneum, quod erat in domo Domini, confregerunt Chaldaei, et tulerunt omne aes eorum in Babylonem, 
+    18: et lebetes, et creagras, et psalteria, et phialas, et mortariola, et omnia vasa aerea quae in ministerio fuerant, tulerunt : 
+    19: et hydrias, et thymiamateria, et urceos, et pelves, et candelabra, et mortaria, et cyathos, quotquot aurea, aurea, et quotquot argentea, argentea, tulit magister militiae : 
+    20: et columnas duas, et mare unum, et vitulos duodecim aereos qui erant sub basibus quas fecerat rex Salomon in domo Domini. Non erat pondus aeris omnium horum vasorum.
+    21: De columnis autem decem et octo cubiti altitudinis erant in columna una, et funiculus duodecim cubitorum circuibat eam : porro grossitudo ejus quatuor digitorum, et intrinsecus cava erat. 
+    22: Et capitella super utramque aerea : altitudo capitelli unius quinque cubitorum, et retiacula et malogranata super coronam in circuitu, omnia aerea : similiter columnae secundae, et malogranata. 
+    23: Et fuerunt malogranata nonaginta sex dependentia : et omnia malogranata centum, retiaculis circumdabantur. 
+    24: Et tulit magister militiae Saraiam sacerdotem primum, et Sophoniam sacerdotem secundum, et tres custodes vestibuli : 
+    25: et de civitate tulit eunuchum unum, qui erat praepositus super viros bellatores : et septem viros de his qui videbant faciem regis, qui inventi sunt in civitate : et scribam principem militum, qui probabat tyrones : et sexaginta viros de populo terrae, qui inventi sunt in medio civitatis.
+    26: Tulit autem eos Nabuzardan magister militiae : et duxit eos ad regem Babylonis in Reblatha : 
+    27: et percussit eos rex Babylonis, et interfecit eos in Reblatha in terra Emath : et translatus est Juda de terra sua. 
+    28: Iste est populus quem transtulit Nabuchodonosor : in anno septimo, Judaeos tria millia et viginti tres : 
+    29: in anno octavodecimo Nabuchodonosor, de Jerusalem animas octingentas triginta duas : 
+    30: in anno vigesimo tertio Nabuchodonosor, transtulit Nabuzardan magister militiae animas Judaeorum septingentas quadraginta quinque. Omnes ergo animae, quatuor millia sexcentae.
+    31: Et factum est in trigesimo septimo anno transmigrationis Joachin regis Juda, duodecimo mense, vigesima quinta mensis, elevavit Evilmerodach rex Babylonis, ipso anno regni sui, caput Joachin regis Juda, et eduxit eum de domo carceris. 
+    32: Et locutus est cum eo bona, et posuit thronum ejus super thronos regum qui erant post se in Babylone. 
+    33: Et mutavit vestimenta carceris ejus, et comedebat panem coram eo semper cunctis diebus vitae suae. 
+    34: Et cibaria ejus, cibaria perpetua dabantur ei a rege Babylonis, statuta per singulos dies, usque ad diem mortis suae, cunctis diebus vitae ejus.
+
+End of day 242.

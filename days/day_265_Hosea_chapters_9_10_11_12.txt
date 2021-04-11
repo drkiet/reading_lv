@@ -1,0 +1,75 @@
+Day 265:
+
+Reading Hosea, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Noli laetari, Israel; noli exsultare sicut populi : quia fornicatus es a Deo tuo; dilexisti mercedem super omnes areas tritici. 
+    2: Area et torcular non pascet eos, et vinum mentietur eis : 
+    3: non habitabunt in terra Domini. Reversus est Ephraim in Aegyptum, et in Assyriis pollutum comedit. 
+    4: Non libabunt Domino vinum, et non placebunt ei. Sacrificia eorum quasi panis lugentium; omnes qui comedent eum, contaminabuntur : quia panis eorum animae ipsorum : non intrabit in domum Domini. 
+    5: Quid facietis in die solemni, in die festivitatis Domini?
+    6: Ecce enim profecti sunt a vastitate : Aegyptus congregabit eos; Memphis sepeliet eos : desiderabile argentum eorum urtica haereditabit, lappa in tabernaculis eorum. 
+    7: Venerunt dies visitationis, venerunt dies retributionis. Scitote, Israel, stultum prophetam, insanum virum spiritualem, propter multitudinem iniquitatis tuae, et multitudine amentiae. 
+    8: Speculator Ephraim cum Deo meo, propheta laqueus ruinae factus est super omnes vias ejus; insania in domo Dei ejus. 
+    9: Profunde peccaverunt, sicut in diebus Gabaa. Recordabitur iniquitatis eorum, et visitabit peccata eorum. 
+    10: Quasi uvas in deserto inveni Israel, quasi prima poma ficulneae in cacumine ejus vidi patres eorum : ipsi autem intraverunt ad Beelphegor, et abalienati sunt in confusionem, et facti sunt abominabiles sicut ea quae dilexerunt.
+    11: Ephraim quasi avis avolavit; gloria eorum a partu, et ab utero, et a conceptu. 
+    12: Quod etsi enutrierint filios suos, absque liberis eos faciam in hominibus; sed et vae eis cum recessero ab eis! 
+    13: Ephraim, ut vidi, Tyrus erat fundata in pulchritudine; et Ephraim educet ad interfectorem filios suos. 
+    14: Da eis, Domine. Quid dabis eis? da eis vulvam sine liberis, et ubera arentia. 
+    15: Omnes nequitiae eorum in Galgal, quia ibi exosos habui eos. Propter malitiam adinventionum eorum, de domo mea ejiciam eos; non addam ut diligam eos : omnes principes eorum recedentes.
+    16: Percussus est Ephraim; radix eorum exsiccata est : fructum nequaquam facient, quod etsi genuerint, interficiam amantissima uteri eorum. 
+    17: Abjiciet eos Deus meus, quia non audierunt eum, et erunt vagi in nationibus.
+
+  Chapter 10.
+
+    1: Vitis frondosa Israel, fructus adaequatus est ei : secundum multitudinem fructus sui multiplicavit altaria, juxta ubertatem terrae suae exuberavit simulacris. 
+    2: Divisum est cor eorum, nunc interibunt; ipse confringet simulacra eorum, depopulabitur aras eorum. 
+    3: Quia nunc dicent : Non est rex nobis, non enim timemus Dominum; et rex quid faciet nobis? 
+    4: Loquimini verba visionis inutilis, et ferietis foedus; et germinabit quasi amaritudo judicium super sulcos agri. 
+    5: Vaccas Bethaven coluerunt habitatores Samariae; quia luxit super eum populus ejus, et aeditui ejus super eum exsultaverunt in gloria ejus, quia migravit ab eo.
+    6: Siquidem et ipse in Assur delatus est, munus regi ultori. Confusio Ephraim capiet, et confundetur Israel in voluntate sua. 
+    7: Transire fecit Samaria regem suum quasi spumam super faciem aquae. 
+    8: Et disperdentur excelsa idoli, peccatum Israel; lappa et tribulus ascendet super aras eorum : et dicent montibus : Operite nos, et collibus : Cadite super nos. 
+    9: Ex diebus Gabaa peccavit Israel; ibi steterunt. Non comprehendet eos in Gabaa praelium super filios iniquitatis. 
+    10: Juxta desiderium meum corripiam eos : congregabuntur super eos populi, cum corripientur propter duas iniquitates suas.
+    11: Ephraim vitula docta diligere trituram, et ego transivi super pulchritudinem colli ejus : ascendam super Ephraim, arabit Judas; confringet sibi sulcos Jacob. 
+    12: Seminate vobis in justitia, et metite in ore misericordiae. Innovate vobis novale; tempus autem requirendi Dominum, cum venerit qui docebit vos justitiam. 
+    13: Arastis impietatem, iniquitatem messuistis : comedistis frugem mendacii, quia confisus es in viis tuis, in multitudine fortium tuorum. 
+    14: Consurget tumultus in populo tuo; et omnes munitiones tuae vastabuntur, sicut vastatus est Salmana a domo ejus qui judicavit Baal in die praelii, matre super filios allisa. 
+    15: Sic fecit vobis Bethel, a facie malitiae nequitiarum vestrarum.
+
+  Chapter 11.
+
+    1: Sicut mane transiit, pertransiit rex Israel. Quia puer Israel, et dilexi eum; et ex Aegypto vocavi filium meum. 
+    2: Vocaverunt eos, sic abierunt a facie eorum; Baalim immolabant, et simulacris sacrificabant. 
+    3: Et ego quasi nutritius Ephraim : portabam eos in brachiis meis, et nescierunt quod curarem eos. 
+    4: In funiculis Adam traham eos, in vinculis caritatis; et ero eis quasi exaltans jugum super maxillas eorum, et declinavi ad eum ut vesceretur. 
+    5: Non revertetur in terram Aegypti, et Assur ipse rex ejus, quoniam noluerunt converti.
+    6: Coepit gladius in civitatibus ejus, et consumet electos ejus, et comedet capita eorum. 
+    7: Et populus meus pendebit ad reditum meum; jugum autem imponetur eis simul, quod non auferetur. 
+    8: Quomodo dabo te, Ephraim? protegam te, Israel? Quomodo dabo te sicut Adama, ponam te ut Seboim? Conversum est in me cor meum, pariter conturbata est poenitudo mea. 
+    9: Non faciam furorem irae meae; non convertar ut disperdam Ephraim, quoniam Deus ego, et non homo; in medio tui sanctus, et non ingrediar civitatem. 
+    10: Post Dominum ambulabunt; quasi leo rugiet, quia ipse rugiet, et formidabunt filii maris.
+    11: Et avolabunt quasi avis ex Aegypto, et quasi columba de terra Assyriorum : et collocabo eos in domibus suis, dicit Dominus. 
+    12: Circumdedit me in negatione Ephraim, et in dolo domus Israel; Judas autem testis descendit cum Deo, et cum sanctis fidelis.
+
+  Chapter 12.
+
+    1: Ephraim pascit ventum, et sequitur aestum; tota die mendacium et vastitatem multiplicat : et foedus cum Assyriis init, et oleum in Aegyptum ferebat. 
+    2: Judicium ergo Domini cum Juda, et visitatio super Jacob : juxta vias ejus, et juxta adinventiones ejus reddet ei. 
+    3: In utero supplantavit fratrem suum, et in fortitudine sua directus est cum angelo. 
+    4: Et invaluit ad angelum, et confortatus est; flevit, et rogavit eum. In Bethel invenit eum, et ibi locutus est nobiscum. 
+    5: Et Dominus Deus exercituum, Dominus memoriale ejus.
+    6: Et tu ad Deum tuum converteris; misericordiam et judicium custodi, et spera in Deo tuo semper. 
+    7: Chanaan, in manu ejus statera dolosa, calumniam dilexit. 
+    8: Et dixit Ephraim : Verumtamen dives effectus sum; inveni idolum mihi : omnes labores mei non invenient mihi iniquitatem quam peccavi. 
+    9: Et ego Dominus Deus tuus ex terra Aegypti : adhuc sedere te faciam in tabernaculis, sicut in diebus festivitatis. 
+    10: Et locutus sum super prophetas, et ego visionem multiplicavi, et in manu prophetarum assimilatus sum.
+    11: Si Galaad idolum, ergo frustra erant in Galgal bobus immolantes; nam et altaria eorum quasi acervi super sulcos agri. 
+    12: Fugit Jacob in regionem Syriae, et servivit Israel in uxorem, et in uxorem servavit. 
+    13: In propheta autem eduxit Dominus Israel de Aegypto, et in propheta servatus est. 
+    14: Ad iracundiam me provocavit Ephraim in amaritudinibus suis : et sanguis ejus super eum veniet, et opprobrium ejus restituet ei Dominus suus.
+
+End of day 265.

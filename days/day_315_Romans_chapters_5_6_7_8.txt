@@ -1,0 +1,125 @@
+Day 315:
+
+Reading Romans, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: Justificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Jesum Christum : 
+    2: per quem et habemus accessum per fidem in gratiam istam, in qua stamus, et gloriamur in spe gloriae filiorum Dei. 
+    3: Non solum autem, sed et gloriamur in tribulationibus : scientes quod tribulatio patientiam operatur : 
+    4: patientia autem probationem, probatio vero spem, 
+    5: spes autem non confundit : quia caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum, qui datus est nobis.
+    6: Ut quid enim Christus, cum adhuc infirmi essemus, secundum tempus, pro impiis mortuus est? 
+    7: vix enim pro justo quis moritur : nam pro bono forsitan quis audeat mori. 
+    8: Commendat autem caritatem suam Deus in nobis : quoniam cum adhuc peccatores essemus, secundum tempus, 
+    9: Christus pro nobis mortuus est : multo igitur magis nunc justificati in sanguine ipsius, salvi erimus ab ira per ipsum. 
+    10: Si enim cum inimici essemus, reconciliati sumus Deo per mortem filii ejus : multo magis reconciliati, salvi erimus in vita ipsius.
+    11: Non solum autem : sed et gloriamur in Deo per Dominum nostrum Jesum Christum, per quem nunc reconciliationem accepimus. 
+    12: Propterea sicut per unum hominem peccatum in hunc mundum intravit, et per peccatum mors, et ita in omnes homines mors pertransiit, in quo omnes peccaverunt. 
+    13: Usque ad legem enim peccatum erat in mundo : peccatum autem non imputabatur, cum lex non esset. 
+    14: Sed regnavit mors ab Adam usque ad Moysen etiam in eos qui non peccaverunt in similitudinem praevaricationis Adae, qui est forma futuri. 
+    15: Sed non sicut delictum, ita et donum : si enim unius delicto multi mortui sunt : multo magis gratia Dei et donum in gratia unius hominis Jesu Christi in plures abundavit.
+    16: Et non sicut per unum peccatum, ita et donum. Nam judicium quidem ex uno in condemnationem : gratia autem ex multis delictis in justificationem. 
+    17: Si enim unius delicto mors regnavit per unum : multo magis abundantiam gratiae, et donationis, et justitiae accipientes, in vita regnabunt per unum Jesum Christum. 
+    18: Igitur sicut per unius delictum in omnes homines in condemnationem : sic et per unius justitiam in omnes homines in justificationem vitae. 
+    19: Sicut enim per inobedientiam unius hominis, peccatores constituti sunt multi : ita et per unius obeditionem, justi constituentur multi. 
+    20: Lex autem subintravit ut abundaret delictum. Ubi autem abundavit delictum, superabundavit gratia :
+    21: ut sicut regnavit peccatum in mortem : ita et gratia regnet per justitiam in vitam aeternam, per Jesum Christum Dominum nostrum.
+
+  Chapter 6.
+
+    1: Quid ergo dicemus? permanebimus in peccato ut gratia abundet? 
+    2: Absit. Qui enim mortui sumus peccato, quomodo adhuc vivemus in illo? 
+    3: an ignoratis quia quicumque baptizati sumus in Christo Jesu, in morte ipsius baptizati sumus? 
+    4: Consepulti enim sumus cum illo per baptismum in mortem : ut quomodo Christus surrexit a mortuis per gloriam Patris, ita et nos in novitate vitae ambulemus. 
+    5: Si enim complantati facti sumus similitudini mortis ejus : simul et resurrectionis erimus.
+    6: Hoc scientes, quia vetus homo noster simul crucifixus est, ut destruatur corpus peccati, et ultra non serviamus peccato. 
+    7: Qui enim mortuus est, justificatus est a peccato. 
+    8: Si autem mortui sumus cum Christo, credimus quia simul etiam vivemus cum Christo, 
+    9: scientes quod Christus resurgens ex mortuis jam non moritur : mors illi ultra non dominabitur. 
+    10: Quod enim mortuus est peccato, mortuus est semel : quod autem vivit, vivit Deo.
+    11: Ita et vos existimate vos mortuos quidem esse peccato, viventes autem Deo, in Christo Jesu Domino nostro. 
+    12: Non ergo regnet peccatum in vestro mortali corpore ut obediatis concupiscentiis ejus. 
+    13: Sed neque exhibeatis membra vestra arma iniquitatis peccato : sed exhibete vos Deo, tamquam ex mortuis viventes : et membra vestra arma justitiae Deo. 
+    14: Peccatum enim vobis non dominabitur : non enim sub lege estis, sed sub gratia. 
+    15: Quid ergo? peccabimus, quoniam non sumus sub lege, sed sub gratia? Absit.
+    16: Nescitis quoniam cui exhibetis vos servos ad obediendum, servi estis ejus, cui obeditis, sive peccati ad mortem, sive obeditionis ad justitiam? 
+    17: Gratias autem Deo quod fuistis servi peccati, obedistis autem ex corde in eam formam doctrinae, in quam traditi estis. 
+    18: Liberati autem a peccato, servi facti estis justitiae. 
+    19: Humanum dico, propter infirmitatem carnis vestrae : sicut enim exhibuistis membra vestra servire immunditiae, et iniquitati ad iniquitatem, ita nunc exhibete membra vestra servire justitiae in santificationem. 
+    20: Cum enim servi essetis peccati, liberi fuistis justitiae.
+    21: Quem ergo fructum habuistis tunc in illis, in quibus nunc erubescitis? nam finis illorum mors est. 
+    22: Nunc vero liberati a peccato, servi autem facti Deo, habetis fructum vestrum in santificationem, finem vero vitam aeternam. 
+    23: Stipendia enim peccati, mors. Gratia autem Dei, vita aeterna, in Christo Jesu Domino nostro.
+
+  Chapter 7.
+
+    1: An ignoratis, fratres ( scientibus enim legem loquor), quia lex in homine dominatur quanto tempore vivit? 
+    2: Nam quae sub viro est mulier, vivente viro, alligata est legi : si autem mortuus fuerit vir ejus, soluta est a lege viri. 
+    3: Igitur, vivente viro, vocabitur adultera si fuerit cum alio viro : si autem mortuus fuerit vir ejus, liberata est a lege viri, ut non sit adultera si fuerit cum alio viro. 
+    4: Itaque fratres mei, et vos mortificati estis legi per corpus Christi : ut sitis alterius, qui ex mortuis resurrexit, ut fructificemus Deo. 
+    5: Cum enim essemus in carne, passiones peccatorum, quae per legem erant, operabantur in membris nostris, ut fructificarent morti.
+    6: Nunc autem soluti sumus a lege mortis, in qua detinebamur, ita ut serviamus in novitate spiritus, et non in vetustate litterae. 
+    7: Quid ergo dicemus? lex peccatum est? Absit. Sed peccatum non cognovi, nisi per legem : nam concupiscentiam nesciebam, nisi lex diceret : Non concupisces. 
+    8: Occasione autem accepta, peccatum per mandatum operatum est in me omnem concupiscentiam. Sine lege enim peccatum mortuum erat. 
+    9: Ego autem vivebam sine lege aliquando : sed cum venisset mandatum, peccatum revixit. 
+    10: Ego autem mortuus sum : et inventum est mihi mandatum, quod erat ad vitam, hoc esse ad mortem.
+    11: Nam peccatum occasione accepta per mandatum, seduxit me, et per illud occidit. 
+    12: Itaque lex quidem sancta, et mandatum sanctum, et justum, et bonum. 
+    13: Quod ergo bonum est, mihi factum est mors? Absit. Sed peccatum, ut appareat peccatum, per bonum operatum est mihi mortem : ut fiat supra modum peccans peccatum per mandatum. 
+    14: Scimus enim quia lex spiritualis est : ego autem carnalis sum, venundatus sub peccato. 
+    15: Quod enim operor, non intelligo : non enim quod volo bonum, hoc ago : sed quod odi malum, illud facio.
+    16: Si autem quod nolo, illud facio : consentio legi, quoniam bona est. 
+    17: Nunc autem jam non ego operor illud, sed quod habitat in me peccatum. 
+    18: Scio enim quia non habitat in me, hoc est in carne mea, bonum. Nam velle, adjacet mihi : perficere autem bonum, non invenio. 
+    19: Non enim quod volo bonum, hoc facio : sed quod nolo malum, hoc ago. 
+    20: Si autem quod nolo, illud facio : jam non ego operor illud, sed quod habitat in me, peccatum.
+    21: Invenio igitur legem, volenti mihi facere bonum, quoniam mihi malum adjacet : 
+    22: condelector enim legi Dei secundum interiorem hominem : 
+    23: video autem aliam legem in membris meis, repugnantem legi mentis meae, et captivantem me in lege peccati, quae est in membris meis. 
+    24: Infelix ego homo, quis me liberabit de corpore mortis hujus? 
+    25: gratia Dei per Jesum Christum Dominum nostrum. Igitur ego ipse mente servio legi Dei : carne autem, legi peccati.
+
+  Chapter 8.
+
+    1: Nihil ergo nunc damnationis est iis qui sunt in Christo Jesu : qui non secundum carnem ambulant. 
+    2: Lex enim spiritus vitae in Christo Jesu liberavit me a lege peccati et mortis. 
+    3: Nam quod impossibile erat legi, in quo infirmabatur per carnem : Deus Filium suum mittens in similitudinem carnis peccati et de peccato, damnavit peccatum in carne, 
+    4: et justificatio legis impleretur in nobis, qui non secundum carnem ambulamus, sed secundum spiritum. 
+    5: Qui enim secundum carnem sunt, quae carnis sunt, sapiunt : qui vero secundum spiritum sunt, quae sunt spiritus, sentiunt.
+    6: Nam prudentia carnis, mors est : prudentia autem spiritus, vita et pax : 
+    7: quoniam sapientia carnis inimica est Deo : legi enim Dei non est subjecta, nec enim potest. 
+    8: Qui autem in carne sunt, Deo placere non possunt. 
+    9: Vos autem in carne non estis, sed in spiritu : si tamen Spiritus Dei habitat in vobis. Siquis autem Spiritum Christi non habet, hic non est ejus. 
+    10: Si autem Christus in vobis est, corpus quidem mortuum est propter peccatum, spiritus vero vivit propter justificationem.
+    11: Quod si Spiritus ejus, qui suscitavit Jesum a mortuis, habitat in vobis : qui suscitavit Jesum Christum a mortuis, vivificabit et mortalia corpora vestra, propter inhabitantem Spiritum ejus in vobis. 
+    12: Ergo fratres, debitores sumus non carni, ut secundum carnem vivamus. 
+    13: Si enim secundum carnem vixeritis, moriemini : si autem spiritu facta carnis mortificaveritis, vivetis. 
+    14: Quicumque enim Spiritu Dei aguntur, hi filii Dei sunt. 
+    15: Non enim accepistis spiritum servitutis iterum in timore, sed accepistis spiritum adoptionis filiorum, in quo clamamus : Abba ( Pater).
+    16: Ipse enim Spiritus testimonium reddit spiritui nostro quod sumus filii Dei. 
+    17: Si autem filii, et haeredes : haeredes, quidem Dei, cohaeredes autem Christi : si tamen compatimur ut et conglorificemur. 
+    18: Existimo enim quod non sunt condignae passiones hujus temporis ad futuram gloriam, quae revelabitur in nobis. 
+    19: Nam exspectatio creaturae revelationem filiorum Dei exspectat. 
+    20: Vanitati enim creatura subjecta est non volens, sed propter eum, qui subjecit eam in spe :
+    21: quia et ipsa creatura liberabitur a servitute corruptionis in libertatem gloriae filiorum Dei. 
+    22: Scimus enim quod omnis creatura ingemiscit, et parturit usque adhuc. 
+    23: Non solum autem illa, sed et nos ipsi primitias spiritus habentes : et ipsi intra nos gemimus adoptionem filiorum Dei exspectantes, redemptionem corporis nostri. 
+    24: Spe enim salvi facti sumus. Spes autem, quae videtur, non est spes : nam quod videt quis, quid sperat? 
+    25: Si autem quod non videmus, speramus : per patientiam exspectamus.
+    26: Similiter autem et Spiritus adjuvat infirmitatem nostram : nam quid oremus, sicut oportet, nescimus : sed ipse Spiritus postulat pro nobis gemitibus inenarrabilibus. 
+    27: Qui autem scrutatur corda, scit quid desideret Spiritus : quia secundum Deum postulat pro sanctis. 
+    28: Scimus autem quoniam diligentibus Deum omnia cooperantur in bonum, iis qui secundum propositum vocati sunt sancti. 
+    29: Nam quos praescivit, et praedestinavit conformes fieri imaginis Filii sui, ut sit ipse primogenitus in multis fratribus. 
+    30: Quos autem praedestinavit, hos et vocavit : et quos vocavit, hos et justificavit : quos autem justificavit, illos et glorificavit.
+    31: Quid ergo dicemus ad haec? si Deus pro nobis, qui contra nos? 
+    32: Qui etiam proprio Filio suo non pepercit, sed pro nobis omnibus tradidit illum : quomodo non etiam cum illo omnia nobis donavit? 
+    33: Quis accusabit adversus electos Dei? Deus qui justificat, 
+    34: quis est qui condemnet? Christus Jesus, qui mortuus est, immo qui et resurrexit, qui est ad dexteram Dei, qui etiam interpellat pro nobis. 
+    35: Quis ergo nos separabit a caritate Christi? tribulatio? an angustia? an fames? an nuditas? an periculum? an persecutio? an gladius?
+    36: ( Sicut scriptum est : Quia propter te mortificamur tota die : aestimati sumus sicut oves occisionis.) 
+    37: Sed in his omnibus superamus propter eum qui dilexit nos. 
+    38: Certus sum enim quia neque mors, neque vita, neque angeli, neque principatus, neque virtutes, neque instantia, neque futura, neque fortitudo, 
+    39: neque altitudo, neque profundum, neque creatura alia poterit nos separare a caritate Dei, quae est in Christo Jesu Domino nostro.
+
+End of day 315.

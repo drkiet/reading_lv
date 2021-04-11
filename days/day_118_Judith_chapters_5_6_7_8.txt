@@ -1,0 +1,126 @@
+Day 118:
+
+Reading Judith, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: Nuntiatumque est Holoferni principi militiae Assyriorum, quod filii Israel praepararent se ad resistendum, ac montium itinera conclusissent, 
+    2: et furore nimio exarsit in iracundia magna, vocavitque omnes principes Moab et duces Ammon, 
+    3: et dixit eis : Dicite mihi quis sit populus iste, qui montana obsidet : aut quae, et quales, et quantae sint civitates eorum : quae etiam sit virtus eorum, aut quae sit multitudo eorum : vel quis rex militiae illorum : 
+    4: et quare prae omnibus, qui habitant in oriente, isti contempserunt nos, et non exierunt obviam nobis ut susciperent nos cum pace? 
+    5: Tunc Achior dux omnium filiorum Ammon respondens, ait : Si digneris audire, domine mi, dicam veritatem in conspectu tuo de populo isto, qui in montanis habitat, et non egredietur verbum falsum ex ore meo.
+    6: Populus iste ex progenie Chaldaeorum est. 
+    7: Hic primum in Mesopotamia habitavit, quoniam noluerunt sequi deos patrum suorum, qui erant in terra Chaldaeorum. 
+    8: Deserentes itaque caeremonias patrum suorum, quae in multitudine deorum erant, 
+    9: unum Deum caeli coluerunt, qui et praecepit eis ut exirent inde et habitarent in Charan. Cumque operuisset omnem terram fames, descenderunt in Aegyptum, illicque per quadringentos annos sic multiplicati sunt, ut dinumerari eorum non posset exercitus. 
+    10: Cumque gravaret eos rex Aegypti, atque in aedificationibus urbium suarum in luto et latere subjugasset eos, clamaverunt ad Dominum suum, et percussit totam terram Aegypti plagis variis.
+    11: Cumque ejecissent eos Aegyptii a se, et cessasset plaga ab eis, et iterum eos vellent capere, et ad suum servitium revocare, 
+    12: fugientibus his, Deus caeli mare aperuit, ita ut hinc inde aquae quasi murus solidarentur, et isti pede sicco fundum maris perambulando transirent. 
+    13: In quo loco dum innumerabilis exercitus Aegyptiorum eos persequeretur, ita aquis coopertus est, ut non remaneret vel unus, qui factum posteris nuntiaret. 
+    14: Egressi vero mare Rubrum, deserta Sina montis occupaverunt, in quibus numquam homo habitare potuit, vel filius hominis requievit. 
+    15: Illic fontes amari obdulcati sunt eis ad bibendum, et per annos quadraginta annonam de caelo consecuti sunt.
+    16: Ubicumque ingressi sunt sine arcu et sagitta, et absque scuto et gladio, Deus eorum pugnavit pro eis, et vicit. 
+    17: Et non fuit qui insultaret populo isti, nisi quando recessit a cultu Domini Dei sui. 
+    18: Quotiescumque autem praeter ipsum Deum suum, alterum coluerunt, dati sunt in praedam, et in gladium, et in opprobrium. 
+    19: Quotiescumque autem poenituerunt se recessisse a cultura Dei sui, dedit eis Deus caeli virtutem resistendi. 
+    20: Denique Chananaeum regem, et Jebusaeum, et Pherezaeum, et Hethaeum, et Hevaeum, et Amorrhaeum, et omnes potentes in Hesebon prostraverunt, et terras eorum, et civitates eorum ipsi possederunt :
+    21: et usque dum non peccarent in conspectu Dei sui, erant cum illis bona : Deus enim illorum odit iniquitatem. 
+    22: Nam et ante hos annos cum recessissent a via, quam dederat illis Deus, ut ambularent in ea, exterminati sunt praeliis a multis nationibus, et plurimi eorum captivi abducti sunt in terram non suam. 
+    23: Nuper autem reversi ad Dominum Deum suum, ex dispersione qua dispersi fuerant, adunati sunt, et ascenderunt montana haec omnia, et iterum possident Jerusalem, ubi sunt sancta eorum. 
+    24: Nunc ergo mi domine, perquire si est aliqua iniquitas eorum in conspectu Dei eorum : ascendamus ad illos, quoniam tradens tradet illos Deus eorum tibi, et subjugati erunt sub jugo potentiae tuae. 
+    25: Si vero non est offensio populi hujus coram Deo suo, non poterimus resistere illis, quoniam Deus eorum defendet illos : et erimus in opprobrium universae terrae.
+    26: Et factum est, cum cessasset loqui Achior verba haec, irati sunt omnes magnates Holofernis, et cogitabant interficere eum, dicentes ad alterutrum : 
+    27: Quis est iste, qui filios Israel posse dicat resistere regi Nabuchodonosor, et exercitibus ejus, homines inermes, et sine virtute, et sine peritia artis pugnae? 
+    28: Ut ergo agnoscat Achior quoniam fallit nos, ascendamus in montana : et cum capti fuerint potentes eorum, tunc cum eisdem gladio transverberabitur : 
+    29: ut sciat omnis gens quoniam Nabuchodonosor deus terrae est, et praeter ipsum alius non est.
+
+  Chapter 6.
+
+    1: Factum est autem cum cessassent loqui, indignatus Holofernes vehementer, dixit ad Achior : 
+    2: Quoniam prophetasti nobis, dicens quod gens Israel defendatur a Deo suo, ut ostendam tibi quoniam non est deus nisi Nabuchodonosor : 
+    3: cum percusserimus eos omnes, sicut hominem unum, tunc et ipse cum illis Assyriorum gladio interibis, et omnis Israel tecum perditione disperiet : 
+    4: et probabis quoniam Nabuchodonosor dominus sit universae terrae : tuncque gladius militiae meae transiet per latera tua, et confixus cades inter vulneratos Israel, et non respirabis ultra, donec extermineris cum illis. 
+    5: Porro autem si prophetiam tuam veram existimas, non concidat vultus tuus, et pallor, qui faciem tuam obtinet, abscedat a te, si verba mea haec putas impleri non posse.
+    6: Ut autem noveris quia simul cum illis haec experieris, ecce ex hac hora illorum populo sociaberis, ut, dum dignas mei gladii poenas exceperint, ipse simul ultioni subjaceas. 
+    7: Tunc Holofernes praecepit servis suis ut comprehenderent Achior, et perducerent eum in Bethuliam, et traderent eum in manus filiorum Israel. 
+    8: Et accipientes eum servi Holofernis, profecti sunt per campestria : sed cum appropinquassent ad montana, exierunt contra eos fundibularii. 
+    9: Illi autem divertentes a latere montis, ligaverunt Achior ad arborem manibus et pedibus, et sic vinctum restibus dimiserunt eum, et reversi sunt ad dominum suum. 
+    10: Porro filii Israel descendentes de Bethulia, venerunt ad eum : quem solventes, duxerunt ad Bethuliam, atque in medium populi illum statuentes, percunctati sunt quid rerum esset quod illum vinctum Assyrii reliquissent.
+    11: In diebus illis erant illic principes, Ozias filius Micha de tribu Simeon, et Charmi, qui et Gothoniel. 
+    12: In medio itaque seniorum, et in conspectu omnium, Achior dixit omnia quae locutus ipse fuerat ab Holoferne interrogatus : et qualiter populus Holofernis voluisset propter hoc verbum interficere eum, 
+    13: et quemadmodum ipse Holofernes iratus jusserit eum Israelitis hac de causa tradi : ut, dum vicerit filios Israel, tunc et ipsum Achior diversis jubeat interire suppliciis, propter hoc quod dixisset : Deus caeli defensor eorum est. 
+    14: Cumque Achior universa haec exposuisset, omnis populus cecidit in faciem, adorantes Dominum, et communi lamentatione et fletu unanimes preces suas Domino effuderunt, 
+    15: dicentes : Domine Deus caeli et terrae, intuere superbiam eorum, et respice ad nostram humilitatem, et faciem sanctorum tuorum attende, et ostende quoniam non derelinquis praesumentes de te : et praesumentes de se, et de sua virtute gloriantes, humilias.
+    16: Finito itaque fletu, et per totam diem oratione populorum completa, consolati sunt Achior, 
+    17: dicentes : Deus patrum nostrorum, cujus tu virtutem praedicasti, ipse tibi hanc dabit vicissitudinem, ut eorum magis tu interitum videas. 
+    18: Cum vero Dominus Deus noster dederit hanc libertatem servis suis, sit et tecum Deus in medio nostri : ut sicut placuerit tibi, ita cum tuis omnibus converseris nobiscum. 
+    19: Tunc Ozias, finito consilio, suscepit eum in domum suam, et fecit ei coenam magnam. 
+    20: Et vocatis omnibus presbyteris, simul expleto jejunio refecerunt.
+    21: Postea vero convocatus est omnis populus, et per totam noctem intra ecclesiam oraverunt, petentes auxilium a Deo Israel.
+
+  Chapter 7.
+
+    1: Holofernes autem altera die praecepit exercitibus suis ut ascenderent contra Bethuliam. 
+    2: Erant autem pedites bellatorum centum viginti millia, et equites viginti duo millia, praeter praeparationes virorum illorum, quos occupaverat captivitas, et abducti fuerant de provinciis et urbibus universae juventutis. 
+    3: Omnes paraverunt se pariter ad pugnam contra filios Israel, et venerunt per crepidinem montis usque ad apicem, qui respicit super Dothain, a loco qui dicitur Belma usque ad Chelmon, qui est contra Esdrelon. 
+    4: Filii autem Israel, ut viderunt multitudinem illorum, prostraverunt se super terram, mittentes cinerem super capita sua, unanimes orantes ut Deus Israel misericordiam suam ostenderet super populum suum. 
+    5: Et assumentes arma sua bellica, sederunt per loca, quae ad angusti itineris tramitem dirigunt inter montosa, et erant custodientes ea tota die et nocte.
+    6: Porro Holofernes, dum circuit per gyrum, reperit quod fons, qui influebat, aquaeductum illorum a parte australi extra civitatem dirigeret : et incidi praecepit aquaeductum illorum. 
+    7: Erant tamen non longe a muris fontes, ex quibus furtim videbantur haurire aquam ad refocillandum potius quam ad potandum. 
+    8: Sed filii Ammon et Moab accesserunt ad Holofernem, dicentes : Filii Israel non in lancea nec in sagitta confidunt, sed montes defendunt illos, et muniunt illos colles in praecipitio constituti. 
+    9: Ut ergo sine congressione pugnae possis superare eos, pone custodes fontium, ut non hauriant aquam ex eis, et sine gladio interficies eos, vel certe fatigati tradent civitatem suam, quam putant in montibus positam superari non posse. 
+    10: Et placuerunt verba haec coram Holoferne et coram satellitibus ejus, et constituit per gyrum centenarios per singulos fontes.
+    11: Cumque ista custodia per dies viginti fuisset expleta, defecerunt cisternae, et collectiones aquarum omnibus habitantibus Bethuliam, ita ut non esset intra civitatem unde satiarentur vel una die, quoniam ad mensuram dabatur populis aqua quotidie. 
+    12: Tunc ad Oziam congregati omnes viri feminaeque, juvenes et parvuli, omnes simul una voce 
+    13: dixerunt : Judicet Deus inter nos et te, quoniam fecisti in nos mala, nolens loqui pacifice cum Assyriis, et propter hoc vendidit nos Deus in manibus eorum. 
+    14: Et ideo non est qui adjuvet, cum prosternamur ante oculos eorum in siti, et perditione magna. 
+    15: Et nunc congregate universos qui in civitate sunt, ut sponte tradamus nos omnes populo Holofernis.
+    16: Melius est enim ut captivi benedicamus Dominum viventes, quam moriamur, et simus opprobrium omni carni, cum viderimus uxores nostras, et infantes nostros mori ante oculos nostros. 
+    17: Contestamur hodie caelum et terram, et Deum patrum nostrorum, qui ulciscitur nos secundum peccata nostra, ut jam tradatis civitatem in manu militiae Holofernis, et sit finis noster brevis in ore gladii, qui longior efficitur in ariditate sitis. 
+    18: Et cum haec dixissent, factus est fletus et ululatus magnus in ecclesia ab omnibus, et per multas horas una voce clamaverunt ad Deum, dicentes : 
+    19: Peccavimus cum patribus nostris; injuste egimus, iniquitatem fecimus. 
+    20: Tu, quia pius es, miserere nostri, aut in tuo flagello vindica iniquitates nostras, et noli tradere confitentes te populo qui ignorat te,
+    21: ut non dicant inter gentes : Ubi est Deus eorum? 
+    22: Et cum fatigati ex his clamoribus et his fletibus lassati siluissent, 
+    23: exsurgens Ozias infusus lacrimis, dixit : Aequo animo estote, fratres, et hos quinque dies expectemus a Domino misericordiam. 
+    24: Forsitan enim indignationem suam abscindet, et dabit gloriam nomini suo. 
+    25: Si autem transactis quinque diebus non venerit adjutorium, faciemus haec verba, quae locuti estis.
+
+  Chapter 8.
+
+    1: Et factum est, cum audisset haec verba Judith vidua, quae erat filia Merari filii Idox filii Joseph filii Oziae filii Elai filii Jamnor filii Gedeon filii Raphaim filii Achitob filii Melchiae filii Enan filii Nathaniae filii Salathiel filii Simeon filii Ruben, 
+    2: et vir ejus fuit Manasses, qui mortuus est in diebus messis hordeaceae : 
+    3: instabat enim super alligantes manipulos in campo, et venit aestus super caput ejus, et mortuus est in Bethulia civitate sua, et sepultus est illic cum patribus suis. 
+    4: Erat autem Judith relicta ejus vidua jam annis tribus et mensibus sex. 
+    5: Et in superioribus domus suae fecit sibi secretum cubiculum, in quo cum puellis suis clausa morabatur,
+    6: et habens super lumbos suos cilicium, jejunabat omnibus diebus vitae suae, praeter sabbata et neomenias et festa domus Israel. 
+    7: Erat autem eleganti aspectu nimis, cui vir suus reliquerat divitias multas, et familiam copiosam, ac possessiones armentis boum, et gregibus ovium plenas. 
+    8: Et erat haec in omnibus famosissima, quoniam timebat Dominum valde, nec erat qui loqueretur de illa verbum malum. 
+    9: Haec itaque cum audisset quoniam Ozias promisisset quod transacto quinto die traderet civitatem, misit ad presbyteros Chabri et Charmi. 
+    10: Et venerunt ad illam, et dixit illis : Quod est hoc verbum, in quo consensit Ozias, ut tradat civitatem Assyriis si intra quinque dies non venerit vobis adjutorium?
+    11: et qui estis vos, qui tentatis Dominum? 
+    12: non est iste sermo qui misericordiam provocet, sed potius qui iram excitet, et furorem accendat. 
+    13: Posuistis vos tempus miserationis Domini, et in arbitrium vestrum, diem constituistis ei. 
+    14: Sed quia patiens Dominus est, in hoc ipso poeniteamus, et indulgentiam ejus fusis lacrimis postulemus : 
+    15: non enim quasi homo sic Deus comminabitur, neque sicut filius hominis ad iracundiam inflammabitur.
+    16: Et ideo humiliemus illi animas nostras, et in spiritu constituti humiliato, servientes illi 
+    17: dicamus flentes Domino, ut secundum voluntatem suam sic faciat nobiscum misericordiam suam : ut sicut conturbatum est cor nostrum in superbia eorum, ita etiam de nostra humilitate gloriemur : 
+    18: quoniam non sumus secuti peccata patrum nostrorum, qui dereliquerunt Deum suum, et adoraverunt deos alienos, 
+    19: pro quo scelere dati sunt in gladium, et in rapinam, et in confusionem inimicis suis : nos autem alterum deum nescimus praeter ipsum. 
+    20: Expectemus humiles consolationem ejus, et exquiret sanguinem nostrum de afflictionibus inimicorum nostrorum, et humiliabit omnes gentes, quaecumque insurgunt contra nos, et faciet illas sine honore Dominus Deus noster.
+    21: Et nunc fratres, quoniam vos estis presbyteri in populo Dei, et ex vobis pendet anima illorum, ad eloquium vestrum corda eorum erigite, ut memores sint, quia tentati sunt patres nostri ut probarentur, si vere colerent Deum suum. 
+    22: Memores esse debent, quomodo pater noster Abraham tentatus est, et per multas tribulationes probatus, Dei amicus effectus est. 
+    23: Sic Isaac, sic Jacob, sic Moyses, et omnes qui placuerunt Deo, per multas tribulationes transierunt fideles. 
+    24: Illi autem, qui tentationes non susceperunt cum timore Domini, et impatientiam suam et improperium murmurationis suae contra Dominum protulerunt, 
+    25: exterminati sunt ab exterminatore, et a serpentibus perierunt.
+    26: Et nos ergo non ulciscamur nos pro his quae patimur, 
+    27: sed reputantes peccatis nostris haec ipsa supplicia minora esse flagella Domini, quibus quasi servi corripimur ad emendationem, et non ad perditionem nostram evenisse credamus. 
+    28: Et dixerunt illi Ozias et presbyteri : Omnia quae locuta es, vera sunt, et non est in sermonibus tuis ulla reprehensio. 
+    29: Nunc ergo ora pro nobis, quoniam mulier sancta es, et timens Deum. 
+    30: Et dixit illis Judith : Sicut quod potui loqui, Dei esse cognoscitis :
+    31: ita quod facere disposui, probate si ex Deo est, et orate ut firmum faciat Deus consilium meum. 
+    32: Stabitis vos ad portam nocte ista, et ego exeam cum abra mea : et orate, ut sicut dixistis, in diebus quinque respiciat Dominus populum suum Israel. 
+    33: Vos autem nolo ut scrutemini actum meum, et usque dum renuntiem vobis, nihil aliud fiat, nisi oratio pro me ad Dominum Deum nostrum. 
+    34: Et dixit ad eam Ozias princeps Juda : Vade in pace, et Dominus sit tecum in ultionem inimicorum nostrorum. Et revertentes abierunt.
+
+End of day 118.

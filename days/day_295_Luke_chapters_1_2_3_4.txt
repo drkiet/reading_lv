@@ -1,0 +1,231 @@
+Day 295:
+
+Reading Luke, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Quoniam quidem multi conati sunt ordinare narrationem, quae in nobis completae sunt, rerum : 
+    2: sicut tradiderunt nobis, qui ab initio ipsi viderunt, et ministri fuerunt sermonis : 
+    3: visum est et mihi, assecuto omnia a principio diligenter, ex ordine tibi scribere, optime Theophile, 
+    4: ut cognoscas eorum verborum, de quibus eruditus es, veritatem. 
+    5: Fuit in diebus Herodis, regis Judaeae, sacerdos quidam nomine Zacharias de vice Abia, et uxor illius de filiabus Aaron, et nomen ejus Elisabeth.
+    6: Erant autem justi ambo ante Deum, incedentes in omnibus mandatis et justificationibus Domini sine querela. 
+    7: Et non erat illis filius, eo quod esset Elisabeth sterilis, et ambo processissent in diebus suis. 
+    8: Factum est autem, cum sacerdotio fungeretur in ordine vicis suae ante Deum, 
+    9: secundum consuetudinem sacerdotii, sorte exiit ut incensum poneret, ingressus in templum Domini : 
+    10: et omnis multitudo populi erat orans foris hora incensi.
+    11: Apparuit autem illi angelus Domini, stans a dextris altaris incensi. 
+    12: Et Zacharias turbatus est videns, et timor irruit super eum. 
+    13: Ait autem ad illum angelus : Ne timeas, Zacharia, quoniam exaudita est deprecatio tua : et uxor tua Elisabeth pariet tibi filium, et vocabis nomen ejus Joannem : 
+    14: et erit gaudium tibi, et exsultatio, et multi in nativitate ejus gaudebunt : 
+    15: erit enim magnus coram Domino : et vinum et siceram non bibet, et Spiritu Sancto replebitur adhuc ex utero matris suae :
+    16: et multos filiorum Israel convertet ad Dominum Deum ipsorum : 
+    17: et ipse praecedet ante illum in spiritu et virtute Eliae : ut convertat corda patrum in filios, et incredulos ad prudentiam justorum, parare Domino plebem perfectam. 
+    18: Et dixit Zacharias ad angelum : Unde hoc sciam? ego enim sum senex, et uxor mea processit in diebus suis. 
+    19: Et respondens angelus dixit ei : Ego sum Gabriel, qui asto ante Deum : et missus sum loqui ad te, et haec tibi evangelizare. 
+    20: Et ecce eris tacens, et non poteris loqui usque in diem quo haec fiant, pro eo quod non credidisti verbis meis, quae implebuntur in tempore suo.
+    21: Et erat plebs exspectans Zachariam : et mirabantur quod tardaret ipse in templo. 
+    22: Egressus autem non poterat loqui ad illos, et cognoverunt quod visionem vidisset in templo. Et ipse erat innuens illis, et permansit mutus. 
+    23: Et factum est, ut impleti sunt dies officii ejus, abiit in domum suam : 
+    24: post hos autem dies concepit Elisabeth uxor ejus, et occultabat se mensibus quinque, dicens : 
+    25: Quia sic fecit mihi Dominus in diebus, quibus respexit auferre opprobrium meum inter homines.
+    26: In mense autem sexto, missus est angelus Gabriel a Deo in civitatem Galilaeae, cui nomen Nazareth, 
+    27: ad virginem desponsatam viro, cui nomen erat Joseph, de domo David : et nomen virginis Maria. 
+    28: Et ingressus angelus ad eam dixit : Ave gratia plena : Dominus tecum : benedicta tu in mulieribus. 
+    29: Quae cum audisset, turbata est in sermone ejus, et cogitabat qualis esset ista salutatio. 
+    30: Et ait angelus ei : Ne timeas, Maria : invenisti enim gratiam apud Deum.
+    31: Ecce concipies in utero, et paries filium, et vocabis nomen ejus Jesum : 
+    32: hic erit magnus, et Filius Altissimi vocabitur, et dabit illi Dominus Deus sedem David patris ejus : et regnabit in domo Jacob in aeternum, 
+    33: et regni ejus non erit finis. 
+    34: Dixit autem Maria ad angelum : Quomodo fiet istud, quoniam virum non cognosco? 
+    35: Et respondens angelus dixit ei : Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi. Ideoque et quod nascetur ex te sanctum, vocabitur Filius Dei.
+    36: Et ecce Elisabeth cognata tua, et ipsa concepit filium in senectute sua : et hic mensis sextus est illi, quae vocatur sterilis : 
+    37: quia non erit impossibile apud Deum omne verbum. 
+    38: Dixit autem Maria : Ecce ancilla Domini : fiat mihi secundum verbum tuum. Et discessit ab illa angelus. 
+    39: Exsurgens autem Maria in diebus illis, abiit in montana cum festinatione, in civitatem Juda : 
+    40: et intravit in domum Zachariae, et salutavit Elisabeth.
+    41: Et factum est, ut audivit salutationem Mariae Elisabeth, exsultavit infans in utero ejus : et repleta est Spiritu Sancto Elisabeth : 
+    42: et exclamavit voce magna, et dixit : Benedicta tu inter mulieres, et benedictus fructus ventris tui. 
+    43: Et unde hoc mihi, ut veniat mater Domini mei ad me? 
+    44: Ecce enim ut facta est vox salutationis tuae in auribus meis, exsultavit in gaudio infans in utero meo. 
+    45: Et beata, quae credidisti, quoniam perficientur ea, quae dicta sunt tibi a Domino.
+    46: Et ait Maria : Magnificat anima mea Dominum : 
+    47: et exsultavit spiritus meus in Deo salutari meo. 
+    48: Quia respexit humilitatem ancillae suae : ecce enim ex hoc beatam me dicent omnes generationes, 
+    49: quia fecit mihi magna qui potens est : et sanctum nomen ejus, 
+    50: et misericordia ejus a progenie in progenies timentibus eum.
+    51: Fecit potentiam in brachio suo : dispersit superbos mente cordis sui. 
+    52: Deposuit potentes de sede, et exaltavit humiles. 
+    53: Esurientes implevit bonis : et divites dimisit inanes. 
+    54: Suscepit Israel puerum suum, recordatus misericordiae suae : 
+    55: sicut locutus est ad patres nostros, Abraham et semini ejus in saecula.
+    56: Mansit autem Maria cum illa quasi mensibus tribus : et reversa est in domum suam. 
+    57: Elisabeth autem impletum est tempus pariendi, et peperit filium. 
+    58: Et audierunt vicini et cognati ejus quia magnificavit Dominus misericordiam suam cum illa, et congratulabantur ei. 
+    59: Et factum est in die octavo, venerunt circumcidere puerum, et vocabant eum nomine patris sui Zachariam. 
+    60: Et respondens mater ejus, dixit : Nequaquam, sed vocabitur Joannes.
+    61: Et dixerunt ad illam : Quia nemo est in cognatione tua, qui vocetur hoc nomine. 
+    62: Innuebant autem patri ejus, quem vellet vocari eum. 
+    63: Et postulans pugillarem scripsit, dicens : Joannes est nomen ejus. Et mirati sunt universi. 
+    64: Apertum est autem illico os ejus, et lingua ejus, et loquebatur benedicens Deum. 
+    65: Et factus est timor super omnes vicinos eorum : et super omnia montana Judaeae divulgabantur omnia verba haec :
+    66: et posuerunt omnes qui audierant in corde suo, dicentes : Quis, putas, puer iste erit? etenim manus Domini erat cum illo. 
+    67: Et Zacharias pater ejus repletus est Spiritu Sancto : et prophetavit, dicens : 
+    68: Benedictus Dominus Deus Israel, quia visitavit, et fecit redemptionem plebis suae : 
+    69: et erexit cornu salutis nobis in domo David pueri sui, 
+    70: sicut locutum est per os sanctorum, qui a saeculo sunt, prophetarum ejus :
+    71: salutem ex inimicis nostris, et de manu omnium qui oderunt nos : 
+    72: ad faciendam misericordiam cum patribus nostris : et memorari testamenti sui sancti : 
+    73: jusjurandum, quod juravit ad Abraham patrem nostrum, daturum se nobis 
+    74: ut sine timore, de manu inimicorum nostrorum liberati, serviamus illi 
+    75: in sanctitate et justitia coram ipso, omnibus diebus nostris.
+    76: Et tu puer, propheta Altissimi vocaberis : praeibis enim ante faciem Domini parare vias ejus, 
+    77: ad dandam scientiam salutis plebi ejus in remissionem peccatorum eorum 
+    78: per viscera misericordiae Dei nostri, in quibus visitavit nos, oriens ex alto : 
+    79: illuminare his qui in tenebris et in umbra mortis sedent : ad dirigendos pedes nostros in viam pacis. 
+    80: Puer autem crescebat, et confortabatur spiritu : et erat in desertis usque in diem ostensionis suae ad Israel.
+
+  Chapter 2.
+
+    1: Factum est autem in diebus illis, exiit edictum a Caesare Augusto ut describeretur universus orbis. 
+    2: Haec descriptio prima facta est a praeside Syriae Cyrino : 
+    3: et ibant omnes ut profiterentur singuli in suam civitatem. 
+    4: Ascendit autem et Joseph a Galilaea de civitate Nazareth in Judaeam, in civitatem David, quae vocatur Bethlehem : eo quod esset de domo et familia David, 
+    5: ut profiteretur cum Maria desponsata sibi uxore praegnante.
+    6: Factum est autem, cum essent ibi, impleti sunt dies ut pareret. 
+    7: Et peperit filium suum primogenitum, et pannis eum involvit, et reclinavit eum in praesepio : quia non erat eis locus in diversorio. 
+    8: Et pastores erant in regione eadem vigilantes, et custodientes vigilias noctis super gregem suum. 
+    9: Et ecce angelus Domini stetit juxta illos, et claritas Dei circumfulsit illos, et timuerunt timore magno. 
+    10: Et dixit illis angelus : Nolite timere : ecce enim evangelizo vobis gaudium magnum, quod erit omni populo :
+    11: quia natus est vobis hodie Salvator, qui est Christus Dominus, in civitate David. 
+    12: Et hoc vobis signum : invenietis infantem pannis involutum, et positum in praesepio. 
+    13: Et subito facta est cum angelo multitudo militiae caelestis laudantium Deum, et dicentium : 
+    14: Gloria in altissimis Deo, et in terra pax hominibus bonae voluntatis. 
+    15: Et factum est, ut discesserunt ab eis angeli in caelum : pastores loquebantur ad invicem : Transeamus usque Bethlehem, et videamus hoc verbum, quod factum est, quod Dominus ostendit nobis.
+    16: Et venerunt festinantes : et invenerunt Mariam, et Joseph, et infantem positum in praesepio. 
+    17: Videntes autem cognoverunt de verbo, quod dictum erat illis de puero hoc. 
+    18: Et omnes qui audierunt, mirati sunt : et de his quae dicta erant a pastoribus ad ipsos. 
+    19: Maria autem conservabat omnia verba haec, conferens in corde suo. 
+    20: Et reversi sunt pastores glorificantes et laudantes Deum in omnibus quae audierant et viderant, sicut dictum est ad illos.
+    21: Et postquam consummati sunt dies octo, ut circumcideretur puer, vocatum est nomen ejus Jesus, quod vocatum est ab angelo priusquam in utero conciperetur. 
+    22: Et postquam impleti sunt dies purgationis ejus secundum legem Moysi, tulerunt illum in Jerusalem, ut sisterent eum Domino, 
+    23: sicut scriptum est in lege Domini : Quia omne masculinum adaperiens vulvam, sanctum Domino vocabitur : 
+    24: et ut darent hostiam secundum quod dictum est in lege Domini, par turturum, aut duos pullos columbarum. 
+    25: Et ecce homo erat in Jerusalem, cui nomen Simeon, et homo iste justus, et timoratus, exspectans consolationem Israel : et Spiritus Sanctus erat in eo.
+    26: Et responsum acceperat a Spiritu Sancto, non visurum se mortem, nisi prius videret Christum Domini. 
+    27: Et venit in spiritu in templum. Et cum inducerent puerum Jesum parentes ejus, ut facerent secundum consuetudinem legis pro eo, 
+    28: et ipse accepit eum in ulnas suas : et benedixit Deum, et dixit : 
+    29: Nunc dimittis servum tuum Domine, secundum verbum tuum in pace : 
+    30: quia viderunt oculi mei salutare tuum,
+    31: quod parasti ante faciem omnium populorum : 
+    32: lumen ad revelationem gentium, et gloriam plebis tuae Israel. 
+    33: Et erat pater ejus et mater mirantes super his quae dicebantur de illo. 
+    34: Et benedixit illis Simeon, et dixit ad Mariam matrem ejus : Ecce positus est hic in ruinam, et in resurrectionem multorum in Israel, et in signum cui contradicetur : 
+    35: et tuam ipsius animam pertransibit gladius ut revelentur ex multis cordibus cogitationes.
+    36: Et erat Anna prophetissa, filia Phanuel, de tribu Aser : haec processerat in diebus multis, et vixerat cum viro suo annis septem a virginitate sua. 
+    37: Et haec vidua usque ad annos octoginta quatuor : quae non discedebat de templo, jejuniis, et obsecrationibus serviens nocte ac die. 
+    38: Et haec, ipsa hora superveniens, confitebatur Domino : et loquebatur de illo omnibus, qui exspectabant redemptionem Israel. 
+    39: Et ut perfecerunt omnia secundum legem Domini, reversi sunt in Galilaeam in civitatem suam Nazareth. 
+    40: Puer autem crescebat, et confortabatur plenus sapientia : et gratia Dei erat in illo.
+    41: Et ibant parentes ejus per omnes annos in Jerusalem, in die solemni Paschae. 
+    42: Et cum factus esset annorum duodecim, ascendentibus illis Jerosolymam secundum consuetudinem diei festi, 
+    43: consummatisque diebus, cum redirent, remansit puer Jesus in Jerusalem, et non cognoverunt parentes ejus. 
+    44: Existimantes autem illum esse in comitatu, venerunt iter diei, et requirebant eum inter cognatos et notos. 
+    45: Et non invenientes, regressi sunt in Jerusalem, requirentes eum.
+    46: Et factum est, post triduum invenerunt illum in templo sedentem in medio doctorum, audientem illos, et interrogantem eos. 
+    47: Stupebant autem omnes qui eum audiebant, super prudentia et responsis ejus. 
+    48: Et videntes admirati sunt. Et dixit mater ejus ad illum : Fili, quid fecisti nobis sic? ecce pater tuus et ego dolentes quaerebamus te. 
+    49: Et ait ad illos : Quid est quod me quaerebatis? nesciebatis quia in his quae Patris mei sunt, oportet me esse? 
+    50: Et ipsi non intellexerunt verbum quod locutus est ad eos.
+    51: Et descendit cum eis, et venit Nazareth : et erat subditus illis. Et mater ejus conservabat omnia verba haec in corde suo. 
+    52: Et Jesus proficiebat sapientia, et aetate, et gratia apud Deum et homines.
+
+  Chapter 3.
+
+    1: Anno autem quintodecimo imperii Tiberii Caesaris, procurante Pontio Pilato Judaeam, tetrarcha autem Galiaeae Herode, Philippo autem fratre ejus tetrarcha Ituraeae, et Trachonitidis regionis, et Lysania Abilinae tetrarcha, 
+    2: sub principibus sacerdotum Anna et Caipha : factum est verbum Domini super Joannem, Zachariae filium, in deserto. 
+    3: Et venit in omnem regionem Jordanis, praedicans baptismum poenitentiae in remissionem peccatorum, 
+    4: sicut scriptum est in libro sermonum Isaiae prophetae : Vox clamantis in deserto : Parate viam Domini; rectas facite semitas ejus : 
+    5: omnis vallis implebitur, et omnis mons, et collis humiliabitur : et erunt prava in directa, et aspera in vias planas :
+    6: et videbit omnis caro salutare Dei. 
+    7: Dicebat ergo ad turbas quae exibant ut baptizarentur ab ipso : Genimina viperarum, quis ostendit vobis fugere a ventura ira? 
+    8: Facite ergo fructus dignos poenitentiae, et ne coeperitis dicere : Patrem habemus Abraham. Dico enim vobis quia potens est Deus de lapidibus istis suscitare filios Abrahae. 
+    9: Jam enim securis ad radicem arborum posita est. Omnis ergo arbor non faciens fructum bonum, excidetur, et in ignem mittetur. 
+    10: Et interrogabant eum turbae, dicentes : Quid ergo faciemus?
+    11: Respondens autem dicebat illis : Qui habet duas tunicas, det non habenti : et qui habet escas, similiter faciat. 
+    12: Venerunt autem et publicani ut baptizarentur, et dixerunt ad illum : Magister, quid faciemus? 
+    13: At ille dixit ad eos : Nihil amplius, quam quod constitutum est vobis, faciatis. 
+    14: Interrogabant autem eum et milites, dicentes : Quid faciemus et nos? Et ait illis : Neminem concutiatis, neque calumniam faciatis : et contenti estote stipendiis vestris. 
+    15: Existimante autem populo, et cogitantibus omnibus in cordibus suis de Joanne, ne forte ipse esset Christus,
+    16: respondit Joannes, dicens omnibus : Ego quidem aqua baptizo vos : veniet autem fortior me, cujus non sum dignus solvere corrigiam calceamentorum ejus : ipse vos baptizabit in Spiritu Sancto et igni : 
+    17: cujus ventilabrum in manu ejus, et purgabit aream suam, et congregabit triticum in horreum suum, paleas autem comburet igni inextinguibili. 
+    18: Multa quidem et alia exhortans evangelizabat populo. 
+    19: Herodes autem tetrarcha cum corriperetur ab illo de Herodiade uxore fratris sui, et de omnibus malis quae fecit Herodes, 
+    20: adjecit et hoc super omnia, et inclusit Joannem in carcere.
+    21: Factum est autem cum baptizaretur omnis populus, et Jesu baptizato, et orante, apertum est caelum : 
+    22: et descendit Spiritus Sanctus corporali specie sicut columba in ipsum : et vox de caelo facta est : Tu es filius meus dilectus, in te complacui mihi. 
+    23: Et ipse Jesus erat incipiens quasi annorum triginta, ut putabatur, filius Joseph, qui fuit Heli, qui fuit Mathat, 
+    24: qui fuit Levi, qui fuit Melchi, qui fuit Janne, qui fuit Joseph, 
+    25: qui fuit Mathathiae, qui fuit Amos, qui fuit Nahum, qui fuit Hesli, qui fuit Nagge,
+    26: qui fuit Mahath, qui fuit Mathathiae, qui fuit Semei, qui fuit Joseph, qui fuit Juda, 
+    27: qui fuit Joanna, qui fuit Resa, qui fuit Zorobabel, qui fuit Salatheil, qui fuit Neri, 
+    28: qui fuit Melchi, qui fuit Addi, qui fuit Cosan, qui fuit Elmadan, qui fuit Her, 
+    29: qui fuit Jesu, qui fuit Eliezer, qui fuit Jorim, qui fuit Mathat, qui fuit Levi, 
+    30: qui fuit Simeon, qui fuit Juda, qui fuit Joseph, qui fuit Jona, qui fuit Eliakim,
+    31: qui fuit Melea, qui fuit Menna, qui fuit Mathatha, qui fuit Natham, qui fuit David, 
+    32: qui fuit Jesse, qui fuit Obed, qui fuit Booz, qui fuit Salmon, qui fuit Naasson, 
+    33: qui fuit Aminadab, qui fuit Aram, qui fuit Esron, qui fuit Phares, qui fuit Judae, 
+    34: qui fuit Jacob, qui fuit Isaac, qui fuit Abrahae, qui fuit Thare, qui fuit Nachor, 
+    35: qui fuit Sarug, qui fuit Ragau, qui fuit Phaleg, qui fuit Heber, qui fuit Sale,
+    36: qui fuit Cainan, qui fuit Arphaxad, qui fuit Sem, qui fuit Noe, qui fuit Lamech, 
+    37: qui fuit Methusale, qui fuit Henoch, qui fuit Jared, qui fuit Malaleel, qui fuit Cainan, 
+    38: qui fuit Henos, qui fuit Seth, qui fuit Adam, qui fuit Dei.
+
+  Chapter 4.
+
+    1: Jesus autem plenus Spiritu Sancto regressus est a Jordane : et agebatur a Spiritu in desertum 
+    2: diebus quadraginta, et tentabatur a diabolo. Et nihil manducavit in diebus illis : et consummatis illis esuriit. 
+    3: Dixit autem illi diabolus : Si Filius Dei es, dic lapidi huic ut panis fiat. 
+    4: Et respondit ad illum Jesus : Scriptum est : Quia non in solo pane vivit homo, sed in omni verbo Dei. 
+    5: Et duxit illum diabolus in montem excelsum, et ostendit illi omnia regna orbis terrae in momento temporis,
+    6: et ait illi : Tibi dabo potestatem hanc universam, et gloriam illorum : quia mihi tradita sunt, et cui volo do illa. 
+    7: Tu ergo si adoraveris coram me, erunt tua omnia. 
+    8: Et respondens Jesus, dixit illi : Scriptum est : Dominum Deum tuum adorabis, et illi soli servies. 
+    9: Et duxit illum in Jerusalem, et statuit eum super pinnam templi, et dixit illi : Si Filius Dei es, mitte te hinc deorsum. 
+    10: Scriptum est enim quod angelis suis mandavit de te, ut conservent te :
+    11: et quia in manibus tollent te, ne forte offendas ad lapidem pedem tuum. 
+    12: Et respondens Jesus, ait illi : Dictum est : Non tentabis Dominum Deum tuum. 
+    13: Et consummata omni tentatione, diabolus recessit ab illo, usque ad tempus. 
+    14: Et regressus est Jesus in virtute Spiritus in Galilaeam, et fama exiit per universam regionem de illo. 
+    15: Et ipse docebat in synagogis eorum, et magnificabatur ab omnibus.
+    16: Et venit Nazareth, ubi erat nutritus, et intravit secundum consuetudinem suam die sabbati in synagogam, et surrexit legere. 
+    17: Et traditus est illi liber Isaiae prophetae. Et ut revolvit librum, invenit locum ubi scriptum erat : 
+    18: Spiritus Domini super me : propter quod unxit me, evangelizare pauperibus misit me, sanare contritos corde, 
+    19: praedicare captivis remissionem, et caecis visum, dimittere confractos in remissionem, praedicare annum Domini acceptum et diem retributioni. 
+    20: Et cum plicuisset librum, reddit ministro, et sedit. Et omnium in synagoga oculi erant intendentes in eum.
+    21: Coepit autem dicere ad illos : Quia hodie impleta est haec scriptura in auribus vestris. 
+    22: Et omnes testimonium illi dabant : et mirabantur in verbis gratiae, quae procedebant de ore ipsius, et dicebant : Nonne hic est filius Joseph? 
+    23: Et ait illis : Utique dicetis mihi hanc similitudinem : Medice cura teipsum : quanta audivimus facta in Capharnaum, fac et hic in patria tua. 
+    24: Ait autem : Amen dico vobis, quia nemo propheta acceptus est in patria sua. 
+    25: In veritate dico vobis, multae viduae erant in diebus Eliae in Israel, quando clausum est caelum annis tribus et mensibus sex, cum facta esset fames magna in omni terra :
+    26: et ad nullam illarum missus est Elias, nisi in Sarepta Sidoniae, ad mulierem viduam. 
+    27: Et multi leprosi erant in Israel sub Elisaeo propheta : et nemo eorum mundatus est nisi Naaman Syrus. 
+    28: Et repleti sunt omnes in synagoga ira, haec audientes. 
+    29: Et surrexerunt, et ejecerunt illum extra civitatem : et duxerunt illum usque ad supercilium montis, super quem civitas illorum erat aedificata, ut praecipitarent eum. 
+    30: Ipse autem transiens per medium illorum, ibat.
+    31: Et descendit in Capharnaum civitatem Galilaeae, ibique docebat illos sabbatis. 
+    32: Et stupebant in doctrina ejus, quia in potestate erat sermo ipsius. 
+    33: Et in synagoga erat homo habens daemonium immundum, et exclamavit voce magna, 
+    34: dicens : Sine, quid nobis et tibi, Jesu Nazarene? venisti perdere nos? scio te quis sis, Sanctus Dei. 
+    35: Et increpavit illum Jesus, dicens : Obmutesce, et exi ab eo. Et cum projecisset illum daemonium in medium, exiit ab illo, nihilque illum nocuit.
+    36: Et factus est pavor in omnibus, et colloquebantur ad invicem, dicentes : Quod est hoc verbum, quia in potestate et virtute imperat immundis spiritibus, et exeunt? 
+    37: Et divulgabatur fama de illo in omnem locum regionis. 
+    38: Surgens autem Jesus de synagoga, introivit in domum Simonis. Socrus autem Simonis tenebatur magnis febribus : et rogaverunt illum pro ea. 
+    39: Et stans super illam imperavit febri : et dimisit illam. Et continuo surgens, ministrabat illis. 
+    40: Cum autem sol occidisset, omnes qui habebant infirmos variis languoribus, ducebant illos ad eum. At ille singulis manus imponens, curabat eos.
+    41: Exibant autem daemonia a multis clamantia, et dicentia : Quia tu es Filius Dei : et increpans non sinebat ea loqui : quia sciebant ipsum esse Christum. 
+    42: Facta autem die egressus ibat in desertum locum, et turbae requirebant eum, et venerunt usque ad ipsum : et detinebant illum ne discederet ab eis. 
+    43: Quibus ille ait : Quia et aliis civitatibus oportet me evangelizare regnum Dei : quia ideo missus sum. 
+    44: Et erat praedicans in synagogis Galilaeae.
+
+End of day 295.

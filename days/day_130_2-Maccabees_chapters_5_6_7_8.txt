@@ -1,0 +1,153 @@
+Day 130:
+
+Reading 2-Maccabees, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: Eodem tempore, Antiochus secundam profectionem paravit in Aegyptum. 
+    2: Contigit autem per universam Jerosolymorum civitatem videri diebus quadraginta per aera equites discurrentes, auratas stolas habentes, et hastis, quasi cohortes, armatos, 
+    3: et cursus equorum per ordines digestos, et congressiones fieri cominus, et scutorum motus, et galeatorum multitudinem gladiis districtis, et telorum jactus, et aureorum armorum splendorem, omnisque generis loricarum. 
+    4: Quapropter omnes rogabant in bonum monstra converti. 
+    5: Sed cum falsus rumor exisset, tamquam vita excessisset Antiochus, assumptis Jason non minus mille viris, repente agressus est civitatem : et civibus ad murum convolantibus ad ultimum apprehensa civitate, Menelaus fugit in arcem :
+    6: Jason vero non parcebat in caede civibus suis, nec cogitabat prosperitatem adversum cognatos malum esse maximum, arbitrans hostium et non civium se trophaea capturum. 
+    7: Et principatum quidem non obtinuit, finem vero insidiarum suarum confusionem accepit, et profugus iterum abiit in Ammanitem. 
+    8: Ad ultimum, in exitium sui conclusus ab Areta Arabum tyranno fugiens de civitate in civitatem, omnibus odiosus, ut refuga legum et execrabilis, ut patriae et civium hostis, in Aegyptum extrusus est : 
+    9: et qui multos de patria sua expulerat, peregre periit, Lacedaemonas profectus, quasi pro cognatione ibi refugium habiturus : 
+    10: et qui insepultos multos abjecerat, ipse et illamentatus, et insepultus abjicitur, sepultura neque peregrina usus, neque patrio sepulchro participans.
+    11: His itaque gestis, suspicatus est rex societatem deserturos Judaeos : et ob hoc profectus ex Aegypto efferatis animis, civitatem quidem armis cepit. 
+    12: Jussit autem militibus interficere, nec parcere occursantibus, et per domos ascendentes trucidare. 
+    13: Fiebant ergo caedes juvenum, ac seniorum, et mulierum, et natorum exterminia, virginumque et parvulorum neces. 
+    14: Erant autem toto triduo octoginta millia interfecti, quadraginta millia vincti, non minus autem venundati. 
+    15: Sed nec ista sufficiunt : ausus est etiam intrare templum universa terra sanctius, Menelao ductore, qui legum et patriae fuit proditor :
+    16: et scelestis manibus sumens sancta vasa, quae ab aliis regibus et civitatibus erant posita ad ornatum loci, et gloriam, contrectabat indigne, et contaminabat. 
+    17: Ita alienatus mente Antiochus, non considerabat quod propter peccata habitantium civitatem, modicum Deus fuerat iratus : propter quod et accidit circa locum despectio : 
+    18: alioquin nisi contigisset eos multis peccatis esse involutos, sicut Heliodorus, qui missus est a Seleuco rege ad expoliandum aerarium, etiam hic statim adveniens flagellatus, et repulsus utique fuisset ab audacia. 
+    19: Verum non propter locum, gentem : sed propter gentem, locum Deus elegit. 
+    20: Ideoque et ipse locus particeps factus est populi malorum, postea autem fiet socius bonorum, et qui derelictus in ira Dei omnipotentis est, iterum in magni Domini reconciliatione cum summa gloria exaltabitur.
+    21: Igitur Antiochus mille et octingentis ablatis de templo talentis, velociter Antiochiam regressus est, existimans se prae superbia terram ad navigandum, pelagus vero ad iter agendum deducturum propter mentis elationem. 
+    22: Reliquit autem et praepositos ad affligendam gentem : Jerosolymis quidem Philippum genere Phrygem, moribus crudeliorem eo ipso, a quo constitutus est : 
+    23: in Garizim autem Andronicum et Menelaum, qui gravius quam ceteri imminebant civibus. 
+    24: Cumque appositus esset contra Judaeos, misit odiosum principem Apollonium cum exercitu viginti et duobus millibus, praecipiens ei omnes perfectae aetatis interficere, mulieres ac juvenes vendere. 
+    25: Qui cum venisset Jerosolymam, pacem simulans, quievit usque ad diem sanctum sabbati : et tunc feriatis Judaeis arma capere suis praecepit.
+    26: Omnesque qui ad spectaculum processerant, trucidavit : et civitatem cum armatis discurrens, ingentem multitudinem peremit. 
+    27: Judas autem Machabaeus, qui decimus fuerat, secesserat in desertum locum, ibique inter feras vitam in montibus cum suis agebat : et foeni cibo vescentes, demorabantur, ne participes essent coinquinationis.
+
+  Chapter 6.
+
+    1: Sed non post multum temporis, misit rex senem quemdam Antiochenum, qui compelleret Judaeos ut se transferrent a patriis et Dei legibus : 
+    2: contaminare etiam quod in Jerosolymis erat templum, et cognominare Jovis Olympii : et in Garizim, prout erant hi qui locum inhabitabant, Jovis hospitalis. 
+    3: Pessima autem et universis gravis erat malorum incursio : 
+    4: nam templum luxuria et comessationibus gentium erat plenum, et scortantium cum meretricibus : sacratisque aedibus mulieres se ultro ingerebant, intro ferentes ea, quae non licebat. 
+    5: Altare etiam plenum erat illicitis, quae legibus prohibebantur.
+    6: Neque autem sabbata custodiebantur, neque dies solemnes patrii servabantur, nec simpliciter Judaeum se esse quisquam confitebatur. 
+    7: Ducebantur autem cum amara necessitate in die natalis regis ad sacrificia : et, cum Liberi sacra celebrarentur, cogebantur hedera coronati Libero circuire. 
+    8: Decretum autem exiit in proximas gentilium civitates, suggerentibus Ptolemaeis, ut pari modo et ipsi adversus Judaeos agerent, ut sacrificarent : 
+    9: eos autem qui nollent transire ad instituta gentium, interficerent : erat ergo videre miseriam. 
+    10: Duae enim mulieres delatae sunt natos suos circumcidisse : quas, infantibus ad ubera suspensis, cum publice per civitatem circumduxissent, per muros praecipitaverunt.
+    11: Alii vero, ad proximas coeuntes speluncas, et latenter sabbati diem celebrantes, cum indicati essent Philippo, flammis succensi sunt, eo quod verebantur propter religionem et observantiam, manu sibimet auxilium ferre. 
+    12: Obsecro autem eos, qui hunc librum lecturi sunt, ne abhorrescant propter adversos casus, sed reputent ea quae acciderunt, non ad interitum, sed ad correptionem esse generis nostri. 
+    13: Etenim multo tempore non sinere peccatoribus ex sententia agere, sed statim ultiones adhibere, magni beneficii est indicium. 
+    14: Non enim, sicut in aliis nationibus, Dominus patienter exspectat, ut eas, cum judicii dies advenerit, in plenitudine peccatorum puniat : 
+    15: ita et in nobis statuit, ut, peccatis nostris in finem devolutis, ita demum in nos vindicet.
+    16: Propter quod numquam quidem a nobis misericordiam suam amovet : corripiens vero in adversis populum suum non dereliquit. 
+    17: Sed haec nobis ad commonitionem legentium dicta sint paucis. Jam enim veniendum est ad narrationem. 
+    18: Igitur Eleazarus, unus de primoribus scribarum, vir aetate provectus, et vultu decorus, aperto ore hians compellebatur carnem porcinam manducare. 
+    19: At ille gloriosissimam mortem magis quam odibilem vitam complectens, voluntarie praeibat ad supplicium. 
+    20: Intuens autem quemadmodum oporteret accedere, patienter sustinens, destinavit non admittere illicita propter vitae amorem.
+    21: Hi autem qui astabant, iniqua miseratione commoti, propter antiquam viri amicitiam, tollentes eum secreto rogabant afferri carnes quibus vesci ei licebat, ut simularetur manducasse, sicut rex imperaverat de sacrificii carnibus : 
+    22: ut, hoc facto, a morte liberaretur : et propter veterem viri amicitiam, hanc in eo faciebant humanitatem. 
+    23: At ille cogitare coepit aetatis ac senectutis suae eminentiam dignam, et ingenitae nobilitatis canitiem, atque a puero optimae conversationis actus : et secundum sanctae et a Deo conditae legis constituta, respondit cito, dicens praemitti se velle in infernum. 
+    24: Non enim aetati nostrae dignum est, inquit, fingere : ut multi adolescentium, arbitrantes Eleazarum nonaginta annorum transisse ad vitam alienigenarum : 
+    25: et ipsi propter meam simulationem, et propter modicum corruptibilis vitae tempus decipiantur, et per hoc maculam atque execrationem meae senectuti conquiram.
+    26: Nam, etsi in praesenti tempore suppliciis hominum eripiar, sed manum Omnipotentis nec vivus, nec defunctus, effugiam. 
+    27: Quam ob rem fortiter vita excedendo, senectute quidem dignus apparebo : 
+    28: adolescentibus autem exemplum forte relinquam, si prompto animo, ac fortiter pro gravissimis ac sanctissimis legibus honesta morte perfungar. His dictis, confestim ad supplicium trahebatur. 
+    29: Hi autem, qui eum ducebant, et paulo ante fuerant mitiores, in iram conversi sunt propter sermones ab eo dictos, quos illi per arrogantiam prolatos arbitrabantur. 
+    30: Sed cum plagis perimeretur, ingemuit, et dixit : Domine, qui habes sanctam scientiam, manifeste tu scis, quia cum a morte possem liberari, duros corporis sustineo dolores : secundum animam vero propter timorem tuum libenter haec patior.
+    31: Et iste quidem hoc modo vita decessit, non solum juvenibus, sed et universae genti memoriam mortis suae ad exemplum virtutis et fortitudinis derelinquens.
+
+  Chapter 7.
+
+    1: Contigit autem et septem fratres una cum matre sua apprehensos compelli a rege edere contra fas carnes porcinas, flagris, et taureis cruciatos. 
+    2: Unus autem ex illis, qui erat primus, sic ait : Quid quaeris, et quid vis discere a nobis? parati sumus mori, magis quam patrias Dei leges praevaricari. 
+    3: Iratus itaque rex, jussit sartagines et ollas aeneas succendi : quibus statim succensis, 
+    4: jussit ei qui prior fuerat locutus amputari linguam, et cute capitis abstracta, summas quoque manus et pedes ei praescindi, ceteris ejus fratribus et matre inspicientibus. 
+    5: Et cum jam per omnia inutilis factus esset, jussit ignem admoveri, et adhuc spirantem torreri in sartagine : in qua cum diu cruciaretur, ceteri una cum matre invicem se hortabantur mori fortiter,
+    6: dicentes : Dominus Deus aspiciet veritatem, et consolabitur in nobis, quemadmodum in protestatione cantici declaravit Moyses : Et in servis suis consolabitur. 
+    7: Mortuo itaque illo primo hoc modo, sequentem deducebant ad illudendum : et, cute capitis ejus cum capillis abstracta, interrogabant si manducaret, priusquam toto corpore per membra singula puniretur. 
+    8: At ille respondens patria voce, dixit : Non faciam. Propter quod et iste, sequenti loco, primi tormenta suscepit : 
+    9: et in ultimo spiritu constitutus, sic ait : Tu quidem scelestissime in praesenti vita nos perdis : sed Rex mundi defunctos nos pro suis legibus in aeternae vitae resurrectione suscitabit. 
+    10: Post hunc tertius illuditur, et linguam postulatus cito protulit, et manus constanter extendit :
+    11: et cum fiducia ait : E caelo ista possideo, sed propter Dei leges nunc haec ipsa despicio, quoniam ab ipso me ea recepturum spero : 
+    12: ita ut rex, et qui cum ipso erant, mirarentur adolescentis animum, quod tamquam nihilum duceret cruciatus. 
+    13: Et hoc ita defuncto, quartum vexabant similiter torquentes. 
+    14: Et cum jam esset ad mortem, sic ait : Potius est ab hominibus morti datos spem exspectare a Deo, iterum ab ipso resuscitandos : tibi enim resurrectio ad vitam non erit. 
+    15: Et cum admovissent quintum, vexabant eum. At ille, respiciens in eum,
+    16: dixit : Potestatem inter homines habens, cum sis corruptibilis, facis quod vis : noli autem putare genus nostrum a Deo esse derelictum : 
+    17: tu autem patienter sustine, et videbis magnam potestatem ipsius, qualiter te et semen tuum torquebit. 
+    18: Post hunc ducebant sextum, et is, mori incipiens, sic ait : Noli frustra errare : nos enim propter nosmetipsos haec patimur, peccantes in Deum nostrum, et digna admiratione facta sunt in nobis : 
+    19: tu autem ne existimes tibi impune futurum, quod contra Deum pugnare tentaveris. 
+    20: Supra modum autem mater mirabilis, et bonorum memoria digna, quae pereuntes septem filios sub unius diei tempore conspiciens, bono animo ferebat propter spem quam in Deum habebat :
+    21: singulos illorum hortabatur voce patria fortiter, repleta sapientia : et, femineae cogitationi masculinum animum inserens, 
+    22: dixit ad eos : Nescio qualiter in utero meo apparuistis : neque enim ego spiritum et animam donavi vobis et vitam, et singulorum membra non ego ipsa compegi, 
+    23: sed enim mundi Creator, qui formavit hominis nativitatem, quique omnium invenit originem, et spiritum vobis iterum cum misericordia reddet et vitam, sicut nunc vosmetipsos despicitis propter leges ejus. 
+    24: Antiochus autem, contemni se arbitratus, simul et exprobrantis voce despecta, cum adhuc adolescentior superesset, non solum verbis hortabatur, sed et cum juramento affirmabat se divitem et beatum facturum, et translatum a patriis legibus amicum habiturum, et res necessarias ei praebiturum. 
+    25: Sed ad haec cum adolescens nequaquam inclinaretur, vocavit rex matrem, et suadebat ei ut adolescenti fieret in salutem.
+    26: Cum autem multis eam verbis esset hortatus, promisit suasurum se filio suo. 
+    27: Itaque inclinata ad illum, irridens crudelem tyrannum, ait patria voce : Fili mi, miserere mei, quae te in utero novem mensibus portavi, et lac triennio dedi et alui, et in aetatem istam perduxi. 
+    28: Peto, nate, ut aspicias ad caelum et terram, et ad omnia quae in eis sunt : et intelligas, quia ex nihilo fecit illa Deus, et hominum genus : 
+    29: ita fiet, ut non timeas carnificem istum, sed dignus fratribus tuis effectus particeps, suscipe mortem, ut in illa miseratione cum fratribus tuis te recipiam. 
+    30: Cum haec illa adhuc diceret, ait adolescens : Quem sustinetis? non obedio praecepto regis, sed praecepto legis, quae data est nobis per Moysen.
+    31: Tu vero, qui inventor omnis malitiae factus es in Hebraeos, non effugies manum Dei. 
+    32: Nos enim pro peccatis nostris haec patimur. 
+    33: Et si nobis propter increpationem et correptionem Dominus Deus noster modicum iratus est : sed iterum reconciliabitur servis suis. 
+    34: Tu autem, o sceleste, et omnium hominum flagitiosissime, noli frustra extolli vanis spebus in servos ejus inflammatus : 
+    35: nondum enim omnipotentis Dei, et omnia inspicientis, judicium effugisti.
+    36: Nam fratres mei, modico nunc dolore sustentato, sub testamento aeternae vitae effecti sunt : tu vero judicio Dei justas superbiae tuae poenas exsolves. 
+    37: Ego autem, sicut fratres mei, animam et corpus meum trado pro patriis legibus : invocans Deum maturius genti nostrae propitium fieri, teque cum tormentis et verberibus confiteri quod ipse est Deus solus. 
+    38: In me vero et in fratribus meis desinet Omnipotentis ira, quae super omne genus nostrum juste superducta est. 
+    39: Tunc rex, accensus ira in hunc, super omnes crudelius desaevit, indigne ferens se derisum. 
+    40: Et hic itaque mundus obiit, per omnia in Domino confidens.
+    41: Novissime autem post filios et mater consumpta est. 
+    42: Igitur de sacrificiis et de nimiis crudelitatibus satis dictum est.
+
+  Chapter 8.
+
+    1: Judas vero Machabaeus, et qui cum illo erant, introibant latenter in castella : et convocantes cognatos, et amicos, et eos qui permanserunt in Judaismo assumentes, eduxerunt ad se sex millia virorum. 
+    2: Et invocabant Dominum, ut respiceret in populum qui ab omnibus calcabatur, et misereretur templo quod contaminabatur ab impiis : 
+    3: misereretur etiam exterminio civitatis, quae esset illico complananda, et vocem sanguinis ad se clamantis audiret : 
+    4: memoraretur quoque iniquissimas mortes parvulorum innocentum, et blasphemias nomini suo illatas, et indignaretur super his. 
+    5: At Machabaeus, congregata multitudine, intolerabilis gentibus efficiebatur : ira enim Domini in misericordiam conversa est.
+    6: Et superveniens castellis et civitatibus improvisus, succendebat eas : et opportuna loca occupans, non paucas hostium strages dabat : 
+    7: maxime autem noctibus ad hujuscemodi excursus ferebatur, et fama virtutis ejus ubique diffundebatur. 
+    8: Videns autem Philippus paulatim virum ad profectum venire, ac frequentius res ei cedere propere, ad Ptolemaeum ducem Coelesyriae et Phoenicis scripsit ut auxilium ferret regis negotiis. 
+    9: At ille velociter misit Nicanorem Patrocli de primoribus amicum, datis ei de permistis gentibus, armatis non minus viginti millibus, ut universum Judaeorum genus deleret, adjuncto ei Gorgia viro militari, et in bellicis rebus experientissimo. 
+    10: Constituit autem Nicanor, ut regi tributum, quod Romanis erat dandum, duo millia talentorum de captivitate Judaeorum suppleret :
+    11: statimque ad maritimas civitates misit, convocans ad coemptionem Judaicorum mancipiorum, promittens se nonaginta mancipia talento distracturum, non respiciens ad vindictam, quae eum ab Omnipotente esset consecutura. 
+    12: Judas autem ubi comperit, indicavit his qui secum erant Judaeis Nicanoris adventum. 
+    13: Ex quibus quidam formidantes, et non credentes Dei justitiae, in fugam vertebantur : 
+    14: alii vero si quid eis supererat vendebant, simulque Dominum deprecabantur ut eriperet eos ab impio Nicanore, qui eos priusquam cominus veniret, vendiderat : 
+    15: etsi non propter eos, propter testamentum tamen quod erat ad patres eorum, et propter invocationem sancti et magnifici nominis ejus super ipsos.
+    16: Convocatis autem Machabaeus septem millibus, qui cum ipso erant, rogabat ne hostibus reconciliarentur, neque metuerent inique venientium adversum se hostium multitudinem, sed fortiter contenderent, 
+    17: ante oculos habentes contumeliam, quae loco sancto ab his injuste esset illata, itemque et ludibrio habitae civitatis injuriam, adhuc etiam veterum instituta convulsa. 
+    18: Nam illi quidem armis confidunt, ait, simul et audacia : nos autem in omnipotente Domino, qui potest et venientes adversum nos, et universum mundum uno nutu delere, confidimus. 
+    19: Admonuit autem eos et de auxiliis Dei, quae facta sunt erga parentes : et quod sub Sennacherib centum octoginta quinque millia perierunt : 
+    20: et de praelio, quod eis adversus Galatas fuit in Babylonia, ut omnes, ubi ad rem ventum est, Macedonibus sociis haesitantibus, ipsi sex millia soli peremerunt centum viginti millia propter auxilium illis datum de caelo, et beneficia pro his plurima consecuti sunt.
+    21: His verbis constantes effecti sunt, et pro legibus et patria mori parati. 
+    22: Constituit itaque fratres suos duces utrique ordini, Simonem, et Josephum, et Jonathan, subjectis unicuique millenis et quingentenis. 
+    23: Ad hoc etiam ab Esdra lecto illis sancto libro, et dato signo adjutorii Dei, in prima acie ipse dux commisit cum Nicanore. 
+    24: Et facto sibi adjutore Omnipotente, interfecerunt super novem millia hominum : majorem autem partem exercitus Nicanoris vulneribus debilem factam fugere compulerunt. 
+    25: Pecuniis vero eorum, qui ad emptionem ipsorum venerant, sublatis, ipsos usquequaque persecuti sunt,
+    26: sed reversi sunt hora conclusi, nam erat ante sabbatum : quam ob causam non perseveraverunt insequentes. 
+    27: Arma autem ipsorum, et spolia congregantes, sabbatum agebant, benedicentes Dominum, qui liberavit eos in isto die, misericordiae initium stillans in eos. 
+    28: Post sabbatum vero debilibus, et orphanis, et viduis diviserunt spolia : et residua ipsi cum suis habuere. 
+    29: His itaque gestis, et communiter ab omnibus facta obsecratione, misericordem Dominum postulabant, ut in finem servis suis reconciliaretur. 
+    30: Et ex his, qui cum Timotheo et Bacchide erant contra se contendentes, super viginti millia interfecerunt, et munitiones excelsas obtinuerunt : et plures praedas diviserunt, aequam portionem debilibus, pupillis, et viduis, sed et senioribus facientes.
+    31: Et cum arma eorum diligenter collegissent, omnia composuerunt in locis opportunis, residua vero spolia Jerosolymam detulerunt : 
+    32: et Philarchen, qui cum Timotheo erat, interfecerunt, virum scelestum, qui in multis Judaeos afflixerat. 
+    33: Et cum epinicia agerent Jerosolymis, eum qui sacras januas incenderat, id est, Callisthenem, cum in quoddam domicilium refugisset, incenderunt, digna ei mercede pro impietatibus suis reddita. 
+    34: Facinorosissimus autem Nicanor, qui mille negotiantes ad Judaeorum venditionem adduxerat, 
+    35: humiliatus auxilio Domini ab his quos nullos existimaverat, deposita veste gloriae, per mediterranea fugiens, solus venit Antiochiam, summam infelicitatem de interitu sui exercitus consecutus.
+    36: Et qui promiserat Romanis se tributum restituere de captivitate Jerosolymorum, praedicabat nunc protectorem Deum habere Judaeos, et ob ipsum invulnerabiles esse, eo quod sequerentur leges ab ipso constitutas.
+
+End of day 130.

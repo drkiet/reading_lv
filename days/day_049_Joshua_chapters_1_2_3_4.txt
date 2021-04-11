@@ -1,0 +1,101 @@
+Day 49:
+
+Reading Joshua, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Et factum est post mortem Moysi servi Domini, ut loqueretur Dominus ad Josue filium Nun, ministrum Moysi, et diceret ei : 
+    2: Moyses servus meus mortuus est : surge, et transi Jordanem istum tu et omnis populus tecum, in terram, quam ego dabo filiis Israel. 
+    3: Omnem locum, quem calcaverit vestigium pedis vestri, vobis tradam, sicut locutus sum Moysi. 
+    4: A deserto et Libano usque ad fluvium magnum Euphraten, omnis terra Hethaeorum usque ad mare magnum contra solis occasum erit terminus vester. 
+    5: Nullus poterit vobis resistere cunctis diebus vitae tuae : sicut fui cum Moyse, ita ero tecum : non dimittam, nec derelinquam te.
+    6: Confortare, et esto robustus : tu enim sorte divides populo huic terram, pro qua juravi patribus suis, ut traderem eam illis. 
+    7: Confortare igitur, et esto robustus valde : ut custodias, et facias omnem legem, quam praecepit tibi Moyses servus meus : ne declines ab ea ad dexteram vel ad sinistram, ut intelligas cuncta quae agis. 
+    8: Non recedat volumen legis hujus ab ore tuo : sed meditaberis in eo diebus ac noctibus, ut custodias et facias omnia quae scripta sunt in eo : tunc diriges viam tuam, et intelliges eam. 
+    9: Ecce praecipio tibi : confortare, et esto robustus. Noli metuere, et noli timere : quoniam tecum est Dominus Deus tuus in omnibus ad quaecumque perrexeris. 
+    10: Praecepitque Josue principibus populi, dicens : Transite per medium castrorum, et imperate populo, ac dicite :
+    11: Praeparate vobis cibaria : quoniam post diem tertium transibitis Jordanem, et intrabitis ad possidendam terram, quam Dominus Deus vester daturus est vobis. 
+    12: Rubenitis quoque et Gaditis, et dimidiae tribui Manasse, ait : 
+    13: Mementote sermonis, quem praecepit vobis Moyses famulus Domini, dicens : Dominus Deus vester dedit vobis requiem, et omnem terram. 
+    14: Uxores vestrae, et filii, ac jumenta manebunt in terra, quam tradidit vobis Moyses trans Jordanem : vos autem transite armati ante fratres vestros, omnes fortes manu, et pugnate pro eis, 
+    15: donec det Dominus requiem fratribus vestris sicut et vobis dedit, et possideant ipsi quoque terram, quam Dominus Deus vester daturus est eis : et sic revertimini in terram possessionis vestrae, et habitabitis in ea, quam vobis dedit Moyses famulus Domini trans Jordanem contra solis ortum.
+    16: Responderuntque ad Josue, atque dixerunt : Omnia, quae praecepisti nobis, faciemus : et quocumque miseris, ibimus. 
+    17: Sicut obedivimus in cunctis Moysi, ita obediemus et tibi : tantum sit Dominus Deus tuus tecum, sicut fuit cum Moyse. 
+    18: Qui contradixerit ori tuo, et non obedierit cunctis sermonibus, quos praeceperis ei, moriatur. Tu tantum confortare, et viriliter age.
+
+  Chapter 2.
+
+    1: Misit igitur Josue filius Nun de Setim duos viros exploratores in abscondito : et dixit eis : Ite, et considerate terram, urbemque Jericho. Qui pergentes ingressi sunt domum mulieris meretricis, nomine Rahab, et quieverunt apud eam. 
+    2: Nuntiatumque est regi Jericho, et dictum : Ecce viri ingressi sunt huc per noctem de filiis Israel, ut explorarent terram. 
+    3: Misitque rex Jericho ad Rahab, dicens : Educ viros, qui venerunt ad te, et ingressi sunt domum tuam : exploratores quippe sunt, et omnem terram considerare venerunt. 
+    4: Tollensque mulier viros, abscondit, et ait : Fateor, venerunt ad me, sed nesciebam unde essent : 
+    5: cumque porta clauderetur in tenebris, et illi pariter exierunt; nescio quo abierunt : persequimini cito, et comprehendetis eos.
+    6: Ipsa autem fecit ascendere viros in solarium domus suae, operuitque eos stipula lini, quae ibi erat. 
+    7: Hi autem, qui missi fuerant, secuti sunt eos per viam, quae ducit ad vadum Jordanis : illisque egressis statim porta clausa est. 
+    8: Necdum obdormierant qui latebant, et ecce mulier ascendit ad eos, et ait : 
+    9: Novi quod Dominus tradiderit vobis terram : etenim irruit in nos terror vester, et elanguerunt omnes habitatores terrae. 
+    10: Audivimus quod siccaverit Dominus aquas maris Rubri ad vestrum introitum, quando egressi estis ex Aegypto : et quae feceritis duobus Amorrhaeorum regibus, qui erant trans Jordanem, Sehon et Og, quos interfecistis.
+    11: Et haec audientes pertimuimus, et elanguit cor nostrum, nec remansit in nobis spiritus ad introitum vestrum : Dominus enim Deus vester ipse est Deus in caelo sursum et in terra deorsum. 
+    12: Nunc ergo jurate mihi per Dominum, ut quomodo ego misericordiam feci vobiscum, ita et vos faciatis cum domo patris mei : detisque mihi verum signum, 
+    13: ut salvetis patrem meum et matrem, et fratres ac sorores meas, et omnia quae illorum sunt, et eruatis animas nostras a morte. 
+    14: Qui responderunt ei : Anima nostra sit pro vobis in mortem, si tamen non prodideris nos : cumque tradiderit nobis Dominus terram, faciemus in te misericordiam et veritatem. 
+    15: Demisit ergo eos per funem de fenestra : domus enim ejus haerebat muro.
+    16: Dixitque ad eos : Ad montana conscendite, ne forte occurrant vobis revertentes : ibique latitate tribus diebus, donec redeant, et sic ibitis per viam vestram. 
+    17: Qui dixerunt ad eam : Innoxii erimus a juramento hoc, quo adjurasti nos : 
+    18: si ingredientibus nobis terram, signum fuerit funiculus iste coccineus, et ligaveris eum in fenestra, per quam demisisti nos : et patrem tuum ac matrem, fratresque et omnem cognationem tuam congregaveris in domum tuam. 
+    19: Qui ostium domus tuae egressus fuerit, sanguis ipsius erit in caput ejus, et nos erimus alieni. Cunctorum autem sanguis, qui tecum in domo fuerint, redundabit in caput nostrum, si eos aliquis tetigerit. 
+    20: Quod si nos prodere volueris, et sermonem istum proferre in medium, erimus mundi ab hoc juramento, quo adjurasti nos.
+    21: Et illa respondit : Sicut locuti estis, ita fiat : dimittensque eos ut pergerent, appendit funiculum coccineum in fenestra. 
+    22: Illi vero ambulantes pervenerunt ad montana, et manserunt ibi tres dies, donec reverterentur qui fuerant persecuti : quaerentes enim per omnem viam, non repererunt eos. 
+    23: Quibus urbem ingressis, reversi sunt, et descenderunt exploratores de monte : et, transmisso Jordane, venerunt ad Josue filium Nun, narraveruntque ei omnia quae acciderant sibi, 
+    24: atque dixerunt : Tradidit Dominus omnem terram hanc in manus nostras, et timore prostrati sunt cuncti habitatores ejus.
+
+  Chapter 3.
+
+    1: Igitur Josue de nocte consurgens movit castra : egredientesque de Setim, venerunt ad Jordanem ipse et omnes filii Israel, et morati sunt ibi tres dies. 
+    2: Quibus evolutis transierunt praecones per castrorum medium, 
+    3: et clamare coeperunt : Quando videritis arcam foederis Domini Dei vestri, et sacerdotes stirpis Leviticae portantes eam, vos quoque consurgite, et sequimini praecedentes : 
+    4: sitque inter vos et arcam spatium cubitorum duum millium : ut procul videre possitis, et nosse per quam viam ingrediamini : quia prius non ambulastis per eam : et cavete ne appropinquetis ad arcam. 
+    5: Dixitque Josue ad populum : Sanctificamini : cras enim faciet Dominus inter vos mirabilia.
+    6: Et ait ad sacerdotes : Tollite arcam foederis, et praecedite populum. Qui jussa complentes, tulerunt, et ambulaverunt ante eos. 
+    7: Dixitque Dominus ad Josue : Hodie incipiam exaltare te coram omni Israel : ut sciant quod sicut cum Moyse fui, ita et tecum sim. 
+    8: Tu autem praecipe sacerdotibus, qui portant arcam foederis, et dic eis : Cum ingressi fueritis partem aquae Jordanis, state in ea. 
+    9: Dixitque Josue ad filios Israel : Accedite huc, et audite verbum Domini Dei vestri. 
+    10: Et rursum : In hoc, inquit, scietis quod Dominus Deus vivens in medio vestri est, et disperdet in conspectu vestro Chananaeum et Hethaeum, Hevaeum et Pherezaeum, Gergesaeum quoque et Jebusaeum, et Amorrhaeum.
+    11: Ecce arca foederis Domini omnis terrae antecedet vos per Jordanem. 
+    12: Parate duodecim viros de tribubus Israel, singulos per singulas tribus. 
+    13: Et cum posuerint vestigia pedum suorum sacerdotes qui portant arcam Domini Dei universae terrae in aquis Jordanis, aquae quae inferiores sunt, decurrent atque deficient : quae autem desuper veniunt, in una mole consistent. 
+    14: Igitur egressus est populus de tabernaculis suis, ut transiret Jordanem : et sacerdotes, qui portabant arcam foederis, pergebant ante eum. 
+    15: Ingressisque eis Jordanem, et pedibus eorum in parte aquae tinctis ( Jordanis autem ripas alvei sui tempore messis impleverat),
+    16: steterunt aquae descendentes in loco uno, et ad instar montis intumescentes apparebant procul, ab urbe quae vocatur Adom usque ad locum Sarthan : quae autem inferiores erant, in mare Solitudinis ( quod nunc vocatur Mortuum) descenderunt, usquequo omnino deficerent. 
+    17: Populus autem incedebat contra Jericho : et sacerdotes, qui portabant arcam foederis Domini, stabant super siccam humum in medio Jordanis accincti, omnisque populus per arentem alveum transibat.
+
+  Chapter 4.
+
+    1: Quibus transgressis, dixit Dominus ad Josue : 
+    2: Elige duodecim viros singulos per singulas tribus : 
+    3: et praecipe eis ut tollant de medio Jordanis alveo, ubi steterunt pedes sacerdotum, duodecim durissimos lapides, quos ponetis in loco castrorum, ubi fixeritis hac nocte tentoria. 
+    4: Vocavitque Josue duodecim viros, quos elegerat de filiis Israel, singulos de singulis tribubus, 
+    5: et ait ad eos : Ite ante arcam Domini Dei vestri ad Jordanis medium, et portate inde singuli singulos lapides in humeris vestris, juxta numerum filiorum Israel,
+    6: ut sit signum inter vos : et quando interrogaverint vos filii vestri cras, dicentes : Quid sibi volunt isti lapides? 
+    7: respondebitis eis : Defecerunt aquae Jordanis ante arcam foederis Domini, cum transiret eum : idcirco positi sunt lapides isti in monimentum filiorum Israel usque in aeternum. 
+    8: Fecerunt ergo filii Israel sicut praecepit eis Josue, portantes de medio Jordanis alveo duodecim lapides, ut Dominus ei imperarat, juxta numerum filiorum Israel, usque ad locum in quo castrametati sunt, ibique posuerunt eos. 
+    9: Alios quoque duodecim lapides posuit Josue in medio Jordanis alveo, ubi steterunt sacerdotes, qui portabant arcam foederis : et sunt ibi usque in praesentem diem. 
+    10: Sacerdotes autem qui portabant arcam, stabant in Jordanis medio, donec omnia complerentur, quae Josue, ut loqueretur ad populum, praeceperat Dominus, et dixerat ei Moyses. Festinavitque populus, et transiit.
+    11: Cumque transissent omnes, transivit et arca Domini, sacerdotesque pergebant ante populum. 
+    12: Filii quoque Ruben, et Gad, et dimidia tribus Manasse, armati praecedebant filios Israel, sicut eis praeceperat Moyses : 
+    13: et quadraginta pugnatorum millia per turmas, et cuneos, incedebant per plana atque campestria urbis Jericho. 
+    14: In die illo magnificavit Dominus Josue coram omni Israel, ut timerent eum, sicut timuerant Moysen, dum adviveret. 
+    15: Dixitque ad eum :
+    16: Praecipe sacerdotibus, qui portant arcam foederis, ut ascendant de Jordane. 
+    17: Qui praecepit eis, dicens : Ascendite de Jordane. 
+    18: Cumque ascendissent portantes arcam foederis Domini, et siccam humum calcare coepissent, reversae sunt aquae in alveum suum, et fluebant sicut ante consueverant. 
+    19: Populus autem ascendit de Jordane decimo die mensis primi, et castrametati sunt in Galgalis contra orientalem plagam urbis Jericho. 
+    20: Duodecim quoque lapides, quos de Jordanis alveo sumpserant, posuit Josue in Galgalis,
+    21: et dixit ad filios Israel : Quando interrogaverint filii vestri cras patres suos, et dixerint eis : Quid sibi volunt lapides isti? 
+    22: docebitis eos, atque dicetis : Per arentem alveum transivit Israel Jordanem istum, 
+    23: siccante Domino Deo vestro aquas ejus in conspectu vestro, donec transiretis : 
+    24: sicut fecerat prius in mari Rubro, quod siccavit donec transiremus : 
+    25: ut discant omnes terrarum populi fortissimam Domini manum, ut et vos timeatis Dominum Deum vestrum omni tempore.
+
+End of day 49.

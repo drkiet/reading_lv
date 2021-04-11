@@ -1,0 +1,105 @@
+Day 189:
+
+Reading Proverbs, chapters ['29', '30', '31']:
+
+  Chapter 29.
+
+    1: Viro qui corripientem dura cervice contemnit, repentinus ei superveniet interitus, et eum sanitas non sequetur. 
+    2: In multiplicatione justorum laetabitur vulgus; cum impii sumpserint principatum, gemet populus. 
+    3: Vir qui amat sapientiam laetificat patrem suum; qui autem nutrit scorta perdet substantiam. 
+    4: Rex justus erigit terram; vir avarus destruet eam. 
+    5: Homo qui blandis fictisque sermonibus loquitur amico suo rete expandit gressibus ejus.
+    6: Peccantem virum iniquum involvet laqueus, et justus laudabit atque gaudebit. 
+    7: Novit justus causam pauperum; impius ignorat scientiam. 
+    8: Homines pestilentes dissipant civitatem, sapientes vero avertunt furorem. 
+    9: Vir sapiens si cum stulto contenderit, sive irascatur, sive rideat, non inveniet requiem. 
+    10: Viri sanguinem oderunt simplicem; justi autem quaerunt animam ejus.
+    11: Totum spiritum suum profert stultus; sapiens differt, et reservat in posterum. 
+    12: Princeps qui libenter audit verba mendacii, omnes ministros habet impios. 
+    13: Pauper et creditor obviaverunt sibi : utriusque illuminator est Dominus. 
+    14: Rex qui judicat in veritate pauperes, thronus ejus in aeternum firmabitur. 
+    15: Virga atque correptio tribuit sapientiam; puer autem qui dimittitur voluntati suae confundit matrem suam.
+    16: In multiplicatione impiorum multiplicabuntur scelera, et justi ruinas eorum videbunt. 
+    17: Erudi filium tuum, et refrigerabit te, et dabit delicias animae tuae. 
+    18: Cum prophetia defecerit, dissipabitur populus; qui vero custodit legem beatus est. 
+    19: Servus verbis non potest erudiri, quia quod dicis intelligit, et respondere contemnit. 
+    20: Vidisti hominem velocem ad loquendum? stultitia magis speranda est quam illius correptio.
+    21: Qui delicate a pueritia nutrit servum suum postea sentiet eum contumacem. 
+    22: Vir iracundus provocat rixas, et qui ad indignandum facilis est erit ad peccandum proclivior. 
+    23: Superbum sequitur humilitas, et humilem spiritu suscipiet gloria. 
+    24: Qui cum fure participat odit animam suam; adjurantem audit, et non indicat. 
+    25: Qui timet hominem cito corruet; qui sperat in Domino sublevabitur.
+    26: Multi requirunt faciem principis, et judicium a Domino egreditur singulorum. 
+    27: Abominantur justi virum impium, et abominantur impii eos qui in recta sunt via. Verbum custodiens filius extra perditionem erit.
+
+  Chapter 30.
+
+    1: Verba Congregantis, filii Vomentis. Visio quam locutus est vir cum quo est Deus, et qui Deo secum morante confortatus, ait : 
+    2: Stultissimus sum virorum, et sapientia hominum non est mecum. 
+    3: Non didici sapientiam, et non novi scientiam sanctorum. 
+    4: Quis ascendit in caelum, atque descendit? quis continuit spiritum in manibus suis? quis colligavit aquas quasi in vestimento? quis suscitavit omnes terminos terrae? quod nomen est ejus, et quod nomen filii ejus, si nosti? 
+    5: Omnis sermo Dei ignitus, clypeus est sperantibus in se.
+    6: Ne addas quidquam verbis illius, et arguaris, inveniarisque mendax. 
+    7: Duo rogavi te : ne deneges mihi antequam moriar : 
+    8: vanitatem et verba mendacia longe fac a me; mendicitatem et divitias ne dederis mihi, tribue tantum victui meo necessaria : 
+    9: ne forte satiatus illiciar ad negandum, et dicam : Quis est Dominus? aut egestate compulsus, furer, et perjurem nomen Dei mei. 
+    10: Ne accuses servum ad dominum suum, ne forte maledicat tibi, et corruas.
+    11: Generatio quae patri suo maledicit, et quae matri suae non benedicit; 
+    12: generatio quae sibi munda videtur, et tamen non est lota a sordibus suis; 
+    13: generatio cujus excelsi sunt oculi, et palpebrae ejus in alta surrectae; 
+    14: generatio quae pro dentibus gladios habet, et commandit molaribus suis, ut comedat inopes de terra, et pauperes ex hominibus. 
+    15: Sanguisugae duae sunt filiae, dicentes : Affer, affer. Tria sunt insaturabilia, et quartum quod numquam dicit : Sufficit.
+    16: Infernus, et os vulvae, et terra quae non satiatur aqua : ignis vero numquam dicit : Sufficit. 
+    17: Oculum qui subsannat patrem, et qui despicit partum matris suae, effodiant eum corvi de torrentibus, et comedant eum filii aquilae! 
+    18: Tria sunt difficilia mihi, et quartum penitus ignoro : 
+    19: viam aquilae in caelo, viam colubri super petram, viam navis in medio mari, et viam viri in adolescentia. 
+    20: Talis est et via mulieris adulterae, quae comedit, et tergens os suum dicit : Non sum operata malum.
+    21: Per tria movetur terra, et quartum non potest sustinere : 
+    22: per servum, cum regnaverit; per stultum, cum saturatus fuerit cibo; 
+    23: per odiosam mulierem, cum in matrimonio fuerit assumpta, et per ancillam, cum fuerit haeres dominae suae. 
+    24: Quatuor sunt minima terrae, et ipsa sunt sapientiora sapientibus : 
+    25: formicae, populus infirmus, qui praeparat in messe cibum sibi;
+    26: lepusculus, plebs invalida, qui collocat in petra cubile suum; 
+    27: regem locusta non habet, et egreditur universa per turmas suas; 
+    28: stellio manibus nititur, et moratur in aedibus regis. 
+    29: Tria sunt quae bene gradiuntur, et quartum quod incedit feliciter : 
+    30: leo, fortissimus bestiarum, ad nullius pavebit occursum;
+    31: gallus succinctus lumbos, et aries; nec est rex, qui resistat ei. 
+    32: Est qui stultus apparuit postquam elevatus est in sublime; si enim intellexisset, ori suo imposuisset manum. 
+    33: Qui autem fortiter premit ubera ad eliciendum lac exprimit butyrum; et qui vehementer emungit elicit sanguinem; et qui provocat iras producit discordias.
+
+  Chapter 31.
+
+    1: Verba Lamuelis regis. Visio qua erudivit eum mater sua. 
+    2: Quid, dilecte mi? quid, dilecte uteri mei? quid, dilecte votorum meorum? 
+    3: Ne dederis mulieribus substantiam tuam, et divitias tuas ad delendos reges. 
+    4: Noli regibus, o Lamuel, noli regibus dare vinum, quia nullum secretum est ubi regnat ebrietas; 
+    5: et ne forte bibant, et obliviscantur judiciorum, et mutent causam filiorum pauperis.
+    6: Date siceram moerentibus, et vinum his qui amaro sunt animo. 
+    7: Bibant, et obliviscantur egestatis suae, et doloris sui non recordentur amplius. 
+    8: Aperi os tuum muto, et causis omnium filiorum qui pertranseunt. 
+    9: Aperi os tuum, decerne quod justum est, et judica inopem et pauperem. 
+    10: Mulierem fortem quis inveniet? procul et de ultimis finibus pretium ejus.
+    11: Confidit in ea cor viri sui, et spoliis non indigebit. 
+    12: Reddet ei bonum, et non malum, omnibus diebus vitae suae. 
+    13: Quaesivit lanam et linum, et operata est consilia manuum suarum. 
+    14: Facta et quasi navis institoris, de longe portans panem suum. 
+    15: Et de nocte surrexit, deditque praedam domesticis suis, et cibaria ancillis suis.
+    16: Consideravit agrum, et emit eum; de fructu manuum suarum plantavit vineam. 
+    17: Accinxit fortitudine lumbos suos, et roboravit brachium suum. 
+    18: Gustavit, et vidit quia bona est negotiatio ejus; non extinguetur in nocte lucerna ejus. 
+    19: Manum suam misit ad fortia, et digiti ejus apprehenderunt fusum. 
+    20: Manum suam aperuit inopi, et palmas suas extendit ad pauperem.
+    21: Non timebit domui suae a frigoribus nivis; omnes enim domestici ejus vestiti sunt duplicibus. 
+    22: Stragulatam vestem fecit sibi; byssus et purpura indumentum ejus. 
+    23: Nobilis in portis vir ejus, quando sederit cum senatoribus terrae. 
+    24: Sindonem fecit, et vendidit, et cingulum tradidit Chananaeo. 
+    25: Fortitudo et decor indumentum ejus, et ridebit in die novissimo.
+    26: Os suum aperuit sapientiae, et lex clementiae in lingua ejus. 
+    27: Consideravit semitas domus suae, et panem otiosa non comedit. 
+    28: Surrexerunt filii ejus, et beatissimam praedicaverunt; vir ejus, et laudavit eam. 
+    29: Multae filiae congregaverunt divitias; tu supergressa es universas. 
+    30: Fallax gratia, et vana est pulchritudo : mulier timens Dominum, ipsa laudabitur.
+    31: Date ei de fructu manuum suarum, et laudent eam in portis opera ejus.
+
+End of day 189.

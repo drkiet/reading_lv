@@ -1,0 +1,118 @@
+Day 236:
+
+Reading Jeremiah, chapters ['25', '26', '27', '28']:
+
+  Chapter 25.
+
+    1: Verbum quod factum est ad Jeremiam, de omni populo Juda, in anno quarto Joakim, filii Josiae, regis Juda ( ipse est annus primus Nabuchodonosor regis Babylonis), 
+    2: quod locutus est Jeremias propheta ad omnem populum Juda, et ad universos habitatores Jerusalem, dicens : 
+    3: A tertiodecimo anno Josiae, filii Amon, regis Juda, usque ad diem hanc, iste tertius et vigesimus annus, factum est verbum Domini ad me, et locutus sum ad vos de nocte consurgens, et loquens, et non audistis. 
+    4: Et misit Dominus ad vos omnes servos suos prophetas, consurgens diluculo, mittensque : et non audistis, neque inclinastis aures vestras ut audiretis, 
+    5: cum diceret : Revertimini unusquisque a via sua mala, et a pessimis cogitationibus vestris, et habitabitis in terra quam dedit Dominus vobis et patribus vestris, a saeculo usque in saeculum :
+    6: et nolite ire post deos alienos, ut serviatis eis adoretisque eos, neque me ad iracundiam provocetis in operibus manuum vestrarum, et non affligam vos. 
+    7: Et non audistis me, dicit Dominus, ut me ad iracundiam provocaretis in operibus manuum vestrarum, in malum vestrum. 
+    8: Propterea haec dicit Dominus exercituum : Pro eo quod non audistis verba mea, 
+    9: ecce ego mittam et assumam universas cognationes aquilonis, ait Dominus, et Nabuchodonosor regem Babylonis servum meum, et adducam eos super terram istam, et super habitatores ejus, et super omnes nationes quae in circuitu illius sunt : et interficiam eos, et ponam eos in stuporem et in sibilum, et in solitudines sempiternas. 
+    10: Perdamque ex eis vocem gaudii et vocem laetitiae, vocem sponsi et vocem sponsae, vocem molae et lumen lucernae.
+    11: Et erit universa terra haec in solitudinem, et in stuporem : et servient omnes gentes istae regi Babylonis septuaginta annis. 
+    12: Cumque impleti fuerint septuaginta anni, visitabo super regem Babylonis et super gentem illam, dicit Dominus, iniquitatem eorum, et super terram Chaldaeorum, et ponam illam in solitudines sempiternas. 
+    13: Et adducam super terram illam omnia verba mea, quae locutus sum contra eam, omne quod scriptum est in libro isto, quaecumque prophetavit Jeremias adversum omnes gentes : 
+    14: quia servierunt eis, cum essent gentes multae, et reges magni : et reddam eis secundum opera eorum, et secundum facta manuum suarum. 
+    15: Quia sic dicit Dominus exercituum, Deus Israel : Sume calicem vini furoris hujus de manu mea, et propinabis de illo cunctis gentibus, ad quas ego mittam te.
+    16: Et bibent, et turbabuntur et insanient a facie gladii quem ego mittam inter eos. 
+    17: Et accepi calicem de manu Domini, et propinavi cunctis gentibus ad quas misit me Dominus : 
+    18: Jerusalem, et civitatibus Juda, et regibus ejus, et principibus ejus, ut darem eos in solitudinem, et in stuporem, et in sibilum, et in maledictionem, sicut est dies ista : 
+    19: Pharaoni regi Aegypti, et servis ejus, et principibus ejus, et omni populo ejus : 
+    20: et universis generaliter cunctis regibus terrae Ausitidis, et cunctis regibus terrae Philisthiim, et Ascaloni, et Gazae, et Accaron, et reliquiis Azoti :
+    21: et Idumaeae, et Moab, et filiis Ammon : 
+    22: et cunctis regibus Tyri, et universis regibus Sidonis, et regibus terrae insularum qui sunt trans mare : 
+    23: et Dedan, et Thema, et Buz, et universis qui attonsi sunt in comam : 
+    24: et cunctis regibus Arabiae, et cunctis regibus occidentis, qui habitant in deserto : 
+    25: et cunctis regibus Zambri, et cunctis regibus Elam, et cunctis regibus Medorum :
+    26: cunctis quoque regibus aquilonis, de prope et de longe, unicuique contra fratrem suum : et omnibus regnis terrae quae super faciem ejus sunt : et rex Sesach bibet post eos. 
+    27: Et dices ad eos : Haec dicit Dominus exercituum, Deus Israel : Bibite, et inebriamini, et vomite : et cadite, neque surgatis a facie gladii quem ego mittam inter vos. 
+    28: Cumque noluerint accipere calicem de manu tua ut bibant, dices ad eos : Haec dicit Dominus exercituum : Bibentes bibetis : 
+    29: quia ecce in civitate in qua invocatum est nomen meum ego incipiam affligere, et vos quasi innocentes et immunes eritis? Non eritis immunes : gladium enim ego voco super omnes habitatores terrae, dicit Dominus exercituum. 
+    30: Et tu prophetabis ad eos omnia verba haec, et dices ad illos : Dominus de excelso rugiet, et de habitaculo sancto suo dabit vocem suam : rugiens rugiet super decorem suum : celeuma quasi calcantium concinetur adversus omnes habitatores terrae.
+    31: Pervenit sonitus usque ad extrema terrae, quia judicium Domino, cum gentibus : judicatur ipse cum omni carne. Impios tradidi gladio, dicit Dominus. 
+    32: Haec dicit Dominus exercituum : Ecce afflictio egredietur de gente in gentem, et turbo magnus egredietur a summitatibus terrae. 
+    33: Et erunt interfecti Domini in die illa, a summo terrae usque ad summum ejus : non plangentur, et non colligentur, neque sepelientur : in sterquilinium super faciem terrae jacebunt. 
+    34: Ululate, pastores, et clamate : et aspergite vos cinere, optimates gregis, quia completi sunt dies vestri, ut interficiamini, et dissipationes vestrae : et cadetis quasi vasa pretiosa. 
+    35: Et peribit fuga a pastoribus, et salvatio ab optimatibus gregis.
+    36: Vox clamoris pastorum et ululatus optimatum gregis, quia vastavit Dominus pascua eorum : 
+    37: et conticuerunt arva pacis a facie irae furoris Domini. 
+    38: Dereliquit quasi leo umbraculum suum, quia facta est terra eorum in desolationem a facie irae columbae, et a facie irae furoris Domini.
+
+  Chapter 26.
+
+    1: In principio regni Joakim filii Josiae regis Juda, factum est verbum istud a Domino, dicens : 
+    2: Haec dicit Dominus : Sta in atrio domus Domini, et loqueris ad omnes civitates Juda, de quibus veniunt ut adorent in domo Domini universos sermones quos ego mandavi tibi ut loquaris ad eos : noli subtrahere verbum, 
+    3: si forte audiant, et convertantur unusquisque a via sua mala, et poeniteat me mali quod cogito facere eis propter malitiam studiorum eorum. 
+    4: Et dices ad eos : Haec dicit Dominus : Si non audieritis me, ut ambuletis in lege mea, quam dedi vobis, 
+    5: ut audiatis sermones servorum meorum prophetarum, quos ego misi ad vos de nocte consurgens, et dirigens, et non audistis :
+    6: dabo domum istam sicut Silo, et urbem hanc dabo in maledictionem cunctis gentibus terrae. 
+    7: Et audierunt sacerdotes, et prophetae, et omnis populus, Jeremiam loquentem verba haec in domo Domini. 
+    8: Cumque complesset Jeremias, loquens omnia quae praeceperat ei Dominus ut loqueretur ad universum populum, apprehenderunt eum sacerdotes, et prophetae, et omnis populus, dicens : Morte moriatur. 
+    9: Quare prophetavit in nomine Domini, dicens : Sicut Silo erit domus haec, et urbs ista desolabitur eo quod non sit habitator? Et congregatus est omnis populus adversus Jeremiam in domo Domini. 
+    10: Et audierunt principes Juda verba haec, et ascenderunt de domo regis in domum Domini, et sederunt in introitu portae domus Domini novae.
+    11: Et locuti sunt sacerdotes et prophetae ad principes, et ad omnem populum, dicentes : Judicium mortis est viro huic, quia prophetavit adversus civitatem istam, sicut audistis auribus vestris. 
+    12: Et ait Jeremias ad omnes principes, et ad universum populum, dicens : Dominus misit me ut prophetarem ad domum istam, et ad civitatem hanc, omnia verba quae audistis. 
+    13: Nunc ergo bonas facite vias vestras, et studia vestra, et audite vocem Domini Dei vestri, et poenitebit Dominum mali quod locutus est adversum vos. 
+    14: Ego autem ecce in manibus vestris sum : facite mihi quod bonum et rectum est in oculis vestris. 
+    15: Verumtamen scitote et cognoscite quod, si occideritis me, sanguinem innocentem tradetis contra vosmetipsos, et contra civitatem istam, et habitatores ejus : in veritate enim misit me Dominus ad vos, ut loquerer in auribus vestris omnia verba haec.
+    16: Et dixerunt principes et omnis populus ad sacerdotes et ad prophetas : Non est viro huic judicium mortis, quia in nomine Domini Dei nostri locutus est ad nos. 
+    17: Surrexerunt ergo viri de senioribus terrae, et dixerunt ad omnem coetum populi, loquentes : 
+    18: Michaeas de Morasthi fuit propheta in diebus Ezechiae regis Juda, et ait ad omnem populum Juda, dicens : Haec dicit Dominus exercituum : Sion quasi ager arabitur, et Jerusalem in acervum lapidum erit, et mons domus in excelsa silvarum. 
+    19: Numquid morte condemnavit eum Ezechias rex Juda, et omnis Juda? numquid non timuerunt Dominum, et deprecati sunt faciem Domini, et poenituit Dominum mali quod locutus fuerat adversum eos? Itaque nos facimus malum grande contra animas nostras. 
+    20: Fuit quoque vir prophetans in nomine Domini, Urias filius Semei de Cariathiarim, et prophetavit adversus civitatem istam, et adversus terram hanc, juxta omnia verba Jeremiae.
+    21: Et audivit rex Joakim, et omnes potentes et principes ejus, verba haec, et quaesivit rex interficere eum : et audivit Urias, et timuit, fugitque et ingressus est Aegyptum. 
+    22: Et misit rex Joakim viros in Aegyptum, Elnathan filium Achobor, et viros cum eo, in Aegyptum, 
+    23: et eduxerunt Uriam de Aegypto, et adduxerunt eum ad regem Joakim, et percussit eum gladio, et projecit cadaver ejus in sepulchris vulgi ignobilis. 
+    24: Igitur manus Ahicam filii Saphan fuit cum Jeremia, ut non traderetur in manus populi, et interficerent eum.
+
+  Chapter 27.
+
+    1: In principio regni Joakim filii Josiae regis Juda, factum est verbum istud ad Jeremiam a Domino, dicens : 
+    2: Haec dicit Dominus ad me : Fac tibi vincula et catenas, et pones eas in collo tuo, 
+    3: et mittes eas ad regem Edom, et ad regem Moab, et ad regem filiorum Ammon, et ad regem Tyri, et ad regem Sidonis, in manu nuntiorum qui venerunt Jerusalem ad Sedeciam regem Juda. 
+    4: Et praecipies eis ut ad dominos suos loquantur : Haec dicit Dominus exercituum, Deus Israel : Haec dicetis ad dominos vestros : 
+    5: Ego feci terram, et homines, et jumenta quae sunt super faciem terrae, in fortitudo mea magna, et in brachio meo extento, et dedi eam ei qui placuit in oculis meis.
+    6: Et nunc itaque ego dedi omnes terras istas in manu Nabuchodonosor regis Babylonis servi mei : insuper et bestias agri dedi ei, ut serviant illi : 
+    7: et servient ei omnes gentes, et filio ejus, et filio filii ejus, donec veniat tempus terrae ejus et ipsius : et servient ei gentes multae et reges magni. 
+    8: Gens autem et regnum quod non servierit Nabuchodonosor regi Babylonis, et quicumque non curvaverit collum suum sub jugo regis Babylonis, in gladio, et in fame, et in peste visitabo super gentem illam, ait Dominus, donec consumam eos in manu ejus. 
+    9: Vos ergo, nolite audire prophetas vestros, et divinos, et somniatores, et augures, et maleficos, qui dicunt vobis : Non servietis regi Babylonis : 
+    10: quia mendacium prophetant vobis, ut longe vos faciant de terra vestra, et ejiciant vos, et pereatis.
+    11: Porro gens quae subjecerit cervicem suam sub jugo regis Babylonis, et servierit ei, dimittam eam in terra sua, dicit Dominus, et colet eam, et habitabit in ea. 
+    12: Et ad Sedeciam regem Juda locutus sum secundum omnia verba haec, dicens : Subjicite colla vestra sub jugo regis Babylonis, et servite ei, et populo ejus, et vivetis. 
+    13: Quare moriemini, tu et populus tuus, gladio, et fame, et peste, sicut locutus est Dominus ad gentem quae servire noluerit regi Babylonis? 
+    14: Nolite audire verba prophetarum dicentium vobis : Non servietis regi Babylonis : quia mendacium ipsi loquuntur vobis. 
+    15: Quia non misi eos, ait Dominus : et ipsi prophetant in nomine meo mendaciter, ut ejiciant vos, et pereatis, tam vos quam prophetae qui vaticinantur vobis.
+    16: Et ad sacerdotes, et ad populum istum, locutus sum, dicens : Haec dicit Dominus : Nolite audire verba prophetarum vestrorum, qui prophetant vobis, dicentes : Ecce vasa Domini revertentur de Babylone nunc cito : mendacium enim prophetant vobis. 
+    17: Nolite ergo audire eos : sed servite regi Babylonis, ut vivatis : quare datur haec civitas in solitudinem? 
+    18: Et si prophetae sunt, et est verbum Domini in eis, occurrant Domino exercituum, ut non veniant vasa quae derelicta fuerant in domo Domini, et in domo regis Juda, et in Jerusalem, in Babylonem. 
+    19: Quia haec dicit Dominus exercituum ad columnas, et ad mare, et ad bases, et ad reliqua vasorum, quae remanserunt in civitate hac, 
+    20: quae non tulit Nabuchodonosor rex Babylonis, cum transferret Jechoniam filium Joakim regem Juda de Jerusalem in Babylonem, et omnes optimates Juda et Jerusalem :
+    21: quia haec dicit Dominus exercituum, Deus Israel, ad vasa quae derelicta sunt in domo Domini, et in domo regis Juda et Jerusalem : 
+    22: In Babylonem transferentur, et ibi erunt, usque ad diem visitationis suae, dicit Dominus, et afferri faciam ea, et restitui in loco isto.
+
+  Chapter 28.
+
+    1: Et factum est in anno illo, in principio regni Sedeciae regis Juda, in anno quarto, in mense quinto, dixit ad me Hananias filius Azur, propheta de Gabon, in domo Domini, coram sacerdotibus et omni populo, dicens : 
+    2: Haec dicit Dominus exercituum, Deus Israel : Contrivi jugum regis Babylonis. 
+    3: Adhuc duo anni dierum, et ego referri faciam ad locum istum omnia vasa domus Domini, quae tulit Nabuchodonosor rex Babylonis de loco isto, et transtulit ea in Babylonem. 
+    4: Et Jechoniam filium Joakim regem Juda, et omnem transmigrationem Juda, qui ingressi sunt in Babylonem, ego convertam ad locum istum, ait Dominus : conteram enim jugum regis Babylonis. 
+    5: Et dixit Jeremias propheta ad Hananiam prophetam, in oculis sacerdotum, et in oculis omnis populi qui stabat in domo Domini :
+    6: et ait Jeremias propheta : Amen! sic faciat Dominus, suscitet Dominus verba tua quae prophetasti, ut referantur vasa in domum Domini, et omnis transmigratio de Babylone ad locum istum. 
+    7: Verumtamen audi verbum hoc quod ego loquor in auribus tuis, et in auribus universi populi : 
+    8: prophetae qui fuerunt ante me et ante te, ab initio, et prophetaverunt super terras multas et super regna magna de praelio, et de afflictione, et de fame : 
+    9: propheta qui vaticinatus est pacem, cum venerit verbum ejus, scietur propheta quem misit Dominus in veritate. 
+    10: Et tulit Hananias propheta catenam de collo Jeremiae prophetae, et confregit eam.
+    11: Et ait Hananias in conspectu omnis populi, dicens : Haec dicit Dominus : Sic confringam jugum Nabuchodonosor regis Babylonis, post duos annos dierum de collo omnium gentium. 
+    12: Et abiit Jeremias propheta in viam suam. Et factum est verbum Domini ad Jeremiam, postquam confregit Hananias propheta catenam de collo Jeremiae, dicens : 
+    13: Vade, et dices Hananiae : Haec dicit Dominus : Catenas ligneas contrivisti : et facies pro eis catenas ferreas. 
+    14: Quia haec dicit Dominus exercituum, Deus Israel : Jugum ferreum posui super collum cunctarum gentium istarum, ut serviant Nabuchodonosor regi Babylonis, et servient ei : insuper et bestias terrae dedi ei. 
+    15: Et dixit Jeremias propheta ad Hananiam prophetam : Audi, Hanania : non misit te Dominus, et tu confidere fecisti populum istum in mendacio.
+    16: Idcirco haec dicit Dominus : Ecce ego mittam te a facie terrae : hoc anno morieris : adversum enim Dominum locutus es. 
+    17: Et mortuus est Hananias propheta in anno illo, mense septimo.
+
+End of day 236.

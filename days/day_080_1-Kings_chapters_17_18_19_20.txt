@@ -1,0 +1,151 @@
+Day 80:
+
+Reading 1-Kings, chapters ['17', '18', '19', '20']:
+
+  Chapter 17.
+
+    1: Et dixit Elias Thesbites de habitatoribus Galaad ad Achab : Vivit Dominus Deus Israel, in cujus conspectu sto, si erit annis his ros et pluvia, nisi juxta oris mea verba. 
+    2: Et factum est verbum Domini ad eum, dicens : 
+    3: Recede hinc, et vade contra orientem, et abscondere in torrente Carith, qui est contra Jordanem, 
+    4: et ibi de torrente bibes : corvisque praecepi ut pascant te ibi. 
+    5: Abiit ergo, et fecit juxta verbum Domini : cumque abiisset, sedit in torrente Carith, qui est contra Jordanem.
+    6: Corvi quoque deferebant ei panem et carnes mane, similiter panem et carnes vesperi, et bibebat de torrente. 
+    7: Post dies autem siccatus est torrens : non enim pluerat super terram. 
+    8: Factus est ergo sermo Domini ad eum, dicens : 
+    9: Surge, et vade in Sarephta Sidoniorum, et manebis ibi : praecepi enim ibi mulieri viduae ut pascat te. 
+    10: Surrexit, et abiit in Sarephta. Cumque venisset ad portam civitatis, apparuit ei mulier vidua colligens ligna, et vocavit eam, dixitque ei : Da mihi paululum aquae in vase ut bibam.
+    11: Cumque illa pergeret ut afferret, clamavit post tergum ejus, dicens : Affer mihi, obsecro, et buccellam panis in manu tua. 
+    12: Quae respondit : Vivit Dominus Deus tuus, quia non habeo panem, nisi quantum pugillus capere potest farinae in hydria, et paululum olei in lecytho : en colligo duo ligna ut ingrediar et faciam illum mihi et filio meo, ut comedamus, et moriamur. 
+    13: Ad quam Elias ait : Noli timere, sed vade, et fac sicut dixisti : verumtamen mihi primum fac de ipsa farinula subcinericium panem parvulum, et affer ad me : tibi autem et filio tuo facies postea. 
+    14: Haec autem dicit Dominus Deus Israel : Hydria farinae non deficiet, nec lecythus olei minuetur usque ad diem in qua Dominus daturus est pluviam super faciem terrae. 
+    15: Quae abiit, et fecit juxta verbum Eliae : et comedit ipse, et illa, et domus ejus : et ex illa die
+    16: hydria farinae non defecit, et lecythus olei non est imminutus, juxta verbum Domini, quod locutus fuerat in manu Eliae. 
+    17: Factum est autem post haec, aegrotavit filius mulieris matrisfamilias, et erat languor fortissimus, ita ut non remaneret in eo halitus. 
+    18: Dixit ergo ad Eliam : Quid mihi et tibi, vir Dei? Ingressus es ad me, ut rememorarentur iniquitates meae, et interficeres filium meum? 
+    19: Et ait ad eam Elias : Da mihi filium tuum. Tulitque eum de sinu ejus, et portavit in coenaculum ubi ipse manebat, et posuit super lectulum suum. 
+    20: Et clamavit ad Dominum, et dixit : Domine Deus meus, etiam ne viduam, apud quam ego utcumque sustentor, afflixisti ut interficeres filium ejus?
+    21: Et expandit se, atque mensus est super puerum tribus vicibus, et clamavit ad Dominum, et ait : Domine Deus meus, revertatur, obsecro, anima pueri hujus in viscera ejus. 
+    22: Et exaudivit Dominus vocem Eliae : et reversa est anima pueri intra eum, et revixit. 
+    23: Tulitque Elias puerum, et deposuit eum de coenaculo in inferiorem domum, et tradidit matri suae, et ait illi : En vivit filius tuus. 
+    24: Dixitque mulier ad Eliam : Nunc in isto cognovi quoniam vir Dei es tu, et verbum Domini in ore tuo verum est.
+
+  Chapter 18.
+
+    1: Post dies multos factum est verbum Domini ad Eliam, in anno tertio, dicens : Vade, et ostende te Achab, ut dem pluviam super faciem terrae. 
+    2: Ivit ergo Elias, ut ostenderet se Achab : erat autem fames vehemens in Samaria. 
+    3: Vocavitque Achab Abdiam dispensatorem domus suae : Abdias autem timebat Dominum valde. 
+    4: Nam cum interficeret Jezabel prophetas Domini, tulit ille centum prophetas, et abscondit eos quinquagenos et quinquagenos in speluncis, et pavit eos pane et aqua. 
+    5: Dixit ergo Achab ad Abdiam : Vade in terram ad universos fontes aquarum, et in cunctas valles, si forte possimus invenire herbam, et salvare equos et mulos, et non penitus jumenta intereant.
+    6: Diviseruntque sibi regiones ut circuirent eas : Achab ibat per viam unam, et Abdias per viam alteram seorsum. 
+    7: Cumque esset Abdias in via, Elias occurrit ei : qui cum cognovisset eum, cecidit super faciem suam, et ait : Num tu es, domine mi, Elias? 
+    8: Cui ille respondit : Ego. Vade, et dic domino tuo : Adest Elias. 
+    9: Et ille, quid peccavi, inquit, quoniam tradis me servum tuum in manu Achab, ut interficiat me? 
+    10: Vivit Dominus Deus tuus, quia non est gens aut regnum, quo non miserit dominus meus te requirens : et respondentibus cunctis : Non est hic : adjuravit regna singula et gentes, eo quod minime reperireris.
+    11: Et nunc tu dicis mihi : Vade, et dic domino tuo : Adest Elias. 
+    12: Cumque recessero a te, spiritus Domini asportabit te in locum quem ego ignoro : et ingressus nuntiabo Achab, et non inveniens te, interficiet me : servus autem tuus timet Dominum ab infantia sua. 
+    13: Numquid non indicatum est tibi domino meo, quid fecerim cum interficeret Jezabel prophetas Domini, quod absconderim de prophetis Domini centum viros, quinquagenos et quinquagenos, in speluncis, et paverim eos pane et aqua? 
+    14: Et nunc tu dicis : Vade, et dic domino tuo : Adest Elias : ut interficiat me? 
+    15: Et dixit Elias : Vivit Dominus exercituum, ante cujus vultum sto, quia hodie apparebo ei.
+    16: Abiit ergo Abdias in occursum Achab, et indicavit ei : venitque Achab in occursum Eliae. 
+    17: Et cum vidisset eum, ait : Tune es ille, qui conturbas Israel? 
+    18: Et ille ait : Non ego turbavi Israel, sed tu, et domus patris tui, qui dereliquistis mandata Domini, et secuti estis Baalim. 
+    19: Verumtamen nunc mitte, et congrega ad me universum Israel in monte Carmeli, et prophetas Baal quadringentos quinquaginta, prophetasque lucorum quadringentos, qui comedunt de mensa Jezabel. 
+    20: Misit Achab ad omnes filios Israel, et congregavit prophetas in monte Carmeli.
+    21: Accedens autem Elias ad omnem populum, ait : Usquequo claudicatis in duas partes? Si Dominus est Deus, sequimini eum : si autem Baal, sequimini illum. Et non respondit ei populus verbum. 
+    22: Et ait rursus Elias ad populum : Ego remansi propheta Domini solus : prophetae autem Baal quadringenti et quinquaginta viri sunt. 
+    23: Dentur nobis duo boves, et illi eligant sibi bovem unum, et in frustra caedentes ponant super ligna, ignem autem non supponant : et ego faciam bovem alterum, et imponam super ligna, ignem autem non supponam. 
+    24: Invocate nomina deorum vestrorum, et ego invocabo nomen Domini mei : et Deus qui exaudierit per ignem, ipse sit Deus. Respondens omnis populus ait : Optima propositio. 
+    25: Dixit ergo Elias prophetis Baal : Eligite vobis bovem unum, et facite primi, quia vos plures estis : et invocate nomina deorum vestrorum, ignemque non supponatis.
+    26: Qui cum tulissent bovem, quem dederat ei, fecerunt : et invocabant nomen Baal de mane usque ad meridiem, dicentes : Baal, exaudi nos. Et non erat vox, nec qui responderet : transiliebantque altare quod fecerant. 
+    27: Cumque esset jam meridies, illudebat illis Elias, dicens : Clamate voce majore : deus enim est, et forsitan loquitur, aut in diversorio est, aut in itinere, aut certe dormit, ut excitetur. 
+    28: Clamabant ergo voce magna, et incidebant se juxta ritum suum cultris et lanceolis, donec perfunderentur sanguine. 
+    29: Postquam autem transiit meridies, et illis prophetantibus venerat tempus quo sacrificium offerri solet, nec audiebatur vox, nec aliquis respondebat, nec attendebat orantes : 
+    30: dixit Elias omni populo : Venite ad me. Et accedente ad se populo, curavit altare Domini, quod destructum fuerat.
+    31: Et tulit duodecim lapides juxta numerum tribuum filiorum Jacob, ad quem factus est sermo Domini, dicens : Israel erit nomen tuum. 
+    32: Et aedificavit de lapidibus altare in nomine Domini : fecitque aquaeductum, quasi per duas aratiunculas in circuitu altaris, 
+    33: et composuit ligna : divisitque per membra bovem, et posuit super ligna, 
+    34: et ait : Implete quatuor hydrias aqua, et fundite super holocaustum, et super ligna. Rursumque dixit : Etiam secundo hoc facite. Qui cum fecissent secundo, ait : Etiam tertio idipsum facite. Feceruntque tertio, 
+    35: et currebant aquae circum altare, et fossa aquaeductus repleta est.
+    36: Cumque jam tempus esset ut offerretur holocaustum, accedens Elias propheta ait : Domine Deus Abraham, et Isaac, et Israel, ostende hodie quia tu es Deus Israel, et ego servus tuus, et juxta praeceptum tuum feci omnia verba haec. 
+    37: Exaudi me Domine, exaudi me : ut discat populus iste, quia tu es Dominus Deus, et tu convertisti cor eorum iterum. 
+    38: Cecidit autem ignis Domini, et voravit holocaustum, et ligna, et lapides, pulverem quoque, et aquam quae erat in aquaeductu lambens. 
+    39: Quod cum vidisset omnis populus, cecidit in faciem suam, et ait : Dominus ipse est Deus, Dominus ipse est Deus. 
+    40: Dixitque Elias ad eos : Apprehendite prophetas Baal, et ne unus quidem effugiat ex eis. Quos cum apprehendissent, duxit eos Elias ad torrentem Cison, et interfecit eos ibi.
+    41: Et ait Elias ad Achab : Ascende, comede, et bibe : quia sonus multae pluviae est. 
+    42: Ascendit Achab ut comederet et biberet : Elias autem ascendit in verticem Carmeli, et pronus in terram posuit faciem suam inter genua sua, 
+    43: et dixit ad puerum suum : Ascende, et prospice contra mare. Qui cum ascendisset, et contemplatus esset, ait : Non est quidquam. Et rursum ait illi : Revertere septem vicibus. 
+    44: In septima autem vice, ecce nubecula parva quasi vestigium hominis ascendebat de mari. Qui ait : Ascende, et dic Achab : Junge currum tuum et descende, ne occupet te pluvia. 
+    45: Cumque se verteret huc itaque illuc, ecce caeli contenebrati sunt, et nubes, et ventus, et facta est pluvia grandis. Ascendens itaque Achab abiit in Jezrahel :
+    46: et manus Domini facta est super Eliam, accinctisque lumbis currebat ante Achab, donec veniret in Jezrahel.
+
+  Chapter 19.
+
+    1: Nuntiavit autem Achab Jezabel omnia quae fecerat Elias, et quomodo occidisset universos prophetas gladio. 
+    2: Misitque Jezabel nuntium ad Eliam, dicens : Haec mihi faciant dii, et haec addant, nisi hac hora cras posuero animam tuam sicut animam unius ex illis. 
+    3: Timuit ergo Elias, et surgens abiit quocumque eum ferebat voluntas : venitque in Bersabee Juda, et dimisit ibi puerum suum, 
+    4: et perrexit in desertum, viam unius diei. Cumque venisset, et sederet subter unam juniperum, petivit animae suae ut moreretur, et ait : Sufficit mihi Domine, tolle animam meam : neque enim melior sum quam patres mei. 
+    5: Projecitque se, et obdormivit in umbra juniperi : et ecce angelus Domini tetigit eum, et dixit illi : Surge, et comede.
+    6: Respexit, et ecce ad caput suum subcinericius panis, et vas aquae : comedit ergo, et bibit, et rursum obdormivit. 
+    7: Reversusque est angelus Domini secundo, et tetigit eum, dixitque illi : Surge, comede : grandis enim tibi restat via. 
+    8: Qui cum surrexisset, comedit et bibit, et ambulavit in fortitudine cibi illius quadraginta diebus et quadraginta noctibus usque ad montem Dei Horeb. 
+    9: Cumque venisset illuc, mansit in spelunca : et ecce sermo Domini ad eum, dixitque illi : Quid hic agis Elia? 
+    10: At ille respondit : Zelo zelatus sum pro Domino Deo exercituum, quia dereliquerunt pactum tuum filii Israel : altaria tua destruxerunt, prophetas tuos occiderunt gladio, derelictus sum ego solus, et quaerunt animam meam ut auferant eam.
+    11: Et ait ei : Egredere, et sta in monte coram Domino : et ecce Dominus transit, et spiritus grandis et fortis subvertens montes, et conterens petras ante Dominum : non in spiritu Dominus, et post spiritum commotio : non in commotione Dominus, 
+    12: et post commotionem ignis : non in igne Dominus, et post ignem sibilus aurae tenuis. 
+    13: Quod cum audisset Elias, operuit vultum suum pallio, et egressus stetit in ostio speluncae, et ecce vox ad eum dicens : Quid hic agis Elia? Et ille respondit : 
+    14: Zelo zelatus sum pro Domino Deo exercituum : quia dereliquerunt pactum tuum filii Israel : altaria tua destruxerunt, prophetas tuos occiderunt gladio, derelictus sum ego solus, et quaerunt animam meam ut auferant eam. 
+    15: Et ait Dominus ad eum : Vade, et revertere in viam tuam per desertum in Damascum : cumque perveneris illuc, unges Hazael regem super Syriam,
+    16: et Jehu filium Namsi unges regem super Israel : Eliseum autem filium Saphat, qui est de Abelmeula, unges prophetam pro te. 
+    17: Et erit, quicumque fugerit gladium Hazael, occidet eum Jehu : et quicumque fugerit gladium Jehu, interficiet eum Eliseus. 
+    18: Et derelinquam mihi in Israel septem millia virorum, quorum genua non sunt incurvata ante Baal, et omne os, quod non adoravit eum osculans manus. 
+    19: Profectus ergo inde Elias, reperit Eliseum filium Saphat, arantem in duodecim jugis boum. Et ipse in duodecim jugis boum arantibus unus erat : cumque venisset Elias ad eum, misit pallium suum super illum. 
+    20: Qui statim relictis bobus cucurrit post Eliam, et ait : Osculer, oro, patrem meum, et matrem meam, et sic sequar te. Dixitque ei : Vade, et revertere : quod enim meum erat feci tibi.
+    21: Reversus autem ab eo, tulit par boum, et mactavit illud, et in aratro boum coxit carnes, et dedit populo, et comederunt : consurgensque abiit, et secutus est Eliam, et ministrabat ei.
+
+  Chapter 20.
+
+    1: Porro Benadad rex Syriae congregavit omnem exercitum suum, et triginta duos reges secum, et equos, et currus : et ascendens pugnabat contra Samariam, et obsidebat eum. 
+    2: Mittensque nuntios ad Achab regem Israel in civitatem, 
+    3: ait : Haec dicit Benadad : Argentum tuum, et aurum tuum meum est : et uxores tuae, et filii tui optimi, mei sunt. 
+    4: Responditque rex Israel : Juxta verbum tuum, domine mi rex, tuus sum ego, et omnia mea. 
+    5: Revertentesque nuntii, dixerunt : Haec dicit Benadad, qui misit nos ad te : Argentum tuum, et aurum tuum, et uxores tuas, et filios tuos, dabis mihi.
+    6: Cras igitur hac eadem hora mittam servos meos ad te, et scrutabuntur domum tuam, et domum servorum tuorum : et omne quod eis placuerit, ponent in manibus suis, et auferent. 
+    7: Vocavit autem rex Israel omnes seniores terrae, et ait : Animadvertite, et videte quoniam insidietur nobis : misit enim ad me pro uxoribus meis, et filiis, et pro argento et auro : et non abnui. 
+    8: Dixeruntque omnes majores natu, et universus populus, ad eum : Non audias, neque acquiescas illi. 
+    9: Respondit itaque nuntiis Benadad : Dicite domino meo regi : Omnia propter quae misisti ad me servum tuum in initio, faciam : hanc autem rem facere non possum. 
+    10: Reversique nuntii retulerunt ei. Qui remisit, et ait : Haec faciant mihi dii, et haec addant, si suffecerit pulvis Samariae pugillis omnis populi qui sequitur me.
+    11: Et respondens rex Israel, ait : Dicite ei : Ne glorietur, accinctus aeque ut discinctus. 
+    12: Factum est autem, cum audisset Benadad verbum istud, bibebat ipse et reges in umbraculis, et ait servis suis : Circumdate civitatem. Et circumdederunt eam. 
+    13: Et ecce propheta unus accedens ad Achab regem Israel, ait ei : Haec dicit Dominus : Certe vidisti omnem multitudinem hanc nimiam? Ecce, ego tradam eam in manu tua hodie : ut scias, quia ego sum Dominus. 
+    14: Et ait Achab : Per quem? Dixitque ei : Haec dicit Dominus : Per pedissequos principum provinciarum. Et ait : Quis incipiet praeliari? Et ille dixit : Tu. 
+    15: Recensuit ergo pueros principum provinciarum, et reperit numerum ducentorum triginta duorum : et recensuit post eos populum, omnes filios Israel, septem millia.
+    16: Et egressi sunt meridie. Benadad autem bibebat temulentus in umbraculo suo, et reges triginta duo cum eo, qui ad auxilium ejus venerant. 
+    17: Egressi sunt autem pueri principum provinciarum in prima fronte. Misit itaque Benadad. Qui nuntiaverunt ei, dicentes : Viri egressi sunt de Samaria. 
+    18: Et ille ait : Sive pro pace veniunt, apprehendite eos vivos : sive ut praelientur, vivos eos capite. 
+    19: Egressi sunt ergo pueri principum provinciarum, ac reliquus exercitus sequebatur : 
+    20: et percussit unusquisque virum, qui contra se veniebat : fugeruntque Syri, et persecutus est eos Israel. Fugit quoque Benadad rex Syriae in equo cum equitibus suis.
+    21: Necnon egressus rex Israel percussit equos et currus, et percussit Syriam plaga magna. 
+    22: Accedens autem propheta ad regem Israel, dixit ei : Vade, et confortare, et scito, et vide quid facias : sequenti enim anno rex Syriae ascendet contra te. 
+    23: Servi vero regis Syriae dixerunt ei : Dii montium sunt dii eorum, ideo superaverunt nos : sed melius est ut pugnemus contra eos in campestribus, et obtinebimus eos. 
+    24: Tu ergo verbum hoc fac : amove reges singulos ab exercitu tuo, et pone principes pro eis : 
+    25: et instaura numerum militum qui ceciderunt de tuis, et equos secundum equos pristinos, et currus secundum currus quos ante habuisti : et pugnabimus contra eos in campestribus, et videbis quod obtinebimus eos. Credidit consilio eorum, et fecit ita.
+    26: Igitur postquam annus transierat, recensuit Benadad Syros, et ascendit in Aphec ut pugnaret contra Israel. 
+    27: Porro filii Israel recensiti sunt, et acceptis cibariis profecti ex adverso, castraque metati sunt contra eos, quasi duo parvi greges caprarum : Syri autem repleverunt terram. 
+    28: ( Et accedens unus vir Dei, dixit ad regem Israel : Haec dicit Dominus : Quia dixerunt Syri : Deus montium est Dominus et non est Deus vallium : dabo omnem multitudinem hanc grandem in manu tua, et scietis quia ego sum Dominus.) 
+    29: Dirigebantque septem diebus ex adverso hi atque illi acies, septima autem die commissum est bellum : percusseruntque filii Israel de Syris centum millia peditum in die una. 
+    30: Fugerunt autem qui remanserant in Aphec, in civitatem : et cecidit murus super viginti septem millia hominum, qui remanserant. Porro Benadad fugiens ingressus est civitatem, in cubiculum quod erat intra cubiculum.
+    31: Dixeruntque ei servi sui : Ecce, audivimus quod reges domus Israel clementes sint : ponamus itaque saccos in lumbis nostris, et funiculos in capitibus nostris, et egrediamur ad regem Israel : forsitan salvabit animas nostras. 
+    32: Accinxerunt saccis lumbos suos, et posuerunt funiculos in capitibus suis, veneruntque ad regem Israel, et dixerunt ei : Servus tuus Benadad dicit : Vivat, oro te, anima mea. Et ille ait : Si adhuc vivit, frater meus est. 
+    33: Quod acceperunt viri pro omine : et festinantes rapuerunt verbum ex ore ejus, atque dixerunt : Frater tuus Benadad. Et dixit eis : Ite, et adducite eum ad me. Egressus est ergo ad eum Benadad, et levavit eum in currum suum. 
+    34: Qui dixit ei : Civitates, quas tulit pater meus a patre tuo, reddam : et plateas fac tibi in Damasco, sicut fecit pater meus in Samaria, et ego foederatus recedam a te. Pepigit ergo foedus, et dimisit eum. 
+    35: Tunc vir quidam de filiis prophetarum dixit ad socium suum in sermone Domini : Percute me. At ille noluit percutere.
+    36: Cui ait : Quia noluisti audire vocem Domini, ecce recedes a me, et percutiet te leo. Cumque paululum recessisset ab eo, invenit eum leo, atque percussit. 
+    37: Sed alterum inveniens virum, dixit ad eum : Percute me. Qui percussit eum, et vulneravit. 
+    38: Abiit ergo propheta, et occurrit regi in via, et mutavit aspersione pulveris os et oculos suos. 
+    39: Cumque rex transisset, clamavit ad regem, ait ait : Servus tuus egressus est ad praeliandum cominus : cumque fugisset vir unus, adduxit eum quidam ad me, et ait : Custodi virum istum : qui si lapsus fuerit, erit anima tua pro anima ejus, aut talentum argenti appendes. 
+    40: Dum autem ego turbatus huc illucque me verterem, subito non comparuit. Et ait rex Israel ad eum : Hoc est judicium tuum, quod ipse decrevisti.
+    41: At ille statim abstersit pulverem de facie sua, et cognovit eum rex Israel, quod esset de prophetis. 
+    42: Qui ait ad eum : Haec dicit Dominus : Quia dimisisti virum dignum morte de manu tua, erit anima tua pro anima ejus, et populus tuus pro populo ejus. 
+    43: Reversus est igitur rex Israel in domum suam, audire contemnens, et furibundus venit in Samariam.
+
+End of day 80.

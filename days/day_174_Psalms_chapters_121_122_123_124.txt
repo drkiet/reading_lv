@@ -1,0 +1,43 @@
+Day 174:
+
+Reading Psalms, chapters ['121', '122', '123', '124']:
+
+  Chapter 121.
+
+    1: Canticum graduum. Laetatus sum in his quae dicta sunt mihi : In domum Domini ibimus. 
+    2: Stantes erant pedes nostri in atriis tuis, Jerusalem. 
+    3: Jerusalem, quae aedificatur ut civitas, cujus participatio ejus in idipsum. 
+    4: Illuc enim ascenderunt tribus, tribus Domini, testimonium Israel, ad confitendum nomini Domini. 
+    5: Quia illic sederunt sedes in judicio, sedes super domum David.
+    6: Rogate quae ad pacem sunt Jerusalem, et abundantia diligentibus te. 
+    7: Fiat pax in virtute tua, et abundantia in turribus tuis. 
+    8: Propter fratres meos et proximos meos, loquebar pacem de te. 
+    9: Propter domum Domini Dei nostri, quaesivi bona tibi.
+
+  Chapter 122.
+
+    1: Canticum graduum. Ad te levavi oculos meos, qui habitas in caelis. 
+    2: Ecce sicut oculi servorum in manibus dominorum suorum; sicut oculi ancillae in manibus dominae suae : ita oculi nostri ad Dominum Deum nostrum, donec misereatur nostri. 
+    3: Miserere nostri, Domine, miserere nostri, quia multum repleti sumus despectione; 
+    4: quia multum repleta est anima nostra opprobrium abundantibus, et despectio superbis.
+
+  Chapter 123.
+
+    1: Canticum graduum. Nisi quia Dominus erat in nobis, dicat nunc Israel, 
+    2: nisi quia Dominus erat in nobis : cum exsurgerent homines in nos, 
+    3: forte vivos deglutissent nos; cum irasceretur furor eorum in nos, 
+    4: forsitan aqua absorbuisset nos; 
+    5: torrentem pertransivit anima nostra; forsitan pertransisset anima nostra aquam intolerabilem.
+    6: Benedictus Dominus, qui non dedit nos in captionem dentibus eorum. 
+    7: Anima nostra sicut passer erepta est de laqueo venantium; laqueus contritus est, et nos liberati sumus. 
+    8: Adjutorium nostrum in nomine Domini, qui fecit caelum et terram.
+
+  Chapter 124.
+
+    1: Canticum graduum. Qui confidunt in Domino, sicut mons Sion : non commovebitur in aeternum, qui habitat 
+    2: in Jerusalem. Montes in circuitu ejus; et Dominus in circuitu populi sui, ex hoc nunc et usque in saeculum. 
+    3: Quia non relinquet Dominus virgam peccatorum super sortem justorum; ut non extendant justi ad iniquitatem manus suas, 
+    4: benefac, Domine, bonis, et rectis corde. 
+    5: Declinantes autem in obligationes, adducet Dominus cum operantibus iniquitatem. Pax super Israel!
+
+End of day 174.

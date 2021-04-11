@@ -1,0 +1,67 @@
+Day 159:
+
+Reading Psalms, chapters ['61', '62', '63', '64']:
+
+  Chapter 61.
+
+    1: In finem, pro Idithun. Psalmus David. 
+    2: Nonne Deo subjecta erit anima mea? ab ipso enim salutare meum. 
+    3: Nam et ipse Deus meus et salutaris meus; susceptor meus, non movebor amplius. 
+    4: Quousque irruitis in hominem? interficitis universi vos, tamquam parieti inclinato et maceriae depulsae? 
+    5: Verumtamen pretium meum cogitaverunt repellere; cucurri in siti; ore suo benedicebant, et corde suo maledicebant.
+    6: Verumtamen Deo subjecta esto, anima mea, quoniam ab ipso patientia mea; 
+    7: quia ipse Deus meus et salvator meus, adjutor meus, non emigrabo. 
+    8: In Deo salutare meum et gloria mea; Deus auxilii mei, et spes mea in Deo est. 
+    9: Sperate in eo, omnis congregatio populi; effundite coram illo corda vestra; Deus adjutor noster in aeternum. 
+    10: Verumtamen vani filii hominum, mendaces filii hominum in stateris, ut decipiant ipsi de vanitate in idipsum.
+    11: Nolite sperare in iniquitate, et rapinas nolite concupiscere; divitiae si affluant, nolite cor apponere. 
+    12: Semel locutus est Deus; duo haec audivi : quia potestas Dei est, 
+    13: et tibi, Domine, misericordia : quia tu reddes unicuique juxta opera sua.
+
+  Chapter 62.
+
+    1: Psalmus David, cum esset in deserto Idumaeae. 
+    2: Deus, Deus meus, ad te de luce vigilo. Sitivit in te anima mea; quam multipliciter tibi caro mea! 
+    3: In terra deserta, et invia, et inaquosa, sic in sancto apparui tibi, ut viderem virtutem tuam et gloriam tuam. 
+    4: Quoniam melior est misericordia tua super vitas, labia mea laudabunt te. 
+    5: Sic benedicam te in vita mea; et in nomine tuo levabo manus meas.
+    6: Sicut adipe et pinguedine repleatur anima mea, et labiis exsultationis laudabit os meum. 
+    7: Si memor fui tui super stratum meum, in matutinis meditabor in te. 
+    8: Quia fuisti adjutor meus, et in velamento alarum tuarum exsultabo. 
+    9: Adhaesit anima mea post te; me suscepit dextera tua. 
+    10: Ipsi vero in vanum quaesierunt animam meam : introibunt in inferiora terrae;
+    11: tradentur in manus gladii; partes vulpium erunt. 
+    12: Rex vero laetabitur in Deo; laudabuntur omnes qui jurant in eo, quia obstructum est os loquentium iniqua.
+
+  Chapter 63.
+
+    1: In finem. Psalmus David. 
+    2: Exaudi, Deus, orationem meam cum deprecor; a timore inimici eripe animam meam. 
+    3: Protexisti me a conventu malignantium, a multitudine operantium iniquitatem. 
+    4: Quia exacuerunt ut gladium linguas suas; intenderunt arcum rem amaram, 
+    5: ut sagittent in occultis immaculatum.
+    6: Subito sagittabunt eum, et non timebunt; firmaverunt sibi sermonem nequam. Narraverunt ut absconderent laqueos; dixerunt : Quis videbit eos? 
+    7: Scrutati sunt iniquitates; defecerunt scrutantes scrutinio. Accedet homo ad cor altum; 
+    8: et exaltabitur Deus. Sagittae parvulorum factae sunt plagae eorum; 
+    9: et infirmatae sunt contra eos linguae eorum. Conturbati sunt omnes qui videbant eos; 
+    10: et timuit omnis homo. Et annuntiaverunt opera Dei; et facta ejus intellexerunt.
+    11: Laetabitur justus in Domino, et sperabit in eo; et laudabuntur omnes recti corde.
+
+  Chapter 64.
+
+    1: In finem. Psalmus David, canticum Jeremiae, et Ezechielis, populo transmigrationis, cum inciperent exire. 
+    2: Te decet hymnus, Deus, in Sion, et tibi reddetur votum in Jerusalem. 
+    3: Exaudi orationem meam; ad te omnis caro veniet. 
+    4: Verba iniquorum praevaluerunt super nos, et impietatibus nostris tu propitiaberis. 
+    5: Beatus quem elegisti et assumpsisti : inhabitabit in atriis tuis. Replebimur in bonis domus tuae; sanctum est templum tuum,
+    6: mirabile in aequitate. Exaudi nos, Deus, salutaris noster, spes omnium finium terrae, et in mari longe. 
+    7: Praeparans montes in virtute tua, accinctus potentia; 
+    8: qui conturbas profundum maris, sonum fluctuum ejus. Turbabuntur gentes, 
+    9: et timebunt qui habitant terminos a signis tuis; exitus matutini et vespere delectabis. 
+    10: Visitasti terram, et inebriasti eam; multiplicasti locupletare eam. Flumen Dei repletum est aquis; parasti cibum illorum; quoniam ita est praeparatio ejus.
+    11: Rivos ejus inebria, multiplica genimina ejus; in stillicidiis ejus laetabitur germinans. 
+    12: Benedices coronae anni benignitatis tuae, et campi tui replebuntur ubertate. 
+    13: Pinguescent speciosa deserti, et exsultatione colles accingentur. 
+    14: Induti sunt arietes ovium, et valles abundabunt frumento; clamabunt, etenim hymnum dicent.
+
+End of day 159.

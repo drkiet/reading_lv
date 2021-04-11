@@ -1,0 +1,147 @@
+Day 57:
+
+Reading Judges, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Abiit autem Abimelech filius Jerobaal in Sichem ad fratres matris suae, et locutus est ad eos, et ad omnem cognationem domus patris matris suae, dicens : 
+    2: Loquimini ad omnes viros Sichem : Quid vobis est melius, ut dominentur vestri septuaginta viri omnes filii Jerobaal, an ut dominetur unus vir? simulque considerate quod os vestrum et caro vestra sum. 
+    3: Locutique sunt fratres matris ejus de eo ad omnes viros Sichem universos sermones istos, et inclinaverunt cor eorum post Abimelech, dicentes : Frater noster est. 
+    4: Dederuntque illi septuaginta pondo argenti de fano Baalberit. Qui conduxit sibi ex eo viros inopes et vagos, secutique sunt eum. 
+    5: Et venit in domum patris sui in Ephra, et occidit fratres suos filios Jerobaal septuaginta viros, super lapidem unum : remansitque Joatham filius Jerobaal minimus, et absconditus est.
+    6: Congregati sunt autem omnes viri Sichem, et universae familiae urbis Mello : abieruntque et constituerunt regem Abimelech, juxta quercum quae stabat in Sichem. 
+    7: Quod cum nuntiatum esset Joatham, ivit, et stetit in vertice montis Garizim : elevataque voce, clamavit, et dixit : Audite me, viri Sichem; ita audiat vos Deus. 
+    8: Ierunt ligna, ut ungerent super se regem : dixeruntque olivae : Impera nobis. 
+    9: Quae respondit : Numquid possum deserere pinguedinem meam, qua et dii utuntur et homines, et venire ut inter ligna promovear? 
+    10: Dixeruntque ligna ad arborem ficum : Veni, et super nos regnum accipe.
+    11: Quae respondit eis : Numquid possum deserere dulcedinem meam, fructusque suavissimos, et ire ut inter cetera ligna promovear? 
+    12: Locutaque sunt ligna ad vitem : Veni, et impera nobis. 
+    13: Quae respondit eis : Numquid possum deserere vinum meum, quod laetificat Deum et homines, et inter ligna cetera promoveri? 
+    14: Dixeruntque omnia ligna ad rhamnum : Veni, et impera super nos. 
+    15: Quae respondit eis : Si vere me regem vobis constituitis, venite, et sub umbra mea requiescite : si autem non vultis, egrediatur ignis de rhamno, et devoret cedros Libani.
+    16: Nunc igitur, si recte et absque peccato constituistis super vos regem Abimelech, et bene egistis cum Jerobaal, et cum domo ejus, et reddidistis vicem beneficiis ejus, qui pugnavit pro vobis, 
+    17: et animam suam dedit periculis, ut erueret vos de manu Madian, 
+    18: qui nunc surrexistis contra domum patris mei, et interfecistis filios ejus septuaginta viros super unum lapidem, et constituistis regem Abimelech filium ancillae ejus super habitatores Sichem, eo quod frater vester sit : 
+    19: si ergo recte et absque vitio egistis cum Jerobaal, et domo ejus, hodie laetamini in Abimelech, et ille laetetur in vobis. 
+    20: Sin autem perverse : egrediatur ignis ex eo, et consumat habitatores Sichem, et oppidum Mello : egrediaturque ignis de viris Sichem, et de oppido Mello, et devoret Abimelech.
+    21: Quae cum dixisset, fugit, et abiit in Bera : habitavitque ibi ob metum Abimelech fratris sui. 
+    22: Regnavit itaque Abimelech super Israel tribus annis. 
+    23: Misitque Dominus spiritum pessimum inter Abimelech et habitatores Sichem : qui coeperunt eum detestari, 
+    24: et scelus interfectionis septuaginta filiorum Jerobaal, et effusionem sanguinis eorum conferre in Abimelech fratrem suum, et in ceteros Sichimorum principes, qui eum adjuverant. 
+    25: Posueruntque insidias adversus eum in summitate montium : et dum illius praestolabantur adventum, exercebant latrocinia, agentes praedas de praetereuntibus : nuntiatumque est Abimelech.
+    26: Venit autem Gaal filius Obed cum fratribus suis, et transivit in Sichimam. Ad cujus adventum erecti habitatores Sichem, 
+    27: egressi sunt in agros, vastantes vineas, uvasque calcantes : et factis cantantium choris, ingressi sunt fanum dei sui, et inter epulas et pocula maledicebant Abimelech, 
+    28: clamante Gaal filio Obed : Quis est Abimelech, et quae est Sichem, ut serviamus ei? numquid non est filius Jerobaal, et constituit principem Zebul servum suum super viros Emor patris Sichem? cur ergo serviemus ei? 
+    29: utinam daret aliquis populum istum sub manu mea, ut auferrem de medio Abimelech. Dictumque est Abimelech : Congrega exercitus multitudinem, et veni. 
+    30: Zebul enim princeps civitatis, auditis sermonibus Gaal filii Obed, iratus est valde,
+    31: et misit clam ad Abimelech nuntios, dicens : Ecce Gaal filius Obed venit in Sichimam cum fratribus suis, et oppugnat adversum te civitatem. 
+    32: Surge itaque nocte cum populo qui tecum est, et latita in agro : 
+    33: et primo mane, oriente sole, irrue super civitatem. Illo autem egrediente adversum te cum populo suo, fac ei quod potueris. 
+    34: Surrexit itaque Abimelech cum omni exercitu suo nocte, et tetendit insidias juxta Sichimam in quatuor locis. 
+    35: Egressusque est Gaal filius Obed, et stetit in introitu portae civitatis. Surrexit autem Abimelech, et omnis exercitus cum eo de insidiarum loco.
+    36: Cumque vidisset populum Gaal, dixit ad Zebul : Ecce de montibus multitudo descendit. Cui ille respondit : Umbras montium vides quasi capita hominum, et hoc errore deciperis. 
+    37: Rursumque Gaal ait : Ecce populus de umbilico terrae descendit, et unus cuneus venit per viam quae respicit quercum. 
+    38: Cui dixit Zebul : Ubi est nunc os tuum, quo loquebaris : Quis est Abimelech ut serviamus ei? nonne hic populus est, quem despiciebas? egredere, et pugna contra eum. 
+    39: Abiit ergo Gaal, spectante Sichimorum populo, et pugnavit contra Abimelech, 
+    40: qui persecutus est eum fugientem, et in urbem compulit : cecideruntque ex parte ejus plurimi, usque ad portam civitatis.
+    41: Et Abimelech sedit in Ruma : Zebul autem, Gaal, et socios ejus expulit de urbe, nec in ea passus est commorari. 
+    42: Sequenti ergo die, egressus est populus in campum. Quod cum nuntiatum esset Abimelech, 
+    43: tulit exercitum suum, et divisit in tres turmas, tendens insidias in agris. Vidensque quod egrederetur populus de civitate, surrexit, et irruit in eos 
+    44: cum cuneo suo, oppugnans, et obsidens civitatem : duae autem turmae palantes per campum adversarios persequebantur. 
+    45: Porro Abimelech omni die illo oppugnabat urbem : quam cepit, interfectis habitatoribus ejus, ipsaque destructa, ita ut sal in ea dispergeret.
+    46: Quod cum audissent qui habitabant in turre Sichimorum, ingressi sunt fanum dei sui Berith, ubi foedus cum eo pepigerant, et ex eo locus nomen acceperat, qui erat munitus valde. 
+    47: Abimelech quoque audiens viros turris Sichimorum pariter conglobatos, 
+    48: ascendit in montem Selmon cum omni populo suo : et arrepta securi, praecidit arboris ramum, impositumque ferens humero, dixit ad socios : Quod me videtis facere, cito facite. 
+    49: Igitur certatim ramos de arboribus praecidentes, sequebantur ducem. Qui circumdantes praesidium, succenderunt : atque ita factum est ut fumo et igne mille homines necarentur, viri pariter et mulieres, habitatorum turris Sichem. 
+    50: Abimelech autem inde proficiscens venit ad oppidum Thebes, quod circumdans obsidebat exercitu.
+    51: Erat autem turris excelsa in media civitate, ad quam confugerant simul viri ac mulieres, et omnes principes civitatis, clausa firmissime janua, et super turris tectum stantes per propugnacula. 
+    52: Accedensque Abimelech juxta turrim, pugnabat fortiter : et appropinquans ostio, ignem supponere nitebatur : 
+    53: et ecce una mulier fragmen molae desuper jaciens, illisit capiti Abimelech, et confregit cerebrum ejus. 
+    54: Qui vocavit cito armigerum suum, et ait ad eum : Evagina gladium tuum, et percute me, ne forte dicatur quod a femina interfectus sim. Qui jussa perficiens, interfecit eum. 
+    55: Illoque mortuo, omnes qui cum eo erant de Israel, reversi sunt in sedes suas :
+    56: et reddidit Deus malum, quod fecerat Abimelech contra patrem suum, interfectis septuaginta fratribus suis. 
+    57: Sichimitis quoque quod operati erant, retributum est, et venit super eos maledictio Joatham filii Jerobaal.
+
+  Chapter 10.
+
+    1: Post Abimelech surrexit dux in Israel Thola filius Phua patrui Abimelech, vir de Issachar, qui habitavit in Samir montis Ephraim : 
+    2: et judicavit Israelem viginti et tribus annis, mortuusque est, ac sepultus in Samir. 
+    3: Huic successit Jair Galaadites, qui judicavit Israel per viginti et duos annos, 
+    4: habens triginta filios sedentes super triginta pullos asinarum, et principes triginta civitatum, quae ex nomine ejus sunt appellatae Havoth Jair, id est, oppida Jair, usque in praesentem diem, in terra Galaad. 
+    5: Mortuusque est Jair, ac sepultus in loco cui est vocabulum Camon.
+    6: Filii autem Israel peccatis veteribus jungentes nova, fecerunt malum in conspectu Domini, et servierunt idolis, Baalim et Astaroth, et diis Syriae ac Sidonis et Moab et filiorum Ammon et Philisthiim : dimiseruntque Dominum, et non coluerunt eum. 
+    7: Contra quos Dominus iratus, tradidit eos in manus Philisthiim et filiorum Ammon. 
+    8: Afflictique sunt, et vehementer oppressi per annos decem et octo, omnes qui habitabant trans Jordanem in terra Amorrhaei, qui est in Galaad : 
+    9: in tantum, ut filii Ammon, Jordane transmisso, vastarent Judam et Benjamin et Ephraim, afflictusque est Israel nimis. 
+    10: Et clamantes ad Dominum, dixerunt : Peccavimus tibi, quia dereliquimus Dominum Deum nostrum, et servivimus Baalim.
+    11: Quibus locutus est Dominus : Numquid non Aegyptii et Amorrhaei, filiique Ammon et Philisthiim, 
+    12: Sidonii quoque et Amalec et Chanaan oppresserunt vos, et clamastis ad me, et erui vos de manu eorum? 
+    13: Et tamen reliquistis me, et coluistis deos alienos : idcirco non addam ut ultra vos liberem : 
+    14: ite, et invocate deos quos elegistis : ipsi vos liberent in tempore angustiae. 
+    15: Dixeruntque filii Israel ad Dominum : Peccavimus, redde tu nobis quidquid tibi placet : tantum nunc libera nos.
+    16: Quae dicentes, omnia de finibus suis alienorum deorum idola projecerunt, et servierunt Domino Deo : qui doluit super miseriis eorum. 
+    17: Itaque filii Ammon conclamantes in Galaad fixere tentoria : contra quos congregati filii Israel, in Maspha castrametati sunt. 
+    18: Dixeruntque principes Galaad singuli ad proximos suos : Qui primus ex nobis contra filios Ammon coeperit dimicare, erit dux populi Galaad.
+
+  Chapter 11.
+
+    1: Fuit illo Jephte Galaadites vir fortissimus atque pugnator, filius mulieris meretricis, qui natus est de Galaad. 
+    2: Habuit autem Galaad uxorem, de qua suscepit filios : qui postquam creverant, ejecerunt Jephte, dicentes : Haeres in domo patris nostri esse non poteris, quia de altera matre natus es. 
+    3: Quos ille fugiens atque devitans, habitavit in terra Tob : congregatique sunt ad eum viri inopes, et latrocinantes, et quasi principem sequebantur. 
+    4: In illis diebus pugnabant filii Ammon contra Israel. 
+    5: Quibus acriter instantibus perrexerunt majores natu de Galaad, ut tollerent in auxilium sui Jephte de terra Tob :
+    6: dixeruntque ad eum : Veni et esto princeps noster, et pugna contra filios Ammon. 
+    7: Quibus ille respondit : Nonne vos estis, qui odistis me, et ejecistis de domo patris mei, et nunc venistis ad me necessitate compulsi? 
+    8: Dixeruntque principes Galaad ad Jephte : Ob hanc igitur causam nunc ad te venimus, ut proficiscaris nobiscum, et pugnes contra filios Ammon, sisque dux omnium qui habitant in Galaad. 
+    9: Jephte quoque dixit eis : Si vere venistis ad me, ut pugnem pro vobis contra filios Ammon, tradideritque eos Dominus in manus meas, ego ero vester princeps? 
+    10: Qui responderunt ei : Dominus, qui haec audit, ipse mediator ac testis est quod nostra promissa faciemus.
+    11: Abiit itaque Jephte cum principibus Galaad, fecitque eum omnis populus principem sui. Locutusque est Jephte omnes sermones suos coram Domino in Maspha. 
+    12: Et misit nuntios ad regem filiorum Ammon, qui ex persona sua dicerent : Quid mihi et tibi est, quia venisti contra me, ut vastares terram meam? 
+    13: Quibus ille respondit : Quia tulit Israel terram meam, quando ascendit de Aegypto, a finibus Arnon usque Jaboc atque Jordanem : nunc ergo cum pace redde mihi eam. 
+    14: Per quos rursum mandavit Jephte, et imperavit eis ut dicerent regi Ammon : 
+    15: Haec dicit Jephte : Non tulit Israel terram Moab, nec terram filiorum Ammon :
+    16: sed quando de Aegypto conscenderunt, ambulavit per solitudinem usque ad mare Rubrum, et venit in Cades. 
+    17: Misitque nuntios ad regem Edom, dicens : Dimitte me ut transeam per terram tuam. Qui noluit acquiescere precibus ejus. Misit quoque ad regem Moab, qui et ipse transitum praebere contempsit. Mansit itaque in Cades, 
+    18: et circuivit ex latere terram Edom, et terram Moab : venitque contra orientalem plagam terrae Moab, et castrametatus est trans Arnon : nec voluit intrare terminos Moab : Arnon quippe confinium est terrae Moab. 
+    19: Misit itaque Israel nuntios ad Sehon regem Amorrhaeorum, qui habitabat in Hesebon, et dixerunt ei : Dimitte ut transeam per terram tuam usque ad fluvium. 
+    20: Qui et ipse Israel verba despiciens, non dimisit eum transire per terminos suos : sed infinita multitudine congregata, egressus est contra eum in Jasa, et fortiter resistebat.
+    21: Tradiditque eum Dominus in manus Israel cum omni exercitu suo : qui percussit eum, et possedit omnem terram Amorrhaei habitatoris regionis illius, 
+    22: et universos fines ejus, de Arnon usque Jaboc, et de solitudine usque ad Jordanem. 
+    23: Dominus ergo Deus Israel subvertit Amorrhaeum, pugnante contra illum populo suo Israel, et tu nunc vos possidere terram ejus? 
+    24: nonne ea quae possidet Chamos deus tuus, tibi jure debentur? quae autem Dominus Deus noster victor obtinuit, in nostram cedent possessionem : 
+    25: nisi forte melior es Balac filio Sephor rege Moab : aut docere potes, quod jurgatus sit contra Israel, et pugnaverit contra eum,
+    26: quando habitavit in Hesebon, et viculis ejus, et in Aroer, et villis illius, vel in cunctis civitatibus juxta Jordanem, per trecentos annos. Quare tanto tempore nihil super hac repetitione tentastis? 
+    27: Igitur non ego pecco in te, sed tu contra me male agis, indicens mihi bella non justa. Judicet Dominus arbiter hujus diei inter Israel, et inter filios Ammon. 
+    28: Noluitque acquiescere rex filiorum Ammon verbis Jephte, quae per nuntios mandaverat. 
+    29: Factus est ergo super Jephte spiritus Domini, et circuiens Galaad, et Manasse, Maspha quoque Galaad, et inde transiens ad filios Ammon, 
+    30: votum vovit Domino, dicens : Si tradideris filios Ammon in manus meas,
+    31: quicumque primus fuerit egressus de foribus domus meae, mihique occurrerit revertenti cum pace a filiis Ammon, eum holocaustum offeram Domino. 
+    32: Transivitque Jephte ad filios Ammon, ut pugnaret contra eos : quos tradidit Dominus in manus ejus. 
+    33: Percussitque ab Aroer usque dum venias in Mennith, viginti civitates, et usque ad Abel, quae est vineis consita, plaga magna nimis : humiliatique sunt filii Ammon a filiis Israel. 
+    34: Revertente autem Jephte in Maspha domum suam, occurrit ei unigenita filia sua cum tympanis et choris : non enim habebat alios liberos. 
+    35: Qua visa, scidit vestimenta sua, et ait : Heu me, filia mea! decepisti me, et ipsa decepta es : aperui enim os meum ad Dominum, et aliud facere non potero.
+    36: Cui illa respondit : Pater mi, si aperuisti os tuum ad Dominum, fac mihi quodcumque pollicitus es, concessa tibi ultione atque victoria de hostibus tuis. 
+    37: Dixitque ad patrem : Hoc solum mihi praesta quod deprecor : dimitte me ut duobus mensibus circumeam montes, et plangam virginitatem meam cum sodalibus meis. 
+    38: Cui ille respondit : Vade. Et dimisit eam duobus mensibus. Cumque abiisset cum sociis ac sodalibus suis, flebat virginitatem suam in montibus. 
+    39: Expletisque duobus mensibus, reversa est ad patrem suum, et fecit ei sicut voverat, quae ignorabat virum. Exinde mos increbruit in Israel, ut consuetudo servata est : 
+    40: ut post anni circulum conveniant in unum filiae Israel, et plangant filiam Jephte Galaaditae diebus quatuor.
+
+  Chapter 12.
+
+    1: Ecce autem in Ephraim orta est seditio : nam transeuntes contra aquilonem, dixerunt ad Jephte : Quare vadens ad pugnam contra filios Ammon, vocare nos noluisti, ut pergeremus tecum? igitur incendemus domum tuam. 
+    2: Quibus ille respondit : Disceptatio erat mihi et populo meo contra filios Ammon vehemens : vocavique vos, ut praeberetis mihi auxilium, et facere noluistis. 
+    3: Quod cernens, posui animam meam in manibus meis, transivique ad filios Ammon, et tradidit eos Dominus in manus meas. Quid commerui, ut adversum me consurgatis in praelium? 
+    4: Vocatis itaque ad se cunctis viris Galaad, pugnabat contra Ephraim : percusseruntque viri Galaad Ephraim, quia dixerat : Fugitivus est Galaad de Ephraim, et habitat in medio Ephraim et Manasse. 
+    5: Occupaveruntque Galaaditae vada Jordanis, per quae Ephraim reversurus erat. Cumque venisset ad ea de Ephraim numero, fugiens, atque dixisset : Obsecro ut me transire permittatis : dicebant ei Galaaditae : Numquid Ephrathaeus es? quo dicente : Non sum :
+    6: interrogabant eum : Dic ergo Scibboleth, quod interpretatur Spica. Qui respondebat, Sibboleth : eadem littera spicam exprimere non valens. Statimque apprehensum jugulabant in ipso Jordanis transitu. Et ceciderunt in illo tempore de Ephraim quadraginta duo millia. 
+    7: Judicavit itaque Jephte Galaadites Israel sex annis : et mortuus est, ac sepultus in civitate sua Galaad. 
+    8: Post hunc judicavit Israel Abesan de Bethlehem : 
+    9: qui habuit triginta filios, et totidem filias, quas emittens foras, maritis dedit, et ejusdem numeri filiis suis accepit uxores, introducens in domum suam. Qui septem annis judicavit Israel : 
+    10: mortuusque est, ac sepultus in Bethlehem.
+    11: Cui successit Ahialon Zabulonites : et judicavit Israel decem annis : 
+    12: mortuusque est, ac sepultus in Zabulon. 
+    13: Post hunc judicavit Israel Abdon filius Illel Pharathonites : 
+    14: qui habuit quadraginta filios, et triginta ex eis nepotes, ascendentes super septuaginta pullos asinarum. Et judicavit Israel octo annis : 
+    15: mortuusque est, ac sepultus in Pharathon terrae Ephraim, in monte Amalec.
+
+End of day 57.

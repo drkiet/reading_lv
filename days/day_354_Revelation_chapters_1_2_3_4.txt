@@ -1,0 +1,99 @@
+Day 354:
+
+Reading Revelation, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Apocalypsis Jesu Christi, quam dedit illi Deus palam facere servis suis, quae oportet fieri cito : et significavit, mittens per angelum suum servo suo Joanni, 
+    2: qui testimonium perhibuit verbo Dei, et testimonium Jesu Christi, quaecumque vidit. 
+    3: Beatus qui legit, et audit verba prophetiae hujus, et servat ea, quae in ea scripta sunt : tempus enim prope est. 
+    4: Joannes septem ecclesiis, quae sunt in Asia. Gratia vobis, et pax ab eo, qui est, et qui erat, et qui venturus est : et a septem spiritibus qui in conspectu throni ejus sunt : 
+    5: et a Jesu Christo, qui est testis fidelis, primogenitus mortuorum, et princeps regum terrae, qui dilexit nos, et lavit nos a peccatis nostris in sanguine suo,
+    6: et fecit nos regnum, et sacerdotes Deo et Patri suo : ipsi gloria et imperium in saecula saeculorum. Amen. 
+    7: Ecce venit cum nubibus, et videbit eum omnis oculus, et qui eum pupugerunt. Et plangent se super eum omnes tribus terrae. Etiam : amen. 
+    8: Ego sum alpha et omega, principium et finis, dicit Dominus Deus : qui est, et qui erat, et qui venturus est, omnipotens. 
+    9: Ego Joannes frater vester, et particeps in tribulatione, et regno, et patientia in Christo Jesu : fui in insula, quae appellatur Patmos, propter verbum Dei, et testimonium Jesu : 
+    10: fui in spiritu in dominica die, et audivi post me vocem magnam tamquam tubae,
+    11: dicentis : Quod vides, scribe in libro : et mitte septem ecclesiis, quae sunt in Asia, Epheso, et Smyrnae, et Pergamo, et Thyatirae, et Sardis, et Philadelphiae, et Laodiciae. 
+    12: Et conversus sum ut viderem vocem, quae loquebatur mecum : et conversus vidi septem candelabra aurea : 
+    13: et in medio septem candelabrorum aureorum, similem Filio hominis vestitum podere, et praecinctum ad mamillas zona aurea : 
+    14: caput autem ejus, et capilli erant candidi tamquam lana alba, et tamquam nix, et oculi ejus tamquam flamma ignis : 
+    15: et pedes ejus similes auricalco, sicut in camino ardenti, et vox illius tamquam vox aquarum multarum :
+    16: et habebat in dextera sua stellas septem : et de ore ejus gladius utraque parte acutus exibat : et facies ejus sicut sol lucet in virtute sua. 
+    17: Et cum vidissem eum, cecidi ad pedes ejus tamquam mortuus. Et posuit dexteram suam super me, dicens : Noli timere : ego sum primus, et novissimus, 
+    18: et vivus, et fui mortuus, et ecce sum vivens in saecula saeculorum : et habeo claves mortis, et inferni. 
+    19: Scribe ergo quae vidisti, et quae sunt, et quae oportet fieri post haec. 
+    20: Sacramentum septem stellarum, quas vidisti in dextera mea, et septem candelabra aurea : septem stellae, angeli sunt septem ecclesiarum : et candelabra septem, septem ecclesiae sunt.
+
+  Chapter 2.
+
+    1: Angelo Ephesi ecclesiae scribe : Haec dicit, qui tenet septem stellas in dextera sua, qui ambulat in medio septem candelabrorum aureorum : 
+    2: Scio opera tua, et laborem, et patientiam tuam, et quia non potes sustinere malos : et tentasti eos, qui se dicunt apostolos esse, et non sunt : et invenisti eos mendaces : 
+    3: et patientiam habes, et sustinuisti propter nomen meum, et non defecisti. 
+    4: Sed habeo adversum te, quod caritatem tuam primam reliquisti. 
+    5: Memor esto itaque unde excideris : et age poenitentiam, et prima opera fac : sin autem, venio tibi, et movebo candelabrum tuum de loco suo, nisi poenitentiam egeris.
+    6: Sed hoc habes, quia odisti facta Nicolaitarum, quae et ego odi. 
+    7: Qui habet aurem, audiat quid Spiritus dicat ecclesiis : Vincenti dabo edere de ligno vitae, quod est in paradiso Dei mei. 
+    8: Et angelo Smyrnae ecclesiae scribe : Haec dicit primus, et novissimus, qui fuit mortuus, et vivit : 
+    9: Scio tribulationem tuam, et paupertatem tuam, sed dives es : et blasphemaris ab his, qui se dicunt Judaeos esse, et non sunt, sed sunt synagoga Satanae. 
+    10: Nihil horum timeas quae passurus es. Ecce missurus est diabolus aliquos ex vobis in carcerem ut tentemini : et habebitis tribulationem diebus decem. Esto fidelis usque ad mortem, et dabo tibi coronam vitae.
+    11: Qui habet aurem, audiat quid Spiritus dicat ecclesiis : Qui vicerit, non laedetur a morte secunda. 
+    12: Et angelo Pergami ecclesiae scribe : Haec dicit qui habet rhomphaeam utraque parte acutam : 
+    13: Scio ubi habitas, ubi sedes est Satanae : et tenes nomen meum, et non negasti fidem meam. Et in diebus illis Antipas testis meus fidelis, qui occisus est apud vos ubi Satanas habitat. 
+    14: Sed habeo aversus te pauca : quia habes illic tenentes doctrinam Balaam, qui docebat Balac mittere scandalum coram filiis Israel, edere, et fornicari : 
+    15: ita habes et tu tenentes doctrinam Nicolaitarum.
+    16: Similiter poenitentiam age : si quominus veniam tibi cito, et pugnabo cum illis in gladio oris mei. 
+    17: Qui habet aurem, audiat quid Spiritus dicat ecclesiis : Vincenti dabo manna absconditum, et dabo illi calculum candidum : et in calculo nomen novum scriptum, quod nemo scit, nisi qui accipit. 
+    18: Et angelo Thyatirae ecclesiae scribe : Haec dicit Filius Dei, qui habet oculos tamquam flammam ignis, et pedes ejus similes auricalco : 
+    19: Novi opera tua, et fidem, et caritatem tuam, et ministerium, et patientiam tuam, et opera tua novissima plura prioribus. 
+    20: Sed habeo adversus te pauca : quia permittis mulierem Jezabel, quae se dicit propheten, docere, et seducere servos meos, fornicari, et manducare de idolothytis.
+    21: Et dedi illi tempus ut poenitentiam ageret : et non vult poenitere a fornicatione sua. 
+    22: Ecce mittam eam in lectum : et qui moechantur cum ea, in tribulatione maxima erunt, nisi poenitentiam ab operibus suis egerint. 
+    23: Et filios ejus interficiam in morte, et scient omnes ecclesiae, quia ego sum scrutans renes, et corda : et dabo unicuique vestrum secundum opera sua. Vobis autem dico, 
+    24: et ceteris qui Thyatirae estis : quicumque non habent doctrinam hanc, et qui non cognoverunt altitudines Satanae, quemadmodum dicunt, non mittam super vos aliud pondus : 
+    25: tamen id quod habetis, tenete donec veniam.
+    26: Et qui vicerit, et custodierit usque in finem opera mea, dabo illi potestatem super gentes, 
+    27: et reget eas in virga ferrea, et tamquam vas figuli confringentur, 
+    28: sicut et ego accepi a Patre meo : et dabo illi stellam matutinam. 
+    29: Qui habet aurem, audiat quid Spiritus dicat ecclesiis.
+
+  Chapter 3.
+
+    1: Et angelo ecclesiae Sardis scribe : Haec dicit qui habet septem spiritus Dei, et septem stellas : Scio opera tua, quia nomen habes quod vivas, et mortuus es. 
+    2: Esto vigilans, et confirma cetera, quae moritura erant. Non enim invenio opera tua plena coram Deo meo. 
+    3: In mente ergo habe qualiter acceperis, et audieris, et serva, et poenitentiam age. Si ergo non vigilaveris, veniam ad te tamquam fur et nescies qua hora veniam ad te. 
+    4: Sed habes pauca nomina in Sardis qui non inquinaverunt vestimenta sua : et ambulabunt mecum in albis, quia digni sunt. 
+    5: Qui vicerit, sic vestietur vestimentis albis, et non delebo nomen ejus de libro vitae, et confitebor nomen ejus coram Patre meo, et coram angelis ejus.
+    6: Qui habet aurem, audiat quid Spiritus dicat ecclesiis. 
+    7: Et angelo Philadelphiae ecclesiae scribe : Haec dicit Sanctus et Verus, qui habet clavem David : qui aperit, et nemo claudit : claudit, et nemo aperit : 
+    8: Scio opera tua. Ecce dedi coram te ostium apertum, quod nemo potest claudere : quia modicam habes virtutem, et servasti verbum meum, et non negasti nomen meum. 
+    9: Ecce dabo de synagoga Satanae, qui dicunt se Judaeos esse, et non sunt, sed mentiuntur : ecce faciam illos ut veniant, et adorent ante pedes tuos : et scient quia ego dilexi te, 
+    10: quoniam servasti verbum patientiae meae, et ego servabo te ab hora tentationis, quae ventura est in orbem universum tentare habitantes in terra.
+    11: Ecce venio cito : tene quod habes, ut nemo accipiat coronam tuam. 
+    12: Qui vicerit, faciam illum columnam in templo Dei mei, et foras non egredietur amplius : et scribam super eum nomen Dei mei, et nomen civitatis Dei mei novae Jerusalem, quae descendit de caelo a Deo meo, et nomen meum novum. 
+    13: Qui habet aurem, audiat quid Spiritus dicat ecclesiis. 
+    14: Et angelo Laodiciae ecclesiae scribe : Haec dicit : Amen, testis fidelis et verus, qui est principium creaturae Dei. 
+    15: Scio opera tua : quia neque frigidus es, neque calidus : utinam frigidus esses, aut calidus :
+    16: sed quia tepidus es, et nec frigidus, nec calidus, incipiam te evomere ex ore meo : 
+    17: quia dicis : Quod dives sum, et locupletatus, et nullius egeo : et nescis quia tu es miser, et miserabilis, et pauper, et caecus, et nudus. 
+    18: Suadeo tibi emere a me aurum ignitum probatum, ut locuples fias, et vestimentis albis induaris, et non appareat confusio nuditatis tuae, et collyrio inunge oculos tuos ut videas. 
+    19: Ego quos amo, arguo, et castigo. Aemulare ergo, et poenitentiam age. 
+    20: Ecce sto ad ostium, et pulso : si quis audierit vocem meam, et aperuerit mihi januam, intrabo ad illum, et coenabo cum illo, et ipse mecum.
+    21: Qui vicerit, dabo ei sedere mecum in throno meo : sicut et ego vici, et sedi cum Patre meo in throno ejus. 
+    22: Qui habet aurem, audiat quid Spiritus dicat ecclesiis.
+
+  Chapter 4.
+
+    1: Post haec vidi : et ecce ostium apertum in caelo, et vox prima, quam audivi tamquam tubae loquentis mecum, dicens : Ascende huc, et ostendam tibi quae oportet fieri post haec. 
+    2: Et statim fui in spiritu : et ecce sedes posita erat in caelo, et supra sedem sedens. 
+    3: Et qui sedebat similis erat aspectui lapidis jaspidis, et sardinis : et iris erat in circuitu sedis similis visioni smaragdinae. 
+    4: Et in circuitu sedis sedilia viginti quatuor : et super thronos viginti quatuor seniores sedentes, circumamicti vestimentis albis, et in capitibus eorum coronae aureae. 
+    5: Et de throno procedebant fulgura, et voces, et tonitrua : et septem lampades ardentes ante thronum, qui sunt septem spiritus Dei.
+    6: Et in conspectu sedis tamquam mare vitreum simile crystallo : et in medio sedis, et in circuitu sedis quatuor animalia plena oculis ante et retro. 
+    7: Et animal primum simile leoni, et secundum animal simile vitulo, et tertium animal habens faciem quasi hominis, et quartum animal simile aquilae volanti. 
+    8: Et quatuor animalia, singula eorum habebant alas senas : et in circuitu, et intus plena sunt oculis : et requiem non habebant die ac nocte, dicentia : Sanctus, Sanctus, Sanctus Dominus Deus omnipotens, qui erat, et qui est, et qui venturus est. 
+    9: Et cum darent illa animalia gloriam, et honorem, et benedictionem sedenti super thronum, viventi in saecula saeculorum, 
+    10: procidebant viginti quatuor seniores ante sedentem in throno, et adorabant viventem in saecula saeculorum, et mittebant coronas suas ante thronum, dicentes :
+    11: Dignus es Domine Deus noster accipere gloriam, et honorem, et virtutem : quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt.
+
+End of day 354.

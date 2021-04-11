@@ -1,0 +1,177 @@
+Day 286:
+
+Reading Matthew, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Et ascendens in naviculam, transfretavit, et venit in civitatem suam. 
+    2: Et ecce offerebant ei paralyticum jacentem in lecto. Et videns Jesus fidem illorum, dixit paralytico : Confide fili, remittuntur tibi peccata tua. 
+    3: Et ecce quidam de scribis dixerunt intra se : Hic blasphemat. 
+    4: Et cum vidisset Jesus cogitationes eorum, dixit : Ut quid cogitatis mala in cordibus vestris? 
+    5: Quid est facilius dicere : Dimittuntur tibi peccata tua : an dicere : Surge, et ambula?
+    6: Ut autem sciatis, quia Filius hominis habet potestatem in terra dimittendi peccata, tunc ait paralytico : Surge, tolle lectum tuum, et vade in domum tuam. 
+    7: Et surrexit, et abiit in domum suam. 
+    8: Videntes autem turbae timuerunt, et glorificaverunt Deum, qui dedit potestatem talem hominibus. 
+    9: Et, cum transiret inde Jesus, vidit hominem sedentem in telonio, Matthaeum nomine. Et ait illi : Sequere me. Et surgens, secutus est eum. 
+    10: Et factum est, discumbente eo in domo, ecce multi publicani et peccatores venientes, discumbebant cum Jesu, et discipulis ejus.
+    11: Et videntes pharisaei, dicebant discipulis ejus : Quare cum publicanis et peccatoribus manducat magister vester? 
+    12: At Jesus audiens, ait : Non est opus valentibus medicus, sed male habentibus. 
+    13: Euntes autem discite quid est : Misericordiam volo, et non sacrificium. Non enim veni vocare justos, sed peccatores. 
+    14: Tunc accesserunt ad eum discipuli Joannis, dicentes : Quare nos, et pharisaei, jejunamus frequenter : discipuli autem tui non jejunant? 
+    15: Et ait illis Jesus : Numquid possunt filii sponsi lugere, quamdiu cum illis est sponsus? Venient autem dies cum auferetur ab eis sponsus : et tunc jejunabunt.
+    16: Nemo autem immittit commissuram panni rudis in vestimentum vetus : tollit enim plenitudinem ejus a vestimento, et pejor scissura fit. 
+    17: Neque mittunt vinum novum in utres veteres : alioquin rumpuntur utres, et vinum effunditur, et utres pereunt. Sed vinum novum in utres novos mittunt : et ambo conservantur. 
+    18: Haec illo loquente ad eos, ecce princeps unus accessit, et adorabat eum, dicens : Domine, filia mea modo defuncta est : sed veni, impone manum tuam super eam, et vivet. 
+    19: Et surgens Jesus, sequebatur eum, et discipuli ejus. 
+    20: Et ecce mulier, quae sanguinis fluxum patiebatur duodecim annis, accessit retro, et tetigit fimbriam vestimenti ejus.
+    21: Dicebat enim intra se : Si tetigero tantum vestimentum ejus, salva ero. 
+    22: At Jesus conversus, et videns eam, dixit : Confide, filia, fides tua te salvam fecit. Et salva facta est mulier ex illa hora. 
+    23: Et cum venisset Jesus in domum principis, et vidisset tibicines et turbam tumultuantem, dicebat : 
+    24: Recedite : non est enim mortua puella, sed dormit. Et deridebant eum. 
+    25: Et cum ejecta esset turba, intravit : et tenuit manum ejus, et surrexit puella.
+    26: Et exiit fama haec in universam terram illam. 
+    27: Et transeunte inde Jesu, secuti sunt eum duo caeci, clamantes, et dicentes : Miserere nostri, fili David. 
+    28: Cum autem venisset domum, accesserunt ad eum caeci. Et dicit eis Jesus : Creditis quia hoc possum facere vobis? Dicunt ei : Utique, Domine. 
+    29: Tunc tetigit oculos eorum, dicens : Secundum fidem vestram, fiat vobis. 
+    30: Et aperti sunt oculi eorum : et comminatus est illis Jesus, dicens : Videte ne quis sciat.
+    31: Illi autem exeuntes, diffamaverunt eum in tota terra illa. 
+    32: Egressis autem illis, ecce obtulerunt ei hominem mutum, daemonium habentem. 
+    33: Et ejecto daemonio, locutus est mutus, et miratae sunt turbae, dicentes : Numquam apparuit sic in Israel. 
+    34: Pharisaei autem dicebant : In principe daemoniorum ejicit daemones. 
+    35: Et circuibat Jesus omnes civitates, et castella, docens in synagogis eorum, et praedicans Evangelium regni, et curans omnem languorem, et omnem infirmitatem.
+    36: Videns autem turbas, misertus est eis : quia erant vexati, et jacentes sicut oves non habentes pastorem. 
+    37: Tunc dicit discipulis suis : Messis quidem multa, operarii autem pauci. 
+    38: Rogate ergo Dominum messis, ut mittat operarios in messem suam.
+
+  Chapter 10.
+
+    1: Et convocatis duodecim discipulis suis, dedit illis potestatem spirituum immundorum, ut ejicerent eos, et curarent omnem languorem, et omnem infirmitatem. 
+    2: Duodecim autem Apostolorum nomina sunt haec. Primus, Simon, qui dicitur Petrus : et Andreas frater ejus, 
+    3: Jacobus Zebedaei, et Joannes frater ejus, Philippus, et Bartholomaeus, Thomas, et Matthaeus publicanus, Jacobus Alphaei, et Thaddaeus, 
+    4: Simon Chananaeus, et Judas Iscariotes, qui et tradidit eum. 
+    5: Hos duodecim misit Jesus, praecipiens eis, dicens : In viam gentium ne abieritis, et in civitates Samaritanorum ne intraveritis :
+    6: sed potius ite ad oves quae perierunt domus Israel. 
+    7: Euntes autem praedicate, dicentes : Quia appropinquavit regnum caelorum. 
+    8: Infirmos curate, mortuos suscitate, leprosos mundate, daemones ejicite : gratis accepistis, gratis date. 
+    9: Nolite possidere aurum, neque argentum, neque pecuniam in zonis vestris : 
+    10: non peram in via, neque duas tunicas, neque calceamenta, neque virgam : dignus enim est operarius cibo suo.
+    11: In quamcumque autem civitatem aut castellum intraveritis, interrogate, quis in ea dignus sit : et ibi manete donec exeatis. 
+    12: Intrantes autem in domum, salutate eam, dicentes : Pax huic domui. 
+    13: Et siquidem fuerit domus illa digna, veniet pax vestra super eam : si autem non fuerit digna, pax vestra revertetur ad vos. 
+    14: Et quicumque non receperit vos, neque audierit sermones vestros : exeunte foras de domo, vel civitate, excutite pulverem de pedibus vestris. 
+    15: Amen dico vobis : Tolerabilius erit terrae Sodomorum et Gomorrhaeorum in die judicii, quam illi civitati.
+    16: Ecce ego mitto vos sicut oves in medio luporum. Estote ergo prudentes sicut serpentes, et simplices sicut columbae. 
+    17: Cavete autem ab hominibus. Tradent enim vos in conciliis, et in synagogis suis flagellabunt vos : 
+    18: et ad praesides, et ad reges ducemini propter me in testimonium illis, et gentibus. 
+    19: Cum autem tradent vos, nolite cogitare quomodo, aut quid loquamini : dabitur enim vobis in illa hora, quid loquamini : 
+    20: non enim vos estis qui loquimini, sed Spiritus Patris vestri, qui loquitur in vobis.
+    21: Tradet autem frater fratrem in mortem, et pater filium : et insurgent filii in parentes, et morte eos afficient : 
+    22: et eritis odio omnibus propter nomen meum : qui autem perseveraverit usque in finem, hic salvus erit. 
+    23: Cum autem persequentur vos in civitate ista, fugite in aliam. Amen dico vobis, non consummabitis civitates Israel, donec veniat Filius hominis. 
+    24: Non est discipulus super magistrum, nec servus super dominum suum : 
+    25: sufficit discipulo ut sit sicut magister ejus, et servo, sicut dominus ejus. Si patremfamilias Beelzebub vocaverunt, quanto magis domesticos ejus?
+    26: Ne ergo timueritis eos. Nihil enim est opertum, quod non revelabitur : et occultum, quod non scietur. 
+    27: Quod dico vobis in tenebris, dicite in lumine : et quod in aure auditis, praedicate super tecta. 
+    28: Et nolite timere eos qui occidunt corpus, animam autem non possunt occidere : sed potius timete eum, qui potest et animam et corpus perdere in gehennam. 
+    29: Nonne duo passeres asse veneunt? et unus ex illis non cadet super terram sine Patre vestro. 
+    30: Vestri autem capilli capitis omnes numerati sunt.
+    31: Nolite ergo timere : multis passeribus meliores estis vos. 
+    32: Omnis ergo qui confitebitur me coram hominibus, confitebor et ego eum coram Patre meo, qui in caelis est. 
+    33: Qui autem negaverit me coram hominibus, negabo et ego eum coram Patre meo, qui in caelis est. 
+    34: Nolite arbitrari quia pacem venerim mittere in terram : non veni pacem mittere, sed gladium : 
+    35: veni enim separare hominem adversus patrem suum, et filiam adversus matrem suam, et nurum adversus socrum suam :
+    36: et inimici hominis, domestici ejus. 
+    37: Qui amat patrem aut matrem plus quam me, non est me dignus : et qui amat filium aut filiam super me, non est me dignus. 
+    38: Et qui non accipit crucem suam, et sequitur me, non est me dignus. 
+    39: Qui invenit animam suam, perdet illam : et qui perdiderit animan suam propter me, inveniet eam. 
+    40: Qui recipit vos, me recipit : et qui me recipit, recipit eum qui me misit.
+    41: Qui recipit prophetam in nomine prophetae, mercedem prophetae accipiet : et qui recipit justum in nomine justi, mercedem justi accipiet. 
+    42: Et quicumque potum dederit uni ex minimis istis calicem aquae frigidae tantum in nomine discipuli : amen dico vobis, non perdet mercedem suam.
+
+  Chapter 11.
+
+    1: Et factum est, cum consummasset Jesus, praecipiens duodecim discipulis suis, transiit inde ut doceret, et praedicaret in civitatibus eorum. 
+    2: Joannes autem cum audisset in vinculis opera Christi, mittens duos de discipulis suis, 
+    3: ait illi : Tu es, qui venturus es, an alium exspectamus? 
+    4: Et respondens Jesus ait illis : Euntes renuntiate Joanni quae audistis, et vidistis. 
+    5: Caeci vident, claudi ambulant, leprosi mundantur, surdi audiunt, mortui resurgunt, pauperes evangelizantur :
+    6: et beatus est, qui non fuerit scandalizatus in me. 
+    7: Illis autem abeuntibus, coepit Jesus dicere ad turbas de Joanne : Quid existis in desertum videre? arundinem vento agitatem? 
+    8: Sed quid existis videre? hominem mollibus vestitum? Ecce qui mollibus vestiuntur, in domibus regum sunt. 
+    9: Sed quid existis videre? prophetam? Etiam dico vobis, et plus quam prophetam. 
+    10: Hic est enim de quo scriptum est : Ecce ego mitto angelum meum ante faciem tuam, qui praeparabit viam tuam ante te.
+    11: Amen dico vobis, non surrexit inter natos mulierum major Joanne Baptista : qui autem minor est in regno caelorum, major est illo. 
+    12: A diebus autem Joannis Baptistae usque nunc, regnum caelorum vim patitur, et violenti rapiunt illud. 
+    13: Omnes enim prophetae et lex usque ad Joannem prophetaverunt : 
+    14: et si vultis recipere, ipse est Elias, qui venturus est. 
+    15: Qui habet aures audiendi, audiat.
+    16: Cui autem similem aestimabo generationem istam? Similis est pueris sedentibus in foro : qui clamantes coaequalibus 
+    17: dicunt : Cecinimus vobis, et non saltastis : lamentavimus, et non planxistis. 
+    18: Venit enim Joannes neque manducans, neque bibens, et dicunt : Daemonium habet. 
+    19: Venit Filius hominis manducans, et bibens, et dicunt : Ecce homo vorax, et potator vini, publicanorum et peccatorum amicus. Et justificata est sapientia a filiis suis. 
+    20: Tunc coepit exprobrare civitatibus, in quibus factae sunt plurimae virtutes ejus, quia non egissent poenitentiam :
+    21: Vae tibi Corozain, vae tibi Bethsaida : quia, si in Tyro et Sidone factae essent virtutes quae factae sunt in vobis, olim in cilicio et cinere poenitentiam egissent. 
+    22: Verumtamen dico vobis : Tyro et Sidoni remissius erit in die judicii, quam vobis. 
+    23: Et tu Capharnaum, numquid usque in caelum exaltaberis? usque in infernum descendes, quia si in Sodomis factae fuissent virtutes quae factae sunt in te, forte mansissent usque in hanc diem. 
+    24: Verumtamen dico vobis, quia terrae Sodomorum remissius erit in die judicii, quam tibi. 
+    25: In illo tempore respondens Jesus dixit : Confiteor tibi, Pater, Domine caeli et terrae, quia abscondisti haec a sapientibus, et prudentibus, et revelasti ea parvulis.
+    26: Ita Pater : quoniam sic fuit placitum ante te. 
+    27: Omnia mihi tradita sunt a Patre meo. Et nemo novit Filium, nisi Pater : neque Patrem quis novit, nisi Filius, et cui voluerit Filius revelare. 
+    28: Venite ad me omnes qui laboratis, et onerati estis, et ego reficiam vos. 
+    29: Tollite jugum meum super vos, et discite a me, quia mitis sum, et humilis corde : et invenietis requiem animabus vestris. 
+    30: Jugum enim meum suave est, et onus meum leve.
+
+  Chapter 12.
+
+    1: In illo tempore abiit Jesus per sata sabbato : discipuli autem ejus esurientes coeperunt vellere spicas, et manducare. 
+    2: Pharisaei autem videntes, dixerunt ei : Ecce discipuli tui faciunt quod non licet facere sabbatis. 
+    3: At ille dixit eis : Non legistis quid fecerit David, quando esuriit, et qui cum eo erant : 
+    4: quomodo intravit in domum Dei, et panes propositionis comedit, quos non licebat ei edere, neque his qui cum eo erant, nisi solis sacerdotibus? 
+    5: aut non legistis in lege quia sabbatis sacerdotes in templo sabbatum violant, et sine crimine sunt?
+    6: Dico autem vobis, quia templo major est hic. 
+    7: Si autem sciretis, quid est : Misericordiam volo, et non sacrificium : numquam condemnassetis innocentes : 
+    8: dominus enim est Filius hominis etiam sabbati. 
+    9: Et cum inde transisset, venit in synagogam eorum. 
+    10: Et ecce homo manum habens aridam, et interrogabant eum, dicentes : Si licet sabbatis curare? ut accusarent eum.
+    11: Ipse autem dixit illis : Quis erit ex vobis homo, qui habeat ovem unam, et si ceciderit haec sabbatis in foveam, nonne tenebit et levabit eam? 
+    12: Quanto magis melior est homo ove? itaque licet sabbatis benefacere. 
+    13: Tunc ait homini : Extende manum tuam. Et extendit, et restituta est sanitati sicut altera. 
+    14: Exeuntes autem pharisaei, consilium faciebant adversus eum, quomodo perderent eum. 
+    15: Jesus autem sciens recessit inde : et secuti sunt eum multi, et curavit eos omnes :
+    16: et praecepit eis ne manifestum eum facerent. 
+    17: Ut adimpleretur quod dictum est per Isaiam prophetam, dicentem : 
+    18: Ecce puer meus, quem elegi, dilectus meus, in quo bene complacuit animae meae. Ponam spiritum meum super eum, et judicium gentibus nuntiabit. 
+    19: Non contendet, neque clamabit, neque audiet aliquis in plateis vocem ejus : 
+    20: arundinem quassatam non confringet, et linum fumigans non extinguet, donec ejiciat ad victoriam judicium :
+    21: et in nomine ejus gentes sperabunt. 
+    22: Tunc oblatus est ei daemonium habens, caecus, et mutus, et curavit eum ita ut loqueretur, et videret. 
+    23: Et stupebant omnes turbae, et dicebant : Numquid hic est filius David? 
+    24: Pharisaei autem audientes, dixerunt : Hic non ejicit daemones nisi in Beelzebub principe daemoniorum. 
+    25: Jesus autem sciens cogitationes eorum, dixit eis : Omne regnum divisum contra se desolabitur : et omnis civitas vel domus divisa contra se, non stabit.
+    26: Et si Satanas Satanam ejicit, adversus se divisus est : quomodo ergo stabit regnum ejus? 
+    27: Et si ego in Beelzebub ejicio daemones, filii vestri in quo ejiciunt? ideo ipsi judices vestri erunt. 
+    28: Si autem ego in Spiritu Dei ejicio daemones, igitur pervenit in vos regnum Dei. 
+    29: Aut quomodo potest quisquam intrare in domum fortis, et vasa ejus diripere, nisi prius alligaverit fortem? et tunc domum illius diripiet. 
+    30: Qui non est mecum, contra me est; et qui non congregat mihi, spargit.
+    31: Ideo dico vobis : Omne peccatum et blasphemia remittetur hominibus, Spiritus autem blasphemia non remittetur. 
+    32: Et quicumque dixerit verbum contra Filium hominis, remittetur ei : qui autem dixerit contra Spiritum Sanctum, non remittetur ei, neque in hoc saeculo, neque in futuro. 
+    33: Aut facite arborem bonam, et fructum ejus bonum : aut facite arborem malam, et fructum ejus malum : siquidem ex fructu arbor agnoscitur. 
+    34: Progenies viperarum, quomodo potestis bona loqui, cum sitis mali? ex abundantia enim cordis os loquitur. 
+    35: Bonus homo de bono thesauro profert bona : et malus homo de malo thesauro profert mala.
+    36: Dico autem vobis quoniam omne verbum otiosum, quod locuti fuerint homines, reddent rationem de eo in die judicii. 
+    37: Ex verbis enim tuis justificaberis et ex verbis tuis condemnaberis. 
+    38: Tunc responderunt ei quidam de scribis et pharisaeis, dicentes : Magister, volumus a te signum videre. 
+    39: Qui respondens ait illis : Generatio mala et adultera signum quaerit : et signum non dabitur ei, nisi signum Jonae prophetae. 
+    40: Sicut enim fuit Jonas in ventre ceti tribus diebus, et tribus noctibus, sic erit Filius hominis in corde terrae tribus diebus et tribus noctibus.
+    41: Viri Ninivitae surgent in judicio cum generatione ista, et condemnabunt eam : quia poenitentiam egerunt in praedicatione Jonae. Et ecce plus quam Jonas hic. 
+    42: Regina austri surget in judicio cum generatione ista, et condemnabit eam : quia venit a finibus terrae audire sapientiam Salomonis, et ecce plus quam Salomon hic. 
+    43: Cum autem immundus spiritus exierit ab homine, ambulat per loca arida, quaerens requiem, et non invenit. 
+    44: Tunc dicit : Revertar in domum meam, unde exivi. Et veniens invenit eam vacantem, scopis mundatam, et ornatam. 
+    45: Tunc vadit, et assumit septem alios spiritus secum nequiores se, et intrantes habitant ibi : et fiunt novissima hominis illius pejora prioribus. Sic erit et generationi huic pessimae.
+    46: Adhuc eo loquente ad turbas, ecce mater ejus et fratres stabant foras, quaerentes loqui ei. 
+    47: Dixit autem ei quidam : Ecce mater tua, et fratres tui foris stant quaerentes te. 
+    48: At ipse respondens dicenti sibi, ait : Quae est mater mea, et qui sunt fratres mei? 
+    49: Et extendens manum in discipulos suos, dixit : Ecce mater mea, et fratres mei. 
+    50: Quicumque enim fecerit voluntatem Patris mei, qui in caelis est, ipse meus frater, et soror, et mater est.
+
+End of day 286.

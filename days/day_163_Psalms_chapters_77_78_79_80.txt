@@ -1,0 +1,139 @@
+Day 163:
+
+Reading Psalms, chapters ['77', '78', '79', '80']:
+
+  Chapter 77.
+
+    1: Intellectus Asaph. Attendite, popule meus, legem meam; inclinate aurem vestram in verba oris mei. 
+    2: Aperiam in parabolis os meum; loquar propositiones ab initio; 
+    3: quanta audivimus et cognovimus ea, et patres nostri narraverunt nobis. 
+    4: Non sunt occultata a filiis eorum in generatione altera, narrantes laudes Domini et virtutes ejus, et mirabilia ejus quae fecit. 
+    5: Et suscitavit testimonium in Jacob, et legem posuit in Israel, quanta mandavit patribus nostris nota facere ea filiis suis :
+    6: ut cognoscat generatio altera; filii qui nascentur et exsurgent, et narrabunt filiis suis, 
+    7: ut ponant in Deo spem suam, et non obliviscantur operum Dei, et mandata ejus exquirant; 
+    8: ne fiant, sicut patres eorum, generatio prava et exasperans; generatio quae non direxit cor suum, et non est creditus cum Deo spiritus ejus. 
+    9: Filii Ephrem, intendentes et mittentes arcum, conversi sunt in die belli. 
+    10: Non custodierunt testamentum Dei, et in lege ejus noluerunt ambulare.
+    11: Et obliti sunt benefactorum ejus, et mirabilium ejus quae ostendit eis. 
+    12: Coram patribus eorum fecit mirabilia in terra Aegypti, in campo Taneos. 
+    13: Interrupit mare, et perduxit eos; et statuit aquas quasi in utre, 
+    14: et deduxit eos in nube diei, et tota nocte in illuminatione ignis. 
+    15: Interrupit petram in eremo, et adaquavit eos velut in abysso multa.
+    16: Et eduxit aquam de petra, et deduxit tamquam flumina aquas. 
+    17: Et apposuerunt adhuc peccare ei; in iram excitaverunt Excelsum in inaquoso. 
+    18: Et tentaverunt Deum in cordibus suis, ut peterent escas animabus suis. 
+    19: Et male locuti sunt de Deo; dixerunt : Numquid poterit Deus parare mensam in deserto? 
+    20: quoniam percussit petram, et fluxerunt aquae, et torrentes inundaverunt. Numquid et panem poterit dare, aut parare mensam populo suo?
+    21: Ideo audivit Dominus et distulit; et ignis accensus est in Jacob, et ira ascendit in Israel; 
+    22: quia non crediderunt in Deo, nec speraverunt in salutari ejus. 
+    23: Et mandavit nubibus desuper, et januas caeli aperuit. 
+    24: Et pluit illis manna ad manducandum, et panem caeli dedit eis. 
+    25: Panem angelorum manducavit homo; cibaria misit eis in abundantia.
+    26: Transtulit austrum de caelo, et induxit in virtute sua africum. 
+    27: Et pluit super eos sicut pulverem carnes, et sicut arenam maris volatilia pennata. 
+    28: Et ceciderunt in medio castrorum eorum, circa tabernacula eorum. 
+    29: Et manducaverunt, et saturati sunt nimis; et desiderium eorum attulit eis; 
+    30: non sunt fraudati a desiderio suo. Adhuc escae eorum erant in ore ipsorum;
+    31: et ira Dei ascendit super eos; et occidit pingues eorum, et electos Israel impedivit. 
+    32: In omnibus his peccaverunt adhuc, et non crediderunt in mirabilibus ejus. 
+    33: Et defecerunt in vanitate dies eorum, et anni eorum cum festinatione. 
+    34: Cum occideret eos, quaerebant eum et revertebantur, et diluculo veniebant ad eum. 
+    35: Et rememorati sunt quia Deus adjutor est eorum, et Deus excelsus redemptor eorum est.
+    36: Et dilexerunt eum in ore suo, et lingua sua mentiti sunt ei; 
+    37: cor autem eorum non erat rectum cum eo, nec fideles habiti sunt in testamento ejus. 
+    38: Ipse autem est misericors, et propitius fiet peccatis eorum et non disperdet eos. Et abundavit ut averteret iram suam, et non accendit omnem iram suam. 
+    39: Et recordatus est quia caro sunt, spiritus vadens et non rediens. 
+    40: Quoties exacerbaverunt eum in deserto, in iram concitaverunt eum in inaquoso?
+    41: Et conversi sunt, et tentaverunt Deum, et sanctum Israel exacerbaverunt. 
+    42: Non sunt recordati manus ejus, die qua redemit eos de manu tribulantis; 
+    43: sicut posuit in Aegypto signa sua, et prodigia sua in campo Taneos; 
+    44: et convertit in sanguinem flumina eorum, et imbres eorum, ne biberent. 
+    45: Misit in eos coenomyiam, et comedit eos, et ranam, et disperdidit eos;
+    46: et dedit aerugini fructus eorum, et labores eorum locustae; 
+    47: et occidit in grandine vineas eorum, et moros eorum in pruina; 
+    48: et tradidit grandini jumenta eorum, et possessionem eorum igni; 
+    49: misit in eos iram indignationis suae, indignationem, et iram, et tribulationem, immissiones per angelos malos; 
+    50: viam fecit semitae irae suae, non pepercit a morte animabus eorum, et jumenta eorum in morte conclusit;
+    51: et percussit omne primogenitum in terra Aegypti, primitias omnis laboris eorum in tabernaculis Cham; 
+    52: et abstulit sicut oves populum suum, et perduxit eos tamquam gregem in deserto; 
+    53: et deduxit eos in spe, et non timuerunt, et inimicos eorum operuit mare. 
+    54: Et induxit eos in montem sanctificationis suae, montem quem acquisivit dextera ejus; et ejecit a facie eorum gentes, et sorte divisit eis terram in funiculo distributionis; 
+    55: et habitare fecit in tabernaculis eorum tribus Israel.
+    56: Et tentaverunt, et exacerbaverunt Deum excelsum, et testimonia ejus non custodierunt. 
+    57: Et averterunt se, et non servaverunt pactum, quemadmodum patres eorum, conversi sunt in arcum pravum. 
+    58: In iram concitaverunt eum in collibus suis, et in sculptilibus suis ad aemulationem eum provocaverunt. 
+    59: Audivit Deus, et sprevit, et ad nihilum redegit valde Israel. 
+    60: Et repulit tabernaculum Silo, tabernaculum suum, ubi habitavit in hominibus.
+    61: Et tradidit in captivitatem virtutem eorum, et pulchritudinem eorum in manus inimici. 
+    62: Et conclusit in gladio populum suum, et haereditatem suam sprevit. 
+    63: Juvenes eorum comedit ignis, et virgines eorum non sunt lamentatae. 
+    64: Sacerdotes eorum in gladio ceciderunt, et viduae eorum non plorabantur. 
+    65: Et excitatus est tamquam dormiens Dominus, tamquam potens crapulatus a vino.
+    66: Et percussit inimicos suos in posteriora, opprobrium sempiternum dedit illis. 
+    67: Et repulit tabernaculum Joseph, et tribum Ephraim non elegit. 
+    68: Sed elegit tribum Juda, montem Sion, quem dilexit. 
+    69: Et aedificavit sicut unicornium sanctificium suum, in terra quam fundavit in saecula. 
+    70: Et elegit David, servum suum, et sustulit eum de gregibus ovium; de post foetantes accepit eum :
+    71: pascere Jacob, servum suum, et Israel, haereditatem suam. 
+    72: Et pavit eos in innocentia cordis sui, et in intellectibus manuum suarum deduxit eos.
+
+  Chapter 78.
+
+    1: Psalmus Asaph. Deus, venerunt gentes in haereditatem tuam; polluerunt templum sanctum tuum; posuerunt Jerusalem in pomorum custodiam. 
+    2: Posuerunt morticina servorum tuorum escas volatilibus caeli, carnes sanctorum tuorum bestiis terrae. 
+    3: Effuderunt sanguinem eorum tamquam aquam in circuitu Jerusalem, et non erat qui sepeliret. 
+    4: Facti sumus opprobrium vicinis nostris, subsannatio et illusio his qui in circuitu nostro sunt. 
+    5: Usquequo, Domine, irasceris in finem? accendetur velut ignis zelus tuus?
+    6: Effunde iram tuam in gentes quae te non noverunt, et in regna quae nomen tuum non invocaverunt; 
+    7: quia comederunt Jacob, et locum ejus desolaverunt. 
+    8: Ne memineris iniquitatum nostrarum antiquarum; cito anticipent nos misericordiae tuae, quia pauperes facti sumus nimis. 
+    9: Adjuva nos, Deus, salutaris noster; et propter gloriam nominis tui, Domine, libera nos, et propitius esto peccatis nostris, propter nomen tuum. 
+    10: Ne forte dicant in gentibus : Ubi est Deus eorum? et innotescat in nationibus coram oculis nostris ultio sanguinis servorum tuorum qui effusus est.
+    11: Introeat in conspectu tuo gemitus compeditorum; secundum magnitudinem brachii tui posside filios mortificatorum; 
+    12: et redde vicinis nostris septuplum in sinu eorum; improperium ipsorum quod exprobraverunt tibi, Domine. 
+    13: Nos autem populus tuus, et oves pascuae tuae, confitebimur tibi in saeculum; in generationem et generationem annuntiabimus laudem tuam.
+
+  Chapter 79.
+
+    1: In finem, pro iis qui commutabuntur. Testimonium Asaph, psalmus. 
+    2: Qui regis Israel, intende; qui deducis velut ovem Joseph. Qui sedes super cherubim, manifestare 
+    3: coram Ephraim, Benjamin, et Manasse. Excita potentiam tuam, et veni, ut salvos facias nos. 
+    4: Deus converte nos, et ostende faciem tuam, et salvi erimus. 
+    5: Domine Deus virtutum, quousque irasceris super orationem servi tui?
+    6: Cibabis nos pane lacrimarum, et potum dabis nobis in lacrimis in mensura? 
+    7: Posuisti nos in contradictionem vicinis nostris, et inimici nostri subsannaverunt nos. 
+    8: Deus virtutum, converte nos, et ostende faciem tuam, et salvi erimus. 
+    9: Vineam de Aegypto transtulisti, et ejecisti gentes, et plantasti eam. 
+    10: Dux itineris fuisti in conspectu ejus; plantasti radices ejus, et implevit terram.
+    11: Operuit montes umbra ejus, et arbusta ejus cedros Dei. 
+    12: Extendit palmites suos usque ad mare, et usque ad flumen propagines ejus. 
+    13: Ut quid destruxisti maceriam ejus, et vindemiant eam omnes qui praetergrediuntur viam? 
+    14: Exterminavit eam aper de silva, et singularis ferus depastus est eam. 
+    15: Deus virtutum, convertere, respice de caelo, et vide, et visita vineam istam;
+    16: et perfice eam quam plantavit dextera tua, et super filium hominis quem confirmasti tibi. 
+    17: Incensa igni et suffossa, ab increpatione vultus tui peribunt. 
+    18: Fiat manus tua super virum dexterae tuae, et super filium hominis quem confirmasti tibi. 
+    19: Et non discedimus a te; vivificabis nos, et nomen tuum invocabimus. 
+    20: Domine Deus virtutum, converte nos, et ostende faciem tuam, et salvi erimus.
+
+  Chapter 80.
+
+    1: In finem. Pro torcularibus. Psalmus ipsi Asaph. 
+    2: Exsultate Deo adjutori nostro, jubilate Deo Jacob. 
+    3: Sumite psalmum, et date tympanum; psalterium jucundum, cum cithara. 
+    4: Buccinate in neomenia tuba, in insigni die solemnitatis vestrae; 
+    5: quia praeceptum in Israel est, et judicium Deo Jacob.
+    6: Testimonium in Joseph posuit illud, cum exiret de terra Aegypti; linguam quam non noverat audivit. 
+    7: Divertit ab oneribus dorsum ejus; manus ejus in cophino servierunt. 
+    8: In tribulatione invocasti me, et liberavi te. Exaudivi te in abscondito tempestatis; probavi te apud aquam contradictionis. 
+    9: Audi, populus meus, et contestabor te. Israel, si audieris me, 
+    10: non erit in te deus recens, neque adorabis deum alienum.
+    11: Ego enim sum Dominus Deus tuus, qui eduxi te de terra Aegypti. Dilata os tuum, et implebo illud. 
+    12: Et non audivit populus meus vocem meam, et Israel non intendit mihi. 
+    13: Et dimisi eos secundum desideria cordis eorum; ibunt in adinventionibus suis. 
+    14: Si populus meus audisset me, Israel si in viis meis ambulasset, 
+    15: pro nihilo forsitan inimicos eorum humiliassem, et super tribulantes eos misissem manum meam.
+    16: Inimici Domini mentiti sunt ei, et erit tempus eorum in saecula. 
+    17: Et cibavit eos ex adipe frumenti, et de petra melle saturavit eos.
+
+End of day 163.

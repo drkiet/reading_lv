@@ -1,0 +1,120 @@
+Day 107:
+
+Reading Ezra, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: Prophetaverunt autem Aggaeus propheta, et Zacharias filius Addo, prophetantes ad Judaeos, qui erant in Judaea et Jerusalem, in nomine Dei Israel. 
+    2: Tunc surrexerunt Zorobabel filius Salathiel, et Josue filius Josedec, et coeperunt aedificare templum Dei in Jerusalem, et cum eis prophetae Dei adjuvantes eos. 
+    3: In ipso autem tempore venit ad eos Thathanai, qui erat dux trans flumen, et Stharbuzanai, et consiliarii eorum : sicque dixerunt eis : Quis dedit vobis consilium ut domum hanc aedificaretis, et muros ejus instauraretis? 
+    4: Ad quod respondimus eis, quae essent nomina hominum auctorum aedificationis illius. 
+    5: Oculus autem Dei eorum factus est super senes Judaeorum, et non potuerunt inhibere eos. Placuique ut res ad Darium referretur, et tunc satisfacerent adversus accusationem illam.
+    6: Exemplar epistolae, quam misit Thathanai dux regionis trans flumen, et Stharbuzanai, et consiliatores ejus Arphasachaei, qui erant trans flumen, ad Darium regem. 
+    7: Sermo, quem miserant ei, sic scriptus erat : Dario regi pax omnis. 
+    8: Notum sit regi, isse nos ad Judaeam provinciam, ad domum Dei magni, quae aedificatur lapide impolito, et ligna ponuntur in parietibus : opusque illud diligenter exstruitur, et crescit in manibus eorum. 
+    9: Interrogavimus ergo senes illos, et ita diximus eis : Quis dedit vobis potestatem ut domum hanc aedificaretis, et muros hos instauraretis? 
+    10: Sed et nomina eorum quaesivimus ab eis, ut nuntiaremus tibi : scripsimusque nomina eorum virorum, qui sunt principes in eis.
+    11: Hujuscemodi autem sermonem responderunt nobis dicentes : Nos sumus servi Dei caeli et terrae, et aedificamus templum, quod erat exstructum ante hos annos multos, quodque rex Israel magnus aedificaverat, et exstruxerat. 
+    12: Postquam autem ad iracundiam provocaverunt patres nostri Deum caeli, tradidit eos in manus Nabuchodonosor regis Babylonis Chaldaei, domum quoque hanc destruxit, et populum ejus transtulit in Babylonem. 
+    13: Anno autem primo Cyri regis Babylonis, Cyrus rex proposuit edictum ut domus Dei haec aedificaretur. 
+    14: Nam et vasa templi Dei aurea et argentea, quae Nabuchodonosor tulerat de templo, quod erat in Jerusalem, et asportaverat ea in templum Babylonis, protulit Cyrus rex de templo Babylonis, et data sunt Sassabasar vocabulo, quem et principem constituit, 
+    15: dixitque ei : Haec vasa tolle, et vade, et pone ea in templo, quod est in Jerusalem, et domus Dei aedificetur in loco suo.
+    16: Tunc itaque Sassabasar ille venit et posuit fundamenta templi Dei in Jerusalem, et ex eo tempore usque nunc aedificatur, et necdum completum est. 
+    17: Nunc ergo, si videtur regi bonum recenseat in bibliotheca regis, quae est in Babylone, utrumnam a Cyro rege jussum fuerit ut aedificaretur domus Dei in Jerusalem, et voluntatem regis super hac re mittat ad nos.
+
+  Chapter 6.
+
+    1: Tunc Darius rex praecepit : et recensuerunt in bibliotheca librorum, qui erant repositi in Babylone, 
+    2: et inventum est in Ecbatanis, quod est castrum in Medena provincia volumen unum, talisque scriptus erat in eo commentarius : 
+    3: Anno primo Cyri regis, Cyrus rex decrevit ut domus Dei aedificaretur, quae est in Jerusalem, in loco ubi immolent hostias, et ut ponant fundamenta supportantia altitudinem cubitorum sexaginta, et latitudinem cubitorum sexaginta, 
+    4: ordines de lapidibus impolitis tres, et sic ordines de lignis novis : sumptus autem de domo regis dabuntur. 
+    5: Sed et vasa templi Dei aurea et argentea, quae Nabuchodonosor tulerat de templo Jerusalem, et attulerat ea in Babylonem, reddantur, et referantur in templum in Jerusalem in locum suum, quae et posita sunt in templo Dei.
+    6: Nunc ergo Thathanai dux regionis, quae est trans flumen, Stharbuzanai, et consiliarii vestri Apharsachaei, qui estis trans flumen, procul recedite ab illis, 
+    7: et dimittite fieri templum Dei illud a duce Judaeorum, et a senioribus eorum, ut domum Dei illam aedificent in loco suo. 
+    8: Sed et a me praeceptum est quid oporteat fieri a presbyteris Judaeorum illis ut aedificetur domus Dei, scilicet ut de arca regis, id est, de tributis, quae dantur de regione trans flumen, studiose sumptus dentur viris illis, ne impediatur opus. 
+    9: Quod si necesse fuerit, et vitulos, et agnos, et haedos in holocaustum Deo caeli, frumentum, sal, vinum, et oleum, secundum ritum sacerdotum, qui sunt in Jerusalem, detur eis per singulos dies, ne sit in aliquo querimonia. 
+    10: Et offerant oblationes Deo caeli, orentque pro vita regis, et filiorum ejus.
+    11: A me ergo positum est decretum : ut omnis homo qui hanc mutaverit jussionem, tollatur lignum de domum ipsius, et erigatur, et configatur in eo, domus autem ejus publicetur. 
+    12: Deus autem, qui habitare fecit nomen suum ibi, dissipet omnia regna, et populum qui extenderit manum suam ut repugnet, et dissipet domum Dei illam, quae est in Jerusalem. Ego Darius statui decretum, quod studiose impleri volo. 
+    13: Igitur Thathanai dux regionis trans flumen, et Stharbuzanai, et consiliarii ejus, secundum quod praeceperat Darius rex, sic diligenter executi sunt. 
+    14: Seniores autem Judaeorum aedificabant, et prosperabantur juxta prophetiam Aggaei prophetae, et Zachariae filii Addo : et aedificaverunt et construxerunt, jubente Deo Israel, et jubente Cyro, et Dario, et Artaxerxe regibus Persarum : 
+    15: et compleverunt domum Dei istam, usque ad diem terium mensis Adar, qui est annus sextus regni Darii regis.
+    16: Fecerunt autem filii Israel sacerdotes et Levitae, et reliqui filiorum transmigrationis, dedicationem domus Dei in gaudio. 
+    17: Et obtulerunt in dedicationem domus Dei, vitulos centum, arietes ducentos, agnos quadringentos, hircos caprarum pro peccato totius Israel duodecim, juxta numerum tribuum Israel. 
+    18: Et statuerunt sacerdotes in ordinibus suis, et Levitas in vicibus suis, super opera Dei in Jerusalem, sicut scriptum est in libro Moysi. 
+    19: Fecerunt autem filii Israel transmigrationis Pascha, quartadecima die mensis primi. 
+    20: Purificati enim fuerant sacerdotes et Levitae quasi unus : omnes mundi ad immolandum Pascha universis filiis transmigrationis, et fratribus suis sacerdotibus, et sibi.
+    21: Et comederunt filii Israel, qui reversi fuerant de transmigratione, et omnes qui se separaverant a coinquinatione gentium terrae ad eos, ut quaererent Dominum Deum Israel. 
+    22: Et fecerunt solemnitatem azymorum septem diebus in laetitia, quoniam laetificaverat eos Dominus, et converterat cor regis Assur ad eos, ut adjuvaret manus eorum in opere domus Domini Dei Israel.
+
+  Chapter 7.
+
+    1: Post haec autem verba in regno Artaxerxis regis Persarum, Esdras filius Saraiae, filii Azariae, filii Helciae, 
+    2: filii Sellum, filii Sadoc, filii Achitob, 
+    3: filii Amariae, filii Azariae, filii Maraioth, 
+    4: filii Zarahiae, filii Ozi, filii Bocci, 
+    5: filii Abisue, filii Phinees, filii Eleazar, filii Aaron sacerdotis ab initio.
+    6: Ipse Esdras ascendit de Babylone, et ipse scriba velox in lege Moysi, quam Dominus Deus dedit Israel : et dedit ei rex secundum manum Domini Dei ejus super eum, omnem petitionem ejus. 
+    7: Et ascenderunt de filiis Israel, et de filiis sacerdotum, et de filiis Levitarum, et de cantoribus, et de janitoribus, et de Nathinaeis, in Jerusalem, anno septimo Artaxerxis regis. 
+    8: Et venerunt in Jerusalem mense quinto, ipse est annus septimus regis. 
+    9: Quia in primo die mensis primi coepit ascendere de Babylone, et in primo die mensis quinti venit in Jerusalem, juxta manum Dei sui bonam super se. 
+    10: Esdras enim paravit cor suum, ut investigaret legem Domini, et faceret et doceret in Israel praeceptum et judicium.
+    11: Hoc est autem exemplar epistolae edicti, quod dedit rex Artaxerxes Esdrae sacerdoti, scribae erudito in sermonibus et praeceptis Domini, et caeremoniis ejus in Israel. 
+    12: Artaxerxes rex regum Esdrae sacerdoti scribae legis Dei caeli doctissimo, salutem. 
+    13: A me decretum est, ut cuicumque placuerit in regno meo de populo Israel, et de sacerdotibus ejus, et de Levitis, ire in Jerusalem, tecum vadat. 
+    14: A facie enim regis, et septem consiliatorum ejus, missus es, ut visites Judaeam et Jerusalem in lege Dei tui, quae est in manu tua : 
+    15: et ut feras argentum et aurum quod rex, et consiliatores ejus, sponte obtulerunt Deo Israel, cujus in Jerusalem tabernaculum est.
+    16: Et omne argentum et aurum quodcumque inveneris in universa provincia Babylonis, et populus offerre voluerit, et de sacerdotibus quae sponte obtulerint domui Dei sui, quae est in Jerusalem, 
+    17: libere accipe, et studiose eme de hac pecunia vitulos, arietes, agnos, et sacrificia, et libamina eorum, et offer ea super altare templi Dei vestri, quod est in Jerusalem. 
+    18: Sed et si quid tibi et fratribus tuis placuerit de reliquo argento et auro ut faciatis, juxta voluntatem Dei vestri facite. 
+    19: Vasa quoque, quae dantur tibi in ministerium domus Dei tui, trade in conspectu Dei in Jerusalem. 
+    20: Sed et cetera, quibus opus fuerit in domum Dei tui, quantumcumque necesse est ut expendas, dabitur de thesauro, et de fisco regis,
+    21: et a me. Ego Artaxerxes rex, statui atque decrevi omnibus custodibus arcae publicae, qui sunt trans flumen, ut quodcumque petierit a vobis Esdras sacerdos, scriba legis Dei caeli, absque mora detis, 
+    22: usque ad argenti talenta centum, et usque ad frumenti coros centum, et usque ad vini batos centum, et usque ad batos olei centum, sal vero absque mensura. 
+    23: Omne quod ad ritum Dei caeli pertinet, tribuatur diligenter in domo Dei caeli : ne forte irascatur contra regnum regis, et filiorum ejus. 
+    24: Vobis quoque notum facimus de universis sacerdotibus, et Levitis, et cantoribus, et janitoribus, Nathinaeis, et ministris domus Dei hujus, ut vectigal, et tributum, et annonas non habeatis potestatem imponendi super eos. 
+    25: Tu autem Esdra, secundum sapientiam Dei tui, quae est in manu tua, constitue judices et praesides ut judicent omni populo, qui est trans flumen, his videlicet qui noverunt legem Dei tui, sed et imperitos docete libere.
+    26: Et omnis qui non fecerit legem Dei tui, et legem regis, diligenter, judicium erit de eo sive in mortem, sive in exilium, sive in condemnationem substantiae ejus, vel certe in carcerem. 
+    27: Benedictus Dominus Deus patrum nostrorum, qui dedit hoc in corde regis ut glorificaret domum Domini quae est in Jerusalem, 
+    28: et in me inclinavit misericordiam suam coram rege et consiliatoribus ejus, et universis principibus regis potentibus : et ego confortatus manu Domini Dei mei, quae erat in me, congregavi de Israel principes qui ascenderent mecum.
+
+  Chapter 8.
+
+    1: Hi sunt ergo principes familiarum, et genealogia eorum, qui ascenderunt mecum in regno Artaxerxis regis de Babylone. 
+    2: De filiis Phinees, Gersom. De filiis Ithamar, Daniel. De filiis David, Hattus. 
+    3: De filiis Secheniae, filiis Pharos, Zacharias : et cum eo numerati sunt viri centum quinquaginta. 
+    4: De filiis Phahath Moab, Elioenai filius Zarehe, et cum eo ducenti viri. 
+    5: De filiis Secheniae, filius Ezechiel, et cum eo trecenti viri.
+    6: De filiis Adan, Abed filius Jonathan, et cum eo quinquaginta viri. 
+    7: De filiis Alam, Isaias filius Athaliae, et cum eo septuaginta viri. 
+    8: De filiis Saphatiae, Zebedia filius Michael, et cum eo octoginta viri. 
+    9: De filiis Joab, Obedia filius Jahiel, et cum eo ducenti decem et octo viri. 
+    10: De filiis Selomith, filius Josphiae, et cum eo centum sexaginta viri.
+    11: De filiis Bebai, Zacharias filius Bebai, et cum eo viginti octo viri. 
+    12: De filiis Azgad, Johanan filius Eccetan, et cum eo centum et decem viri. 
+    13: De filiis Adonicam, qui erant novissimi : et haec nomina eorum : Elipheleth, et Jehiel, et Samaias, et cum eis sexaginta viri. 
+    14: De filii Begui, Uthai et Zachur, et cum eis septuaginta viri. 
+    15: Congregavi autem eos ad fluvium, qui decurrit ad Ahava, et mansimus ibi tribus diebus : quaesivique in populo et in sacerdotibus de filiis Levi, et non inveni ibi.
+    16: Itaque misi Eliezer, et Ariel, et Semeiam, et Elnathan, et Jarib, et alterum Elnathan, et Nathan, et Zachariam, et Mosollam principes : et Joiarib, et Elnathan sapientes. 
+    17: Et misi eos ad Eddo, qui est primus in Chasphiae loco, et posui in ore eorum verba, quae loquerentur ad Eddo, et fratres ejus Nathinaeos in loco Chasphiae, ut adducerent nobis ministros domus Dei nostri. 
+    18: Et adduxerunt nobis per manum Dei nostri bonam super nos, virum doctissimum de filiis Moholi filii Levi, filii Israel, et Sarabiam et filios ejus et fratres ejus decem et octo, 
+    19: et Hasabiam, et cum eo Isaiam de filiis Merari, fratresque ejus, et filios ejus viginti : 
+    20: et de Nathinaeis, quos dederat David et principes ad ministeria Levitarum, Nathinaeos ducentos viginti : omnes hi suis nominibus vocabantur.
+    21: Et praedicavi ibi jejunium juxta fluvium Ahava ut affligeremur coram Domino Deo nostro, et peteremus ab eo viam rectam nobis et filiis nostris, universaeque substantiae nostrae. 
+    22: Erubui enim petere a rege auxilium et equites, qui defenderent nos ab inimico in via : quia dixeramus regi : Manus Dei nostri est super omnes, qui quaerunt eum in bonitates : et imperium ejus et fortitudo ejus, et furor super omnes, qui derelinquunt eum. 
+    23: Jejunavimus autem, et rogavimus Deum nostrum per hoc : et evenit nobis prospere. 
+    24: Et separavi de principibus sacerdotum duodecim, Sarabiam, et Hasabiam, et cum eis de fratribus eorum decem : 
+    25: appendique eis argentum et aurum, et vasa consecrata domus Dei nostri, quae obtulerat rex et consiliatores ejus, et principes ejus, universusque Israel eorum, qui inventi fuerant :
+    26: et appendi in manibus eorum argenti talenta sexcenta quinquaginta, et vasa argentea centum, auri centum talenta : 
+    27: et crateres aureos viginti, qui habebant solidos millenos, et vasa aeris fulgentis optimi duo, pulchra, ut aurum. 
+    28: Et dixi eis : Vos sancti Domini, et vasa sancta, et argentum et aurum, quod sponte oblatum est Domino Deo patrum nostrorum : 
+    29: vigilate et custodite, donec appendatis coram principibus sacerdotum, et Levitarum, et ducibus familiarum Israel in Jerusalem, in thesaurum domus Domini. 
+    30: Susceperunt autem sacerdotes et Levitae pondus argenti, et auri, et vasorum, ut deferrent Jerusalem in domum Dei nostri.
+    31: Promovimus ergo a flumine Ahava duodecimo die mensis primi ut pergeremus Jerusalem : et manus Dei nostri fuit super nos, et liberavit nos de manu inimici et insidiatoris in via. 
+    32: Et venimus Jerusalem, et mansimus ibi tribus diebus. 
+    33: Die autem quarta appensum est argentum, et aurum, et vasa in domo Dei nostri per manum Meremoth filii Uriae sacerdotis, et cum eo Eleazar filius Phinees, cumque eis Jozabed filius Josue, et Noadaia filius Bennoi Levitae, 
+    34: juxta numerum et pondus omnium : descriptumque est omne pondus in tempore illo. 
+    35: Sed et qui venerant de captivitate filii transmigrationis, obtulerunt holocautomata Deo Israel, vitulos duodecim pro omni populo Israel, arietes nonaginta sex, agnos septuaginta septem, hircos pro peccato duodecim : omnia in holocaustum Domino.
+    36: Dederunt autem edicta regis satrapis, qui erant de conspectu regis et ducibus trans flumen, et elevaverunt populum et domum Dei.
+
+End of day 107.

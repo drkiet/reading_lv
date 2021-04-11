@@ -1,0 +1,135 @@
+Day 95:
+
+Reading 1-Chronicles, chapters ['25', '26', '27', '28']:
+
+  Chapter 25.
+
+    1: Igitur David et magistratus exercitus segregaverunt in ministerium filios Asaph, et Heman, et Idithun, qui prophetarent in citharis, et psalteriis, et cymbalis secundum numerum suum, dedicato sibi officio servientes. 
+    2: De filiis Asaph : Zachur, et Joseph, et Nathania, et Asarela, filii Asaph : sub manu Asaph prophetantis juxta regem. 
+    3: Porro Idithun : filii Idithun, Godolias, Sori, Jeseias, et Hasabias, et Mathathias, sex, sub manu patris sui Idithun, qui in cithara prophetabat super confitentes et laudantes Dominum. 
+    4: Heman quoque : filii Heman, Bocciau, Mathaniau, Oziel, Subuel, et Jerimoth, Hananias, Hanani, Eliatha, Geddelthi, et Romemthiezer, et Jesbacassa, Mellothi, Othir, Mahazioth : 
+    5: omnes isti filii Heman videntis regis in sermonibus Dei, ut exaltaret cornu : deditque Deus Heman filios quatuordecim, et filias tres.
+    6: Universi sub manu patris sui ad cantandum in templo Domini distributi erant, in cymbalis, et psalteriis, et citharis, in ministeria domus Domini juxta regem : Asaph videlicet, et Idithun, et Heman. 
+    7: Fuit autem numerus eorum cum fratribus suis, qui erudiebant canticum Domini, cuncti doctores, ducenti octoginta octo. 
+    8: Miseruntque sortes per vices suas, ex aequo tam major quam minor, doctus pariter et indoctus. 
+    9: Egressaque est sors prima Joseph, qui erat de Asaph. Secunda Godoliae, ipsi et filii ejus, et fratribus ejus duodecim. 
+    10: Tertia Zachur, filiis et fratribus ejus duodecim.
+    11: Quarta Isari, filiis et fratribus ejus duodecim. 
+    12: Quinta Nathaniae, filiis et fratribus ejus duodecim. 
+    13: Sexta Bocciau, filiis et fratribus ejus duodecim. 
+    14: Septima Isreela, filiis et fratribus ejus duodecim. 
+    15: Octava Jesaiae, filiis et fratribus ejus duodecim.
+    16: Nona Mathaniae, filiis et fratribus ejus duodecim. 
+    17: Decima Semeiae, filiis et fratribus ejus duodecim. 
+    18: Undecima Azareel, filiis et fratribus ejus duodecim. 
+    19: Duodecima Hasabiae, filiis et fratribus ejus duodecim. 
+    20: Tertiadecima Subael, filiis et fratribus ejus duodecim.
+    21: Quartadecima Mathathiae, filiis et fratribus ejus duodecim. 
+    22: Quintadecima Jerimoth, filiis et fratribus ejus duodecim. 
+    23: Sextadecima Hananiae, filiis et fratribus ejus duodecim. 
+    24: Septimadecima Jesbacassae, filiis et fratribus ejus duodecim. 
+    25: Octavadecima Hanani, filiis et fratribus ejus duodecim.
+    26: Nonadecima Mellothi, filiis et fratribus ejus duodecim. 
+    27: Vigesima Eliatha, filiis et fratribus ejus duodecim. 
+    28: Vigesima prima Othir, filiis et fratribus ejus duodecim. 
+    29: Vigesima secunda Geddelthi, filiis et fratribus ejus duodecim. 
+    30: Vigesima tertia Mahazioth, filiis et fratribus ejus duodecim.
+    31: Vigesima quarta Romemthiezer, filiis et fratribus ejus duodecim.
+
+  Chapter 26.
+
+    1: Divisiones autem janitorum : de Coritis Meselemia, filius Core, de filiis Asaph. 
+    2: Filii Meselemiae : Zacharias primogenitus, Jadihel secundus, Zabadias tertius, Jathanael quartus, 
+    3: Aelam quintus, Johanan sextus, Elioenai septimus. 
+    4: Filii autem Obededom : Semeias primogenitus, Jozabad secundus, Joaha tertius, Sachar quartus, Nathanael quintus, 
+    5: Ammiel sextus, Issachar septimus, Phollathi octavus : quia benedixit illi Dominus.
+    6: Semei autem filio ejus nati sunt filii, praefecti familiarum suarum : erant enim viri fortissimi. 
+    7: Filii ergo Semeiae : Othni, et Raphael, et Obed, Elzabad, fratres ejus viri fortissimi : Eliu quoque et Samachias. 
+    8: Omnes hi, de filiis Obededom : ipsi, et filii, et fratres eorum fortissimi ad ministrandum, sexaginta duo de Obededom. 
+    9: Porro Meselemiae filii, et fratres eorum robustissimi, decem et octo. 
+    10: De Hosa autem, id est, de filiis Merari : Semri princeps ( non enim habuerat primogenitum, et idcirco posuerat eum pater ejus in principem),
+    11: Helcias secundus, Tabelias tertius, Zacharias quartus : omnes hi filii, et fratres Hosa, tredecim. 
+    12: Hi divisi sunt in janitores, ut semper principes custodiarum, sicut et fratres eorum ministrarent in domo Domini. 
+    13: Missae sunt ergo sortes ex aequo, et parvis, et magnis, per familias suas in unamquamque portarum. 
+    14: Cecidit ergo sors orientalis, Selemiae. Porro Zachariae filio ejus, viro prudentissimo, et erudito, sortito obtigit plaga septentrionalis. 
+    15: Obededom vero et filiis ejus ad austrum : in qua parte domus erat senrioum concilium.
+    16: Sephim, et Hosa ad occidentem, juxta portam, quae ducit ad viam ascensionis : custodia contra custodiam. 
+    17: Ad orentem vero Levitae sex : et ad aquilonem, quatuor per diem : atque ad meridiem similiter in die quatuor : et ubi erat concilium bini et bini. 
+    18: In cellulis quoque janitorum ad occidentem quatuor in via, binique per cellulas. 
+    19: Hae sunt divisiones janitorum filiorum Core et Merari. 
+    20: Porro Achias erat super thesauros domus Dei, et vasa sanctorum.
+    21: Filii Ledan, filii Gersonni : de Ledan principes familiarum Ledan, et Gersonni, Jehieli. 
+    22: Filii Jehieli : Zathan, et Joel fratres ejus super thesauros domus Domini. 
+    23: Amramitis, et Isaaritis, et Hebronitis, et Ozihelitis. 
+    24: Subael autem filius Gersom, filii Moysi, praepositus thesauris. 
+    25: Fratres quoque ejus Eliezer, cujus filius Rahabia, et hujus filius Isaias, et hujus filius Joram, hujus quoque filius Zechri, et hujus filius Selemith.
+    26: Ipse Selemith, et fratres ejus, super thesauros sanctorum, quae sanctificavit David rex, et principes familiarum, et tribuni, et centuriones, et duces exercitus, 
+    27: de bellis, et manubiis praeliorum, quae consecraverant ad instaurationem, et supellectilem templi Domini. 
+    28: Haec autem universa sanctificavit Samuel videns, et Saul filius Cis, et Abner filius Ner, et Joab filius Sarviae : omnes, qui sanctificaverant ea per manum Selemith, et fratrum ejus. 
+    29: Isaaritis vero praeerat Chonenias, et filii ejus ad opera forinsecus super Israel ad docendum et judicandum eos. 
+    30: Porro de Hebronitis Hasabias, et fratres ejus viri fortissimi, mille septingenti praeerant Israeli trans Jordanem contra occidentem, in cunctis operibus Domini, et in ministerium regis.
+    31: Hebronitarum autem princeps fuit Jeria secundum familias et cognationes eorum. Quadragesimo anno regni David recensiti sunt, et inventi sunt viri fortissimi in Jazer Galaad, 
+    32: fratresque ejus robustioris aetatis, duo millia septingenti principes familiarum. Praeposuit autem eos David rex Rubenitis, et Gadditis, et dimidiae tribui Manasse, in omne ministerium Dei, et regis.
+
+  Chapter 27.
+
+    1: Filii autem Israel secundum numerum suum, principes familiarum, tribuni, et centuriones, et praefecti, qui ministrabant regi juxta turmas suas, ingredientes et egredientes per singulos menses in anno, viginti quatuor millibus singuli praeerant. 
+    2: Primae turmae in primo mense Jesboam praeerat filius Zabdiel, et sub eo viginti quatuor millia; 
+    3: de filiis Phares, princeps cunctorum principum in exercitu mense primo. 
+    4: Secundi mensis habebat turmam Dudia Ahohites, et post se alter nomine Macelloth, qui regebat partem exercitus viginti quatuor millium. 
+    5: Dux quoque turmae tertiae in mense tertio, erat Banaias filius Jojadae sacerdos : et in divisione sua viginti quatuor millia.
+    6: Ipse est Banaias fortissimus inter triginta, et super triginta : praeerat autem turmae ipsius Amizabad filius ejus. 
+    7: Quartus, mense quarto, Asahel frater Joab, et Zabadias filius ejus post eum : et in turma ejus viginti quatuor millia. 
+    8: Quintus, mense quinto, princeps Samaoth Jezerites : et in turma ejus viginti quatuor millia. 
+    9: Sextus, mense sexto, Hira filius Acces Thecuites : et in turma ejus viginti quatuor millia. 
+    10: Septimus, mense septimo, Helles Phallonites de filiis Ephraim : et in turma ejus viginti quatuor millia.
+    11: Octavus, mense octavo, Sobochai Husathites de stirpe Zarahi : et in turma ejus viginti quatuor millia. 
+    12: Nonus, mense nono, Abiezer Anathothites de filiis Jemini : et in turma ejus viginti quatuor millia. 
+    13: Decimus, mense decimo, Marai, et ipse Netophathites de stirpe Zarai : et in turma ejus viginti quatuor millia. 
+    14: Undecimus, mense undecimo, Banaias Pharathonites de filiis Ephraim : et in turma ejus viginti quatuor millia. 
+    15: Duodecimus, mense duodecimo, Holdai Netophathites, de stirpe Gothoniel : et in turma ejus viginti quatuor millia.
+    16: Porro tribubus praeerant Israel, Rubenitis, dux Eliezer filius Zechri : Simeonitis, dux Saphatias filius Maacha : 
+    17: Levitis, Hasabias filius Camuel : Aaronitis, Sadoc : 
+    18: Juda, Eliu, frater David : Issachar, Amri filius Michael. 
+    19: Zabulonitis, Jesmaias filius Abdiae : Nephthalitibus, Jerimoth filius Ozriel : 
+    20: filiis Ephraim, Osee filius Ozaziu : dimidiae tribui Manasse, Joel filius Phadaiae :
+    21: et dimidiae tribui Manasse in Galaad, Jaddo filius Zachariae : Benjamin autem, Jasiel filius Abner. 
+    22: Dan vero, Ezrihel filius Jeroham : hi principes filiorum Israel. 
+    23: Noluit autem David numerare eos a viginti annis inferius : quia dixerat Dominus ut multiplicaret Israel quasi stellas caeli. 
+    24: Joab filius Sarviae coeperat numerare, nec complevit : quia super hoc ira irruerat in Israel : et idcirco numerus eorum qui fuerant recensiti, non est relatus in fastos regis David. 
+    25: Super thesauros autem regis fuit Azmoth filius Adiel : his autem thesauris, qui erant in urbibus, et in vicis, et in turribus, praesidebat Jonathan filius Oziae.
+    26: Operi autem rustico, et agricolis, qui exercebant terram, praeerat Ezri filius Chelub : 
+    27: vinearumque cultoribus, Semeias Romathites : cellis autem vinariis, Zabdias Aphonites. 
+    28: Nam super oliveta et ficeta, quae erant in campestribus, Balanam Gederites : super apothecas autem olei, Joas. 
+    29: Porro armentis, quae pascebantur in Saron, praepositus fuit Setrai Saronites : et super boves in vallibus, Saphat filius Adli : 
+    30: super camelos vero, Ubil Ismahelites : et super asinos, Jadias Meronathites :
+    31: super oves quoque Jaziz Agareus : omnes hi, principes substantiae regis David. 
+    32: Jonathan autem patruus David, consiliarius, vir prudens et litteratus : ipse et Jahiel filius Hachamoni erant cum filiis regis. 
+    33: Achitophel etiam consiliarius regis, et Chusai Arachites amicus regis. 
+    34: Post Achitophel fuit Jojada filius Banaiae, et Abiathar. Princeps autem exercitus regis erat Joab.
+
+  Chapter 28.
+
+    1: Convocavit igitur David omnes principes Israel, duces tribuum, et praepositos turmarum, qui ministrabant regi : tribunos quoque et centuriones, et qui praeerant substantiae et possessionibus regis, filiosque suos cum eunuchis, et potentes, et robustissimos quosque in exercitu Jerusalem. 
+    2: Cumque surrexisset rex, et stetisset, ait : Audite me, fratres mei et populus meus : cogitavi ut aedificarem domum, in qua requiesceret arca foederis Domini, et scabellum pedum Dei nostri : et ad aedificandum, omnia praeparavi. 
+    3: Deus autem dixit mihi : Non aedificabis domum nomini meo, eo quod sis vir bellator, et sanguinem fuderis. 
+    4: Sed elegit Dominus Deus Israel me de universa domo patris mei, ut essem rex super Israel in sempiternum : de Juda enim elegit principes : porro de domo Juda, domum patris mei, et de filiis patris mei, placuit ei ut me eligeret regem super cunctum Israel. 
+    5: Sed et de filiis meis ( filios enim mihi multos dedit Dominus) elegit Salomonem filium meum, ut sederet in throno regni Domini super Israel,
+    6: dixitque mihi : Salomon filius tuus aedificavit domum meam, et atria mea : ipsum enim elegi mihi in filium, et ego ero ei in patrem. 
+    7: Et firmabo regnum ejus usque in aeternum, si perseveraverit facere praecepta mea, et judicia, sicut et hodie. 
+    8: Nunc ergo coram universo coetu Israel audiente Deo nostro, custodite, et perquirite cuncta mandata Domini Dei nostri : ut possideatis terram bonam, et relinquatis eam filiis vestris post vos usque in sempiternum. 
+    9: Tu autem, Salomon fili mi, scito Deum patris tui, et servito ei corde perfecto, animo voluntario : omnia enim corda scrutatur Dominus, et universas mentium cogitationes intelligit. Si quaesieris eum, invenies : si autem dereliqueris eum, projiciet te in aeternum. 
+    10: Nunc ergo quia elegit te Dominus ut aedificares domum sanctuarii, confortare, et perfice.
+    11: Dedit autem David Salomoni filio suo descriptionem porticus, et templi, et cellariorum, et coenaculi, et cubiculorum in adytis, et domus propitiationis, 
+    12: necnon et omnium quae cogitaverat atriorum, et exedrarum per circuitum in thesauros domus Domini, et in thesauros sanctorum, 
+    13: divisionumque sacerdotalium et Leviticarum, in omnia opera domus Domini, et in universa vasa ministerii templi Domini. 
+    14: Aurum in pondere per singula vasa ministerii. Argenti quoque pondus pro vasorum et operum diversitate. 
+    15: Sed et in candelabra aurea, et ad lucernas eorum, aurum pro mensura uniuscujusque candelabri et lucernarum. Similiter et in candelabra argentea, et in lucernas eorum, pro diversitate mensurae, pondus argenti tradidit.
+    16: Aurum quoque dedit in mensas propositionis pro diversitate mensarum : similiter et argentum in alias mensas argenteas. 
+    17: Ad fuscinulas quoque, et phialas, et thuribula ex auro purissimo, et leunculos aureos pro qualitate mensurae pondus distribuit in leunculum et leunculum. Similiter et in leones argenteos diversum argenti pondus separavit. 
+    18: Altari autem, in quo adoletur incensum, aurum purissimum dedit : ut ex ipso fieret similitudo quadrigae cherubim extendentium alas, et velantium arcam foederis Domini. 
+    19: Omnia, inquit, venerunt scripta manu Domini ad me, ut intelligerem universa opera exemplaris. 
+    20: Dixit quoque David Salomoni filio suo : Viriliter age, et confortare, et fac : ne timeas, et ne paveas : Dominus enim Deus meus tecum erit, et non dimittet te, nec derelinquet donec perficias omne opus ministerii domus Domini.
+    21: Ecce divisiones sacerdotum et Levitarum : in omne ministerium domus Domini assistunt tibi, et parati sunt, et noverunt tam principes quam populus facere omnia praecepta tua.
+
+End of day 95.

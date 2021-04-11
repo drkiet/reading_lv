@@ -1,0 +1,106 @@
+Day 67:
+
+Reading 1-Samuel, chapters ['21', '22', '23', '24']:
+
+  Chapter 21.
+
+    1: Venit autem David in Nobe ad Achimelech sacerdotem : et obstupuit Achimelech, eo quod venisset David. Et dixit ei : Quare tu solus, et nullus est tecum? 
+    2: Et ait David ad Achimelech sacerdotem : Rex praecepit mihi sermonem, et dixit : Nemo sciat rem, propter quam missus es a me, et cujusmodi praecepta tibi dederim : nam et pueris condixi in illum et illum locum. 
+    3: Nunc ergo si quid habes ad manum, vel quinque panes, da mihi aut quidquid inveneris. 
+    4: Et respondens sacerdos ad David, ait illi : Non habeo laicos panes ad manum, sed tantum panem sanctum : si mundi sunt pueri, maxime a mulieribus? 
+    5: Et respondit David sacerdoti, et dixit ei : Equidem, si de mulieribus agitur : continuimus nos ab heri et nudiustertius, quando egrediebamur, et fuerunt vasa puerorum sancta. Porro via haec polluta est, sed et ipsa hodie sanctificabitur in vasis.
+    6: Dedit ergo ei sacerdos sanctificatum panem : neque enim erat ibi panis, nisi tantum panes propositionis, qui sublati fuerant a facie Domini, ut ponerentur panes calidi. 
+    7: Erat autem ibi vir quidam de servis Saul, in die illa, intus in tabernaculo Domini : et nomen ejus Doeg Idumaeus, potentissimus pastorum Saul. 
+    8: Dixit autem David ad Achimelech : Si habes hic ad manum hastam, aut gladium? quia gladium meum, et arma mea non tuli mecum : sermo enim regis urgebat. 
+    9: Et dixit sacerdos : Ecce hic gladius Goliath Philisthaei, quem percussisti in Valle terebinthi, est involutus pallio post ephod : si istum vis tollere, tolle : neque enim hic est alius absque eo. Et ait David : Non est huic alter similis, da mihi eum. 
+    10: Surrexit itaque David, et fugit in die illa a facie Saul : et venit ad Achis regem Geth :
+    11: dixeruntque servi Achis ad eum cum vidissent David : Numquid non iste est David rex terrae? nonne huic cantabant per choros, dicentes : Percussit Saul mille, et David decem millia? 
+    12: Posuit autem David sermones istos in corde suo, et extimuit valde a facie Achis regis Geth. 
+    13: Et immutavit os suum coram eis, et collabebatur inter manus eorum : et impingebat in ostia portae, defluebantque salivae ejus in barbam. 
+    14: Et ait Achis ad servos suos : Vidistis hominem insanum : quare adduxistis eum ad me? 
+    15: An desunt nobis furiosi, quod introduxistis istum, ut fureret me praesente? hiccine ingredietur domum meam?
+
+  Chapter 22.
+
+    1: Abiit ergo David inde, et fugit in speluncam Odollam. Quod cum audissent fratres ejus, et omnis domus patris ejus, descenderunt ad eum illuc. 
+    2: Et convenerunt ad eum omnes, qui erant in angustia constituti, et oppressi aere alieno, et amaro animo : et factus est eorum princeps, fueruntque cum eo quasi quadringenti viri. 
+    3: Et profectus est David inde in Maspha, quae est Moab : et dixit ad regem Moab : Maneat, oro, pater meus et mater mea vobiscum, donec sciam quid faciat mihi Deus. 
+    4: Et reliquit eos ante faciem regis Moab : manseruntque apud eum cunctis diebus, quibus David fuit in praesidio. 
+    5: Dixitque Gad propheta ad David : Noli manere in praesidio : proficiscere, et vade in terram Juda. Et profectus est David, et venit in saltum Haret.
+    6: Et audivit Saul quod apparuisset David, et viri qui erant cum eo. Saul autem cum maneret in Gabaa, et esset in nemore, quod est in Rama, hastam manu tenens, cunctique servi ejus circumstarent eum, 
+    7: ait ad servos suos qui assistebant ei : Audite nunc filii Jemini : numquid omnibus vobis dabit filius Isai agros, et vineas, et universos vos faciet tribunos, et centuriones? 
+    8: quoniam conjurastis omnes adversum me, et non est qui mihi renuntiet, maxime cum et filius meus foedus inierit cum filio Isai. Non est qui vicem meam doleat ex vobis, nec qui annuntiet mihi : eo quod suscitaverit filius meus servum meum adversum me, insidiantem mihi usque hodie. 
+    9: Respondens autem Doeg Idumaeus, qui assistebat, et erat primus inter servos Saul : Vidi, inquit, filium Isai in Nobe apud Achimelech filium Achitob sacerdotem. 
+    10: Qui consuluit pro eo Dominum, et cibaria dedit ei : sed et gladium Goliath Philisthaei dedit illi.
+    11: Misit ergo rex ad accersendum Achimelech sacerdotem filium Achitob, et omnem domum patris ejus, sacerdotum, qui erant in Nobe, qui universi venerunt ad regem. 
+    12: Et ait Saul ad Achimelech : Audi fili Achitob. Qui respondit : Praesto sum, domine. 
+    13: Dixitque ad eum Saul : Quare conjurastis adversum me, tu et filius Isai, et dedisti ei panes et gladium, et consuluisti pro eo Deum, ut consurgeret adversum me, insidiator usque hodie permanens? 
+    14: Respondensque Achimelech regi, ait : Et quis in omnibus servis tuis, sicut David fidelis, et gener regis, et pergens ad imperium tuum, et gloriosus in domo tua? 
+    15: Num hodie coepi pro eo consulere Deum? absit hoc a me : ne suspicetur rex adversus servum suum rem hujuscemodi, in universa domo patris mei : non enim scivit servus tuus quidquam super hoc negotio, vel modicum vel grande.
+    16: Dixitque rex : Morte morieris Achimelech, tu et omnis domus patris tui. 
+    17: Et ait rex emissariis, qui circumstabant eum : Convertimini, et interficite sacerdotes Domini : nam manus eorum cum David est : scientes quod fugisset, et non indicaverunt mihi. Noluerunt autem servi regis extendere manus suas in sacerdotes Domini. 
+    18: Et ait rex ad Doeg : Convertere tu, et irrue in sacerdotes. Conversusque Doeg Idumaeus, irruit in sacerdotes, et trucidavit in die illa octoginta quinque viros vestitos ephod lineo. 
+    19: Nobe autem civitatem sacerdotum percussit in ore gladii, viros et mulieres, et parvulos, et lactentes, bovemque, et asinum, et ovem in ore gladii. 
+    20: Evadens autem unus filius Achimelech, filii Achitob, cujus nomen erat Abiathar, fugit ad David,
+    21: et annuntiavit ei quod occidisset Saul sacerdotes Domini. 
+    22: Et ait David ad Abiathar : Sciebam in die illa, quod cum ibi esset Doeg Idumaeus, procul dubio annuntiaret Sauli : ego sum reus omnium animarum patris tui. 
+    23: Mane mecum, ne timeas : si quis quaesierit animam meam, quaeret et animam tuam, mecumque servaberis.
+
+  Chapter 23.
+
+    1: Et annuntiaverunt David, dicentes : Ecce Philisthiim oppugnant Ceilam et diripiunt areas. 
+    2: Consuluit ergo David Dominum, dicens : Num vadam, et percutiam Philisthaeos istos? Et ait Dominus ad David : Vade, et percuties Philisthaeos, et Ceilam salvabis. 
+    3: Et dixerunt viri, qui erant cum David, ad eum : Ecce nos hic in Judaea consistentes timemus : quanto magis si ierimus in Ceilam adversum agmina Philisthinorum? 
+    4: Rursum ergo David consuluit Dominum. Qui respondens, ait ei : Surge, et vade in Ceilam : ego enim tradam Philisthaeos in manu tua. 
+    5: Abiit ergo David, et viri ejus, in Ceilam, et pugnavit adversum Philisthaeos, et abegit jumenta eorum, et percussit eos plaga magna : et salvavit David habitatores Ceilae.
+    6: Porro eo tempore, quo fugiebat Abiathar filius Achimelech ad David in Ceilam, ephod secum habens descenderat. 
+    7: Nuntiatum est autem Sauli quod venisset David in Ceilam : et ait Saul : Tradidit eum Deus in manus meas, conclususque est introgressus urbem, in qua portae et serae sunt. 
+    8: Et praecepit Saul omni populo ut ad pugnam descenderet in Ceilam, et obsideret David, et viros ejus. 
+    9: Quod cum David rescisset quia praepararet ei Saul clam malum, dixit ad Abiathar sacerdotem : Applica ephod. 
+    10: Et ait David : Domine Deus Israel, audivit famam servus tuus, quod disponat Saul venire in Ceilam, ut evertat urbem propter me :
+    11: si tradent me viri Ceilae in manus ejus? et si descendet Saul, sicut audivit servus tuus? Domine Deus Israel, indica servo tuo. Et ait Dominus : Descendet. 
+    12: Dixitque David : Si tradent me viri Ceilae, et viros qui sunt mecum, in manus Saul? Et dixit Dominus : Tradent. 
+    13: Surrexit ergo David et viri ejus quasi sexcenti, et egressi de Ceila, huc atque illuc vagabantur incerti : nuntiatumque est Sauli quod fugisset David de Ceila, et salvatus esset : quam ob rem dissimulavit exire. 
+    14: Morabatur autem David in deserto in locis firmissimis, mansitque in monte solitudinis Ziph, in monte opaco : quaerebat eum tamen Saul cunctis diebus : et non tradidit eum Deus in manus ejus. 
+    15: Et vidit David quod egressus esset Saul ut quaereret animam ejus. Porro David erat in deserto Ziph in silva.
+    16: Et surrexit Jonathas filius Saul, et abiit ad David in silvam, et confortavit manus ejus in Deo : dixitque ei : 
+    17: Ne timeas : neque enim inveniet te manus Saul patris mei, et tu regnabis super Israel, et ego ero tibi secundus, sed et Saul pater meus scit hoc. 
+    18: Percussit ergo uterque foedus coram Domino : mansitque David in silva : Jonathas autem reversus est in domum suam. 
+    19: Ascenderunt autem Ziphaei ad Saul in Gabaa, dicentes : Nonne ecce David latitat apud nos in locis tutissimis silvae, in colle Hachila, quae est ad dexteram deserti? 
+    20: Nunc ergo, sicut desideravit anima tua ut descenderes, descende : nostrum autem erit ut tradamus eum in manus regis.
+    21: Dixitque Saul : Benedicti vos a Domino, quia doluistis vicem meam. 
+    22: Abite ergo, oro, et diligentius praeparate, et curiosius agite, et considerate locum ubi sit pes ejus, vel quis viderit eum ibi : recogitat enim de me, quod callide insidier ei. 
+    23: Considerate et videte omnia latibula ejus, in quibus absconditur : et revertimini ad me ad rem certam, ut vadam vobiscum. Quod si etiam in terram se abstruserit, perscrutabor eum in cunctis millibus Juda. 
+    24: At illi surgentes abierunt in Ziph ante Saul : David autem et viri ejus erant in deserto Maon, in campestribus ad dexteram Jesimon. 
+    25: Ivit ergo Saul et socii ejus ad quaerendum eum : et nuntiatum est David, statimque descendit ad petram, et versabatur in deserto Maon : quod cum audisset Saul, persecutus est David in deserto Maon.
+    26: Et ibat Saul ad latus montis ex parte una : David autem et viri ejus erant in latere montis ex parte altera : porro David desperabat se posse evadere a facie Saul : itaque Saul et viri ejus in modum coronae cingebant David, et viros ejus, ut caperent eos. 
+    27: Et nuntius venit ad Saul, dicens : Festina, et veni, quoniam infuderunt se Philisthiim super terram. 
+    28: Reversus est ergo Saul desistens persequi David, et perrexit in occursum Philisthinorum : propter hoc vocaverunt locum illum, Petram dividentem.
+
+  Chapter 24.
+
+    1: Ascendit ergo David inde : et habitavit in locis tutissimis Engaddi. 
+    2: Cumque reversus esset Saul, postquam persecutus est Philisthaeos, nuntiaverunt ei, dicentes : Ecce, David in deserto est Engaddi. 
+    3: Assumens ergo Saul tria millia electorum virorum ex omni Israel, perrexit ad investigandum David et viros ejus, etiam super abruptissimas petra, quae solis ibicibus perviae sunt. 
+    4: Et venit ad caulas ovium, quae se offerebant vianti : eratque ibi spelunca, quam ingressus est Saul, ut purgaret ventrem : porro David et viri ejus in interiore parte speluncae latebant. 
+    5: Et dixerunt servi David ad eum : Ecce dies, de qua locutus est Dominus ad te : Ego tradam tibi inimicum tuum, ut facias ei sicut placuerit in oculis tuis. Surrexit ergo David, et praecidit oram chlamydis Saul silenter.
+    6: Post haec percussit cor suum David, eo quod abscidisset oram chlamydis Saul. 
+    7: Dixitque ad viros suos : Propitius sit mihi Dominus, ne faciam hanc rem domino meo, christo Domini, ut mittam manum meam in eum, quia christus Domini est. 
+    8: Et confregit David viros suos sermonibus, et non permisit eos ut consurgerent in Saul : porro Saul exsurgens de spelunca, pergebat coepto itinere. 
+    9: Surrexit autem et David post eum : et egressus de spelunca, clamavit post tergum Saul, dicens : Domine mi rex. Et respexit Saul post se : et inclinans se David pronus in terram adoravit, 
+    10: dixitque ad Saul : Quare audis verba hominum loquentium, David quaerit malum adversum te?
+    11: Ecce hodie viderunt oculi tui, quod tradiderit te Dominus in manu mea in spelunca : et cogitavi ut occiderem te, sed pepercit tibi oculus meus : dixi enim : Non extendam manum meam in dominum meum, quia christus Domini est. 
+    12: Quin potius pater mi, vide, et cognosce oram chlamydis tuae in manu mea : quoniam cum praescinderem summitatem chlamydis tuae, nolui extendere manum meam in te : animadverte, et vide, quoniam non est in manu mea malum, neque iniquitas, neque peccavi in te : tu autem insidiaris animae meae ut auferas eam. 
+    13: Judicet Dominus inter me et te, et ulciscatur me Dominus ex te : manus autem mea non sit in te. 
+    14: Sicut et in proverbio antiquo dicitur : Ab impiis egredietur impietas : manus ergo mea non sit in te. 
+    15: Quem persequeris, rex Israel? quem persequeris? canem mortuum persequeris, et pulicem unum.
+    16: Sit Dominus judex, et judicet inter me et te : et videat, et judicet causam meam, et eruat me de manu tua. 
+    17: Cum autem complesset David loquens sermones hujuscemodi ad Saul, dixit Saul : Numquid vox haec tua est fili mi David? Et levavit Saul vocem suam, et flevit : 
+    18: dixitque ad David : Justior tu es quam ego : tu enim tribuisti mihi bona : ego autem reddidi tibi mala. 
+    19: Et tu indicasti hodie quae feceris mihi bona : quomodo tradiderit me Dominus in manum tuam, et non occideris me. 
+    20: Quis enim cum invenerit inimicum suum, dimittet eum in via bona? Sed Dominus reddat tibi vicissitudinem hanc pro eo quod hodie operatus es in me.
+    21: Et nunc quia scio quod certissime regnaturus sis, et habiturus in manu tua regnum Israel : 
+    22: jura mihi in Domino, ne deleas semen meum post me, neque auferas nomen meum de domo patris mei. 
+    23: Et juravit David Sauli. Abiit ergo Saul in domum suam : et David et viri ejus ascenderunt ad tutiora loca.
+
+End of day 67.

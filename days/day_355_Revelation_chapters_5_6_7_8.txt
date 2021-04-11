@@ -1,0 +1,78 @@
+Day 355:
+
+Reading Revelation, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: Et vidi in dextera sedentis supra thronum, librum scriptum intus et foris, signatum sigillis septem. 
+    2: Et vidi angelum fortem, praedicantem voce magna : Quis est dignus aperire librum, et solvere signacula ejus? 
+    3: Et nemo poterat neque in caelo, neque in terra, neque subtus terram aperire librum, neque respicere illum. 
+    4: Et ego flebam multum, quoniam nemo dignus inventus est aperire librum, nec videre eum. 
+    5: Et unus de senioribus dixit mihi : Ne fleveris : ecce vicit leo de tribu Juda, radix David, aperire librum, et solvere septem signacula ejus.
+    6: Et vidi : et ecce in medio throni et quatuor animalium, et in medio seniorum, Agnum stantem tamquam occisum, habentem cornua septem, et oculos septem : qui sunt septem spiritus Dei, missi in omnem terram. 
+    7: Et venit : et accepit de dextera sedentis in throno librum. 
+    8: Et cum aperuisset librum, quatuor animalia, et viginti quatuor seniores ceciderunt coram Agno, habentes singuli citharas, et phialas aureas plenas odoramentorum, quae sunt orationes sanctorum : 
+    9: et cantabant canticum novum, dicentes : Dignus es, Domine, accipere librum, et aperire signacula ejus : quoniam occisus es, et redemisti nos Deo in sanguine tuo ex omni tribu, et lingua, et populo, et natione : 
+    10: et fecisti nos Deo nostro regnum, et sacerdotes : et regnabimus super terram.
+    11: Et vidi, et audivi vocem angelorum multorum in circuitu throni, et animalium, et seniorum : et erat numerus eorum millia millium, 
+    12: dicentium voce magna : Dignus est Agnus, qui occisus est, accipere virtutem, et divinitatem, et sapientiam, et fortitudinem, et honorem, et gloriam, et benedictionem. 
+    13: Et omnem creaturam, quae in caelo est, et super terram, et sub terra, et quae sunt in mari, et quae in eo : omnes audivi dicentes : Sedenti in throno, et Agno, benedictio et honor, et gloria, et potestas in saecula saeculorum. 
+    14: Et quatuor animalia dicebant : Amen. Et viginti quatuor seniores ceciderunt in facies suas : et adoraverunt viventem in saecula saeculorum.
+
+  Chapter 6.
+
+    1: Et vidi quod aperuisset Agnus unum de septem sigillis, et audivi unum de quatuor animalibus, dicens tamquam vocem tonitrui : Veni, et vide. 
+    2: Et vidi : et ecce equus albus, et qui sedebat super illum, habebat arcum, et data est ei corona, et exivit vincens ut vinceret. 
+    3: Et cum aperuisset sigillum secundum, audivi secundum animal, dicens : Veni, et vide. 
+    4: Et exivit alius equus rufus : et qui sedebat super illum, datum est ei ut sumeret pacem de terra, et ut invicem se interficiant, et datus est ei gladius magnus. 
+    5: Et cum aperuisset sigillum tertium, audivi tertium animal, dicens : Veni, et vide. Et ecce equus niger : et qui sedebat super illum, habebat stateram in manu sua.
+    6: Et audivi tamquam vocem in medio quatuor animalium dicentium : Bilibris tritici denario et tres bilibres hordei denario, et vinum, et oleum ne laeseris. 
+    7: Et cum aperuisset sigillum quartum, audivi vocem quarti animalis dicentis : Veni, et vide. 
+    8: Et ecce equus pallidus : et qui sedebat super eum, nomen illi Mors, et infernus sequebatur eum, et data est illi potestas super quatuor partes terrae, interficere gladio, fame, et morte, et bestiis terrae. 
+    9: Et cum aperuisset sigillum quintum, vidi subtus altare animas interfectorum propter verbum Dei, et propter testimonium, quod habebant : 
+    10: et clamabant voce magna, dicentes : Usquequo Domine ( sanctus et verus), non judicas, et non vindicas sanguinem nostrum de iis qui habitant in terra?
+    11: Et datae sunt illis singulae stolae albae : et dictum est illis ut requiescerent adhuc tempus modicum donec compleantur conservi eorum, et fratres eorum, qui interficiendi sunt sicut et illi. 
+    12: Et vidi cum aperuisset sigillum sextum : et ecce terraemotus magnus factus est, et sol factus est niger tamquam saccus cilicinus : et luna tota facta est sicut sanguis : 
+    13: et stellae de caelo ceciderunt super terram, sicut ficus emittit grossos suos cum a vento magno movetur : 
+    14: et caelum recessit sicut liber involutus : et omnis mons, et insulae de locis suis motae sunt : 
+    15: et reges terrae, et principes, et tribuni, et divites, et fortes, et omnis servus, et liber absconderunt se in speluncis, et in petris montium :
+    16: et dicunt montibus, et petris : Cadite super nos, et abscondite nos a facie sedentis super thronum, et ab ira Agni : 
+    17: quoniam venit dies magnus irae ipsorum : et quis poterit stare?
+
+  Chapter 7.
+
+    1: Post haec vidi quatuor angelos stantes super quatuor angulos terrae, tenentes quatuor ventos terrae, ne flarent super terram, neque super mare, neque in ullam arborem. 
+    2: Et vidi alterum angelum ascendentem ab ortu solis, habentem signum Dei vivi : et clamavit voce magna quatuor angelis, quibus datum est nocere terrae et mari, 
+    3: dicens : Nolite nocere terrae, et mari, neque arboribus, quoadusque signemus servos Dei nostri in frontibus eorum. 
+    4: Et audivi numerum signatorum, centum quadraginta quatuor millia signati, ex omni tribu filiorum Israel. 
+    5: Ex tribu Juda duodecim millia signati : ex tribu Ruben duodecim millia signati : ex tribu Gad duodecim millia signati :
+    6: ex tribu Aser duodecim millia signati : ex tribu Nephthali duodecim millia signati : ex tribu Manasse duodecim millia signati : 
+    7: ex tribu Simeon duodecim millia signati : ex tribu Levi duodecim millia signati : ex tribu Issachar duodecim millia signati : 
+    8: ex tribu Zabulon duodecim millia signati : ex tribu Joseph duodecim millia signati : ex tribu Benjamin duodecim millia signati. 
+    9: Post haec vidi turbam magnam, quam dinumerare nemo poterat, ex omnibus gentibus, et tribubus, et populis, et linguis : stantes ante thronum, et in conspectu Agni, amicti stolis albis, et palmae in manibus eorum : 
+    10: et clamabant voce magna, dicentes : Salus Deo nostro, qui sedet super thronum, et Agno.
+    11: Et omnes angeli stabant in circuitu throni, et seniorum, et quatuor animalium : et ceciderunt in conspectu throni in facies suas, et adoraverunt Deum, 
+    12: dicentes : Amen. Benedictio, et claritas, et sapientia, et gratiarum actio, honor, et virtus, et fortitudo Deo nostro in saecula saeculorum. Amen. 
+    13: Et respondit unus de senioribus et dixit mihi : Hi, qui amicti sunt stolis albis, qui sunt? et unde venerunt? 
+    14: Et dixi illi : Domine mi, tu scis. Et dixit mihi : Hi sunt, qui venerunt de tribulatione magna, et laverunt stolas suas, et dealbaverunt eas in sanguine Agni. 
+    15: Ideo sunt ante thronum Dei, et serviunt ei die ac nocte in templo ejus : et qui sedet in throno, habitabit super illos :
+    16: non esurient, neque sitient amplius, nec cadet super illos sol, neque ullus aestus : 
+    17: quoniam Agnus, qui in medio throni est, reget illos et deducet eos ad vitae fontes aquarum, et absterget Deus omnem lacrimam ab oculis eorum.
+
+  Chapter 8.
+
+    1: Et cum aperuisset sigillum septimum, factum est silentium in caelo, quasi media hora. 
+    2: Et vidi septem angelos stantes in conspectu Dei : et datae sunt illis septem tubae. 
+    3: Et alius angelus venit, et stetit ante altare habens thuribulum aureum : et data sunt illi incensa multa, ut daret de orationibus sanctorum omnium super altare aureum, quod est ante thronum Dei. 
+    4: Et ascendit fumus incensorum de orationibus sanctorum de manu angeli coram Deo. 
+    5: Et accepit angelus thuribulum, et implevit illud de igne altaris, et misit in terram : et facta sunt tonitrua, et voces, et fulgura, et terraemotus magnus.
+    6: Et septem angeli, qui habebant septem tubas, praeparaverunt se ut tuba canerent. 
+    7: Et primus angelus tuba cecinit, et facta est grando, et ignis, mista in sanguine, et missum est in terram, et tertia pars terrae combusta est, et tertia pars arborum concremata est, et omne foenum viride combustum est. 
+    8: Et secundus angelus tuba cecinit : et tamquam mons magnus igne ardens missus est in mare, et facta est tertia pars maris sanguis, 
+    9: et mortua est tertia pars creaturae eorum, quae habebant animas in mari, et tertia pars navium interiit. 
+    10: Et tertius angelus tuba cecinit : et cecidit de caelo stella magna, ardens tamquam facula, et cecidit in tertiam partem fluminum, et in fontes aquarum :
+    11: et nomen stellae dicitur Absinthium, et facta est tertia pars aquarum in absinthium; et multi hominum mortui sunt de aquis, quia amarae factae sunt. 
+    12: Et quartus angelus tuba cecinit : et percussa est tertia pars solis, et tertia pars lunae, et tertia pars stellarum, ita ut obscuraretur tertia pars eorum, et diei non luceret pars tertia, et noctis similiter. 
+    13: Et vidi, et audivi vocem unius aquilae volantis per medium caeli dicentis voce magna : Vae, vae, vae habitantibus in terra de ceteris vocibus trium angelorum, qui erant tuba canituri.
+
+End of day 355.

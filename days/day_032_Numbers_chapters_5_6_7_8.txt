@@ -1,0 +1,190 @@
+Day 32:
+
+Reading Numbers, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: Locutusque est Dominus ad Moysen, dicens : 
+    2: Praecipe filiis Israel, ut ejiciant de castris omnem leprosum, et qui semine fluit, pollutusque est super mortuo : 
+    3: tam masculum quam feminam ejicite de castris, ne contaminent ea cum habitaverint vobiscum. 
+    4: Feceruntque ita filii Israel, et ejecerunt eos extra castra, sicut locutus erat Dominus Moysi. 
+    5: Locutusque est Dominus ad Moysen, dicens :
+    6: Loquere ad filios Israel : Vir, sive mulier, cum fecerint ex omnibus peccatis, quae solent hominibus accidere, et per negligentiam transgressi fuerint mandatum Domini, atque deliquerint, 
+    7: confitebuntur peccatum suum, et reddent ipsum caput, quintamque partem desuper, ei in quem peccaverint. 
+    8: Sin autem non fuerit qui recipiat, dabunt Domino, et erit sacerdotis, excepto ariete, qui offertur pro expiatione, ut sit placabilis hostia. 
+    9: Omnes quoque primitiae, quas offerunt filii Israel, ad sacerdotem pertinent : 
+    10: et quidquid in sanctuarium offertur a singulis, et traditur manibus sacerdotis, ipsius erit.
+    11: Locutusque est Dominus ad Moysen, dicens : 
+    12: Loquere ad filios Israel, et dices ad eos : Vir cujus uxor erraverit, maritumque contemnens 
+    13: dormierit cum altero viro, et hoc maritus deprehendere non quiverit, sed latet adulterium, et testibus argui non potest, quia non est inventa in stupro : 
+    14: si spiritus zelotypiae concitaverit virum contra uxorem suam, quae vel polluta est, vel falsa suspicione appetitur : 
+    15: adducet eam ad sacerdotem, et offeret oblationem pro illa, decimam partem sati farinae hordeaceae : non fundet super eam oleum, nec imponet thus : quia sacrificium zelotypiae est, et oblatio investigans adulterium.
+    16: Offeret igitur eam sacerdos, et statuet coram Domino, 
+    17: assumetque aquam sanctam in vase fictili, et pauxillum terrae de pavimento tabernaculi mittet in eam. 
+    18: Cumque steterit mulier in conspectu Domini, discooperiet caput ejus, et ponet super manus illius sacrificium recordationis, et oblationem zelotypiae : ipse autem tenebit aquas amarissimas, in quibus cum execratione maledicta congessit. 
+    19: Adjurabitque eam, et dicet : Si non dormivit vir alienus tecum, et si non polluta es deserto mariti throno, non te nocebunt aquae istae amarissimae, in quas maledicta congessi. 
+    20: Sin autem declinasti a viro tuo, atque polluta es, et concubuisti cum altero viro :
+    21: his maledictionibus subjacebis : det te Dominus in maledictionem, exemplumque cunctorum in populo suo : putrescere faciat femur tuum, et tumens uterus tuus disrumpatur. 
+    22: Ingrediantur aquae maledictae in ventrem tuum, et utero tumescente putrescat femur. Et respondebit mulier : Amen, amen. 
+    23: Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit, 
+    24: et dabit ei bibere. Quas cum exhauserit, 
+    25: tollet sacerdos de manu ejus sacrificium zelotypiae, et elevabit illud coram Domino, imponetque illud super altare, ita dumtaxat ut prius :
+    26: pugillum sacrificii tollat de eo, quod offertur, et incendat super altare : et sic potum det mulieri aquas amarissimas. 
+    27: Quas cum biberit, si polluta est, et contempto viro adulterii rea, pertransibunt eam aquae maledictionis, et inflato ventre, computrescet femur : eritque mulier in maledictionem, et in exemplum omni populo. 
+    28: Quod si polluta non fuerit, erit innoxia, et faciet liberos. 
+    29: Ista est lex zelotypiae. Si declinaverit mulier a viro suo, et si polluta fuerit, 
+    30: maritusque zelotypiae spiritu concitatus adduxerit eam in conspectu Domini, et fecerit ei sacerdos juxta omnia quae scripta sunt :
+    31: maritus absque culpa erit, et illa recipiet iniquitatem suam.
+
+  Chapter 6.
+
+    1: Locutusque est Dominus ad Moysen, dicens : 
+    2: Loquere ad filios Israel, et dices ad eos : Vir, sive mulier, cum fecerint votum ut sanctificentur, et se voluerint Domino consecrare : 
+    3: a vino, et omni quod inebriare potest, abstinebunt. Acetum ex vino, et ex qualibet alia potione, et quidquid de uva exprimitur, non bibent : uvas recentes siccasque non comedent 
+    4: cunctis diebus quibus ex voto Domino consecrantur : quidquid ex vinea esse potest, ab uva passa usque ad acinum non comedent. 
+    5: Omni tempore separationis suae novacula non transibit per caput ejus usque ad completum diem, quo Domino consecratur. Sanctus erit, crescente caesarie capitis ejus.
+    6: Omni tempore consecrationis suae, super mortuum non ingredietur, 
+    7: nec super patris quidem et matris et fratris sororisque funere contaminabitur, quia consecratio Dei sui super caput ejus est. 
+    8: Omnibus diebus separationis suae sanctus erit Domino. 
+    9: Sin autem mortuus fuerit subito quispiam coram eo, polluetur caput consecrationis ejus : quod radet illico in eadem die purgationis suae, et rursum septima. 
+    10: In octava autem die offeret duos turtures, vel duos pullos columbae sacerdoti in introitu foederis testimonii.
+    11: Faciet sacerdos unum pro peccato, et alterum in holocaustum, et deprecabitur pro eo, quia peccavit super mortuo : sanctificabitque caput ejus in die illo : 
+    12: et consecrabit Domino dies separationis illius, offerens agnum anniculum pro peccato : ita tamen ut dies priores irriti fiant, quoniam polluta est sanctificatio ejus. 
+    13: Ista est lex consecrationis. Cum dies, quos ex voto decreverat, complebuntur, adducet eum ad ostium tabernaculi foederis, 
+    14: et offeret oblationes ejus Domino, agnum anniculum immaculatum in holocaustum, et ovem anniculam immaculatam pro peccato, et arietem immaculatum, hostiam pacificam, 
+    15: canistrum quoque panum azymorum qui conspersi sint oleo, et lagana absque fermento uncta oleo, ac libamina singulorum :
+    16: quae offeret sacerdos coram Domino, et faciet tam pro peccato, quam in holocaustum. 
+    17: Arietem vero immolabit hostiam pacificam Domino, offerens simul canistrum azymorum, et libamenta quae ex more debentur. 
+    18: Tunc radetur nazaraeus ante ostium tabernaculi foederis caesarie consecrationis suae : tolletque capillos ejus, et ponet super ignem, qui est suppositus sacrificio pacificorum : 
+    19: et armum coctum arietis, tortamque absque fermento unam de canistro, et laganum azymum unum, et tradet in manus nazaraei, postquam rasum fuerit caput ejus. 
+    20: Susceptaque rursum ab eo, elevabit in conspectu Domini : et sanctificata sacerdotis erunt, sicut pectusculum, quod separari jussum est, et femur. Post haec, potest bibere nazaraeus vinum.
+    21: Ista est lex nazaraei, cum voverit oblationem suam Domino tempore consecrationis suae, exceptis his, quae invenerit manus ejus : juxta quod mente devoverat, ita faciet ad perfectionem sanctificationis suae. 
+    22: Locutusque est Dominus ad Moysen, dicens : 
+    23: Loquere Aaron et filiis ejus : Sic benedicetis filiis Israel, et dicetis eis : 
+    24: Benedicat tibi Dominus, et custodiat te. 
+    25: Ostendat Dominus faciem suam tibi, et misereatur tui.
+    26: Convertat Dominus vultum suum ad te, et det tibi pacem. 
+    27: Invocabuntque nomen meum super filios Israel, et ego benedicam eis.
+
+  Chapter 7.
+
+    1: Factum est autem in die qua complevit Moyses tabernaculum, et erexit illud, unxitque et sanctificavit cum omnibus vasis suis, altare similiter et omnia vasa ejus : 
+    2: obtulerunt principes Israel et capita familiarum, qui erant per singulas tribus, praefectique eorum, qui numerati fuerant, 
+    3: munera coram Domino sex plaustra tecta cum duodecim bobus. Unum plaustrum obtulere duo duces, et unum bovem singuli, obtuleruntque ea in conspectu tabernaculi. 
+    4: Ait autem Dominus ad Moysen : 
+    5: Suscipe ab eis ut serviant in ministerio tabernaculi, et trades ea Levitis juxta ordinem ministerii sui.
+    6: Itaque cum suscepisset Moyses plaustra et boves, tradidit eos Levitis. 
+    7: Duo plaustra et quatuor boves dedit filiis Gerson, juxta id quod habebant necessarium. 
+    8: Quatuor alia plaustra et octo boves dedit filiis Merari secundum officia et cultum suum, sub manu Ithamar filii Aaron sacerdotis. 
+    9: Filiis autem Caath non dedit plaustra et boves : quia in sanctuario serviunt, et onera propriis portant humeris. 
+    10: Igitur obtulerunt duces in dedicationem altaris, die qua unctum est, oblationem suam ante altare.
+    11: Dixitque Dominus ad Moysen : Singuli duces per singulos dies offerant munera in dedicationem altaris. 
+    12: Primo die obtulit oblationem suam Nahasson filius Aminadab de tribu Juda : 
+    13: fueruntque in ea acetabulum argenteum pondo centum triginta siclorum, phiala argentea habens septuaginta siclos, juxta pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium : 
+    14: mortariolum ex decem siclis aureis plenum incenso : 
+    15: bovem de armento, et arietem, et agnum anniculum in holocaustum :
+    16: hircumque pro peccato : 
+    17: et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Haec est oblatio Nahasson filii Aminadab. 
+    18: Secundo die obtulit Nathanael filius Suar, dux de tribu Issachar, 
+    19: acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, juxta pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium : 
+    20: mortariolum aureum habens decem siclos plenum incenso :
+    21: bovem de armento, et arietem, et agnum anniculum in holocaustum : 
+    22: hircumque pro peccato : 
+    23: et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Haec fuit oblatio Nathanael filii Suar. 
+    24: Tertio die princeps filiorum Zabulon, Eliab filius Helon, 
+    25: obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum similia conspersa oleo in sacrificium :
+    26: mortariolum aureum appendens decem siclos, plenum incenso : 
+    27: bovem de armento, et arietem, et agnum anniculum in holocaustum : 
+    28: hircumque pro peccato : 
+    29: et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Haec est oblatio Eliab filii Helon. 
+    30: Die quarto princeps filiorum Ruben, Elisur filius Sedeur,
+    31: obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : 
+    32: mortariolum aureum appendens decem siclos, plenum incenso : 
+    33: bovem de armento, et arietem, et agnum anniculum in holocaustum : 
+    34: hircumque pro peccato : 
+    35: et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Haec fuit oblatio Elisur filii Sedeur.
+    36: Die quinto princeps filiorum Simeon, Salamiel filius Surisaddai, 
+    37: obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : 
+    38: mortariolum aureum appendens decem siclos, plenum incenso : 
+    39: bovem de armento, et arietem, et agnum anniculum in holocaustum : 
+    40: hircumque pro peccato :
+    41: et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Haec fuit oblatio Salamiel filii Surisaddai. 
+    42: Die sexto princeps filiorum Gad, Eliasaph filius Duel, 
+    43: obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : 
+    44: mortariolum aureum appendens decem siclos, plenum incenso : 
+    45: bovem de armento, et arietem, et agnum anniculum in holocaustum :
+    46: hircumque pro peccato : 
+    47: et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Haec fuit oblatio Eliasaph filii Duel. 
+    48: Die septimo princeps filiorum Ephraim, Elisama filius Ammiud, 
+    49: obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : 
+    50: mortariolum aureum appendens decem siclos, plenum incenso :
+    51: bovem de armento, et arietem, et agnum anniculum in holocaustum : 
+    52: hircumque pro peccato : 
+    53: et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Haec fuit oblatio Elisama filii Ammiud. 
+    54: Die octavo, princeps filiorum Manasse, Gamaliel filius Phadassur, 
+    55: obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum :
+    56: mortariolum aureum appendens decem siclos, plenum incenso : 
+    57: bovem de armento, et arietem, et agnum anniculum in holocaustum : 
+    58: hircumque pro peccato : 
+    59: et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Haec fuit oblatio Gamaliel filii Phadassur. 
+    60: Die nono princeps filiorum Benjamin, Abidan filius Gedeonis,
+    61: obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : 
+    62: mortariolum aureum appendens decem siclos, plenum incenso : 
+    63: bovem de armento, et arietem, et agnum anniculum in holocaustum : 
+    64: hircumque pro peccato : 
+    65: et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Haec fuit oblatio Abidan filii Gedeonis.
+    66: Die decimo princeps filiorum Dan, Ahiezer filius Ammisaddai, 
+    67: obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : 
+    68: mortariolum aureum appendens decem siclos, plenum incenso : 
+    69: bovem de armento, et arietem, et agnum anniculum in holocaustum : 
+    70: hircumque pro peccato :
+    71: et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Haec fuit oblatio Ahiezer filii Ammisaddai. 
+    72: Die undecimo princeps filiorum Aser, Phegiel filius Ochran, 
+    73: obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : 
+    74: mortariolum aureum appendens decem siclos, plenum incenso : 
+    75: bovem de armento, et arietem, et agnum anniculum in holocaustum :
+    76: hircumque pro peccato : 
+    77: et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Haec fuit oblatio Phegiel filii Ochran. 
+    78: Die duodecimo princeps filiorum Nephthali, Ahira filius Enan, 
+    79: obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum : 
+    80: mortariolum aureum appendens decem siclos, plenum incenso :
+    81: bovem de armento, et arietem, et agnum anniculum in holocaustum : 
+    82: hircumque pro peccato : 
+    83: et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Haec fuit oblatio Ahira filii Enan. 
+    84: Haec in dedicatione altaris oblata sunt a principibus Israel, in die qua consecratum est : acetabula argentea duodecim : phialae argenteae duodecim : mortariola aurea duodecim : 
+    85: ita ut centum triginta siclos argenti haberet unum acetabulum, et septuaginta siclos haberet una phiala : id est, in commune vasorum omnium ex argento sicli duo millia quadringenti, pondere sanctuarii :
+    86: mortariola aurea duodecim plena incenso, denos siclos appendentia pondere sanctuarii : id est, simul auri sicli centum viginti : 
+    87: boves de armento in holocaustum duodecim, arietes duodecim, agni anniculi duodecim, et libamenta eorum : hirci duodecim pro peccato. 
+    88: In hostias pacificorum, boves viginti quatuor, arietes sexaginta, hirci sexaginta, agni anniculi sexaginta. Haec oblata sunt in dedicatione altaris, quando unctum est. 
+    89: Cumque ingrederetur Moyses tabernaculum foederis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos cherubim, unde et loquebatur ei.
+
+  Chapter 8.
+
+    1: Locutusque est Dominus ad Moysen, dicens : 
+    2: Loquere Aaron, et dices ad eum : Cum posueris septem lucernas, candelabrum in australi parte erigatur. Hoc igitur praecipe ut lucernae contra boream e regione respiciant ad mensam panum propositionis, contra eam partem, quam candelabrum respicit, lucere debebunt. 
+    3: Fecitque Aaron, et imposuit lucernas super candelabrum, ut praeceperat Dominus Moysi. 
+    4: Haec autem erat factura candelabri, ex auro ductili, tam medius stipes, quam cuncta quae ex utroque calamorum latere nascebantur : juxta exemplum quod ostendit Dominus Moysi, ita operatus est candelabrum. 
+    5: Et locutus est Dominus ad Moysen, dicens :
+    6: Tolle Levitas de medio filiorum Israel, et purificabis eos 
+    7: juxta hunc ritum : aspergantur aqua lustrationis, et radant omnes pilos carnis suae. Cumque laverint vestimenta sua, et mundati fuerint, 
+    8: tollent bovem de armentis, et libamentum ejus similam oleo conspersam : bovem autem alterum de armento tu accipies pro peccato : 
+    9: et applicabis Levitas coram tabernaculo foederis, convocata omni multitudine filiorum Israel. 
+    10: Cumque Levitae fuerint coram Domino, ponent filii Israel manus suas super eos.
+    11: Et offeret Aaron Levitas, munus in conspectu Domini a filiis Israel, ut serviant in ministerio ejus. 
+    12: Levitae quoque ponent manus suas super capita boum, e quibus unum facies pro peccato, et alterum in holocaustum Domini, ut depreceris pro eis. 
+    13: Statuesque Levitas in conspectu Aaron et filiorum ejus, et consecrabis oblatos Domino, 
+    14: ac separabis de medio filiorum Israel, ut sint mei. 
+    15: Et postea ingredientur tabernaculum foederis, ut serviant mihi. Sicque purificabis et consecrabis eos in oblationem Domini : quoniam dono donati sunt mihi a filiis Israel.
+    16: Pro primogenitis quae aperiunt omnem vulvam in Israel, accepi eos. 
+    17: Mea sunt enim omnia primogenita filiorum Israel, tam ex hominibus quam ex jumentis. Ex die quo percussi omne primogenitum in terra Aegypti, sanctificavi eos mihi : 
+    18: et tuli Levitas pro cunctis primogenitis filiorum Israel, 
+    19: tradidique eos dono Aaron et filiis ejus de medio populi, ut serviant mihi pro Israel in tabernaculo foederis, et orent pro eis ne sit in populo plaga, si ausi fuerint accedere ad sanctuarium. 
+    20: Feceruntque Moyses et Aaron et omnis multitudo filiorum Israel super Levitas quae praeceperat Dominus Moysi :
+    21: purificatique sunt, et laverunt vestimenta sua. Elevavitque eos Aaron in conspectu Domini, et oravit pro eis, 
+    22: ut purificati ingrederentur ad officia sua in tabernaculum foederis coram Aaron et filiis ejus. Sicut praeceperat Dominus Moysi de Levitis, ita factum est. 
+    23: Locutusque est Dominus ad Moysen, dicens : 
+    24: Haec est lex Levitarum : a viginti quinque annis et supra, ingredientur ut ministrent in tabernaculo foederis. 
+    25: Cumque quinquagesimum annum aetatis impleverint, servire cessabunt,
+    26: eruntque ministri fratrum suorum in tabernaculo foederis, ut custodiant quae sibi fuerunt commendata : opera autem ipsa non faciant. Sic dispones Levitis in custodiis suis.
+
+End of day 32.

@@ -1,0 +1,77 @@
+Day 177:
+
+Reading Psalms, chapters ['133', '134', '135', '136']:
+
+  Chapter 133.
+
+    1: Canticum graduum. Ecce nunc benedicite Dominum, omnes servi Domini : qui statis in domo Domini, in atriis domus Dei nostri. 
+    2: In noctibus extollite manus vestras in sancta, et benedicite Dominum. 
+    3: Benedicat te Dominus ex Sion, qui fecit caelum et terram.
+
+  Chapter 134.
+
+    1: Alleluja. Laudate nomen Dominum; laudate, servi, Dominum : 
+    2: qui statis in domo Domini, in atriis domus Dei nostri. 
+    3: Laudate Dominum, quia bonus Dominus; psallite nomini ejus, quoniam suave. 
+    4: Quoniam Jacob elegit sibi Dominus, Israel in possessionem sibi. 
+    5: Quia ego cognovi quod magnus est Dominus, et Deus noster prae omnibus diis.
+    6: Omnia quaecumque voluit Dominus fecit, in caelo, in terra, in mari et in omnibus abyssis. 
+    7: Educens nubes ab extremo terrae, fulgura in pluviam fecit; qui producit ventos de thesauris suis. 
+    8: Qui percussit primogenita Aegypti, ab homine usque ad pecus. 
+    9: Et misit signa et prodigia in medio tui, Aegypte, in Pharaonem, et in omnes servos ejus. 
+    10: Qui percussit gentes multas, et occidit reges fortes :
+    11: Sehon, regem Amorrhaeorum, et Og, regem Basan, et omnia regna Chanaan; 
+    12: et dedit terram eorum haereditatem, haereditatem Israel populo suo. 
+    13: Domine, nomen tuum in aeternum; Domine, memoriale tuum in generationem et generationem. 
+    14: Quia judicabit Dominus populum suum, et in servis suis deprecabitur. 
+    15: Simulacra gentium argentum et aurum, opera manuum hominum.
+    16: Os habent, et non loquentur; oculos habent, et non videbunt. 
+    17: Aures habent, et non audient; neque enim est spiritus in ore ipsorum. 
+    18: Similes illis fiant qui faciunt ea, et omnes qui confidunt in eis. 
+    19: Domus Israel, benedicite Domino; domus Aaron, benedicite Domino. 
+    20: Domus Levi, benedicite Domino; qui timetis Dominum, benedicite Domino.
+    21: Benedictus Dominus ex Sion, qui habitat in Jerusalem.
+
+  Chapter 135.
+
+    1: Alleluja. Confitemini Domino, quoniam bonus, quoniam in aeternum misericordia ejus. 
+    2: Confitemini Deo deorum, quoniam in aeternum misericordia ejus. 
+    3: Confitemini Domino dominorum, quoniam in aeternum misericordia ejus. 
+    4: Qui facit mirabilia magna solus, quoniam in aeternum misericordia ejus. 
+    5: Qui fecit caelos in intellectu, quoniam in aeternum misericordia ejus.
+    6: Qui firmavit terram super aquas, quoniam in aeternum misericordia ejus. 
+    7: Qui fecit luminaria magna, quoniam in aeternum misericordia ejus : 
+    8: solem in potestatem diei, quoniam in aeternum misericordia ejus; 
+    9: lunam et stellas in potestatem noctis, quoniam in aeternum misericordia ejus. 
+    10: Qui percussit Aegyptum cum primogenitis eorum, quoniam in aeternum misericordia ejus.
+    11: Qui eduxit Israel de medio eorum, quoniam in aeternum misericordia ejus, 
+    12: in manu potenti et brachio excelso, quoniam in aeternum misericordia ejus. 
+    13: Qui divisit mare Rubrum in divisiones, quoniam in aeternum misericordia ejus; 
+    14: et eduxit Israel per medium ejus, quoniam in aeternum misericordia ejus; 
+    15: et excussit Pharaonem et virtutem ejus in mari Rubro, quoniam in aeternum misericordia ejus.
+    16: Qui traduxit populum suum per desertum, quoniam in aeternum misericordia ejus. 
+    17: Qui percussit reges magnos, quoniam in aeternum misericordia ejus; 
+    18: et occidit reges fortes, quoniam in aeternum misericordia ejus : 
+    19: Sehon, regem Amorrhaeorum, quoniam in aeternum misericordia ejus; 
+    20: et Og, regem Basan, quoniam in aeternum misericordia ejus;
+    21: et dedit terram eorum haereditatem, quoniam in aeternum misericordia ejus; 
+    22: haereditatem Israel, servo suo, quoniam in aeternum misericordia ejus. 
+    23: Quia in humilitate nostra memor fuit nostri, quoniam in aeternum misericordia ejus; 
+    24: et redimit nos ab inimicis nostris, quoniam in aeternum misericordia ejus. 
+    25: Qui dat escam omni carni, quoniam in aeternum misericordia ejus.
+    26: Confitemini Deo caeli, quoniam in aeternum misericordia ejus. 
+    27: Confitemini Domino dominorum, quoniam in aeternum misericordia ejus.
+
+  Chapter 136.
+
+    1: Psalmus David, Jeremiae. Super flumina Babylonis illic sedimus et flevimus, cum recordaremur Sion. 
+    2: In salicibus in medio ejus suspendimus organa nostra; 
+    3: quia illic interrogaverunt nos, qui captivos duxerunt nos, verba cantionum; et qui abduxerunt nos : Hymnum cantate nobis de canticis Sion. 
+    4: Quomodo cantabimus canticum Domini in terra aliena? 
+    5: Si oblitus fuero tui, Jerusalem, oblivioni detur dextera mea.
+    6: Adhaereat lingua mea faucibus meis, si non meminero tui; si non proposuero Jerusalem in principio laetitiae meae. 
+    7: Memor esto, Domine, filiorum Edom, in die Jerusalem, qui dicunt : Exinanite, exinanite usque ad fundamentum in ea. 
+    8: Filia Babylonis misera! beatus qui retribuet tibi retributionem tuam quam retribuisti nobis. 
+    9: Beatus qui tenebit, et allidet parvulos tuos ad petram.
+
+End of day 177.

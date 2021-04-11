@@ -1,0 +1,146 @@
+Day 187:
+
+Reading Proverbs, chapters ['21', '22', '23', '24']:
+
+  Chapter 21.
+
+    1: Sicut divisiones aquarum, ita cor regis in manu Domini; quocumque voluerit inclinabit illud. 
+    2: Omnis via viri recta sibi videtur, appendit autem corda Dominus. 
+    3: Facere misericordiam et judicium magis placet Domino quam victimae. 
+    4: Exaltatio oculorum est dilatatio cordis; lucerna impiorum peccatum. 
+    5: Cogitationes robusti semper in abundantia, omnis autem piger semper in egestate est.
+    6: Qui congregat thesauros lingua mendacii vanus et excors est, et impingetur ad laqueos mortis. 
+    7: Rapinae impiorum detrahent eos, quia noluerunt facere judicium. 
+    8: Perversa via viri aliena est; qui autem mundus est, rectum opus ejus. 
+    9: Melius est sedere in angulo domatis, quam cum muliere litigiosa, et in domo communi. 
+    10: Anima impii desiderat malum : non miserebitur proximo suo.
+    11: Mulctato pestilente, sapientior erit parvulus, et si sectetur sapientem, sumet scientiam. 
+    12: Excogitat justus de domo impii, ut detrahat impios a malo. 
+    13: Qui obturat aurem suam ad clamorem pauperis, et ipse clamabit, et non exaudietur. 
+    14: Munus absconditum extinguit iras, et donum in sinu indignationem maximam. 
+    15: Gaudium justo est facere judicium, et pavor operantibus iniquitatem.
+    16: Vir qui erraverit a via doctrinae in coetu gigantum commorabitur. 
+    17: Qui diligit epulas in egestate erit; qui amat vinum et pinguia non ditabitur. 
+    18: Pro justo datur impius, et pro rectis iniquus. 
+    19: Melius est habitare in terra deserta, quam cum muliere rixosa et iracunda. 
+    20: Thesaurus desiderabilis, et oleum in habitaculo justi : et imprudens homo dissipabit illud.
+    21: Qui sequitur justitiam et misericordiam inveniet vitam, justitiam, et gloriam. 
+    22: Civitatem fortium ascendit sapiens, et destruxit robur fiduciae ejus. 
+    23: Qui custodit os suum et linguam suam custodit ab angustiis animam suam. 
+    24: Superbus et arrogans vocatur indoctus, qui in ira operatur superbiam. 
+    25: Desideria occidunt pigrum : noluerunt enim quidquam manus ejus operari.
+    26: Tota die concupiscit et desiderat; qui autem justus est tribuet, et non cessabit. 
+    27: Hostiae impiorum abominabiles, quia offeruntur ex scelere. 
+    28: Testis mendax peribit; vir obediens loquetur victoriam. 
+    29: Vir impius procaciter obfirmat vultum suum; qui autem rectus est corrigit viam suam. 
+    30: Non est sapientia, non est prudentia, non est consilium contra Dominum.
+    31: Equus paratur ad diem belli; Dominus autem salutem tribuit.
+
+  Chapter 22.
+
+    1: Melius est nomen bonum quam divitiae multae; super argentum et aurum gratia bona. 
+    2: Dives et pauper obviaverunt sibi : utriusque operator est Dominus. 
+    3: Callidus vidit malum, et abscondit se; innocens pertransiit, et afflictus est damno. 
+    4: Finis modestiae timor Domini, divitiae, et gloria, et vita. 
+    5: Arma et gladii in via perversi; custos autem animae suae longe recedit ab eis.
+    6: Proverbium est : adolescens juxta viam suam; etiam cum senuerit, non recedet ab ea. 
+    7: Dives pauperibus imperat, et qui accipit mutuum servus est foenerantis. 
+    8: Qui seminat iniquitatem metet mala, et virga irae suae consummabitur. 
+    9: Qui pronus est ad misericordiam benedicetur, de panibus enim suis dedit pauperi. Victoriam et honorem acquiret qui dat munera; animam autem aufert accipientium. 
+    10: Ejice derisorem, et exibit cum eo jurgium, cessabuntque causae et contumeliae.
+    11: Qui diligit cordis munditiam, propter gratiam labiorum suorum habebit amicum regem. 
+    12: Oculi Domini custodiunt scientiam, et supplantantur verba iniqui. 
+    13: Dicit piger : Leo et foris, in medio platearum occidendus sum. 
+    14: Fovea profunda os alienae; cui iratus est Dominus, incidet in eam. 
+    15: Stultitia colligata est in corde pueri, et virga disciplinae fugabit eam.
+    16: Qui calumniatur pauperem ut augeat divitias suas, dabit ipse ditiori, et egebit. 
+    17: Inclina aurem tuam, et audi verba sapientium, appone autem cor ad doctrinam meam : 
+    18: quae pulchra erit tibi cum servaveris eam in ventre tuo, et redundabit in labiis tuis; 
+    19: ut sit in Domino fiducia tua : unde et ostendi eam tibi hodie. 
+    20: Ecce descripsi eam tibi tripliciter, in cogitationibus et scientia;
+    21: ut ostenderem tibi firmitatem et eloquia veritatis, respondere ex his illis qui miserunt te. 
+    22: Non facias violentiam pauperi quia pauper est, neque conteras egenum in porta; 
+    23: quia judicabit Dominus causam ejus, et configet eos qui confixerunt animam ejus. 
+    24: Noli esse amicus homini iracundo, neque ambules cum viro furioso; 
+    25: ne forte discas semitas ejus, et sumas scandalum animae tuae.
+    26: Noli esse cum his qui defigunt manus suas, et qui vades se offerunt pro debitis; 
+    27: si enim non habes unde restituas, quid causae est ut tollat operimentum de cubili tuo? 
+    28: Ne transgrediaris terminos antiquos, quos posuerunt patres tui. 
+    29: Vidisti virum velocem in opere suo? coram regibus stabit, nec erit ante ignobiles.
+
+  Chapter 23.
+
+    1: Quando sederis ut comedas cum principe, diligenter attende quae apposita sunt ante faciem tuam. 
+    2: Et statue cultrum in gutture tuo; si tamen habes in potestate animam tuam. 
+    3: Ne desideres de cibis ejus, in quo est panis mendacii. 
+    4: Noli laborare ut diteris, sed prudentiae tuae ponde modum. 
+    5: Ne erigas oculos tuos ad opes quas non potes habere, quia facient sibi pennas quasi aquilae et volabunt in caelum.
+    6: Ne comedas cum homine invido, et ne desideres cibos ejus; 
+    7: quoniam in similitudinem arioli et conjectoris, aestimat quod ignorat. Comede et bibe, dicet tibi; et mens ejus non est tecum. 
+    8: Cibos, quos comederas evomes, et perdes pulchros sermones tuos. 
+    9: In auribus insipientium ne loquaris, qui despicient doctrinam eloquii tui. 
+    10: Ne attingas parvulorum terminos, et agrum pupillorum ne introeas :
+    11: propinquus enim illorum fortis est, et ipse judicabit contra te causam illorum. 
+    12: Ingrediatur ad doctrinam cor tuum, et aures tuae ad verba scientiae. 
+    13: Noli subtrahere a puero disciplinam; si enim percusseris eum virga, non morietur. 
+    14: Tu virga percuties eum, et animam ejus de inferno liberabis. 
+    15: Fili mi, si sapiens fuerit animus tuus, gaudebit tecum cor meum;
+    16: et exsultabunt renes mei, cum locuta fuerint rectum labia tua. 
+    17: Non aemuletur cor tuum peccatores, sed in timore Domini esto tota die; 
+    18: quia habebis spem in novissimo, et praestolatio tua non auferetur. 
+    19: Audi, fili mi, et esto sapiens, et dirige in via animum tuum. 
+    20: Noli esse in conviviis potatorum, nec in comessationibus eorum qui carnes ad vescendum conferunt;
+    21: quia vacantes potibus et dantes symbola consumentur, et vestietur pannis dormitatio. 
+    22: Audi patrem tuum, qui genuit te, et ne contemnas cum senuerit mater tua. 
+    23: Veritatem eme, et noli vendere sapientiam, et doctrinam, et intelligentiam. 
+    24: Exsultat gaudio pater justi; qui sapientem genuit laetabitur in eo. 
+    25: Gaudeat pater tuus et mater tua, et exsultet quae genuit te.
+    26: Praebe, fili mi, cor tuum mihi, et oculi tui vias meas custodiant. 
+    27: Fovea enim profunda est meretrix, et puteus angustus aliena. 
+    28: Insidiatur in via quasi latro, et quos incautos viderit interficiet. 
+    29: Cui vae? cujus patri vae? cui rixae? cui foveae? cui sine causa vulnera? cui suffusio oculorum? 
+    30: nonne his qui commorantur in vino, et student calicibus epotandis?
+    31: Ne intuearis vinum quando flavescit, cum splenduerit in vitro color ejus : ingreditur blande, 
+    32: sed in novissimo mordebit ut coluber, et sicut regulus venena diffundet. 
+    33: Oculi tui videbunt extraneas, et cor tuum loquetur perversa. 
+    34: Et eris sicut dormiens in medio mari, et quasi sopitus gubernator, amisso clavo. 
+    35: Et dices : Verberaverunt me, sed non dolui; traxerunt me, et ego non sensi. Quando evigilabo, et rursus vina reperiam?
+
+  Chapter 24.
+
+    1: Ne aemuleris viros malos, nec desideres esse cum eis; 
+    2: quia rapinas meditatur mens eorum, et fraudes labia eorum loquuntur. 
+    3: Sapientia aedificabitur domus, et prudentia roborabitur. 
+    4: In doctrina replebuntur cellaria, universa substantia pretiosa et pulcherrima. 
+    5: Vir sapiens fortis est, et vir doctus robustus et validus;
+    6: quia cum dispositione initur bellum, et erit salus ubi multa consilia sunt. 
+    7: Excelsa stulto sapientia; in porta non aperiet os suum. 
+    8: Qui cogitat mala facere stultus vocabitur : 
+    9: cogitatio stulti peccatum est, et abominatio hominum detractor. 
+    10: Si desperaveris lassus in die angustiae, imminuetur fortitudo tua.
+    11: Erue eos qui ducuntur ad mortem, et qui trahuntur ad interitum liberare ne cesses. 
+    12: Si dixeris : Vires non suppetunt; qui inspector est cordis ipse intelligit; et servatorem animae tuae nihil fallit, reddetque homini juxta opera sua. 
+    13: Comede, fili mi, mel, quia bonum est, et favum dulcissimum gutturi tuo. 
+    14: Sic et doctrina sapientiae animae tuae; quam cum inveneris, habebis in novissimis spem, et spes tua non peribit. 
+    15: Ne insidieris, et quaeras impietatem in domo justi, neque vastes requiem ejus.
+    16: Septies enim cadet justus, et resurget : impii autem corruent in malum. 
+    17: Cum ceciderit inimicus tuus ne gaudeas, et in ruina ejus ne exsultet cor tuum : 
+    18: ne forte videat Dominus, et displiceat ei, et auferat ab eo iram suam. 
+    19: Ne contendas cum pessimis, nec aemuleris impios; 
+    20: quoniam non habent futurorum spem mali, et lucerna impiorum extinguetur.
+    21: Time Dominum, fili mi, et regem, et cum detractoribus non commiscearis; 
+    22: quoniam repente consurget perditio eorum, et ruinam utriusque quis novit? 
+    23: Haec quoque sapientibus. Cognoscere personam in judicio non est bonum. 
+    24: Qui dicunt impio : Justus es, maledicent eis populi, et detestabuntur eos tribus. 
+    25: Qui arguunt eum laudabuntur, et super ipsos veniet benedictio.
+    26: Labia deosculabitur qui recta verba respondet. 
+    27: Praepara foris opus tuum, et diligenter exerce agrum tuum, ut postea aedifices domum tuam. 
+    28: Ne sis testis frustra contra proximum tuum, nec lactes quemquam labiis tuis. 
+    29: Ne dicas : Quomodo fecit mihi, sic faciam ei; reddam unicuique secundum opus suum. 
+    30: Per agrum hominis pigri transivi, et per vineam viri stulti :
+    31: et ecce totum repleverant urticae, et operuerant superficiem ejus spinae, et maceria lapidum destructa erat. 
+    32: Quod cum vidissem, posui in corde meo, et exemplo didici disciplinam. 
+    33: Parum, inquam, dormies; modicum dormitabis, pauxillum manus conseres ut quiescas : 
+    34: et veniet tibi quasi cursor egestas, et mendicitas quasi vir armatus.
+
+End of day 187.

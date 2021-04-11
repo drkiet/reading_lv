@@ -1,0 +1,193 @@
+Day 294:
+
+Reading Mark, chapters ['13', '14', '15', '16']:
+
+  Chapter 13.
+
+    1: Et cum egrederetur de templo, ait illi unus ex discipulis suis : Magister, aspice quales lapides, et quales structurae. 
+    2: Et respondens Jesus, ait illi : Vides has omnes magnas aedificationes? Non relinquetur lapis super lapidem, qui non destruatur. 
+    3: Et cum sederet in monte Olivarum contra templum, interrogabant eum separatim Petrus, et Jacobus, et Joannes, et Andreas : 
+    4: Dic nobis, quando ista fient? et quod signum erit, quando haec omnia incipient consummari? 
+    5: Et respondens Jesus coepit dicere illis : Videte ne quid vos seducat :
+    6: multi enim venient in nomine meo, dicentes quia ego sum : et multos seducent. 
+    7: Cum audieritis autem bella, et opiniones bellorum, ne timueritis : oportet enim haec fieri : sed nondum finis. 
+    8: Exsurget enim gens contra gentem, et regnum super regnum, et erunt terraemotus per loca, et fames. Initium dolorum haec. 
+    9: Videte autem vosmetipsos. Tradent enim vos in consiliis, et in synagogis vapulabitis, et ante praesides et reges stabitis propter me, in testimonium illis. 
+    10: Et in omnes gentes primum oportet praedicari Evangelium.
+    11: Et cum duxerint vos tradentes, nolite praecogitare quid loquamini : sed quod datum vobis fuerit in illa hora, id loquimini : non enim vos estis loquentes, sed Spiritus Sanctus. 
+    12: Tradet autem frater fratrem in mortem, et pater filium : et consurgent filii in parentes, et morte afficient eos. 
+    13: Et eritis odio omnibus propter nomen meum. Qui autem sustinuerit in finem, hic salvus erit. 
+    14: Cum autem videritis abominationem desolationis stantem, ubi non debet, qui legit, intelligat : tunc qui in Judaea sunt, fugiant in montes : 
+    15: et qui super tectum, ne descendat in domum, nec introeat ut tollat quid de domo sua :
+    16: et qui in agro erit, non revertatur retro tollere vestimentum suum. 
+    17: Vae autem praegnantibus et nutrientibus in illis diebus. 
+    18: Orate vero ut hieme non fiant. 
+    19: Erunt enim dies illi tribulationes tales quales non fuerunt ab initio creaturae, quam condidit Deus usque nunc, neque fient. 
+    20: Et nisi breviasset Dominus dies, non fuisset salva omnis caro : sed propter electos, quos elegit, breviavit dies.
+    21: Et tunc si quis vobis dixerit : Ecce hic est Christus, ecce illic, ne credideritis. 
+    22: Exsurgent enim pseudochristi et pseudoprophetae, et dabunt signa et portenta ad seducendos, si fieri potest, etiam electos. 
+    23: Vos ergo videte : ecce praedixi vobis omnia. 
+    24: Sed in illis diebus, post tribulationem illam, sol contenebrabitur, et luna non dabit splendorem suum : 
+    25: et stellae caeli erunt decidentes, et virtutes, quae in caelis sunt, movebuntur.
+    26: Et tunc videbunt Filium hominis venientem in nubibus cum virtute multa et gloria. 
+    27: Et tunc mittet angelos suos, et congregabit electos suos a quatuor ventis, a summo terrae usque ad summum caeli. 
+    28: A ficu autem discite parabolam. Cum jam ramus ejus tener fuerit, et nata fuerint folia, cognoscitis quia in proximo sit aestas : 
+    29: sic et vos cum videritis haec fieri, scitote quod in proximo sit, in ostiis. 
+    30: Amen dico vobis, quoniam non transibit generatio haec, donec omnia ista fiant.
+    31: Caelum et terra transibunt, verba autem mea non transibunt. 
+    32: De die autem illo vel hora nemo scit, neque angeli in caelo, neque Filius, nisi Pater. 
+    33: Videte, vigilate, et orate : nescitis enim quando tempus sit. 
+    34: Sicut homo qui peregre profectus reliquit domum suam, et dedit servis suis potestatem cujusque operis, et janitori praecepit ut vigilet, 
+    35: vigilate ergo ( nescitis enim quando dominus domus veniat : sero, an media nocte, an galli cantu, an mane),
+    36: ne, cum venerit repente, inveniat vos dormientes. 
+    37: Quod autem vobis dico, omnibus dico : Vigilate.
+
+  Chapter 14.
+
+    1: Erat autem Pascha et azyma post biduum : et quaerebant summi sacerdotes et scribae quomodo eum dolo tenerent, et occiderent. 
+    2: Dicebant autem : Non in die festo, ne forte tumultus fieret in populo. 
+    3: Et cum esset Bethaniae in domo Simonis leprosi, et recumberet, venit mulier habens alabastrum unguenti nardi spicati pretiosi : et fracto alabastro, effudit super caput ejus. 
+    4: Erant autem quidam indigne ferentes intra semetipsos, et dicentes : Ut quid perditio ista unguenti facta est? 
+    5: poterat enim unguentum istud venundari plus quam trecentis denariis, et dari pauperibus. Et fremebant in eam.
+    6: Jesus autem dixit : Sinite eam, quid illi molesti estis? Bonum opus operata est in me : 
+    7: semper enim pauperes habetis vobiscum : et cum volueritis, potestis illis benefacere : me autem non semper habetis. 
+    8: Quod habuit haec, fecit : praevenit ungere corpus meum in sepulturam. 
+    9: Amen dico vobis : Ubicumque praedicatum fuerit Evangelium istud in universo mundo, et quod fecit haec, narrabitur in memoriam ejus. 
+    10: Et Judas Iscariotes, unus de duodecim, abiit ad summos sacerdotes, ut proderet eum illis.
+    11: Qui audientes gavisi sunt : et promiserunt ei pecuniam se daturos. Et quaerebat quomodo illum opportune traderet. 
+    12: Et primo die azymorum quando Pascha immolabant, dicunt ei discipuli : Quo vis eamus, et paremus tibi ut manduces Pascha? 
+    13: Et mittit duos ex discipulis suis, et dicit eis : Ite in civitatem, et occurret vobis homo lagenam aquae bajulans : sequimini eum, 
+    14: et quocumque introierit, dicite domino domus, quia magister dicit : Ubi est refectio mea, ubi Pascha cum discipulis meis manducem? 
+    15: Et ipse vobis demonstrabit coenaculum grande, stratum : et illic parate nobis.
+    16: Et abierunt discipuli ejus, et venerunt in civitatem : et invenerunt sicut dixerat illis, et paraverunt Pascha. 
+    17: Vespere autem facto, venit cum duodecim. 
+    18: Et discumbentibus eis, et manducantibus, ait Jesus : Amen dico vobis, quia unus ex vobis tradet me, qui manducat mecum. 
+    19: At illi coeperunt contristari, et dicere ei singulatim : Numquid ego? 
+    20: Qui ait illis : Unus ex duodecim, qui intingit mecum manum in catino.
+    21: Et Filius quidem hominis vadit sicut scriptum est de eo : vae autem homini illi per quem Filius hominis tradetur! bonum erat ei, si non esset natus homo ille. 
+    22: Et manducantibus illis, accepit Jesus panem : et benedicens fregit, et dedit eis, et ait : Sumite, hoc est corpus meum. 
+    23: Et accepto calice, gratias agens dedit eis : et biberunt ex illo omnes. 
+    24: Et ait illis : Hic est sanguis meus novi testamenti, qui pro multis effundetur. 
+    25: Amen dico vobis, quia jam non bibam de hoc genimine vitis usque in diem illum, cum illud bibam novum in regno Dei.
+    26: Et hymno dicto exierunt in montem Olivarum. 
+    27: Et ait eis Jesus : Omnes scandalizabimini in me in nocte ista : quia scriptum est : Percutiam pastorem, et dispergentur oves. 
+    28: Sed postquam resurrexero, praecedam vos in Galilaeam. 
+    29: Petrus autem ait illi : Et si omnes scandalizati fuerint in te, sed non ego. 
+    30: Et ait illi Jesus : Amen dico tibi, quia tu hodie in nocte hac, priusquam gallus vocem bis dederit, ter me es negaturus.
+    31: At ille amplius loquebatur : Et si oportuerit me simul commori tibi, non te negabo. Similiter autem et omnes dicebant. 
+    32: Et veniunt in praedium, cui nomen Gethsemani. Et ait discipulis suis : Sedete hic donec orem. 
+    33: Et assumit Petrum, et Jacobum, et Joannem secum : et coepit pavere et taedere. 
+    34: Et ait illis : Tristis est anima mea usque ad mortem : sustinete hic, et vigilate. 
+    35: Et cum processisset paululum, procidit super terram : et orabat ut, si fieri posset, transiret ab eo hora :
+    36: et dixit : Abba pater, omnia tibi possibilia sunt, transfer calicem hunc a me : sed non quod ego volo, sed quod tu. 
+    37: Et venit, et invenit eos dormientes. Et ait Petro : Simon, dormis? non potuisti una hora vigilare? 
+    38: Vigilate et orate, ut non intretis in tentationem. Spiritus quidem promptus est, caro vero infirma. 
+    39: Et iterum abiens oravit, eumdem sermonem dicens. 
+    40: Et reversus, denuo invenit eos dormientes ( erant enim oculi eorum gravati), et ignorabant quid responderent ei.
+    41: Et venit tertio, et ait illis : Dormite jam, et requiescite. Sufficit : venit hora : ecce Filius hominis tradetur in manus peccatorum. 
+    42: Surgite, eamus : ecce qui me tradet, prope est. 
+    43: Et, adhuc eo loquente, venit Judas Iscariotes unus de duodecim, et cum eo turba multa cum gladiis et lignis, a summis sacerdotibus, et scribis, et senioribus. 
+    44: Dederat autem traditor ejus signum eis, dicens : Quemcumque osculatus fuero, ipse est, tenete eum, et ducite caute. 
+    45: Et cum venisset, statim accedens ad eum, ait : Ave Rabbi : et osculatus est eum.
+    46: At illi manus injecerunt in eum, et tenuerunt eum. 
+    47: Unus autem quidam de circumstantibus educens gladium, percussit servum summi sacerdotis : et amputavit illi auriculam. 
+    48: Et respondens Jesus, ait illis : Tamquam ad latronem existis cum gladiis et lignis comprehendere me? 
+    49: quotidie eram apud vos in templo docens, et non me tenuistis. Sed ut impleantur Scripturae. 
+    50: Tunc discipuli ejus relinquentes eum, omnes fugerunt.
+    51: Adolescens autem quidam sequebatur eum amictus sindone super nudo : et tenuerunt eum. 
+    52: At ille rejecta sindone, nudus profugit ab eis. 
+    53: Et adduxerunt Jesum ad summum sacerdotem : et convenerunt omnes sacerdotes, et scribae, et seniores. 
+    54: Petrus autem a longe secutus est eum usque intro in atrium summi sacerdotis : et sedebat cum ministris ad ignem, et calefaciebat se. 
+    55: Summi vero sacerdotes et omne concilium quaerebant adversus Jesum testimonium, ut eum morti traderent, nec inveniebant.
+    56: Multi enim testimonium falsum dicebant adversus eum : et convenientia testimonia non erant. 
+    57: Et quidam surgentes, falsum testimonium ferebant adversus eum, dicentes : 
+    58: Quoniam nos audivimus eum dicentem : Ego dissolvam templum hoc manu factum, et per triduum aliud non manu factum aedificabo. 
+    59: Et non erat conveniens testimonium illorum. 
+    60: Et exsurgens summus sacerdos in medium, interrogavit Jesum, dicens : Non respondes quidquam ad ea quae tibi objiciuntur ab his?
+    61: Ille autem tacebat, et nihil respondit. Rursum summus sacerdos interrogabat eum, et dixit ei : Tu es Christus Filius Dei benedicti? 
+    62: Jesus autem dixit illi : Ego sum : et videbitis Filium hominis sedentem a dextris virtutis Dei, et venientem cum nubibus caeli. 
+    63: Summus autem sacerdos scindens vestimenta sua, ait : Quid adhuc desideramus testes? 
+    64: Audistis blasphemiam : quid vobis videtur? Qui omnes condemnaverunt eum esse reum mortis. 
+    65: Et coeperunt quidam conspuere eum, et velare faciem ejus, et colaphis eum caedere, et dicere ei : Prophetiza : et ministri alapis eum caedebant.
+    66: Et cum esset Petrus in atrio deorsum, venit una ex ancillis summi sacerdotis : 
+    67: et cum vidisset Petrum calefacientem se, aspiciens illum, ait : Et tu cum Jesu Nazareno eras. 
+    68: At ille negavit, dicens : Neque scio, neque novi quid dicas. Et exiit foras ante atrium, et gallus cantavit. 
+    69: Rursus autem cum vidisset illum ancilla, coepit dicere circumstantibus : Quia hic ex illis est. 
+    70: At ille iterum negavit. Et post pusillum rursus qui astabant, dicebant Petro : Vere ex illis es : nam et Galilaeus es.
+    71: Ille autem coepit anathematizare et jurare : Quia nescio hominem istum, quem dicitis. 
+    72: Et statim gallus iterum cantavit. Et recordatus est Petrus verbi, quod dixerat ei Jesus : Priusquam gallus cantet bis, ter me negabis. Et coepit flere.
+
+  Chapter 15.
+
+    1: Et confestim, mane consilium facientes summi sacerdotes cum senioribus, et scribis, et universo concilio, vincientes Jesum, duxerunt, et tradiderunt Pilato. 
+    2: Et interrogavit eum Pilatus : Tu es rex Judaeorum? At ille respondens, ait illi : Tu dicis. 
+    3: Et accusabant eum summi sacerdotes in multis. 
+    4: Pilatus autem rursum interrogavit eum, dicens : Non respondes quidquam? vide in quantis te accusant. 
+    5: Jesus autem amplius nihil respondit, ita ut miraretur Pilatus.
+    6: Per diem autem festum solebat dimittere illis unum ex vinctis, quemcumque petissent. 
+    7: Erat autem qui dicebatur Barrabas, qui cum seditiosis erat vinctus, qui in seditione fecerat homicidium. 
+    8: Et cum ascendisset turba, coepit rogare, sicut semper faciebat illis. 
+    9: Pilatus autem respondit eis, et dixit : Vultis dimittam vobis regem Judaeorum? 
+    10: Sciebat enim quod per invidiam tradidissent eum summi sacerdotes.
+    11: Pontifices autem concitaverunt turbam, ut magis Barabbam dimitteret eis. 
+    12: Pilatus autem iterum respondens, ait illis : Quid ergo vultis faciam regi Judaeorum? 
+    13: At illi iterum clamaverunt : Crucifige eum. 
+    14: Pilatus vero dicebat illis : Quid enim mali fecit? At illi magis clamabant : Crucifige eum. 
+    15: Pilatus autem volens populo satisfacere, dimisit illis Barabbam, et tradidit Jesum flagellis caesum, ut crucifigeretur.
+    16: Milites autem duxerunt eum in atrium praetorii, et convocant totam cohortem, 
+    17: et induunt eum purpura, et imponunt ei plectentes spineam coronam. 
+    18: Et coeperunt salutare eum : Ave rex Judaeorum. 
+    19: Et percutiebant caput ejus arundine : et conspuebant eum, et ponentes genua, adorabant eum. 
+    20: Et postquam illuserunt ei, exuerunt illum purpura, et induerunt eum vestimentis suis : et educunt illum ut crucifigerent eum.
+    21: Et angariaverunt praetereuntem quempiam, Simonem Cyrenaeum venientem de villa, patrem Alexandri et Rufi, ut tolleret crucem ejus. 
+    22: Et perducunt illum in Golgotha locum : quod est interpretatum Calvariae locus. 
+    23: Et dabant ei bibere myrrhatum vinum : et non accepit. 
+    24: Et crucifigentes eum, diviserunt vestimenta ejus, mittentes sortem super eis, quis quid tolleret. 
+    25: Erat autem hora tertia : et crucifixerunt eum.
+    26: Et erat titulus causae ejus inscriptus : Rex Judaeorum. 
+    27: Et cum eo crucifigunt duos latrones : unum a dextris, et alium a sinistris ejus. 
+    28: Et impleta est Scriptura, quae dicit : Et cum iniquis reputatus est. 
+    29: Et praetereuntes blasphemabant eum, moventes capita sua, et dicentes : Vah qui destruis templum Dei, et in tribus diebus reaedificas : 
+    30: salvum fac temetipsum descendens de cruce.
+    31: Similiter et summi sacerdotes illudentes, ad alterutrum cum scribis dicebant : Alios salvos fecit, seipsum non potest salvum facere. 
+    32: Christus rex Israel descendat nunc de cruce, ut videamus, et credamus. Et qui cum eo crucifixi erant, convitiabantur ei. 
+    33: Et facta hora sexta, tenebrae factae sunt per totam terram usque in horam nonam. 
+    34: Et hora nona exclamavit Jesus voce magna, dicens : Eloi, eloi, lamma sabacthani? quod est interpretatum : Deus meus, Deus meus, ut quid dereliquisti me? 
+    35: Et quidam de circumstantibus audientes, dicebant : Ecce Eliam vocat.
+    36: Currens autem unus, et implens spongiam aceto, circumponensque calamo, potum dabat ei, dicens : Sinite, videamus si veniat Elias ad deponendum eum. 
+    37: Jesus autem emissa voce magna expiravit. 
+    38: Et velum templi scissum est in duo, a summo usque deorsum. 
+    39: Videns autem centurio, qui ex adverso stabat, quia sic clamans expirasset, ait : Vere hic homo Filius Dei erat. 
+    40: Erant autem et mulieres de longe aspicientes : inter quas erat Maria Magdalene, et Maria Jacobi minoris, et Joseph mater, et Salome :
+    41: et cum esset in Galilaea, sequebantur eum, et ministrabant ei, et aliae multae, quae simul cum eo ascenderant Jerosolymam. 
+    42: Et cum jam sero esset factum ( quia erat parasceve, quod est ante sabbatum), 
+    43: venit Joseph ab Arimathaea nobilis decurio, qui et ipse erat exspectans regnum Dei, et audacter introivit ad Pilatum, et petiit corpus Jesu. 
+    44: Pilatus autem mirabatur si jam obiisset. Et accersito centurione, interrogavit eum si jam mortuus esset. 
+    45: Et cum cognovisset a centurione, donavit corpus Joseph.
+    46: Joseph autem mercatus sindonem, et deponens eum involvit sindone, et posuit eum in monumento quod erat excisum de petra, et advolvit lapidem ad ostium monumenti. 
+    47: Maria autem Magdalene et Maria Joseph aspiciebant ubi poneretur.
+
+  Chapter 16.
+
+    1: Et cum transisset sabbatum, Maria Magdalene, et Maria Jacobi, et Salome emerunt aromata ut venientes ungerent Jesum. 
+    2: Et valde mane una sabbatorum, veniunt ad monumentum, orto jam sole. 
+    3: Et dicebant ad invicem : Quis revolvet nobis lapidem ab ostio monumenti? 
+    4: Et respicientes viderunt revolutum lapidem. Erat quippe magnus valde. 
+    5: Et introeuntes in monumentum viderunt juvenem sedentem in dextris, coopertum stola candida, et obstupuerunt.
+    6: Qui dicit illis : Nolite expavescere : Jesum quaeritis Nazarenum, crucifixum : surrexit, non est hic, ecce locus ubi posuerunt eum. 
+    7: Sed ite, dicite discipulis ejus, et Petro, quia praecedit vos in Galilaeam : ibi eum videbitis, sicut dixit vobis. 
+    8: At illae exeuntes, fugerunt de monumento : invaserat enim eas tremor et pavor : et nemini quidquam dixerunt : timebant enim. 
+    9: Surgens autem mane prima sabbati, apparuit primo Mariae Magdalene, de qua ejecerat septem daemonia. 
+    10: Illa vadens nuntiavit his, qui cum eo fuerant, lugentibus et flentibus.
+    11: Et illi audientes quia viveret, et visus esset ab ea, non crediderunt. 
+    12: Post haec autem duobus ex his ambulantibus ostensus est in alia effigie, euntibus in villam : 
+    13: et illi euntes nuntiaverunt ceteris : nec illis crediderunt. 
+    14: Novissime recumbentibus illis undecim apparuit : et exprobravit incredulitatem eorum et duritiam cordis : quia iis, qui viderant eum resurrexisse, non crediderunt. 
+    15: Et dixit eis : Euntes in mundum universum praedicate Evangelium omni creaturae.
+    16: Qui crediderit, et baptizatus fuerit, salvus erit : qui vero non crediderit, condemnabitur. 
+    17: Signa autem eos qui crediderint, haec sequentur : in nomine meo daemonia ejicient : linguis loquentur novis : 
+    18: serpentes tollent : et si mortiferum quid biberint, non eis nocebit : super aegros manus imponent, et bene habebunt. 
+    19: Et Dominus quidem Jesus postquam locutus est eis, assumptus est in caelum, et sedet a dextris Dei. 
+    20: Illi autem profecti praedicaverunt ubique, Domino cooperante, et sermonem confirmante, sequentibus signis.
+
+End of day 294.

@@ -1,0 +1,99 @@
+Day 133:
+
+Reading Job, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Vir erat in terra Hus, nomine Job; et erat vir ille simplex, et rectus, ac timens Deum, et recedens a malo. 
+    2: Natique sunt ei septem filii, et tres filiae. 
+    3: Et fuit possessio ejus septem millia ovium, et tria millia camelorum, quingenta quoque juga boum, et quingentae asinae, ac familia multa nimis : eratque vir ille magnus inter omnes orientales. 
+    4: Et ibant filii ejus, et faciebant convivium per domos, unusquisque in die suo. Et mittentes vocabant tres sorores suas, ut comederent et biberent cum eis. 
+    5: Cumque in orbem transissent dies convivii, mittebat ad eos Job, et sanctificabat illos; consurgensque diluculo, offerebat holocausta pro singulis. Dicebat enim : Ne forte peccaverint filii mei, et benedixerint Deo in cordibus suis. Sic faciebat Job cunctis diebus.
+    6: Quadam autem die, cum venissent filii Dei ut assisterent coram Domino, affuit inter eos etiam Satan. 
+    7: Cui dixit Dominus : Unde venis? Qui respondens, ait : Circuivi terram, et perambulavi eam. 
+    8: Dixitque Dominus ad eum : Numquid considerasti servum meum Job, quod non sit ei similis in terra, homo simplex et rectus, ac timens Deum, et recedens a malo? 
+    9: Cui respondens Satan, ait : Numquid Job frustra timet Deum? 
+    10: Nonne tu vallasti eum, ac domum ejus, universamque substantiam per circuitum, operibus manuum ejus benedixisti, et possessio ejus crevit in terra?
+    11: Sed extende paululum manum tuam et tange cuncta quae possidet, nisi in faciem benedixerit tibi. 
+    12: Dixit ergo Dominus ad Satan : Ecce universa quae habet in manu tua sunt; tantum in eum ne extendas manum tuam. Egressusque est Satan a facie Domini. 
+    13: Cum autem quadam die filii et filiae ejus comederent et biberent vinum in domo fratris sui primogeniti, 
+    14: nuntius venit ad Job, qui diceret : Boves arabant, et asinae pascebantur juxta eos; 
+    15: et irruerunt Sabaei, tuleruntque omnia, et pueros percusserunt gladio; et evasi ego solus, ut nuntiarem tibi.
+    16: Cumque adhuc ille loqueretur, venit alter, et dixit : Ignis Dei cecidit e caelo, et tactas oves puerosque consumpsit; et effugi ego solus, ut nuntiarem tibi. 
+    17: Sed et illo adhuc loquente, venit alius, et dixit : Chaldaei fecerunt tres turmas, et invaserunt camelos, et tulerunt eos, necnon et pueros percusserunt gladio : et ego fugi solus, ut nuntiarem tibi. 
+    18: Adhuc loquebatur ille, et ecce alius intravit, et dixit : Filiis tuis et filiabus vescentibus et bibentibus vinum in domo fratris sui primogeniti, 
+    19: repente ventus vehemens irruit a regione deserti, et concussit quatuor angulos domus, quae corruens oppressit liberos tuos, et mortui sunt; et effugi ego solus, ut nuntiarem tibi. 
+    20: Tunc surrexit Job, et scidit vestimenta sua; et tonso capite, corruens in terram, adoravit,
+    21: et dixit : Nudus egressus sum de utero matris meae, et nudus revertar illuc. Dominus dedit, Dominus abstulit; sicut Domino placuit, ita factum est. Sit nomen Domini benedictum. 
+    22: In omnibus his non peccavit Job labiis suis, neque stultum quid contra Deum locutus est.
+
+  Chapter 2.
+
+    1: Factum est autem, cum quadam die venissent filii Dei, et starent coram Domino, venisset quoque Satan inter eos, et staret in conspectu ejus, 
+    2: ut diceret Dominus ad Satan : Unde venis? Qui respondens ait : Circuivi terram, et perambulavi eam. 
+    3: Et dixit Dominus ad Satan : Numquid considerasti servum meum Job, quod non sit ei similis in terra, vir simplex et rectus, ac timens Dem, et recedens a malo, et adhuc retinens innocentiam? Tu autem commovisti me adversus eum, ut affligerem eum frustra. 
+    4: Cui respondens Satan, ait : Pellem pro pelle, et cuncta quae habet homo dabit pro anima sua; 
+    5: alioquin mitte manum tuam, et tange os ejus et carnem; et tunc videbis quod in faciem benedicat tibi.
+    6: Dixit ergo Dominus ad Satan : Ecce in manu tua est; verumtamen animam illius serva. 
+    7: Egressus igitur Satan a facie Domini, percussit Job ulcere pessimo, a planta pedis usque ad verticem ejus; 
+    8: qui testa saniem radebat, sedens in sterquilinio. 
+    9: Dixit autem illi uxor sua : Adhuc tu permanes in simplicitate tua? Benedic Deo, et morere. 
+    10: Qui ait ad illam : Quasi una de stultis mulieribus locuta es; si bona suscepimus de manu Dei, mala quare non suscipiamus? In omnibus his non peccavit Job labiis suis.
+    11: Igitur audientes tres amici Job omne malum quod accidisset ei, venerunt singuli de loco suo, Eliphaz Themanites, et Baldad Suhites, et Sophar Naamathites. Condixerant enim ut pariter venientes visitarent eum, et consolarentur. 
+    12: Cumque elevassent procul oculos suos, non cognoverunt eum, et exclamantes ploraverunt, scissisque vestibus, sparserunt pulverem super caput suum in caelum. 
+    13: Et sederunt cum eo in terra septem diebus et septem noctibus; et nemo loquebatur ei verbum, videbant enim dolorem esse vehementem.
+
+  Chapter 3.
+
+    1: Post haec aperuit Job os suum, et maledixit diei suo, 
+    2: et locutus est : 
+    3: Pereat dies in qua natus sum, et nox in qua dictum est : Conceptus est homo! 
+    4: Dies ille vertatur in tenebras; non requirat eum Deus desuper, et non illustretur lumine. 
+    5: Obscurent eum tenebrae et umbra mortis; occupet eum caligo, et involvatur amaritudine.
+    6: Noctem illam tenebrosus turbo possideat; non computetur in diebus anni, nec numeretur in mensibus. 
+    7: Sit nox illa solitaria, nec laude digna. 
+    8: Maledicant ei qui maledicunt diei, qui parati sunt suscitare Leviathan. 
+    9: Obtenebrentur stellae caligine ejus; expectet lucem, et non videat, nec ortum surgentis aurorae. 
+    10: Quia non conclusit ostia ventris qui portavit me, nec abstulit mala ab oculis meis.
+    11: Quare non in vulva mortuus sum? egressus ex utero non statim perii? 
+    12: Quare exceptus genibus? cur lactatus uberibus? 
+    13: Nunc enim dormiens silerem, et somno meo requiescerem 
+    14: cum regibus et consulibus terrae, qui aedificant sibi solitudines; 
+    15: aut cum principibus qui possident aurum, et replent domos suas argento;
+    16: aut sicut abortivum absconditum non subsisterem, vel qui concepti non viderunt lucem. 
+    17: Ibi impii cessaverunt a tumultu, et ibi requieverunt fessi robore. 
+    18: Et quondam vincti pariter sine molestia, non audierunt vocem exactoris. 
+    19: Parvus et magnus ibi sunt, et servus liber a domino suo. 
+    20: Quare misero data est lux, et vita his qui in amaritudine animae sunt?
+    21: Qui expectant mortem, et non venit, quasi effodientes thesaurum; 
+    22: gaudentque vehementer cum invenerint sepulchrum? 
+    23: Viro cujus abscondita est via et circumdedit eum Deus tenebris? 
+    24: Antequam comedam, suspiro; et tamquam inundantes aquae, sic rugitus meus; 
+    25: quia timor quem timebam evenit mihi, et quod verebar accidit.
+    26: Nonne dissimulavi? nonne silui? nonne quievi? Et venit super me indignatio.
+
+  Chapter 4.
+
+    1: Respondens autem Eliphaz Themanites, dixit : 
+    2: Si coeperimus loqui tibi, forsitan moleste accipies; sed conceptum sermonem tenere quis poterit? 
+    3: Ecce docuisti multos, et manus lassas roborasti; 
+    4: vacilantes confirmaverunt sermones tui, et genua trementia confortasti. 
+    5: Nunc autem venit super te plaga, et defecisti; tetigit te, et conturbatus es.
+    6: Ubi est timor tuus, fortitudo tua? patientia tua et perfectio viarum tuarum? 
+    7: Recordare, obsecro te, quis umquam innocens periit; aut quando recti deleti sunt? 
+    8: Quin potius vidi eos qui operantur iniquitatem, et seminant dolores, et metunt eos, 
+    9: flante Deo perisse, et spiritu irae ejus esse consumptos. 
+    10: Rugitus leonis, et vox leaenae, et dentes catulorum leonum contriti sunt.
+    11: Tigris periit, eo quod non haberet praedam, et catuli leonis dissipati sunt. 
+    12: Porro ad me dictum est verbum absconditum, et quasi furtive suscepit auris mea venas susurri ejus. 
+    13: In horrore visionis nocturnae, quando solet sopor occupare homines, 
+    14: pavor tenuit me, et tremor, et omnia ossa mea perterrita sunt; 
+    15: et cum spiritus, me praesente, transiret, inhorruerunt pili carnis meae.
+    16: Stetit quidam, cujus non agnoscebam vultum, imago coram oculis meis, et vocem quasi aurae lenis audivi. 
+    17: Numquid homo, Dei comparatione, justificabitur? aut factore suo purior erit vir? 
+    18: Ecce qui serviunt ei, non sunt stabiles, et in angelis suis reperit pravitatem; 
+    19: quanto magis hi qui habitant domos luteas, qui terrenum habent fundamentum, consumentur velut a tinea! 
+    20: De mane usque ad vesperam succidentur; et quia nullus intelligit, in aeternum peribunt.
+    21: Qui autem reliqui fuerint, auferentur ex eis; morientur, et non in sapientia.
+
+End of day 133.

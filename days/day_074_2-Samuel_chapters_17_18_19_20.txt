@@ -1,0 +1,148 @@
+Day 74:
+
+Reading 2-Samuel, chapters ['17', '18', '19', '20']:
+
+  Chapter 17.
+
+    1: Dixit ergo Achitophel ad Absalom : Eligam mihi duodecim millia virorum, et consurgens persequar David hac nocte. 
+    2: Et irruens super eum ( quippe qui lassus est, et solutis manibus) percutiam eum : cumque fugerit omnis populus qui cum eo est, percutiam regem desolatum. 
+    3: Et reducam universum populum, quomodo unus homo reverti solet : unum enim virum tu quaeris : et omnis populus erit in pace. 
+    4: Placuitque sermo ejus Absalom, et cunctis majoribus natu Israel. 
+    5: Ait autem Absalom : Vocate Chusai Arachiten, et audiamus quid etiam ipse dicat.
+    6: Cumque venisset Chusai ad Absalom, ait Absalom ad eum : Hujuscemodi sermonem locutus est Achitophel : facere debemus an non? quod das consilium? 
+    7: Et dixit Chusai ad Absalom : Non est bonum consilium, quod dedit Achitophel hac vice. 
+    8: Et rursum intulit Chusai : Tu nosti patrem tuum, et viros qui cum eo sunt, esse fortissimos et amaro animo, veluti si ursa raptis catulis in saltu saeviat : sed et pater tuus vir bellator est, nec morabitur cum populo. 
+    9: Forsitan nunc latitat in foveis, aut in uno, quo voluerit, loco : et cum ceciderit unus quilibet in principio, audiet quicumque audierit, et dicet : Facta est plaga in populo qui sequebatur Absalom. 
+    10: Et fortissimus quisque, cujus cor est quasi leonis, pavore solvetur : scit enim omnis populus Israel fortem esse patrem tuum, et robustos omnes qui cum eo sunt.
+    11: Sed hoc mihi videtur rectum esse consilium. Congregetur ad te universus Israel, a Dan usque Bersabee, quasi arena maris innumerabilis : et tu eris in medio eorum. 
+    12: Et irruemus super eum in quocumque loco inventus fuerit : et operiemus eum, sicut cadere solet ros super terram : et non relinquemus de viris, qui cum eo sunt, ne unum quidem. 
+    13: Quod si urbem aliquam fuerit ingressus, circumdavit omnis Israel civitati illi funes, et trahemus eam in torrentem, ut non reperiatur ne calculus quidem ex ea. 
+    14: Dixitque Absalom, et omnes viri Israel : Melius est consilium Chusai Arachitae, consilio Achitophel : Domini autem nutu dissipatum est consilium Achitophel utile, ut induceret Dominus super Absalom malum. 
+    15: Et ait Chusai Sadoc et Abiathar sacerdotibus : Hoc et hoc modo consilium dedit Achitophel Absalom, et senioribus Israel : et ego tale et tale dedi consilium.
+    16: Nunc ergo mittite cito, et nuntiate David dicentes : Ne moreris nocte hac in campestribus deserti, sed absque dilatione transgredere : ne forte absorbeatur rex, et omnis populus qui cum eo est. 
+    17: Jonathas autem et Achimaas stabant juxta fontem Rogel : abiit ancilla et nuntiavit eis : et illi profecti sunt, ut referrent ad regem David nuntium : non enim poterant videri, aut introire civitatem. 
+    18: Vidit autem eos quidam puer, et indicavit Absalom : illi vero concito gradu ingressi sunt domum cujusdam viri in Bahurim, qui habebat puteum in vestibulo suo, et descenderunt in eum. 
+    19: Tulit autem mulier, et expandit velamen super os putei, quasi siccans ptisanas : et sic latuit res. 
+    20: Cumque venissent servi Absalom in domum, ad mulierem dixerunt : Ubi est Achimaas et Jonathas? Et respondit eis mulier : Transierunt festinanter, gustata paululum aqua. At hi qui quaerebant, cum non reperissent, reversi sunt in Jerusalem.
+    21: Cumque abiissent, ascenderunt illi de puteo, et pergentes nuntiaverunt regi David, et dixerunt : Surgite, et transite cito fluvium : quoniam hujuscemodi dedit consilium contra vos Achitophel. 
+    22: Surrexit ergo David, et omnis populus qui cum eo erat, et transierunt Jordanem, donec dilucesceret : et ne unus quidem residuus fuit, qui non transisset fluvium. 
+    23: Porro Achitophel videns quod non fuisset factum consilium suum, stravit asinum suum, surrexitque, et abiit in domum suam et in civitatem suam : et disposita domo sua, suspendio interiit, et sepultus est in sepulchro patris sui. 
+    24: David autem venit in castra, et Absalom transivit Jordanem, ipse et omnes viri Israel cum eo. 
+    25: Amasam vero constituit Absalom pro Joab super exercitum : Amasa autem erat filius viri, qui vocabatur Jetra de Jezraeli, qui ingressus est ad Abigail, filiam Naas, sororem Sarviae, quae fuit mater Joab.
+    26: Et castrametatus est Israel cum Absalom in terra Galaad. 
+    27: Cumque venisset David in castra, Sobi filius Naas de Rabbath filiorum Ammon, et Machir filius Ammihel de Lodabar, et Berzellai Galaadites de Rogelim, 
+    28: obtulerunt ei stratoria, et tapetia, et vasa fictilia, frumentum, et hordeum, et farinam, et polentam, et fabam, et lentem, et frixum cicer, 
+    29: et mel, et butyrum, oves, et pingues vitulos; dederuntque David, et populo qui cum eo erat, ad vescendum : suspicati enim sunt populum fame et siti fatigari in deserto.
+
+  Chapter 18.
+
+    1: Igitur considerato David populo suo, constituit super eos tribunos et centuriones, 
+    2: et dedit populi tertiam partem sub manu Joab, et tertiam partem sub manu Abisai filii Sarviae fratris Joab, et tertiam partem sub manu Ethai, qui erat de Geth. Dixitque rex ad populum : Egrediar et ego vobiscum : 
+    3: et respondit populus : Non exibis : sive enim fugerimus, non magnopere ad eos de nobis pertinebit : sive media pars ceciderit e nobis, non satis curabunt : quia tu unus pro decem millibus computaris : melius est igitur ut sis nobis in urbe praesidio. 
+    4: Ad quos rex ait : Quod vobis videtur rectum, hoc faciam. Stetit ergo rex juxta portam : egrediebaturque populus per turmas suas centeni, et milleni. 
+    5: Et praecepit rex Joab, et Abisai, et Ethai, dicens : Servate mihi puerum Absalom. Et omnis populus audiebat praecipientem regem cunctis principibus pro Absalom.
+    6: Itaque egressus est populus in campum contra Israel, et factum est praelium in saltu Ephraim. 
+    7: Et caesus est ibi populus Israel ab exercitu David, factaque est plaga magna in die illa, viginti millium. 
+    8: Fuit autem ibi praelium dispersum super faciem omnis terrae, et multo plures erant quos saltus consumpserat de populo, quam hi quos voraverat gladius in die illa. 
+    9: Accidit autem ut occurreret Absalom servis David, sedens mulo : cumque ingressus fuisset mulus subter condensam quercum et magnam, adhaesit caput ejus quercui : et illo suspenso inter caelum et terram, mulus, cui insederat, pertransivit. 
+    10: Vidit autem hoc quispiam, et nuntiavit Joab, dicens : Vidi Absalom pendere et quercu.
+    11: Et ait Joab viro, qui nuntiaverat ei : Si vidisti, quare non confodisti eum cum terra, et ego dedissem tibi decem argenti siclos, et unum balteum? 
+    12: Qui dixit ad Joab : Si appenderes in manibus meis mille argenteos, nequaquam mitterem manum meam in filium regis : audientibus enim nobis praecepit rex tibi, et Abisai, et Ethai, dicens : Custodite mihi puerum Absalom. 
+    13: Sed et si fecissem contra animam meam audacter, nequaquam hoc regem latere potuisset, et tu stares ex adverso? 
+    14: Et ait Joab : Non sicut tu vis, sed aggrediar eum coram te. Tulit ergo tres lanceas in manu sua, et infixit eas in corde Absalom : cumque adhuc palpitaret haerens in quercu, 
+    15: cucurrerunt decem juvenes armigeri Joab, et percutientes interfecerunt eum.
+    16: Cecinit autem Joab buccina, et retinuit populum, ne persequeretur fugientem Israel, volens parcere multitudini. 
+    17: Et tulerunt Absalom, et projecerunt eum in saltu, in foveam grandem, et comportaverunt super eum acervum lapidum magnum nimis : omnis autem Israel fugit in tabernacula sua. 
+    18: Porro Absalom erexerat sibi, cum adhuc viveret, titulum qui est in Valle regis : dixerat enim : Non habeo filium, et hoc erit monimentum nominis mei. Vocavitque titulum nomine suo, et appellatur Manus Absalom, usque ad hanc diem. 
+    19: Achimaas autem filius Sadoc, ait : Curram, et nuntiabo regi, quia judicium fecerit ei Dominus de manu inimicorum ejus. 
+    20: Ad quem Joab dixit : Non eris nuntius in hac die, sed nuntiabis in alia : hodie nolo te nuntiare, filius enim regis est mortuus.
+    21: Et ait Joab Chusi : Vade, et nuntia regi quae vidisti. Adoravit Chusi Joab, et cucurrit. 
+    22: Rursus autem Achimaas filius Sadoc dixit ad Joab : Quid impedit si etiam ego curram post Chusi? Dixitque ei Joab : Quid vis currere fili mi? non eris boni nuntii bajulus. 
+    23: Qui respondit : Quid enim si cucurrero? Et ait ei : Curre. Currens ergo Achimaas per viam compendii, transivit Chusi. 
+    24: David autem sedebat inter duas portas : speculator vero, qui erat in fastigio portae super murum, elevans oculos, vidit hominem currentem solum. 
+    25: Et exclamans indicavit regi : dixitque rex : Si solus est, bonus est nuntius in ore ejus. Properante autem illo, et accedente propius,
+    26: vidit speculator hominem alterum currentem, et vociferans in culmine, ait : Apparet mihi alter homo currens solus. Dixitque rex : Et iste bonus est nuntius. 
+    27: Speculator autem : Contemplor, ait, cursum prioris, quasi cursum Achimaas filii Sadoc. Et ait rex : Vir bonus est : et nuntium portans bonum, venit. 
+    28: Clamans autem Achimaas, dixit ad regem : Salve rex. Et adorans regem coram eo pronus in terram, ait : Benedictus Dominus Deus tuus, qui conclusit homines qui levaverunt manus suas contra dominum meum regem. 
+    29: Et ait rex : Estne pax puero Absalom? Dixitque Achimaas : Vidi tumultum magnum, cum mitteret Joab servus tuus, o rex, me servum tuum : nescio aliud. 
+    30: Ad quem rex : Transi, ait, et sta hic. Cumque ille transisset, et staret,
+    31: apparuit Chusi : et veniens ait : Bonum apporto nuntium, domine mi rex : judicavit enim pro te Dominus hodie de manu omnium qui surrexerunt contra te. 
+    32: Dixit autem rex ad Chusi : Estne pax puero Absalom? Cui respondens Chusi : Fiant, inquit, sicut puer, inimici domini mei regis, et universi qui consurgunt adversus eum in malum. 
+    33: Contristatus itaque rex, ascendit coenaculum portae, et flevit. Et sic loquebatur, vadens : Fili mi Absalom, Absalom fili mi : quis mihi tribuat ut ego moriar pro te, Absalom fili mi, fili mi Absalom?
+
+  Chapter 19.
+
+    1: Nuntiatum est autem Joab quod rex fleret et lugeret filium suum : 
+    2: et versa est victoria in luctum in die illa omni populo : audivit enim populus in die illa dici : Dolet rex super filio suo. 
+    3: Et declinavit populus in die illa ingredi civitatem, quomodo declinare solet populus versus et fugiens de praelio. 
+    4: Porro rex operuit caput suum, et clamabat voce magna : Fili mi Absalom, Absalom fili mi, fili mi. 
+    5: Ingressus ergo Joab ad regem in domum, dixit : Confudisti hodie vultus omnium servorum tuorum, qui salvam fecerunt animam tuam, et animam filiorum tuorum, et filiarum tuarum, et animam uxorum tuarum, et animam concubinarum tuarum.
+    6: Diligis odientes te, et odio habes diligentes te : et ostendisti hodie quia non curas de ducibus tuis, et de servis tuis : et vere cognovi modo, quia si Absalom viveret, et omnes nos occubuissemus, tunc placeret tibi. 
+    7: Nunc igitur surge, et procede, et alloquens satisfac servis tuis : juro enim tibi per Dominum, quod si non exieris, ne unus quidem remansurus sit tecum nocte hac : et pejus erit hoc tibi, quam omnia mala quae venerunt super te ab adolescentia tua usque in praesens. 
+    8: Surrexit ergo rex et sedit in porta : et omni populo nuntiatum est quod rex sederet in porta : venitque universa multitudo coram rege : Israel autem fugit in tabernacula sua. 
+    9: Omnis quoque populus certabat in cunctis tribubus Israel, dicens : Rex liberavit nos de manu inimicorum nostrorum, ipse salvavit nos de manu Philisthinorum : et nunc fugit de terra propter Absalom. 
+    10: Absalom autem, quem unximus super nos, mortuus est in bello : usquequo siletis, et non reducitis regem?
+    11: Rex vero David misit ad Sadoc et Abiathar sacerdotes, dicens : Loquimini ad majores natu Juda, dicentes : Cur venitis novissimi ad reducendum regem in domum suam? ( Sermo autem omnis Israel pervenerat ad regem in domo ejus.) 
+    12: Fratres mei vos, os meum, et caro mea vos, quare novissimi reducitis regem? 
+    13: Et Amasae dicite : Nonne os meum, et caro mea es? Haec faciat mihi Deus, et haec addat, si non magister militiae fueris coram me omni tempore pro Joab. 
+    14: Et inclinavit cor omnium virorum Juda, quasi viri unius : miseruntque ad regem, dicentes : Revertere tu, et omnes servi tui. 
+    15: Et reversus est rex : et venit usque ad Jordanem, et omnis Juda venit usque in Galgalam ut occurreret regi, et traduceret eum Jordanem.
+    16: Festinavit autem Semei filius Gera filii Jemini de Bahurim, et descendit cum viris Juda in occursum regis David 
+    17: cum mille viris de Benjamin, et Siba puer de domo Saul : et quindecim filii ejus, ac viginti servi erant cum eo : et irrumpentes Jordanem, ante regem 
+    18: transierunt vada, ut traducerent domum regis, et facerent juxta jussionem ejus : Semei autem filius Gera prostratus coram rege, cum jam transisset Jordanem, 
+    19: dixit ad eum : Ne reputes mihi domine mi iniquitatem, neque memineris injuriarum servi tui in die qua egressus es domine mi rex de Jerusalem, neque ponas rex in corde tuo. 
+    20: Agnosco enim servus tuus peccatum meum : et idcirco hodie primus veni de omni domo Joseph, descendique de omni domo Joseph, descendique in occursum domini mei regis.
+    21: Respondens vero Abisai filius Sarviae, dixit : Numquid pro his verbis non occidetur Semei, quia maledixit christo Domini? 
+    22: Et ait David : Quid mihi et vobis, filii Sarviae? cur efficimini mihi hodie in satan? Ergone hodie interficietur vir in Israel? an ignoro hodie me factum regem super Israel? 
+    23: Et ait rex Semei : Non morieris. Juravitque ei. 
+    24: Miphiboseth quoque filius Saul descendit in occursum regis, illotis pedibus, et intonsa barba : vestesque suas non laverat a die qua egressus fuerat rex, usque ad diem reversionis ejus in pace. 
+    25: Cumque Jerusalem occurrisset regi, dixit ei rex : Quare non venisti mecum Miphiboseth?
+    26: Et respondens ait : Domine mi rex, servus meus contempsit me : dixique ei ego famulus tuus ut sterneret mihi asinum, et ascendens abirem cum rege : claudus enim sum servus tuus. 
+    27: Insuper et accusavit me servum tuum ad te dominum meum regem : tu autem domine mi rex, sicut angelus Dei es : fac quod placitum est tibi. 
+    28: Neque enim fuit domus patris mei, nisi morti obnoxia domino meo regi : tu autem posuisti me servum tuum inter convivas mensae tuae : quid ergo habeo justae querelae? aut quid possum ultra vociferari ad regem? 
+    29: Ait ergo ei rex : Quid ultra loqueris? fixum est quod locutus sum : tu et Siba dividite possessiones. 
+    30: Responditque Miphiboseth regi : Etiam cuncta accipiat, postquam reversus est dominus meus rex pacifice in domum suam.
+    31: Berzellai quoque Galaadites, descendens de Rogelim, traduxit regem Jordanem, paratus etiam ultra fluvium prosequi eum. 
+    32: Erat autem Berzellai Galaadites senex valde, id est, octogenarius, et ipse praebuit alimenta regi, cum moraretur in castris : fuit quippe vir dives nimis. 
+    33: Dixit itaque rex ad Berzellai : Veni mecum, ut requiescas securus mecum in Jerusalem. 
+    34: Et ait Berzellai ad regem : Quot sunt dies annorum vitae meae, ut ascendam cum rege in Jerusalem? 
+    35: Octogenarius sum hodie : numquid vigent sensus mei ad discernendum suave, aut amarum? aut delectare potest servum tuum cibus et potus? vel audire possum ultra vocem cantorum, atque cantatricum? quare servus tuus sit oneri domino meo regi?
+    36: Paululum procedam famulus tuus ab Jordane tecum : non indigeo hac vicissitudine, 
+    37: sed obsecro ut revertar servus tuus, et moriar in civitate mea, et sepeliar juxta sepulchrum patris mei et matris meae. Est autem servus tuus Chamaam, ipse vadat tecum, domine mi rex, et fac ei quidquid tibi bonum videtur. 
+    38: Dixit itaque ei rex : Mecum transeat Chamaam, et ego faciam ei quidquid tibi placuerit, et omne quod petieris a me, impetrabis. 
+    39: Cumque transisset universus populus et rex Jordanem, osculatus est rex Berzellai, et benedixit ei : et ille reversus est in locum suum. 
+    40: Transivit ergo rex in Galgalam, et Chamaam cum eo. Omnis autem populus Juda traduxerat regem, et media tantum pars adfuerat de populo Israel.
+    41: Itaque omnes viri Israel concurrentes ad regem dixerunt ei : Quare te furati sunt fratres nostri viri Juda, et traduxerunt regem et domum ejus Jordanem, omnesque viros David cum eo? 
+    42: Et respondit omnis vir Juda ad viros Israel : Quia mihi propior est rex : cur irasceris super hac re? numquid comedimus aliquid ex rege, aut munera nobis data sunt? 
+    43: Et respondit vir Israel ad viros Juda, et ait : Decem partibus major ego sum apud regem, magisque ad me pertinet David quam ad te : cur fecisti mihi injuriam, et non mihi nuntiatum est priori, ut reducerem regem meum? Durius autem responderunt viri Juda viris Israel.
+
+  Chapter 20.
+
+    1: Accidit quoque ut ibi esset vir Belial, nomine Seba, filius Bochri, vir Jemineus : et cecinit buccina, et ait : Non est nobis pars in David, neque haereditas in filio Isai : revertere in tabernacula tua Israel. 
+    2: Et separatus est omnis Israel a David, secutusque est Seba filium Bochri : viri autem Juda adhaeserunt regi suo a Jordane usque Jerusalem. 
+    3: Cumque venisset rex in domum suam in Jerusalem, tulit decem mulieres concubinas, quas dereliquerat ad custodiendam domum, et tradidit eas in custodiam, alimenta eis praebens : et non est ingressus ad eas, sed erant clausae usque in diem mortis suae in viduitate viventes. 
+    4: Dixit autem rex Amasae : Convoca mihi omnes viros Juda in diem tertium, et tu adesto praesens. 
+    5: Abiit ergo Amasa, ut convocaret Judam, et moratus est extra placitum quod ei constituerat rex.
+    6: Ait autem David ad Abisai : Nunc magis afflicturus est nos Seba filius Bochri quam Absalom : tolle igitur servos domini tui, et persequere eum, ne forte inveniat civitates munitas, et effugiat nos. 
+    7: Egressi sunt ergo cum eo viri Joab, Cerethi quoque et Phelethi : et omnes robusti exierunt de Jerusalem ad persequendum Seba filium Bochri. 
+    8: Cumque illi essent juxta lapidem grandem, qui est in Gabaon, Amasa veniens occurrit eis. Porro Joab vestitus erat tunica stricta ad mensuram habitus sui, et desuper accinctus gladio dependente usque ad ilia, in vagina, qui fabricatus levi motu egredi poterat, et percutere. 
+    9: Dixit itaque Joab ad Amasam : Salve mi frater. Et tenuit manu dextera mentum Amasae, quasi osculans eum. 
+    10: Porro Amasa non observavit gladium, quem habebat Joab, qui percussit eum in latere, et effudit intestina ejus in terram, nec secundum vulnus apposuit, et mortuus est. Joab autem, et Abisai frater ejus, persecuti sunt Seba filium Bochri.
+    11: Interea quidam viri, cum stetissent juxta cadaver Amasae, de sociis Joab, dixerunt : Ecce qui esse voluit pro Joab comes David. 
+    12: Amasa autem conspersus sanguine, jacebat in media via. Vidit hoc quidam vir quod subsisteret omnis populus ad videndum eum, et amovit Amasam de via in agrum, operuitque eum vestimento, ne subsisterent transeuntes propter eum. 
+    13: Amoto ergo illo de via, transibat omnis vir sequens Joab ad persequendum Seba filium Bochri. 
+    14: Porro ille transierat per omnes tribus Israel in Abelam, et Bethmaacha : omnesque viri electi congregati fuerant ad eum. 
+    15: Venerunt itaque et oppugnabant eum in Abela, et in Bethmaacha, et circumdederunt munitionibus civitatem, et obsessa est urbs : omnis autem turba, quae erat cum Joab, moliebatur destruere muros.
+    16: Et exclamavit mulier sapiens de civitate : Audite, audite : dicite Joab : Appropinqua huc, et loquar tecum. 
+    17: Qui cum accessisset ad eam, ait illi : Tu es Joab? Et ille respondit : Ego. Ad quem sic locuta est : Audi sermones ancillae tuae. Qui respondit : Audio. 
+    18: Rursumque illa : Sermo, inquit, dicebatur in veteri proverbio : Qui interrogant, interrogent in Abela : et sic perficiebant. 
+    19: Nonne ego sum quae respondeo veritatem in Israel, et tu quaeris subvertere civitatem et evertere matrem in Israel? Quare praecipitas haereditatem Domini? 
+    20: Respondensque Joab, ait : Absit, absit hoc a me : non praecipito, neque demolior.
+    21: Non sic se habet res, sed homo de monte Ephraim Seba, filius Bochri cognomine, levavit manum suam contra regem David : tradite illum solum, et recedemus a civitate. Et ait mulier ad Joab : Ecce caput ejus mittetur ad te per murum. 
+    22: Ingressa est ergo ad omnem populum, et locuta est eis sapienter : qui abscissum caput Seba filii Bochri projecerunt ad Joab. Et ille cecinit tuba, et recesserunt ab urbe, unusquisque in tabernacula sua : Joab autem reversus est Jerusalem ad regem. 
+    23: Fuit ergo Joab super omnem exercitum Israel : Banaias autem filius Jojadae super Cerethaeos et Phelethaeos. 
+    24: Aduram vero super tributa : porro Josaphat filius Ahilud, a commentariis. 
+    25: Siva autem, scriba : Sadoc vero et Abiathar, sacerdotes.
+    26: Ira autem Jairites erat sacerdos David.
+
+End of day 74.

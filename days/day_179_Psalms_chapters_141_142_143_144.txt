@@ -1,0 +1,73 @@
+Day 179:
+
+Reading Psalms, chapters ['141', '142', '143', '144']:
+
+  Chapter 141.
+
+    1: Intellectus David, cum esset in spelunca, oratio. 
+    2: Voce mea ad Dominum clamavi, voce mea ad Dominum deprecatus sum. 
+    3: Effundo in conspectu ejus orationem meam; et tribulationem meam ante ipsum pronuntio. 
+    4: In deficiendo ex me spiritum meum, et tu cognovisti semitas meas; in via hac qua ambulabam absconderunt laqueum mihi. 
+    5: Considerabam ad dexteram, et videbam, et non erat qui cognosceret me : periit fuga a me, et non est qui requirat animam meam.
+    6: Clamavi ad te, Domine; dixi : Tu es spes mea, portio mea in terra viventium. 
+    7: Intende ad deprecationem meam, quia humiliatus sum nimis. Libera me a persequentibus me, quia confortati sunt super me. 
+    8: Educ de custodia animam meam ad confitendum nomini tuo; me exspectant justi donec retribuas mihi.
+
+  Chapter 142.
+
+    1: Psalmus David, quando persequebatur eum Absalom, filius ejus. Domine, exaudi orationem meam; auribus percipe obsecrationem meam in veritate tua; exaudi me in tua justitia. 
+    2: Et non intres in judicium cum servo tuo, quia non justificabitur in conspectu tuo omnis vivens. 
+    3: Quia persecutus est inimicus animam meam, humiliavit in terra vitam meam; collocavit me in obscuris, sicut mortuos saeculi. 
+    4: Et anxiatus est super me spiritus meus; in me turbatum est cor meum. 
+    5: Memor fui dierum antiquorum : meditatus sum in omnibus operibus tuis, in factis manuum tuarum meditabar.
+    6: Expandi manus meas ad te; anima mea sicut terra sine aqua tibi. 
+    7: Velociter exaudi me, Domine; defecit spiritus meus. Non avertas faciem tuam a me, et similis ero descendentibus in lacum. 
+    8: Auditam fac mihi mane misericordiam tuam, quia in te speravi. Notam fac mihi viam in qua ambulem, quia ad te levavi animam meam. 
+    9: Eripe me de inimicis meis, Domine; ad te confugi. 
+    10: Doce me facere voluntatem tuam, quia Deus meus es tu. Spiritus tuus bonus deducet me in terram rectam.
+    11: Propter nomen tuum, Domine, vivificabis me; in aequitate tua, educes de tribulatione animam meam; 
+    12: et in misericordia tua disperdes inimicos meos, et perdes omnes qui tribulant animam meam, quoniam ego servus tuus sum.
+
+  Chapter 143.
+
+    1: Psalmus David. Adversus Goliath. Benedictus Dominus Deus meus, qui docet manus meas ad praelium, et digitos meos ad bellum. 
+    2: Misericordia mea et refugium meum, susceptor meus et liberator meus; protector meus, et in ipso speravi; qui subdit populum meum sub me. 
+    3: Domine, quid est homo, quia innotuisti ei? aut filius hominis, quia reputas eum? 
+    4: Homo vanitati similis factus est; dies ejus sicut umbra praetereunt. 
+    5: Domine, inclina caelos tuos, et descende; tange montes, et fumigabunt.
+    6: Fulgura coruscationem, et dissipabis eos; emitte sagittas tuas, et conturbabis eos. 
+    7: Emitte manum tuam de alto : eripe me, et libera me de aquis multis, de manu filiorum alienorum : 
+    8: quorum os locutum est vanitatem, et dextera eorum dextera iniquitatis. 
+    9: Deus, canticum novum cantabo tibi; in psalterio decachordo psallam tibi. 
+    10: Qui das salutem regibus, qui redemisti David servum tuum de gladio maligno,
+    11: eripe me, et erue me de manu filiorum alienorum, quorum os locutum est vanitatem, et dextera eorum dextera iniquitatis. 
+    12: Quorum filii sicut novellae plantationes in juventute sua; filiae eorum compositae, circumornatae ut similitudo templi. 
+    13: Promptuaria eorum plena, eructantia ex hoc in illud; oves eorum foetosae, abundantes in egressibus suis; 
+    14: boves eorum crassae. Non est ruina maceriae, neque transitus, neque clamor in plateis eorum. 
+    15: Beatum dixerunt populum cui haec sunt; beatus populus cujus Dominus Deus ejus.
+
+  Chapter 144.
+
+    1: Laudatio ipsi David. Exaltabo te, Deus meus rex; et benedicam nomini tuo in saeculum, et in saeculum saeculi. 
+    2: Per singulos dies benedicam tibi, et laudabo nomen tuum in saeculum, et in saeculum saeculi. 
+    3: Magnus Dominus, et laudabilis nimis; et magnitudinis ejus non est finis. 
+    4: Generatio et generatio laudabit opera tua, et potentiam tuam pronuntiabunt. 
+    5: Magnificentiam gloriae sanctitatis tuae loquentur, et mirabilia tua narrabunt.
+    6: Et virtutem terribilium tuorum dicent, et magnitudinem tuam narrabunt. 
+    7: Memoriam abundantiae suavitatis tuae eructabunt, et justitia tua exsultabunt. 
+    8: Miserator et misericors Dominus; patiens, et multum misericors. 
+    9: Suavis Dominus universis; et miserationes ejus super omnia opera ejus. 
+    10: Confiteantur tibi, Domine, omnia opera tua; et sancti tui benedicant tibi.
+    11: Gloriam regni tui dicent, et potentiam tuam loquentur; 
+    12: ut notam faciant filiis hominum potentiam tuam, et gloriam magnificentiae regni tui. 
+    13: Regnum tuum regnum omnium saeculorum; et dominatio tua in omni generatione et generationem. Fidelis Dominus in omnibus verbis suis, et sanctus in omnibus operibus suis. 
+    14: Allevat Dominus omnes qui corruunt, et erigit omnes elisos. 
+    15: Oculi omnium in te sperant, Domine; et tu das escam illorum in tempore opportuno.
+    16: Aperis tu manum tuam, et imples omne animal benedictione. 
+    17: Justus Dominus in omnibus viis suis, et sanctus in omnibus operibus suis. 
+    18: Prope est Dominus omnibus invocantibus eum, omnibus invocantibus eum in veritate. 
+    19: Voluntatem timentium se faciet; et deprecationem eorum exaudiet, et salvos faciet eos. 
+    20: Custodit Dominus omnes diligentes se, et omnes peccatores disperdet.
+    21: Laudationem Domini loquetur os meum; et benedicat omnis caro nomini sancto ejus in saeculum, et in saeculum saeculi.
+
+End of day 179.

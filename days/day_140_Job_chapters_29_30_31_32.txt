@@ -1,0 +1,135 @@
+Day 140:
+
+Reading Job, chapters ['29', '30', '31', '32']:
+
+  Chapter 29.
+
+    1: Addidit quoque Job, assumens parabolam suam, et dixit : 
+    2: Quis mihi tribuat ut sim juxta menses pristinos, secundum dies quibus Deus custodiebat me? 
+    3: quando splendebat lucerna ejus super caput meum, et ad lumen ejus ambulabam in tenebris : 
+    4: sicut fui in diebus adolescentiae meae, quando secreto Deus erat in tabernaculo meo : 
+    5: quando erat Omnipotens mecum, et in circuitu meo pueri mei :
+    6: quando lavabam pedes meos butyro, et petra fundebat mihi rivos olei : 
+    7: quando procedebam ad portam civitatis, et in platea parabant cathedram mihi. 
+    8: Videbant me juvenes, et abscondebantur : et senes assurgentes stabant. 
+    9: Principes cessabant loqui, et digitum superponebant ori suo. 
+    10: Vocem suam cohibebant duces, et lingua eorum gutturi suo adhaerebat.
+    11: Auris audiens beatificabat me, et oculus videns testimonium, reddebat mihi : 
+    12: eo quod liberassem pauperem vociferantem, et pupillum cui non esset adjutor. 
+    13: Benedictio perituri super me veniebat, et cor viduae consolatus sum. 
+    14: Justitia indutus sum, et vestivi me, sicut vestimento et diademate, judicio meo. 
+    15: Oculus fui caeco, et pes claudo.
+    16: Pater eram pauperum, et causam quam nesciebam diligentissime investigabam. 
+    17: Conterebam molas iniqui, et de dentibus illius auferebam praedam. 
+    18: Dicebamque : In nidulo meo moriar, et sicut palma multiplicabo dies. 
+    19: Radix mea aperta est secus aquas, et ros morabitur in messione mea. 
+    20: Gloria mea semper innovabitur, et arcus meus in manu mea instaurabitur.
+    21: Qui me audiebant, expectabant sententiam, et intenti tacebant ad consilium meum. 
+    22: Verbis meis addere nihil audebant, et super illos stillabat eloquium meum. 
+    23: Expectabant me sicut pluviam, et os suum aperiebant quasi ad imbrem serotinum. 
+    24: Siquando ridebam ad eos, non credebant, et lux vultus mei non cadebat in terram. 
+    25: Si voluissem ire ad eos, sedebam primus : cumque sederem quasi rex, circumstante exercitu, eram tamen moerentium consolator.
+
+  Chapter 30.
+
+    1: Nunc autem derident me juniores tempore, quorum non dignabar patres ponere cum canibus gregis mei : 
+    2: quorum virtus manuum mihi erat pro nihilo, et vita ipsa putabantur indigni : 
+    3: egestate et fame steriles, qui rodebant in solitudine, squallentes calamitate et miseria. 
+    4: Et mandebant herbas, et arborum cortices, et radix juniperorum erat cibus eorum : 
+    5: qui de convallibus ista rapientes, cum singula reperissent, ad ea cum clamore currebant :
+    6: in desertis habitabant torrentium, et in cavernis terrae, vel super glaream : 
+    7: qui inter hujuscemodi laetabantur, et esse sub sentibus delicias computabant : 
+    8: filii stultorum et ignobilium, et in terra penitus non parentes. 
+    9: Nunc in eorum canticum versus sum, et factus sum eis in proverbium. 
+    10: Abominantur me, et longe fugiunt a me, et faciem meam conspuere non verentur.
+    11: Pharetram enim suam aperuit, et afflixit me, et frenum posuit in os meum. 
+    12: Ad dexteram orientis calamitates meae illico surrexerunt : pedes meos subverterunt, et oppresserunt quasi fluctibus semitis suis. 
+    13: Dissipaverunt itinera mea : insidiati sunt mihi, et praevaluerunt, et non fuit qui ferret auxilium. 
+    14: Quasi rupto muro, et aperta janua, irruerunt super me, et ad meas miserias devoluti sunt. 
+    15: Redactus sum in nihilum; abstulisti quasi ventus desiderium meum, et velut nubes pertransiit salus mea.
+    16: Nunc autem in memetipso marcescit anima mea, et possident me dies afflictionis. 
+    17: Nocte os meum perforatur doloribus, et qui me comedunt, non dormiunt. 
+    18: In multitudine eorum consumitur vestimentum meum, et quasi capito tunicae succinxerunt me. 
+    19: Comparatus sum luto, et assimilatus sum favillae et cineri. 
+    20: Clamo ad te, et non exaudis me : sto, et non respicis me.
+    21: Mutatus es mihi in crudelem, et in duritia manus tuae adversaris mihi. 
+    22: Elevasti me, et quasi super ventum ponens elisisti me valide. 
+    23: Scio quia morti trades me, ubi constituta est domus omni viventi. 
+    24: Verumtamen non ad consumptionem eorum emittis manum tuam : et si corruerint, ipse salvabis. 
+    25: Flebam quondam super eo qui afflictus erat, et compatiebatur anima mea pauperi.
+    26: Expectabam bona, et venerunt mihi mala : praestolabar lucem, et eruperunt tenebrae. 
+    27: Interiora mea efferbuerunt absque ulla requie : praevenerunt me dies afflictionis. 
+    28: Moerens incedebam, sine furore, consurgens, in turba clamabam. 
+    29: Frater fui draconum, et socius struthionum. 
+    30: Cutis mea denigrata est super me, et ossa mea aruerunt prae caumate.
+    31: Versa est in luctum cithara mea, et organum meum in vocem flentium.
+
+  Chapter 31.
+
+    1: Pepigi foedus cum oculis meis, ut ne cogitarem quidem de virgine. 
+    2: Quam enim partem haberet in me Deus desuper, et haereditatem Omnipotens de excelsis? 
+    3: Numquid non perditio est iniquo, et alienatio operantibus injustitiam? 
+    4: Nonne ipse considerat vias meas, et cunctos gressus meos dinumerat? 
+    5: Si ambulavi in vanitate, et festinavit in dolo pes meus,
+    6: appendat me in statera justa, et sciat Deus simplicitatem meam. 
+    7: Si declinavit gressus meus de via, et si secutum est oculos meos cor meum, et si manibus meis adhaesit macula, 
+    8: seram, et alium comedat, et progenies mea eradicetur. 
+    9: Si deceptum est cor meum super muliere, et si ad ostium amici mei insidiatus sum, 
+    10: scortum alterius sit uxor mea, et super illam incurventur alii.
+    11: Hoc enim nefas est, et iniquitas maxima. 
+    12: Ignis est usque ad perditionem devorans, et omnia eradicans genimina. 
+    13: Si contempsi subire judicium cum servo meo et ancilla mea, cum disceptarent adversum me : 
+    14: quid enim faciam cum surrexerit ad judicandum Deus? et cum quaesierit, quid respondebo illi? 
+    15: Numquid non in utero fecit me, qui et illum operatus est? et formavit me in vulva unus?
+    16: Si negavi quod volebant pauperibus, et oculos viduae expectare feci : 
+    17: si comedi buccellam meam solus, et non comedit pupillus ex ea 
+    18: ( quia ab infantia mea crevit mecum miseratio, et de utero matris meae egressa est mecum) : 
+    19: si despexi pereuntem, eo quod non habuerit indumentum, et absque operimento pauperem : 
+    20: si non benedixerunt mihi latera ejus, et de velleribus ovium mearum calefactus est :
+    21: si levavi super pupillum manum meam, etiam cum viderem me in porta superiorem, 
+    22: humerus meus a junctura sua cadat, et brachium meum cum suis ossibus confringatur. 
+    23: Semper enim quasi tumentes super me fluctus timui Deum, et pondus ejus ferre non potui. 
+    24: Si putavi aurum robur meum, et obrizo dixi : Fiducia mea : 
+    25: si laetatus sum super multis divitiis meis, et quia plurima reperit manus mea :
+    26: si vidi solem cum fulgeret, et lunam incedentem clare, 
+    27: et laetatum est in abscondito cor meum, et osculatus sum manum meam ore meo : 
+    28: quae est iniquitas maxima, et negatio contra Deum altissimum. 
+    29: Si gavisus sum ad ruinam ejus qui me oderat, et exsultavi quod invenisset eum malum : 
+    30: non enim dedi ad peccandum guttur meum, ut expeterem maledicens animam ejus.
+    31: Si non dixerunt viri tabernaculi mei : Quis det de carnibus ejus, ut saturemur? 
+    32: Foris non mansit peregrinus : ostium meum viatori patuit. 
+    33: Si abscondi quasi homo peccatum meum, et celavi in sinu meo iniquitatem meam : 
+    34: si expavi ad multitudinem nimiam, et despectio propinquorum terruit me : et non magis tacui, nec egressus sum ostium. 
+    35: Quis mihi tribuat auditorem, ut desiderium meum audiat Omnipotens, et librum scribat ipse qui judicat,
+    36: ut in humero meo portem illum, et circumdem illum quasi coronam mihi? 
+    37: Per singulos gradus meos pronuntiabo illum, et quasi principi offeram eum. 
+    38: Si adversum me terra mea clamat, et cum ipsa sulci ejus deflent : 
+    39: si fructus ejus comedi absque pecunia, et animam agricolarum ejus afflixi : 
+    40: pro frumento oriatur mihi tribulus, et pro hordeo spina. Finita sunt verba Job.
+
+  Chapter 32.
+
+    1: Omiserunt autem tres viri isti respondere Job, eo quod justus sibi videretur. 
+    2: Et iratus indignatusque est Eliu, filius Barachel, Buzites, de cognatione Ram : iratus est autem adversum Job, eo quod justum se esse diceret coram Deo. 
+    3: Porro adversum amicos ejus indignatus est, eo quod non invenissent responsionem rationabilem, sed tantummodo condemnassent Job. 
+    4: Igitur Eliu expectavit Job loquentem, eo quod seniores essent qui loquebantur. 
+    5: Cum autem vidisset quod tres respondere non potuissent, iratus est vehementer.
+    6: Respondensque Eliu, filius Barachel, Buzites, dixit : Junior sum tempore, vos autem antiquiores : idcirco, demisso capite, veritus sum vobis indicare meam sententiam. 
+    7: Sperabam enim quod aetas prolixior loqueretur, et annorum multitudo doceret sapientiam. 
+    8: Sed, ut video, spiritus est in hominibus, et inspiratio Omnipotentis dat intelligentiam. 
+    9: Non sunt longaevi sapientes, nec senes intelligunt judicium. 
+    10: Ideo dicam : Audite me, ostendam vobis etiam ego meam sapientiam.
+    11: Expectavi enim sermones vestros, audivi prudentiam vestram, donec disceptaremini sermonibus : 
+    12: et donec putabam vos aliquid dicere, considerabam : sed, ut video, non est qui possit arguere Job, et respondere ex vobis sermonibus ejus. 
+    13: Ne forte dicatis : Invenimus sapientiam : Deus projecit eum, non homo. 
+    14: Nihil locutus est mihi : et ego non secundum sermones vestros respondebo illi. 
+    15: Extimuerunt, nec responderunt ultra, abstuleruntque a se eloquia.
+    16: Quoniam igitur expectavi, et non sunt locuti : steterunt, nec ultra responderunt : 
+    17: respondebo et ego partem meam, et ostendam scientiam meam. 
+    18: Plenus sum enim sermonibus, et coarctat me spiritus uteri mei. 
+    19: En venter meus quasi mustum absque spiraculo, quod lagunculas novas disrumpit. 
+    20: Loquar, et respirabo paululum : aperiam labia mea, et respondebo.
+    21: Non accipiam personam viri, et Deum homini non aequabo. 
+    22: Nescio enim quamdiu subsistam, et si post modicum tollat me factor meus.
+
+End of day 140.

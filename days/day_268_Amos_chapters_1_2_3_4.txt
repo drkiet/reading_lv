@@ -1,0 +1,76 @@
+Day 268:
+
+Reading Amos, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Verba Amos, qui fuit in pastoribus de Thecue, quae vidit super Israel in diebus Oziae, regis Juda, et in diebus Jeroboam, filii Joas, regis Israel, ante duos annos terraemotus. 
+    2: Et dixit : Dominus de Sion rugiet, et de Jerusalem dabit vocem suam; et luxerunt speciosa pastorum, et exsiccatus est vertex Carmeli. 
+    3: Haec dicit Dominus : Super tribus sceleribus Damasci, et super quatuor non convertam eum, eo quod trituraverint in plaustris ferreis Galaad. 
+    4: Et mittam ignem in domum Azael, et devorabit domos Benadad. 
+    5: Et conteram vectem Damasci : et disperdam habitatorem de campo idoli, et tenentem sceptrum de domo voluptatis : et transferetur populus Syriae Cyrenen, dicit Dominus.
+    6: Haec dicit Dominus : Super tribus sceleribus Gazae, et super quatuor non convertam eum, eo quod transtulerint captivitatem perfectam, ut concluderent eam in Idumaea. 
+    7: Et mittam ignem in murum Gazae, et devorabit aedes ejus. 
+    8: Et disperdam habitatorem de Azoto, et tenentem sceptrum de Ascalone : et convertam manum meam super Accaron, et peribunt reliqui Philisthinorum, dicit Dominus Deus. 
+    9: Haec dicit Dominus : Super tribus sceleribus Tyri, et super quatuor non convertam eum, eo quod concluserint captivitatem perfectam in Idumaea, et non sint recordati foederis fratrum. 
+    10: Et mittam ignem in murum Tyri, et devorabit aedes ejus.
+    11: Haec dicit Dominus : Super tribus sceleribus Edom, et super quatuor non convertam eum, eo quod persecutus sit in gladio fratrem suum, et violaverit misericordiam ejus, et tenuerit ultra furorem suum, et indignationem suam servaverit usque in finem. 
+    12: Mittam ignem in Theman, et devorabit aedes Bosrae. 
+    13: Haec dicit Dominus : Super tribus sceleribus filiorum Ammon, et super quatuor non convertam eum, eo quod dissecuerit praegnantes Galaad ad dilatandum terminum suum. 
+    14: Et succendam ignem in muro Rabba, et devorabit aedes ejus in ululatu in die belli, et in turbine in die commotionis. 
+    15: Et ibit Melchom in captivitatem, ipse et principes ejus simul, dicit Dominus.
+
+  Chapter 2.
+
+    1: Haec dicit Dominus : Super tribus sceleribus Moab, et super quatuor non convertam eum, eo quod incenderit ossa regis Idumaeae usque ad cinerem. 
+    2: Et mittam ignem in Moab, et devorabit aedes Carioth : et morietur in sonitu Moab, in clangore tubae. 
+    3: Et disperdam judicem de medio ejus, et omnes principes ejus interficiam cum eo, dicit Dominus. 
+    4: Haec dicit Dominus : Super tribus sceleribus Juda, et super quatuor non convertam eum, eo quod abjecerit legem Domini et mandata ejus non custodierit : deceperant enim eos idola sua, post quae abierant patres eorum. 
+    5: Et mittam ignem in Juda, et devorabit aedes Jerusalem.
+    6: Haec dicit Dominus : Super tribus sceleribus Israel, et super quatuor non convertam eum, pro eo quod vendiderit pro argento justum, et pauperem pro calceamentis. 
+    7: Qui conterunt super pulverem terrae capita pauperum, et viam humilium declinant : et filius ac pater ejus ierunt ad puellam, ut violarent nomen sanctum meum. 
+    8: Et super vestimentis pignoratis accubuerunt juxta omne altare, et vinum damnatorum bibebant in domo Dei sui. 
+    9: Ego autem exterminavi Amorrhaeum a facie eorum, cujus altitudo, cedrorum altitudo ejus, et fortis ipse quasi quercus; et contrivi fructum ejus desuper, et radices ejus subter. 
+    10: Ego sum qui ascendere vos feci de terra Aegypti, et duxi vos in deserto quadraginta annis, ut possideretis terram Amorrhaei.
+    11: Et suscitavi de filiis vestris in prophetas, et de juvenibus vestris nazaraeos. Numquid non ita est, filii Israel? dicit Dominus. 
+    12: Et propinabitis nazaraeis vinum, et prophetis mandabitis, dicentes : Ne prophetetis. 
+    13: Ecce ego stridebo subter vos, sicut stridet plaustrum onustum foeno. 
+    14: Et peribit fuga a veloce, et fortis non obtinebit virtutem suam, et robustus non salvabit animam suam : 
+    15: et tenens arcum non stabit, et velox pedibus suis non salvabitur, et ascensor equi non salvabit animam suam :
+    16: et robustus corde inter fortes nudus fugiet in illa die, dicit Dominus.
+
+  Chapter 3.
+
+    1: Audite verbum quod locutus est Dominus super vos, filii Israel, super omnem cognationem quam eduxi de terra Aegypti, dicens : 
+    2: Tantummodo vos cognovi ex omnibus cognationibus terrae; idcirco visitabo super vos omnes iniquitates vestras. 
+    3: Numquid ambulabunt duo pariter, nisi convenerit eis? 
+    4: numquid rugiet leo in saltu, nisi habuerit praedam? numquid dabit catulus leonis vocem de cubili suo, nisi aliquid apprehenderit? 
+    5: numquid cadet avis in laqueum terrae absque aucupe? numquid auferetur laqueus de terra antequam quid ceperit?
+    6: si clanget tuba in civitate, et populus non expavescet? si erit malum in civitate, quod Dominus non fecerit? 
+    7: Quia non facit Dominus Deus verbum, nisi revelaverit secretum suum ad servos suos prophetas. 
+    8: Leo rugiet, quis non timebit? Dominus Deus locutus est, quis non prophetabit? 
+    9: Auditum facite in aedibus Azoti, et in aedibus terrae Aegypti, et dicite : Congregamini super montes Samariae, et videte insanias multas in medio ejus, et calumniam patientes in penetralibus ejus. 
+    10: Et nescierunt facere rectum, dicit Dominus, thesaurizantes iniquitatem et rapinas in aedibus suis.
+    11: Propterea haec dicit Dominus Deus : Tribulabitur et circuietur terra : et detrahetur ex te fortitudo tua, et diripientur aedes tuae. 
+    12: Haec dicit Dominus : Quomodo si eruat pastor de ore leonis duo crura, aut extremum auriculae, sic eruentur filii Israel, qui habitant in Samaria in plaga lectuli, et in Damasci grabato. 
+    13: Audite, et contestamini in domo Jacob, dicit Dominus Deus exercituum; 
+    14: quia in die cum visitare coepero praevaricationes Israel, super eum visitabo, et super altaria Bethel; et amputabuntur cornua altaris, et cadent in terram. 
+    15: Et percutiam domum hiemalem cum domo aestiva, et peribunt domus eburneae, et dissipabuntur aedes multae, dicit Dominus.
+
+  Chapter 4.
+
+    1: Audite verbum hoc, vaccae pingues, quae estis in monte Samariae, quae calumniam facitis egenis et confringitis pauperes; quae dicitis dominis vestris : Afferte, et bibemus. 
+    2: Juravit Dominus Deus in sancto suo, quia ecce dies venient super vos, et levabunt vos in contis, et reliquias vestras in ollis ferventibus. 
+    3: Et per aperturas exibitis altera contra alteram, et projiciemini in Armon, dicit Dominus. 
+    4: Venite ad Bethel, et impie agite; ad Galgalam, et multiplicate praevaricationem : et afferte mane victimas vestras, tribus diebus decimas vestras. 
+    5: Et sacrificate de fermentato laudem, et vocate voluntarias oblationes, et annuntiate; sic enim voluistis, filii Israel, dicit Dominus Deus.
+    6: Unde et ego dedi vobis stuporem dentium in cunctis urbibus vestris, et indigentiam panum in omnibus locis vestris; et non estis reversi ad me, dicit Dominus. 
+    7: Ego quoque prohibui a vobis imbrem, cum adhuc tres menses superessent usque ad messem : et plui super unam civitatem, et super alteram civitatem non plui; pars una compluta est, et pars super quam non plui, aruit. 
+    8: Et venerunt duae et tres civitates ad unam civitatem ut biberent aquam, et non sunt satiatae; et non redistis ad me, dicit Dominus. 
+    9: Percussi vos in vento urente, et in aurugine : multitudinem hortorum vestrorum et vinearum vestrarum, oliveta vestra et ficeta vestra comedit eruca : et non redistis ad me, dicit Dominus. 
+    10: Misi in vos mortem in via Aegypti; percussi in gladio juvenes vestros, usque ad captivitatem equorum vestrorum, et ascendere feci putredinem castrorum vestrorum in nares vestras : et non redistis ad me, dicit Dominus.
+    11: Subverti vos sicut subvertit Deus Sodomam et Gomorrham, et facti estis quasi torris raptus ab incendio : et non redistis ad me, dicit Dominus. 
+    12: Quapropter haec faciam tibi, Israel : postquam autem haec fecero tibi, praeparare in occursum Dei tui, Israel. 
+    13: Quia ecce formans montes, et creans ventum, et annuntians homini eloquium suum, faciens matutinam nebulam, et gradiens super excelsa terrae : Dominus Deus exercituum nomen ejus.
+
+End of day 268.

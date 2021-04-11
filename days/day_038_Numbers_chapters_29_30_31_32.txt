@@ -1,0 +1,169 @@
+Day 38:
+
+Reading Numbers, chapters ['29', '30', '31', '32']:
+
+  Chapter 29.
+
+    1: Mensis etiam septimi prima dies venerabilis et sancta erit vobis. Omne opus servile non facietis in ea, quia dies clangoris est et tubarum. 
+    2: Offeretisque holocaustum in odorem suavissimum Domino, vitulum de armento unum, arietem unum, et agnos anniculos immaculatos septem : 
+    3: et in sacrificiis eorum, similae oleo conspersae tres decimas per singulos vitulos, duas decimas per arietem, 
+    4: unam decimam per agnum, qui simul sunt agni septem : 
+    5: et hircum pro peccato, qui offertur in expiationem populi,
+    6: praeter holocaustum calendarum cum sacrificiis suis, et holocaustum sempiternum cum libationibus solitis : eisdem caeremoniis offeretis in odorem suavissimum incensum Domino. 
+    7: Decima quoque dies mensis hujus septimi erit vobis sancta atque venerabilis, et affligetis animas vestras : omne opus servile non facietis in ea. 
+    8: Offeretisque holocaustum Domino in odorem suavissimum, vitulum de armento unum, arietem unum, agnos anniculos immaculatos septem : 
+    9: et in sacrificiis eorum similae oleo conspersae tres decimas per singulos vitulos, duas decimas per arietem, 
+    10: decimam decimae per agnos singulos, qui sunt simul agni septem :
+    11: et hircum pro peccato, absque his quae offerri pro delicto solent in expiationem, et holocaustum sempiternum, cum sacrificio et libaminibus eorum. 
+    12: Quintadecima vero die mensis septimi, quae vobis sancta erit atque venerabilis, omne opus servile non facietis in ea, sed celebrabitis solemnitatem Domino septem diebus. 
+    13: Offeretisque holocaustum in odorem suavissimum Domino, vitulos de armento tredecim, arietes duos, agnos anniculos immaculatos quatuordecim : 
+    14: et in libamentis eorum, similae oleo conspersae tres decimas per vitulos singulos, qui sunt simul vituli tredecim, et duas decimas arieti uno, id est, simul arietibus duobus, 
+    15: et decimam decimae agnis singulis, qui sunt simul agni quatuordecim :
+    16: et hircum pro peccato, absque holocausto sempiterno, et sacrificio, et libamine ejus. 
+    17: In die altero offeretis vitulos de armento duodecim, arietes duos, agnos anniculos immaculatos quatuordecim : 
+    18: sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis : 
+    19: et hircum pro peccato, absque holocausto sempiterno, sacrificioque et libamine ejus. 
+    20: Die tertio offeretis vitulos undecim, arietes duos, agnos anniculos immaculatos quatuordecim :
+    21: sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis : 
+    22: et hircum pro peccato, absque holocausto sempiterno, sacrificioque et libamine ejus. 
+    23: Die quarto offeretis vitulos decem, arietes duos, agnos anniculos immaculatos quatuordecim : 
+    24: sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis : 
+    25: et hircum pro peccato, absque holocausto sempiterno, sacrificioque ejus et libamine.
+    26: Die quinto offeretis vitulos novem, arietes duos, agnos anniculos immaculatos quatuordecim : 
+    27: sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis : 
+    28: et hircum pro peccato, absque holocausto sempiterno, sacrificioque ejus et libamine. 
+    29: Die sexto offeretis vitulos octo, arietes duos, agnos anniculos immaculatos quatuordecim : 
+    30: sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis :
+    31: et hircum pro peccato, absque holocausto sempiterno, sacrificioque ejus et libamine. 
+    32: Die septimo offeretis vitulos septem, et arietes duos, agnos anniculos immaculatos quatuordecim : 
+    33: sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis : 
+    34: et hircum pro peccato, absque holocausto sempiterno, sacrificioque ejus et libamine. 
+    35: Die octavo, qui est celeberrimus, omne opus servile non facietis,
+    36: offerentes holocaustum in odorem suavissimum Domino, vitulum unum, arietem unum, agnos anniculos immaculatos septem : 
+    37: sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis : 
+    38: et hircum pro peccato, absque holocausto sempiterno, sacrificioque ejus et libamine. 
+    39: Haec offeretis Domino in solemnitatibus vestris : praeter vota et oblationes spontaneas in holocausto, in sacrificio, in libamine, et in hostiis pacificis.
+
+  Chapter 30.
+
+    1: Narravitque Moyses filiis Israel omnia quae ei Dominus imperarat. 
+    2: Et locutus est ad principes tribuum filiorum Israel : Iste est sermo quem praecepit Dominus : 
+    3: Si quis virorum votum Domino voverit, aut se constrinxerit juramento : non faciet irritum verbum suum, sed omne quod promisit, implebit. 
+    4: Mulier si quippiam voverit, et se constrinxerit juramento, quae est in domo patris sui, et in aetate adhuc puellari : si cognoverit pater votum quod pollicita est, et juramentum quo obligavit animam suam, et tacuerit, voti rea erit : 
+    5: quidquid pollicita est, et juravit, opere complebit.
+    6: Sin autem statim ut audierit, contradixerit pater : et vota et juramenta ejus irrita erunt, nec obnoxia tenebitur sponsioni, eo quod contradixerit pater. 
+    7: Si maritum habuerit, et voverit aliquid, et semel de ore ejus verbum egrediens animam ejus obligaverit juramento : 
+    8: quo die audierit vir, et non contradixerit, voti rea erit, reddetque quodcumque promiserat. 
+    9: Sin autem audiens statim contradixerit, et irritas fecerit pollicitationes ejus, verbaque quibus obstrinxerat animam suam, propitius erit ei Dominus. 
+    10: Vidua et repudiata quidquid voverint, reddent.
+    11: Uxor in domo viri cum se voto constrinxerit et juramento, 
+    12: si audierit vir, et tacuerit, nec contradixerit sponsioni, reddet quodcumque promiserat. 
+    13: Sin autem extemplo contradixerit, non tenebitur promissionis rea : quia maritus contradixit, et Dominus ei propitius erit. 
+    14: Si voverit, et juramento se constrinxerit, ut per jejunium, vel ceterarum rerum abstinentiam affligat animam suam, in arbitrio viri erit ut faciat, sive non faciat. 
+    15: Quod si audiens vir tacuerit, et in alteram diem distulerit sententiam, quidquid voverat atque promiserat, reddet : quia statim ut audivit, tacuit.
+    16: Sin autem contradixerit postquam rescivit, portabit ipse iniquitatem ejus. 
+    17: Istae sunt leges, quas constituit Dominus Moysi inter virum et uxorem, inter patrem et filiam, quae in puellari adhuc aetate est, vel quae manet in parentis domo.
+
+  Chapter 31.
+
+    1: Locutusque est Dominus ad Moysen, dicens : 
+    2: Ulciscere prius filios Israel de Madianitis, et sic colligeris ad populum tuum. 
+    3: Statimque Moyses : Armate, inquit, ex vobis viros ad pugnam, qui possint ultionem Domini expetere de Madianitis. 
+    4: Mille viri de singulis tribubus eligantur ex Israel qui mittantur ad bellum. 
+    5: Dederuntque millenos de singulis tribubus, id est, duodecim millia expeditorum ad pugnam :
+    6: quos misit Moyses cum Phinees filio Eleazari sacerdotis, vasa quoque sancta, et tubas ad clangendum tradidit ei. 
+    7: Cumque pugnassent contra Madianitas atque vicissent, omnes mares occiderunt, 
+    8: et reges eorum, Evi, et Recem, et Sur, et Hur, et Rebe, quinque principes gentis : Balaam quoque filium Beor interfecerunt gladio. 
+    9: Ceperuntque mulieres eorum, et parvulos, omniaque pecora, et cunctam supellectilem : quidquid habere potuerant depopulati sunt : 
+    10: tam urbes quam viculos et castella flamma consumpsit.
+    11: Et tulerunt praedam, et universa quae ceperant tam ex hominibus quam ex jumentis, 
+    12: et adduxerunt ad Moysen, et Eleazarum sacerdotem, et ad omnem multitudinem filiorum Israel : reliqua autem utensilia portaverunt ad castra in campestribus Moab juxta Jordanem contra Jericho. 
+    13: Egressi sunt autem Moyses et Eleazar sacerdos, et omnes principes synagogae, in occursum eorum extra castra. 
+    14: Iratusque Moyses principibus exercitus, tribunis, et centurionibus qui venerant de bello, 
+    15: ait : Cur feminas reservastis?
+    16: nonne istae sunt, quae deceperunt filios Israel ad suggestionem Balaam, et praevaricari vos fecerunt in Domino super peccato Phogor, unde et percussus est populus? 
+    17: ergo cunctos interficite quidquid est generis masculinis, etiam in parvulis : et mulieres, quae noverunt viros in coitu, jugulate : 
+    18: puellas autem et omnes feminas virgines reservate vobis : 
+    19: et manete extra castra septem diebus. Qui occiderit hominem, vel occisum tetigerit, lustrabitur die tertio et septimo. 
+    20: Et de omni praeda, sive vestimentum fuerit, sive vas, et aliquid in utensilia praeparatum, de caprarum pellibus, et pilis, et ligno, expiabitur.
+    21: Eleazar quoque sacerdos ad viros exercitus, qui pugnaverunt, sic locutus est : Hoc est praeceptum legis, quod mandavit Dominus Moysi : 
+    22: aurum, et argentum, et aes, et ferrum, et plumbum, et stannum, 
+    23: et omne, quod potest transire per flammas, igne purgabitur : quidquid autem ignem non potest sustinere, aqua expiationis sanctificabitur : 
+    24: et lavabitis vestimenta vestra die septimo, et purificati postea castra intrabitis. 
+    25: Dixit quoque Dominus ad Moysen :
+    26: Tollite summam eorum quae capta sunt, ab homine usque ad pecus, tu et Eleazar sacerdos et principes vulgi : 
+    27: dividesque ex aequo praedam inter eos qui pugnaverunt egressique sunt ad bellum, et inter omnem reliquam multitudinem. 
+    28: Et separabis partem Domino ab his qui pugnaverunt et fuerunt in bello, unam animam de quingentis, tam ex hominibus quam ex bobus et asinis et ovibus, 
+    29: et dabis eam Eleazaro sacerdoti, quia primitiae Domini sunt. 
+    30: Ex media quoque parte filiorum Israel accipies quinquagesimum caput hominum, et boum, et asinorum, et ovium, cunctorum animantium, et dabis ea Levitis, qui excubant in custodiis tabernaculi Domini.
+    31: Feceruntque Moyses et Eleazar sicut praeceperat Dominus. 
+    32: Fuit autem praeda, quam exercitus ceperat, ovium sexcenta septuaginta quinque millia, 
+    33: boum septuaginta duo millia, 
+    34: asinorum sexaginta millia et mille : 
+    35: animae hominum sexus feminei, quae non cognoverant viros, triginta duo millia.
+    36: Dataque est media pars his qui in praelio fuerant, ovium trecenta triginta septem millia quingentae : 
+    37: e quibus in partem Domini supputatae sunt oves sexcentae septuaginta quinque : 
+    38: et de bobus triginta sex millibus, boves septuaginta et duo : 
+    39: de asinis triginta millibus quingentis, asini sexaginta unus : 
+    40: de animabus hominum sedecim millibus, cesserunt in partem Domini triginta duae animae.
+    41: Tradiditque Moyses numerum primitiarum Domini Eleazaro sacerdoti, sicut fuerat ei imperatum, 
+    42: ex media parte filiorum Israel, quam separaverat his qui in praelio fuerant. 
+    43: De media vero parte, quae contigerat reliquae multitudini, id est, de ovibus trecentis triginta septem millibus quingentis, 
+    44: et de bobus triginta sex millibus, 
+    45: et de asinis triginta millibus quingentis,
+    46: et de hominibus sedecim millibus, 
+    47: tulit Moyses quinquagesimum caput, et dedit Levitis, qui excubabant in tabernaculo Domini, sicut praeceperat Dominus. 
+    48: Cumque accessissent principes exercitus ad Moysen, et tribuni, centurionesque, dixerunt : 
+    49: Nos servi tui recensuimus numerum pugnatorum, quos habuimus sub manu nostra : et ne unus quidem defuit. 
+    50: Ob hanc causam offerimus in donariis Domini singuli quod in praeda auri potuimus invenire, periscelides et armillas, annulos et dextralia, ac muraenulas, ut depreceris pro nobis Dominum.
+    51: Susceperuntque Moyses et Eleazar sacerdos omne aurum in diversis speciebus, 
+    52: pondo sedecim millia septingentos quinquaginta siclos, a tribunis et centurionibus. 
+    53: Unusquisque enim quod in praeda rapuerat, suum erat. 
+    54: Et susceptum intulerunt in tabernaculum testimonii, in monimentum filiorum Israel coram Domino.
+
+  Chapter 32.
+
+    1: Filii autem Ruben et Gad habebant pecora multa, et erat illis in jumentis infinita substantia. Cumque vidissent Jazer et Galaad aptas animalibus alendis terras, 
+    2: venerunt ad Moysen, et ad Elezarum sacerdotem, et principes multitudinis, atque dixerunt : 
+    3: Ataroth, et Dibon, et Jazer, et Nemra, Hesebon, et Eleale, et Saban, et Nebo, et Beon, 
+    4: terra, quam percussit Dominus in conspectu filiorum Israel, regio uberrima est ad pastum animalium : et nos servi tui habemus jumenta plurima, 
+    5: precamurque si invenimus gratiam coram te, ut des nobis famulis tuis eam in possessionem, nec facias nos transire Jordanem.
+    6: Quibus respondit Moyses : Numquid fratres vestri ibunt ad pugnam, et vos hic sedebitis? 
+    7: cur subvertitis mentes filiorum Israel, ne transire audeant in locum, quem eis daturus est Dominus? 
+    8: Nonne ita egerunt patres vestri, quando misi de Cadesbarne ad explorandam terram? 
+    9: cumque venissent usque ad Vallem botri, lustrata omni regione, subverterunt cor filiorum Israel, ut non intrarent fines, quos eis Dominus dedit. 
+    10: Qui iratus juravit, dicens :
+    11: Si videbunt homines isti, qui ascenderunt ex Aegypto a viginti annis et supra, terram, quam sub juramento pollicitus sum Abraham, Isaac, et Jacob : et noluerunt sequi me, 
+    12: praeter Caleb filium Jephone Cenezaeum, et Josue filium Nun : isti impleverunt voluntatem meam. 
+    13: Iratusque Dominus adversum Israel, circumduxit eum per desertum quadraginta annis, donec consumeretur universa generatio, quae fecerat malum in conspectu ejus. 
+    14: Et ecce, inquit, vos surrexistis pro patribus vestris, incrementa et alumni hominum peccatorum, ut augeretis furorem Domini contra Israel. 
+    15: Quod si nolueritis sequi eum, in solitudine populum derelinquet, et vos causa eritis necis omnium.
+    16: At illi prope accedentes, dixerunt : Caulas ovium fabricabimus, et stabula jumentorum, parvulis quoque nostris urbes munitas : 
+    17: nos autem ipsi armati et accincti pergemus ad praelium ante filios Israel, donec introducamus eos ad loca sua. Parvuli nostri, et quidquid habere possumus, erunt in urbibus muratis, propter habitatorum insidias. 
+    18: Non revertemur in domos nostras, usque dum possideant filii Israel haereditatem suam : 
+    19: nec quidquam quaeremus trans Jordanem, quia jam habemus nostram possessionem in orientali ejus plaga. 
+    20: Quibus Moyses ait : Si facitis quod promittitis, expediti pergite coram Domino ad pugnam :
+    21: et omnis vir bellator armatus Jordanem transeat, donec subvertat Dominus inimicos suos, 
+    22: et subjiciatur ei omnis terra : tunc eritis inculpabiles apud Dominum et apud Israel, et obtinebitis regiones, quas vultis, coram Domino. 
+    23: Sin autem quod dicitis, non feceritis, nulli dubium est quin peccetis in Deum : et scitote quoniam peccatum vestrum apprehendet vos. 
+    24: Aedificate ergo urbes parvulis vestris, et caulas, et stabula ovibus ac jumentis : et quod polliciti estis, implete. 
+    25: Dixeruntque filii Gad et Ruben ad Moysen : Servi tui sumus : faciemus quod jubet dominus noster.
+    26: Parvulos nostros, et mulieres, et pecora, ac jumenta relinquemus in urbibus Galaad : 
+    27: nos autem famuli tui omnes expediti pergemus ad bellum, sicut tu, domine, loqueris. 
+    28: Praecepit ergo Moyses Eleazaro sacerdoti, et Josue filio Nun, et principibus familiarum per tribus Israel, et dixit ad eos : 
+    29: Si transierint filii Gad et filii Ruben vobiscum Jordanem omnes armati ad bellum coram Domino, et vobis fuerit terra subjecta, date eis Galaad in possessionem. 
+    30: Sin autem noluerint transire armati vobiscum in terram Chanaan, inter vos habitandi accipiant loca.
+    31: Responderuntque filii Gad et filii Ruben : Sicut locutus est Dominus servis suis, ita faciemus : 
+    32: ipsi armati pergemus coram Domino in terram Chanaan, et possessionem jam suscepisse nos confitemur trans Jordanem. 
+    33: Dedit itaque Moyses filiis Gad et Ruben, et dimidiae tribui Manasse filii Joseph, regnum Sehon regis Amorrhaei, et regnum Og regis Basan, et terram eorum cum urbibus suis per circuitum. 
+    34: Igitur exstruxerunt filii Gad, Dibon, et Ataroth, et Aroer, 
+    35: et Etroth, et Sophan, et Jazer, et Jegbaa,
+    36: et Bethnemra, et Betharan, urbes munitas, et caulas pecoribus suis. 
+    37: Filii vero Ruben aedificaverunt Hesebon, et Eleale, et Cariathaim, 
+    38: et Nabo, et Baalmeon versis nominibus, Sabama quoque : imponentes vocabula urbibus, quas exstruxerunt. 
+    39: Porro filii Machir filii Manasse, perrexerunt in Galaad, et vastaverunt eam interfecto Amorrhaeo habitatore ejus. 
+    40: Dedit ergo Moyses terram Galaad Machir filio Manasse, qui habitavit in ea.
+    41: Jair autem filius Manasse abiit, et occupavit vicos ejus, quos appellavit Havoth Jair, id est, Villas Jair. 
+    42: Nobe quoque perrexit, et apprehendit Chanath cum viculis suis : vocavitque eam ex nomine suo Nobe.
+
+End of day 38.

@@ -1,0 +1,176 @@
+Day 129:
+
+Reading 2-Maccabees, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Fratribus qui sunt per Aegyptum, Judaeis, salutem dicunt fratres qui sunt in Jerosolymis, Judaei, et qui in regione Judaeae, et pacem bonam. 
+    2: Benefaciat vobis Deus, et meminerit testamenti sui, quod locutus est ad Abraham, et Isaac, et Jacob servorum suorum fidelium : 
+    3: et det vobis cor omnibus ut colatis eum, et faciatis ejus voluntatem corde magno, et animo volenti. 
+    4: Adaperiat cor vestrum in lege sua, et in praeceptis suis, et faciat pacem. 
+    5: Exaudiat orationes vestras, et reconcilietur vobis, nec vos deserat in tempore malo.
+    6: Et nunc hic sumus orantes pro vobis. 
+    7: Regnante Demetrio, anno centesimo sexagesimo nono, nos Judaei scripsimus vobis in tribulatione, et impetu, qui supervenit nobis in istis annis, ex quo recessit Jason a sancta terra, et a regno. 
+    8: Portam succenderunt, et effuderunt sanguinem innocentem : et oravimus ad Dominum, et exauditi sumus, et obtulimus sacrificium, et similaginem, et accendimus lucernas, et proposuimus panes. 
+    9: Et nunc frequentate dies scenopegiae mensis Casleu. 
+    10: Anno centesimo octogesimo octavo, populus qui est Jerosolymis et in Judaea, senatusque et Judas, Aristobolo magistro Ptolemaei regis, qui est de genere christorum sacerdotum, et his qui in Aegypto sunt, Judaeis salutem et sanitatem.
+    11: De magnis periculis a Deo liberati, magnifice gratias agimus ipsi, utpote qui adversus talem regem dimicavimus. 
+    12: Ipse enim ebullire fecit de Perside eos qui pugnaverunt contra nos et sanctam civitatem. 
+    13: Nam cum in Perside esset dux ipse, et cum ipso immensus exercitus, cecidit in templo Naneae, consilio deceptus sacerdotum Naneae. 
+    14: Etenim cum ea habitaturus venit ad locum Antiochus, et amici ejus, et ut acciperet pecunias multas dotis nomine. 
+    15: Cumque proposuissent eas sacerdotes Naneae, et ipse cum paucis ingressus esset intra ambitum fani, clauserunt templum,
+    16: cum intrasset Antiochus : apertoque occulto aditu templi, mittentes lapides percusserunt ducem, et eos qui cum eo erant, et diviserunt membratim, et capitibus amputatis foras projecerunt. 
+    17: Per omnia benedictus Deus, qui tradidit impios. 
+    18: Facturi igitur quinta et vigesima die mensis Casleu purificationem templi, necessarium duximus significare vobis : ut et vos quoque agatis diem scenopegiae, et diem ignis, qui datus est quando Nehemias aedificato templo et altari obtulit sacrificia. 
+    19: Nam cum in Persidem ducerentur patres nostri, sacerdotes, qui tunc cultores Dei erant, acceptum ignem de altari occulte absconderunt in valle, ubi erat puteus altus et siccus, et in eo contutati sunt eum, ita ut omnibus ignotus esset locus. 
+    20: Cum autem praeterissent anni multi, et placuit Deo ut mitteretur Nehemias a rege Persidis : nepotes sacerdotum illorum, qui absconderant, misit ad requirendum ignem : et sicut narraverunt nobis, non invenerunt ignem, sed aquam crassam.
+    21: Et jussit eos haurire, et afferre sibi : et sacrificia, quae imposita erant, jussit sacerdos Nehemias aspergi ipsa aqua, et ligna, et quae erant superposita. 
+    22: Utque hoc factum est, et tempus affuit, quo sol refulsit, qui prius erat in nubilo, accensus est ignis magnus, ita ut omnes mirarentur. 
+    23: Orationem autem faciebant omnes sacerdotes, dum consummaretur sacrificium, Jonatha inchoante, ceteris autem respondentibus. 
+    24: Et Nehemiae erat oratio hunc habens modum : Domine Deus omnium creator, terribilis et fortis, justus et misericors, qui solus est bonus rex, 
+    25: solus praestans, solus justus et omnipotens, et aeternus, qui liberas Israel de omni malo; qui fecisti patres electos, et sanctificasti eos :
+    26: accipe sacrificium pro universo populo tuo Israel, et custodi partem tuam, et sanctifica. 
+    27: Congrega dispersionem nostram, libera eos qui serviunt gentibus, et contemptos et abominatos respice, ut sciant gentes quia tu es Deus noster. 
+    28: Afflige opprimentes nos, et contumeliam facientes in superbia. 
+    29: Constitue populum tuum in loco sancto tuo, sicut dixit Moyses. 
+    30: Sacerdotes autem psallebant hymnos, usquequo consumptum esset sacrificium.
+    31: Cum autem consumptum esset sacrificium, ex residua aqua Nehemias jussit lapides majores perfundi. 
+    32: Quod ut factum est, ex eis flamma accensa est : sed ex lumine, quod refulsit ab altari, consumpta est. 
+    33: Ut vero manifestata est res, renuntiatum est regi Persarum quod in loco, in quo ignem absconderent hi qui translati fuerant, sacerdotes, aqua apparuit, de qua Nehemias, et qui cum eo erant, purificaverunt sacrificia. 
+    34: Considerans autem rex, et rem diligenter examinans, fecit ei templum, ut probaret quod factum erat : 
+    35: et cum probasset, sacerdotibus donavit multa bona, et alia atque alia munera, et accipiens manu sua, tribuebat eis.
+    36: Appellavit autem Nehemias hunc locum Nephthar, quod interpretatur Purificatio : vocatur autem apud plures Nephi.
+
+  Chapter 2.
+
+    1: Invenitur autem in descriptionibus Jeremiae prophetae, quod jussit eos ignem accipere qui transmigrabant : ut significatum est, et ut mandavit transmigratis. 
+    2: Et dedit illis legem, ne obliviscerentur praecepta Domini, et non exerrarent mentibus, videntes simulacra aurea et argentea, et ornamenta eorum. 
+    3: Et alia hujusmodi dicens, hortabatur ne legem amoverent a corde suo. 
+    4: Erat autem in ipsa scriptura, quomodo tabernaculum et arcam jussit propheta divino responso ad se facto comitari secum, usquequo exiit in montem in quo Moyses ascendit, et vidit Dei haereditatem. 
+    5: Et veniens ibi Jeremias invenit locum speluncae : et tabernaculum, et arcam, et altare incensi intulit illuc, et ostium obstruxit.
+    6: Et accesserunt quidam simul, qui sequebantur, ut notarent sibi locum : et non potuerunt invenire. 
+    7: Ut autem cognovit Jeremias, culpans illos, dixit : Quod ignotus erit locus donec congreget Deus congregationem populi, et propitius fiat : 
+    8: et tunc Dominus ostendet haec, et apparebit majestas Domini, et nubes erit, sicut et Moysi manifestabatur, et sicut cum Salomon petiit ut locus sanctificaretur magno Deo, manifestabat haec. 
+    9: Magnifice etenim sapientiam habens, obtulit sacrificium dedicationis et consummationis templi. 
+    10: Sicut et Moyses orabat ad Dominum, et descendit ignis de caelo, et consumpsit holocaustum, sic et Salomon oravit, et descendit ignis de caelo, et consumpsit holocaustum.
+    11: Et dixit Moyses, eo quod non sit comestum quod erat pro peccato, consumptum est. 
+    12: Similiter et Salomon octo diebus celebravit dedicationem. 
+    13: Inferebantur autem in descriptionibus, et commentariis Nehemiae haec eadem : et ut construens bibliothecam congregavit de regionibus libros, et prophetarum, et David, et epistolas regum, et de donariis. 
+    14: Similiter autem et Judas ea, quae deciderant per bellum, quod nobis acciderat, congregavit omnia, et sunt apud nos. 
+    15: Si ergo desideratis haec, mittite qui perferant vobis.
+    16: Acturi itaque purificationem scripsimus vobis : bene ergo facietis, si egeritis hos dies. 
+    17: Deus autem, qui liberavit populum suum, et reddidit haereditatem omnibus, et regnum, et sacerdotium, et sanctificationem, 
+    18: sicut promisit in lege, speramus quod cito nostri miserebitur, et congregavit de sub caelo in locum sanctum. 
+    19: Eripuit enim nos de magnis periculis, et locum purgavit. 
+    20: De Juda vero Machabaeo, et fratribus ejus, et de templi magni purificatione, et de arae dedicatione :
+    21: sed et de praeliis, quae pertinent ad Antiochum Nobilem, et filium ejus Eupatorem : 
+    22: et de illuminationibus quae de caelo factae sunt ad eos qui pro Judaeis fortiter fecerunt, ita ut universam regionem, cum pauci essent, vindicarent, et barbaram multitudinem fugarent, 
+    23: et famosissimum in toto orbe templum recuperarent, et civitatem liberarent, et leges, quae abolitae erant, restituerentur, Domino cum omni tranquillitate propitio facto illis. 
+    24: Itemque ab Jasone Cyrenaeo quinque libris comprehensa tentavimus nos uno volumine breviare. 
+    25: Considerantes enim multitudinem librorum, et difficultatem volentibus aggredi narrationes historiarum propter multitudinem rerum,
+    26: curavimus volentibus quidem legere, ut esset animi oblectatio : studiosis vero, ut facilius possint memoriae commendare : omnibus autem legentibus utilitas conferatur. 
+    27: Et nobis quidem ipsis, qui hoc opus breviandi causa suscepimus, non facilem laborem, immo vero negotium plenum vigiliarum et sudoris assumpsimus. 
+    28: Sicut hi qui praeparant convivium, et quaerunt aliorum voluntati parere propter multorum gratiam, libenter laborem sustinemus. 
+    29: Veritatem quidem de singulis auctoribus concedentes, ipsi autem secundum datam formam brevitati studentes. 
+    30: Sicut enim novae domus architecto de universa structura curandum est : ei vero, qui pingere curat, quae apta sunt ad ornatum, exquirenda sunt : ita aestimandum est et in nobis.
+    31: Etenim intellectum colligere, et ordinare sermonem, et curiosius partes singulas quasque disquirere, historiae congruit auctori : 
+    32: brevitatem vero dictionis sectari, et executiones rerum vitare, brevianti concedendum est. 
+    33: Hinc ergo narrationem incipiemus : de praefatione tantum dixisse sufficiat. Stultum etenim est ante historiam effluere, in ipsa autem historia succingi.
+
+  Chapter 3.
+
+    1: Igitur cum sancta civitas habitaretur in omni pace, leges etiam adhuc optime custodirentur, propter Oniae pontificis pietatem, et animos odio habentes mala, 
+    2: fiebat ut et ipsi reges, et principes locum summo honore dignum ducerent, et templum maximis muneribus illustrarent : 
+    3: ita ut Seleucus Asiae rex de redditibus suis praestaret omnes sumptus ad ministerium sacrificiorum pertinentes. 
+    4: Simon autem de tribu Benjamin, praepositus templi constitutus, contendebat, obsistente sibi principe sacerdotum, iniquum aliquid in civitate moliri. 
+    5: Sed cum vincere Oniam non posset, venit ad Apollonium Tharsaeae filium, qui eo tempore erat dux Coelesyriae et Phoenicis :
+    6: et nuntiavit ei pecuniis innumerabilibus plenum esse aerarium Jerosolymis, et communes copias immensas esse, quae non pertinent ad rationem sacrificiorum : esse autem possibile sub potestate regis cadere universa. 
+    7: Cumque retulisset ad regem Apollonius de pecuniis quae delatae erant, illae accitum Heliodorum, qui erat super negotia ejus, misit cum mandatis, ut praedictam pecuniam transportaret. 
+    8: Statimque Heliodorus iter est agressus, specie quidem quasi per Coelesyriam et Phoenicen civitates esset peragraturus, re vera autem regis propositum perfecturus. 
+    9: Sed cum venisset Jerosolymam, et benigne a summo sacerdote in civitate esset exceptus, narravit de dato indicio pecuniarum : et cujus rei gratia adesset, aperuit : interrogabat autem si vere haec ita essent. 
+    10: Tunc summus sacerdos ostendit deposita esse haec, et victualia viduarum, et pupillorum :
+    11: quaedam vero esse Hircani Tobiae viri valde eminentis, in his quae detulerat impius Simon : universa autem argenti talenta esse quadringenta, et auri ducenta : 
+    12: decipi vero eos, qui credidissent loco et templo, quod per universum mundum honoratur pro sui veneratione, et sanctitate omnino impossibile esse. 
+    13: At ille pro his quae habebat in mandatis a rege, dicebat omni genere regi ea esse deferenda. 
+    14: Constituta autem die intrabat de his Heliodorus ordinaturus. Non modica vero per universam civitatem erat trepidatio. 
+    15: Sacerdotes autem ante altare cum stolis sacerdotalibus jactaverunt se, et invocabant de caelo eum, qui de depositis legem posuit, ut his qui deposuerant ea salva custodiret.
+    16: Jam vero qui videbat summi sacerdotis vultum, mente vulnerabatur : facies enim et color immutatus declarabat internum animi dolorem : 
+    17: circumfusa enim erat moestitia quaedam viro, et horror corporis, per quem manifestus aspicientibus dolor cordis ejus efficiebatur. 
+    18: Alii etiam gregatim de domibus confluebant, publica supplicatione obsecrantes, pro eo quod in contemptum locus esset venturus. 
+    19: Accinctaeque mulieres ciliciis pectus, per plateas confluebant : sed et virgines, quae conclusae erant, procurrebant ad Oniam, aliae autem ad muros, quaedam vero per fenestras aspiciebant : 
+    20: universae autem protendentes manus in caelum, deprecabantur :
+    21: erat enim misera commistae multitudinis, et magni sacerdotis in agone constituti exspectatio. 
+    22: Et hi quidem invocabant omnipotentem Deum, ut credita sibi his qui crediderant, cum omni integritate conservarentur. 
+    23: Heliodorus autem, quod decreverat, perficiebat eodem loco ipse cum satellitibus circa aerarium praesens. 
+    24: Sed spiritus omnipotentis Dei magnam fecit suae ostensionis evidentiam, ita ut omnes, qui ausi fuerant parere ei, ruentes Dei virtute, in dissolutionem et formidinem converterentur. 
+    25: Apparuit enim illis quidam equus terribilem habens sessorem, optimis operimentis adornatus : isque cum impetu Heliodoro priores calces elisit : qui autem ei sedebat, videbatur arma habere aurea.
+    26: Alii etiam apparuerunt duo juvenes virtute decori, optimi gloria, speciosique amictu : qui circumsteterunt eum, et ex utraque parte flagellabant, sine intermissione multis plagis verberantes. 
+    27: Subito autem Heliodorus concidit in terram, eumque multa caligine circumfusum rapuerunt, atque in sella gestatoria positum ejecerunt. 
+    28: Et is, qui cum multis cursoribus, et satellitibus praedictum ingressus est aerarium, portabatur nullo sibi auxilium ferente, manifesta Dei cognita virtute : 
+    29: et ille quidem per divinam virtutem jacebat mutus, atque omni spe et salute privatus. 
+    30: Hi autem Dominum benedicebant, quia magnificabat locum suum : et templum, quod paulo ante timore ac tumultu erat plenum, apparente omnipotente Domino, gaudio et laetitia impletum est.
+    31: Tunc vero ex amicis Heliodori quidam rogabant confestim Oniam, ut invocaret Altissimum, ut vitam donaret ei, qui in supremo spiritu erat constitutus. 
+    32: Considerans autem summus sacerdos ne forte rex suspicaretur malitiam aliquam ex Judaeis circa Heliodorum consummatum, obtulit pro salute viri hostiam salutarem. 
+    33: Cumque summus sacerdos exoraret, iidem juvenes eisdem vestibus amicti, astantes Heliodoro, dixerunt : Oniae sacerdoti gratias age : nam propter eum Dominus tibi vitam donavit. 
+    34: Tu autem a Deo flagellatus, nuntia omnibus magnalia Dei, et potestatem. Et his dictis, non comparuerunt. 
+    35: Heliodorus autem, hostia Deo oblata, et votis magnis promissis ei, qui vivere illi concessit, et Oniae gratias agens, recepto exercitu, repedabat ad regem.
+    36: Testabatur autem omnibus ex quae sub oculis suis viderat opera magni Dei. 
+    37: Cum autem rex interrogasset Heliodorum, quis esset aptus adhuc semel Jerosolymam mitti, ait : 
+    38: Si quem habes hostem, aut regni tui insidiatorem, mitte illuc, et flagellatum eum recipies, si tamen evaserit : eo quod in loco sit vere Dei quaedam virtus. 
+    39: Nam ipse, qui habet in caelis habitationem, visitator et adjutor est loci illius, et venientes ad malefaciendum percutit, ac perdit. 
+    40: Igitur de Heliodoro, et aerarii custodia ita res se habet.
+
+  Chapter 4.
+
+    1: Simon autem praedictus pecuniarum, et patriae delator, male loquebatur de Onia, tamquam ipse Heliodorum instigasset ad haec, et ipse fuisset incentor malorum : 
+    2: provisoremque civitatis, ac defensorem gentis suae, et aemulatorem legis Dei audebat insidiatorem regni dicere. 
+    3: Sed cum inimicitiae in tantum procederent, ut etiam per quosdam Simonis necessarios homicidia fierent : 
+    4: considerans Onias periculum contentionis, et Apollonium insanire, utpote ducem Coelesyriae et Phoenicis, ad augendam malitiam Simonis, ad regem se contulit, 
+    5: non ut civium accusator, sed communem utilitatem apud semetipsum universae multitudinis considerans.
+    6: Videbat enim sine regali providentia impossibile esse pacem rebus dari, nec Simonem posse cessare a stultitia sua. 
+    7: Sed post Seleuci vitae excessum, cum suscepisset regnum Antiochus, qui Nobilis appellabatur, ambiebat Jason frater Oniae summum sacerdotium : 
+    8: adito rege, promittens ei argenti talenta trecenta sexaginta, et ex redditibus aliis talenta octoginta, 
+    9: super haec promittebat et alia centum quinquaginta, si potestati ejus concederetur, gymnasium et ephebiam sibi constituere, et eos qui in Jerosolymis erant, Antiochenos scribere. 
+    10: Quod cum rex annuisset, et obtinuisset principatum, statim ad gentilem ritum contribules suos transferre coepit,
+    11: et amotis his, quae humanitatis causa Judaeis a regibus fuerant constituta, per Joannem patrem Eupolemi, qui apud Romanos de amicitia, et societate functus est legatione legitima, civium jura destituens, prava instituta sanciebat. 
+    12: Etenim ausus est sub ipsa arce gymnasium constituere, et optimos quosque epheborum in lupanaribus ponere. 
+    13: Erat autem hoc non initium, sed incrementum quoddam, et profectus gentilis, et alienigenae conversationis, propter impii, et non sacerdotis Jasonis nefarium, et inauditum scelus : 
+    14: ita ut sacerdotes jam non circa altaris officia dediti essent, sed contempto templo, et sacrificiis neglectis festinarent participes fieri palaestrae, et praebitionis ejus injustae, et in exercitiis disci, 
+    15: et patrios quidem honores nihil habentes, graecas glorias optimas arbitrabantur :
+    16: quarum gratia periculosa eos contentio habebat, et eorum instituta aemulabantur, ac per omnia his consimiles esse cupiebant, quos hoste et peremptores habuerant. 
+    17: In leges enim divinas impie agere impune non cedit : sed hoc tempus sequens declarabit. 
+    18: Cum autem quinquennalis agon Tyri celebraretur, et rex praesens esset, 
+    19: misit Jason facinorosus ab Jerosolymis viros peccatores, portantes argenti didrachmas trecentas in sacrificum Herculis, quas postulaverunt hi qui asportaverant ne in sacrificiis erogarentur, quia non oporteret, sed in alios sumptus eas deputari. 
+    20: Sed hae oblatae sunt quidem ab eo qui miserat in sacrificium Herculis : propter praesentes autem datae sunt in fabricam navium triremium.
+    21: Misso autem in Aegyptum Apollonio Mnesthei filio propter primates Ptolemaei Philometoris regis, cum cognovisset Antiochus alienum se a negotiis regni effectum, propriis utilitatibus consulens, profectus inde venit Joppen, et inde Jerosolymam. 
+    22: Et magnifice ab Jasone, et civitate susceptus, cum facularum luminibus et laudibus ingressus est : et inde in Phoenicen exercitum convertit. 
+    23: Et post triennii tempus misit Jason Menelaum supradicti Simonis fratrem portantem pecunias regi, et de negotiis necessariis responsa perlaturum. 
+    24: At ille commendatus regi, cum magnificasset faciem potestatis ejus, in semetipsum retorsit summum sacerdotium, superponens Jasoni talenta argenti trecenta. 
+    25: Acceptisque a rege mandatis, venit, nihil quidem habens dignum sacerdotio : animos vero crudelis tyranni, et ferae belluae iram gerens.
+    26: Et Jason quidem, qui proprium fratrem captivaverat, ipse deceptus profugus in Ammanitem expulsus est regionem. 
+    27: Menelaus autem principatum quidem obtinuit : de pecuniis vero regi promissis, nihil agebat, cum exactionem faceret Sostratus, qui arci erat praepositus, 
+    28: nam ad hunc exactio vectigalium pertinebant : quam ob causam utrique ad regem sunt evocati. 
+    29: Et Menelaus amotus est a sacerdotio, succedente Lysimacho fratre suo : Sostratus autem praelatus est Cypriis. 
+    30: Et cum haec agerentur, contigit, Tharsenses, et Mallotas seditionem movere, eo quod Antiochidi regis concubinae dono essent dati.
+    31: Festinanter itaque rex venit sedare illos, relicto suffecto uno ex comitibus suis Andronico. 
+    32: Ratus autem Menelaus accepisse se tempus opportunum, aurea quaedam vasa e templo furatus donavit Andronico, et alia vendiderat Tyri, et per vicinas civitates. 
+    33: Quod cum certissime cognovisset Onias, arguebat eum, ipse in loco tuto se continens Antiochiae secus Daphnem. 
+    34: Unde Menelaus accedens ad Andronicum, rogabat ut Oniam interficeret. Qui cum venisset ad Oniam, et datis dextris cum jurejurando ( quamvis esset ei suspectus) suasisset de asylo procedere, statim eum peremit, non veritus justitiam. 
+    35: Ob quam causam non solum Judaei, sed aliae quoque nationes indignabantur, et moleste ferebant de nece tanti viri injusta.
+    36: Sed regressum regem de Ciliciae locis adierunt Judaei apud Antiochiam, simul et Graeci, conquerentes de iniqua nece Oniae. 
+    37: Contristatus itaque animo Antiochus propter Oniam, et flexus ad misericordiam, lacrimas fudit, recordatus defuncti sobrietatem et modestiam : 
+    38: accensisque animis Andronicum purpura exutum, per totam civitatem jubet circumduci : et in eodem loco, in quo in Oniam impietatem commiserat, sacrilegum vita privari, Domino illi condignam retribuente poenam. 
+    39: Multis autem sacrilegiis in templo a Lysimacho commissis Menelai consilio, et divulgata fama, congregata est multitudo adversum Lysimachum multo jam auro exportato. 
+    40: Turbis autem insurgentibus, et animis ira repletis, Lysimachus armatis fere tribus millibus iniquis manibus uti coepit, duce quodam tyranno, aetate pariter et dementia provecto.
+    41: Sed ut intellexerunt conatum Lysimachi, alii lapides, alii fustes validos arripuere : quidam vero cinerem in Lysimachum jecere. 
+    42: Et multi quidem vulnerati, quidam autem et prostrati, omnes vero in fugam conversi sunt : ipsum etiam sacrilegum secus aerarium interfecerunt. 
+    43: De his ergo coepit judicium adversus Menelaum agitari. 
+    44: Et cum venisset rex Tyrum, ad ipsum negotium detulerunt missi tres viri a senioribus. 
+    45: Et cum superaretur Menelaus, promisit Ptolemaeo multas pecunias dare ad suadendum regi.
+    46: Itaque Ptolemaeus in quodam atrio positum quasi refrigerandi gratia regem adiit, et deduxit a sententia : 
+    47: et Menelaum quidem universae malitiae reum criminibus absolvit : miseros autem qui, etiamsi apud Scythas causam dixissent, innocentes judicarentur, hos morte damnavit. 
+    48: Cito ergo injustam poenam dederunt, qui pro civitate, et populo, et sacris vasis causam prosecuti sunt. 
+    49: Quam ob rem Tyrii quoque indignati, erga sepulturam eorum liberalissimi extiterunt. 
+    50: Menelaus autem, propter eorum, qui in potentia erant, avaritiam, permanebat in potestate, crescens in malitia ad insidias civium.
+
+End of day 129.

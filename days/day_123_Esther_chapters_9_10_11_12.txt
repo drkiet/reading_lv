@@ -1,0 +1,80 @@
+Day 123:
+
+Reading Esther, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Igitur duodecimi mensis, quem Adar vocari ante jam diximus, tertiadecima die, quando cunctis Judaeis interfectio parabatur, et hostes eorum inhiabant sanguini, versa vice Judaei superiores esse coeperunt, et se de adversariis vindicare. 
+    2: Congregatique sunt per singulas civitates, oppida, et loca, ut extenderent manum contra inimicos, et persecutores suos. Nullusque ausus est resistere, eo quod omnes populos magnitudinis eorum formido penetrarat. 
+    3: Nam et provinciarum judices, et duces, et procuratores, omnisque dignitas, quae singulis locis ac operibus praeerat, extollebant Judaeos timore Mardochaei : 
+    4: quem principem esse palatii, et plurimum posse cognoverant : fama quoque nominis ejus crescebat quotidie, et per cunctorum ora volitabat. 
+    5: Itaque percusserunt Judaei inimicos suos plaga magna, et occiderunt eos, reddentes eis quod sibi paraverant facere :
+    6: in tantum ut etiam in Susan quingentos viros interficerent, extra decem filios Aman Agagitae hostis Judaeorum : quorum ista sunt nomina : 
+    7: Pharsandatha, et Delphon, et Esphatha, 
+    8: et Phoratha, et Adalia, et Aridatha, 
+    9: et Phermesta et Arisai, et Aridai, et Jezatha. 
+    10: Quos cum occidissent, praedas de substantiis eorum tangere noluerunt.
+    11: Statimque numerus eorum, qui occisi erant in Susan, ad regem relatus est. 
+    12: Qui dixit reginae : In urbe Susan interfecerunt Judaei quingentos viros, et alios decem filios Aman : quantam putas eos exercere caedem in universis provinciis? quid ultra postulas, et quid vis ut fieri jubeam? 
+    13: Cui illa respondit : Si regi placet, detur potestas Judaeis, ut sicut fecerunt hodie in Susan, sic et cras faciant, et decem filii Aman in patibulis suspendantur. 
+    14: Praecepitque rex ut ita fieret. Statimque in Susan pependit edictum, et decem filii Aman suspensi sunt. 
+    15: Congregatis Judaeis quartadecima die mensis Adar, interfecti sunt in Susan trecenti viri : nec eorum ab illis direpta substantia est.
+    16: Sed et per omnes provincias, quae ditioni regis subjacebant, pro animabus suis steterunt Judaei, interfectis hostibus ac persecutoribus suis : in tantum ut septuaginta quinque millia occisorum implerentur, et nullus de substantiis eorum quidquam contingeret. 
+    17: Dies autem tertiusdecimus mensis Adar primus apud omnes interfectionis fuit, et quartadecima die caedere desierunt. Quem constituerunt esse solemnem, ut in eo omni tempore deinceps vacarent epulis, gaudio atque conviviis. 
+    18: At hi, qui in urbe Susan caedem exercuerant, tertiodecimo et quartodecimo die ejusdem mensis in caede versati sunt : quintodecimo autem die percutere desierunt. Et idcirco eumdem diem constituerunt solemnem epularum atque laetitiae. 
+    19: Hi vero Judaei, qui in oppidis non muratis ac villis morabantur, quartumdecimum diem mensis Adar conviviorum et gaudii decreverunt, ita ut exultent in eo, et mittant sibi mutuo partes epularum et ciborum. 
+    20: Scripsit itaque Mardochaeus omnia haec, et litteris comprehensa misit ad Judaeos, qui in omnibus regis provinciis morabantur, tam in vicino positis, quam procul,
+    21: ut quartamdecimam et quintamdecimam diem mensis Adar pro festis susciperent, et revertente semper anno solemni celebrarent honore : 
+    22: quia in ipsis diebus se ulti sunt Judaei de inimicis suis, et luctus atque tristitia in hilaritatem gaudiumque conversa sunt, essentque dies isti epularum atque laetitiae, et mitterent sibi invicem ciborum partes, et pauperibus munuscula largirentur. 
+    23: Susceperuntque Judaei in solemnem ritum cuncta quae eo tempore facere coeperant, et quae Mardochaeus litteris facienda mandaverat. 
+    24: Aman enim, filius Amadathi stirpis Agag, hostis et adversarius Judaeorum, cogitavit contra eos malum, ut occideret illos, atque deleret : et misit phur, quod nostra lingua vertitur in sortem. 
+    25: Et postea ingressa est Esther ad regem, obsecrans ut conatus ejus, litteris regis irriti fierent : et malum, quod contra Judaeos cogitaverat, reverteretur in caput ejus. Denique et ipsum et filios ejus affixerunt cruci,
+    26: atque ex illo tempore dies isti appellati sunt phurim, id est sortium : eo quod phur, id est sors, in urnam missa fuerit. Et cuncta, quae gesta sunt, epistolae, id est libri hujus volumine continentur : 
+    27: quaeque sustinuerunt, et quae deinceps immutata sunt, susceperunt Judaei super se et semen suum, et super cunctos, qui religioni eorum voluerunt copulari, ut nulli liceat duos hos dies absque solemnitate transigere : quos scriptura testatur, et certa expetunt tempora, annis sibi jugiter succedentibus. 
+    28: Isti sunt dies, quos nulla umquam delebit oblivio : et per singulas generationes cunctae in toto orbe provinciae celebrabunt : nec est ulla civitas, in qua dies phurim, id est sortium, non observentur a Judaeis, et ab eorum progenie, quae his caeremoniis obligata est. 
+    29: Scripseruntque Esther regina filia Abihail, et Mardochaeus Judaeus etiam secundam epistolam, ut omni studio dies ista solemnis sanciretur in posterum : 
+    30: et miserunt ad omnes Judaeos, qui in centum viginti septem provinciis regis Assueri versabantur, ut haberent pacem, et susciperent veritatem,
+    31: observantes dies sortium, et suo tempore cum gaudio celebrarent : sicut constituerant Mardochaeus et Esther, et illi observanda susceperunt a se, et a semine suo, jejunia, et clamores, et sortium dies, 
+    32: et omnia, quae libri hujus, qui vocatur Esther, historia continentur.
+
+  Chapter 10.
+
+    1: Rex vero Assuerus omnem terram, et cunctas maris insulas fecit tributarias : 
+    2: cujus fortitudo et imperium, et dignitas atque sublimitas, qua exaltavit Mardochaeum, scripta sunt in libris Medorum, atque Persarum : 
+    3: et quomodo Mardochaeus judaici generis secundus a rege Assuero fuerit : et magnus apud Judaeos, et acceptabilis plebi fratrum suorum, quaerens bona populo suo, et loquens ea, quae ad pacem seminis sui pertinerent. 
+    4: Dixitque Mardochaeus : A Deo facta sunt ista. 
+    5: Recordatus sum somnii, quod videram, haec eadem significantis : nec eorum quidquam irritum fuit.
+    6: Parvus fons, qui crevit in fluvium, et in lucem, solemque conversus est, et in aquas plurimas redundavit : Esther est quam rex accepit uxorem, et voluit esse reginam. 
+    7: Duo autem dracones : ego sum, et Aman. 
+    8: Gentes, quae convenerant : hi sunt, qui conati sunt delere nomen Judaeorum. 
+    9: Gens autem mea Israel est, quae clamavit ad Dominum, et salvum fecit Dominus populum suum : liberavitque nos ab omnibus malis, et fecit signa magna atque portenta inter gentes : 
+    10: et duas sortes esse praecepit, unam populi Dei, et alteram cunctarum gentium.
+    11: Venitque utraque sors in statutum ex illo jam tempore diem coram Deo universis gentibus : 
+    12: et recordatus est Dominus populi sui, ac misertus est haereditatis suae. 
+    13: Et observabuntur dies isti in mense Adar quartadecima, et quintadecima die ejusdem mensis, cum omni studio et gaudio in unum coetum populi congregati, in cunctas deinceps generationes populi Israel.
+
+  Chapter 11.
+
+    1: Anno quarto regnantibus Ptolemaeo et Cleopatra, attulerunt Dosithaeus, qui se sacerdotem, et Levitici generis ferebat, et Ptolemaeus filius ejus hanc epistolam phurim, quam dixerunt interpretatum esse Lysimachum Ptolemaei filium in Jerusalem. 
+    2: Anno secundo, regnante Artaxerxe maximo, prima die mensis Nisan, vidit somnium Mardochaeus filius Jairi, filii Semei, filii Cis, de tribu Benjamin : 
+    3: homo Judaeus, qui habitabat in urbe Susis, vir magnus, et inter primos aulae regiae. 
+    4: Erat autem de eo numero captivorum, quos transtulerat Nabuchodonosor rex Babylonis de Jerusalem cum Jechonia rege Juda : 
+    5: et hoc ejus somnium fuit : apparuerunt voces, et tumultus, et tonitrua, et terraemotus, et conturbatio super terram :
+    6: et ecce duo dracones magni, paratique contra se in praelium. 
+    7: Ad quorum clamorem cunctae concitatae sunt nationes, ut pugnarent contra gentem justorum. 
+    8: Fuitque dies illa tenebrarum et discriminis, tribulationis et angustiae, et ingens formido super terram. 
+    9: Conturbataque est gens justorum timentium mala sua, et praeparata ad mortem. 
+    10: Clamaveruntque ad Deum : et illis vociferantibus, fons parvus creavit in fluvium maximum, et in aquas plurimas redundavit.
+    11: Lux et sol ortus est, et humiles exaltati sunt, et devoraverunt inclytos. 
+    12: Quod cum vidisset Mardochaeus, et surrexisset de strato, cogitabat quid Deus facere vellet : et fixum habebat in animo scire cupiens quid significaret somnium.
+
+  Chapter 12.
+
+    1: Morabatur autem eo tempore in aula regis cum Bagatha et Thara eunuchis regis, qui janitores erant palatii. 
+    2: Cumque intellexisset cogitationes eorum, et curas diligentius pervidisset, didicit quod conarentur in regem Artaxerxem manus mittere, et nuntiavit super eo regi. 
+    3: Qui de utroque, habita quaestione, confessos jussit duci ad mortem. 
+    4: Rex autem quod gestum erat, scripsit in commentariis : sed et Mardochaeus rei memoriam litteris tradidit. 
+    5: Praecepitque ei rex, ut in aula palatii moraretur, datis ei pro delatione muneribus.
+    6: Aman vero filius Amadathi Bugaeus erat gloriosissimus coram rege, et voluit nocere Mardochaeo, et populo ejus pro duobus eunuchis regis, qui fuerant interfecti. Et diripuerunt bona, vel substantias eorum. Epistolae autem hoc exemplar fuit.
+
+End of day 123.

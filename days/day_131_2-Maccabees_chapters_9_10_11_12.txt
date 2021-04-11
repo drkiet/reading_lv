@@ -1,0 +1,168 @@
+Day 131:
+
+Reading 2-Maccabees, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Eodem tempore, Antiochus inhoneste revertebatur de Perside. 
+    2: Intraverat enim in eam, quae dicitur Persepolis, et tentavit expoliare templum, et civitatem opprimere : sed multitudine ad arma concurrente, in fugam versi sunt : et ita contigit ut Antiochus post fugam turpiter rediret. 
+    3: Et cum venisset circa Ecbatanam, recognovit quae erga Nicanorem et Timotheum gesta sunt. 
+    4: Elatus autem in ira, arbitrabantur se injuriam illorum qui se fugaverant posse in Judaeos retorquere : ideoque jussit agitari currum suum sine intermissione agens iter, caelesti eum judicio perurgente, eo quod ita superbe locutus est se venturum Jerosolymam, et congeriem sepulchri Judaeorum eam facturum. 
+    5: Sed qui universa conspicit Dominus Deus Israel, percussit eum insanabili et invisibili plaga. Ut enim finivit hunc ipsum sermonem, apprehendit eum dolor dirus viscerum, et amara internorum tormenta :
+    6: et quidem satis juste, quippe qui multis et novis cruciatibus aliorum torserat viscera, licet ille nullo modo a sua malitia cessaret. 
+    7: Super hoc autem superbia repletus, ignem spirans animo in Judaeos, et praecipiens accelerari negotium, contigit illum impetu euntem de curru cadere, et gravi corporis collisione membra vexari. 
+    8: Isque qui sibi videbatur etiam fluctibus maris imperare, supra humanum modum superbia repletus, et montium altitudines in statera appendere, nunc humiliatus ad terram in gestatorio portabatur, manifestam Dei virtutem in semetipso contestans : 
+    9: ita ut de corpore impii vermes scaturirent, ac viventis in doloribus carnes ejus effluerent, odore etiam illius et foetore exercitus gravaretur : 
+    10: et qui paulo ante sidera caeli contingere se arbitrabatur, eum nemo poterat propter intolerantiam foetoris portare.
+    11: Hinc igitur coepit ex gravi superbia deductus ad agnitionem sui venire, divina admonitus plaga, per momenta singula doloribus suis augmenta capientibus. 
+    12: Et cum nec ipse jam foetorem suum ferre posset, ita ait : Justum est subditum esse Deo, et mortalem non paria Deo sentire. 
+    13: Orabat autem hic scelestus Dominum, a quo non esset misericordiam consecuturus. 
+    14: Et civitatem, ad quam festinans veniebat ut eam ad solum deduceret, ac sepulchrum congestorum faceret, nunc optat liberam reddere : 
+    15: et Judaeos, quos nec sepultura quidem se dignos habiturum, sed avibus ac feris diripiendos traditurum, et cum parvulis exterminaturum dixerat, aequales nunc Atheniensibus facturum pollicetur :
+    16: templum etiam sanctum, quod prius expoliaverat, optimis donis oranturum, et sancta vasa multiplicaturum, et pertinentes ad sacrificia sumptus de redditibus suis praestaturum : 
+    17: super haec, et Judaeum se futurum, et omnem locum terrae perambulaturum, et praedicaturum Dei potestatem. 
+    18: Sed non cessantibus doloribus ( supervenerat enim in eum justum Dei judicium), desperans scripsit ad Judaeos in modum deprecationis epistolam haec continentem : 
+    19: Optimis civibus Judaeis plurimam salutem, et bene valere, et esse felices, rex et principes Antiochus. 
+    20: Si bene valetis, et filii vestri, et ex sententia vobis cuncta sunt, maximas agimus gratias.
+    21: Et ego in infirmitate constitutus, vestri autem memor benigne reversus de Persidis locis, et infirmitate gravi apprehensus, necessarium duxi pro communi utilitate curam habere : 
+    22: non desperans memetipsum, sed spem multam habens effugiendi infirmitatem. 
+    23: Respiciens autem quod et pater meus, quibus temporibus in locis superioribus ducebat exercitum, ostendit qui post se susciperet principatum : 
+    24: ut si quid contrarium accideret, aut difficile nuntiaretur, scientes hi qui in regionibus erant, cui esset rerum summa derelicta, non turbarentur. 
+    25: Ad haec, considerans de proximo potentes quosque, et vicinos temporibus insidiantes, et eventum exspectantes, designavi filium meum Antiochum regem, quem saepe recurrens in superiora regna multis vestrum commendabam : et scripsi ad eum quae subjecta sunt.
+    26: Ora itaque vos, et peto memores beneficiorum publice et privatim, ut unusquisque conservet fidem ad me et ad filium meum. 
+    27: Confido enim eum modeste et humane acturum et sequentem propositum meum, et communem vobis fore. 
+    28: Igitur homicida et blasphemus pessime percussus, et ut ipse alios tractaverat, peregre in montibus miserabili obitu vita functus est. 
+    29: Transferebat autem corpus Philippus collactaneus ejus : qui, metuens filium Antiochi, ad Ptolemaeum Philometorem in Aegyptum abiit.
+
+  Chapter 10.
+
+    1: Machabaeus autem, et qui cum eo erant, Domino se protegente, templum quidem, et civitatem recepit : 
+    2: aras autem, quas alienigenae per plateas exstruxerant, itemque delubra demolitus est : 
+    3: et purgato templo, aliud altare fecerunt, et de ignitis lapidibus igne concepto sacrificia obtulerunt post biennium, et incensum, et lucernas, et panes propositionis posuerunt. 
+    4: Quibus gestis, rogabant Dominum prostrati in terram, ne amplius talibus malis inciderent : sed et, siquando peccassent, ut ab ipso mitius corriperentur, et non barbaris ac blasphemis hominibus traderentur. 
+    5: Qua die autem templum ab alienigenis pollutum fuerat, contigit eadem die purificationem fieri, vigesima quinta mensis qui fuit Casleu.
+    6: Et cum laetitia diebus octo egerunt in modum tabernaculorum, recordantes quod ante modicum temporis diem solemnem tabernaculorum in montibus, et in speluncis more bestiarum egerant. 
+    7: Propter quod thyrsos, et ramos virides, et palmas praeferebant ei, qui prosperavit mundari locum suum. 
+    8: Et decreverunt communi praecepto, et decreto universae genti Judaeorum omnibus annis agere dies istos. 
+    9: Et Antiochi quidem, qui appellatus est Nobilis, vitae excessus ita se habuit. 
+    10: Nunc autem de Eupatore Antiochi impii filio, quae gesta sunt narrabimus, breviantes mala, quae in bellis gesta sunt.
+    11: Hic enim suscepto regno, constituit super negotia regni Lysiam quemdam, Phoenicis et Syriae militiae principem. 
+    12: Nam Ptolemaeus, qui dicebatur Macer, justi tenax, erga Judaeos esse constituit, et praecipue propter iniquitatem, quae facta erat in eos, et pacifice agere cum eis. 
+    13: Sed ob hoc accusatus ab amicis apud Eupatorem, cum frequenter proditor audiret, eo quod Cyprum creditam sibi a Philometore deseruisset, et ad Antiochum Nobilem translatus etiam ab eo recessisset, veneno vitam finivit. 
+    14: Gorgias autem, cum esset dux locorum, assumptis advenis, frequenter Judaeos debellabat. 
+    15: Judaei vero, qui tenebant opportunas munitiones, fugatos ab Jerosolymis suscipiebant, et bellare tentabant.
+    16: Hi vero, qui erant cum Machabaeo, per orationes Dominum rogantes ut esset sibi adjutor, impetum fecerunt in munitiones Idumaeorum : 
+    17: multaque vi insistentes, loca obtinuerunt, occurrentes interemerunt, et omnes simul non minus viginti millibus trucidaverunt. 
+    18: Quidam autem, cum confugissent in duas turres valde munitas omnem apparatum ad repugnandum habentes. 
+    19: Machabaeus ad eorum expugnationem, relicto Simone, et Josepho, itemque Zachaeo : eisque qui cum ipsis erant satis multis, ipse ad eas, quae amplius perurgebant, pugnas conversus est. 
+    20: Hi vero, qui cum Simone erant, cupiditate ducti, a quibusdam, qui in turribus erant, suasi sunt pecunia : et septuaginta millibus didrachmis acceptis, dimiserunt quosdam effugere.
+    21: Cum autem Machabaeo nuntiatum esset quod factum est, principibus populi congregatis, accusavit, quod pecunia fratres vendidissent, adversariis eorum dimissis. 
+    22: Hos igitur proditores factos interfecit, et confestim duas turres occupavit. 
+    23: Armis autem ac manibus omnia prospere agendo in duabus munitionibus plus quam viginti millia peremit. 
+    24: At Timotheus, qui prius a Judaeis fuerat superatus, convocato exercitu peregrinae multitudinis, et congregato equitatu Asiano, advenit quasi armis Judaeam capturus. 
+    25: Machabaeus autem, et qui cum ipso erant, appropinquante illo, deprecabantur Dominum, caput terra aspergentes, lumbosque ciliciis praecincti,
+    26: ad altaris crepidinem provoluti, ut sibi propitius, inimicis autem eorum esset inimicus, et adversariis adversaretur, sicut lex dicit. 
+    27: Et ita post orationem, sumptis armis, longius de civitate procedentes, et proximi hostibus effecti resederunt. 
+    28: Primo autem solis ortu utrique commiserunt : isti quidem victoriae et prosperitatis sponsorem cum virtute Dominum habentes : illi autem ducem belli animum habebant. 
+    29: Sed cum vehemens pugna esset, apparuerunt adversariis de caelo viri quinque in equis, frenis aureis decori, ducatum Judaeis praestantes : 
+    30: ex quibus duo Machabaeum medium habentes, armis suis circumseptum incolumem conservabant : in adversarios autem tela et fulmina jaciebant, ex quo et caecitate confusi, et repleti perturbatione, cadebant.
+    31: Interfecti sunt autem viginti millia quingenti, et equites sexcenti. 
+    32: Timotheus vero confugit in Gazaram praesidium munitum, cui praeerat Chaereas. 
+    33: Machabaeus autem, et qui cum eo erant, laetantes obsederunt praesidium diebus quatuor. 
+    34: At hi qui intus erant, loci firmitate confisi, supra modum maledicebant, et sermones nefandos jactabant. 
+    35: Sed cum dies quinta illucesceret, viginti juvenes ex his qui cum Machabaeo erant, accensi animis propter blasphemiam, viriliter accesserunt ad murum, et feroci animo incedentes ascendebant :
+    36: sed et alii similiter ascendentes, turres portasque succendere aggressi sunt, atque ipsos maledicos vivos concremare. 
+    37: Per continuum autem biduum praesidio vastato, Timotheum occultantem se in quodam repertum loco peremerunt : et fratrem illius Chaeream et Apollophanem occiderunt. 
+    38: Quibus gestis, in hymnis et confessionibus benedicebant Dominum, qui magna fecit in Israel, et victoriam dedit illis.
+
+  Chapter 11.
+
+    1: Sed parvo post tempore, Lysias procurator regis, et propinquus, ac negotiorum praepositus, graviter ferens de his quae acciderant, 
+    2: congregatis octoginta millibus, et equitatu universo, veniebat adversus Judaeos, existimans se civitatem quidem captam gentibus habitaculum facturum, 
+    3: templum vero in pecuniae quaestum, sicut cetera delubra gentium, habiturum, et per singulos annos venale sacerdotium : 
+    4: nusquam recogitans Dei potestatem, sed mente effrenatus in multitudine peditum, et in millibus equitum, et in octoginta elephantis confidebat. 
+    5: Ingressus autem Judaeam, et appropians Bethsurae, quae erat in angusto loco, ab Jerosolyma intervallo quinque stadiorum, illud praesidium expugnabat.
+    6: Ut autem Machabaeus, et qui cum eo erant, cognoverunt expugnari praesidia, cum fletu et lacrimis rogabant Dominum, et omnis turba simul, ut bonum angelum mitteret ad salutem Israel. 
+    7: Et ipse primus Machabaeus, sumptis armis, ceteros adhortatus est simul secum periculum subire, et ferre auxilium fratribus suis. 
+    8: Cumque pariter prompto animo procederent, Jerosolymis apparuit praecedens eos eques in veste candida, armis aureis hastam vibrans. 
+    9: Tunc omnes simul benedixerunt misericordem Dominum, et convaluerunt animis : non solum homines, sed et bestias ferocissimas, et muros ferreos parati penetrare. 
+    10: Ibant igitur prompti, de caelo habentes adjutorem et miserantem super eos Dominum.
+    11: Leonum autem more impetu irruentes in hostes, prostraverunt ex eis undecim millia peditum, et equitum mille sexcentos : 
+    12: universos autem in fugam verterunt, plures autem ex eis vulnerati nudi evaserunt. Sed et ipse Lysias turpiter fugiens evasit. 
+    13: Et quia non insensatus erat, secum ipse reputans, factam erga se diminutionem, et intelligens invictos esse Hebraeos, omnipotentis Dei auxilio innitentes, misit ad eos : 
+    14: promisitque se consensurum omnibus quae justa sunt, et regem compulsurum amicum fieri. 
+    15: Annuit autem Machabaeus precibus Lysiae, in omnibus utilitati consulens : et quaecumque Machabaeus scripsit Lysiae de Judaeis, ea rex concessit.
+    16: Nam erant scriptae Judaeis epistolae a Lysia quidem hunc modum continentes : Lysias populo Judaeorum salutem. 
+    17: Joannes et Abesalom, qui missi fuerant a vobis, tradentes scripta, postulabant ut ea, quae per illos significabantur, implerem. 
+    18: Quaecumque igitur regi potuerunt perferri, exposui : et quae res permittebat, concessit. 
+    19: Si igitur in negotiis fidem conservaveritis, et deinceps bonorum vobis causa esset tentabo. 
+    20: De ceteris autem per singula verbo mandavi et istis, et his, qui a me missi sunt, colloqui vobiscum.
+    21: Bene valete. Anno centesimo, quadragesimo octavo mensis Dioscori, die vigesima et quarta. 
+    22: Regis autem epistola ista continebat : Rex Antiochus Lysiae fratri salutem. 
+    23: Patre nostro inter deos translato, nos volentes eos qui sunt in regno nostro sine tumultu agere, et rebus suis adhibere diligentiam, 
+    24: audivimus Judaeos non consensisse patri meo ut transferrentur ad ritum Graecorum, sed tenere velle suum institutum, ac propterea postulare a nobis concedi sibi legitima sua. 
+    25: Volentes igitur hanc quoque gentem quietam esse, statuentes judicavimus templum restitui illis, ut agerent secundum suorum majorum consuetudinem.
+    26: Bene igitur feceris, si miseris ad eos, et dexteram dederis : ut cognita nostra voluntate, bono animo sint, et utilitatibus propriis deserviant. 
+    27: Ad Judaeos vero regis epistola talis erat : Rex Antiochus senatui Judaeorum, et ceteris Judaeis salutem. 
+    28: Si valetis, sic estis ut volumus : sed et ipsi bene valemus. 
+    29: Adiit nos Menelaus, dicens velle vos descendere ad vestros, qui sunt apud nos. 
+    30: His igitur qui commeant usque ad diem trigesimum mensis Xanthici, damus dextras securitatis,
+    31: ut Judaei utantur cibis, et legibus suis, sicut et prius : et nemo eorum ullo modo molestiam patiatur de his quae per ignorantiam gesta sunt. 
+    32: Misimus autem et Menelaum, qui vos alloquatur. 
+    33: Valete. Anno centesimo quadragesimo octavo, Xanthici mensis quintadecima die. 
+    34: Miserunt autem etiam Romani epistolam, ita se habentem : Quintus Memmius et Titus Manilius legati Romanorum, populo Judaeorum salutem. 
+    35: De his, quae Lysias cognatus regis concessit vobis, et nos concessimus.
+    36: De quibus autem ad regem judicavit referendum, confestim aliquem mittere, diligentius inter vos conferentes, ut decernamus, sicut congruit vobis : nos enim Antiochiam accedimus. 
+    37: Ideoque festinate rescribere, ut nos quoque sciamus cujus estis voluntatis. 
+    38: Bene valete. Anno centesimo quadragesimo octavo, quintadecima die mensis Xanthici.
+
+  Chapter 12.
+
+    1: His factis pactionibus, Lysias pergebat ad regem, Judaei autem agriculturae operam dabant. 
+    2: Sed hi qui resederant, Timotheus, et Apollonius Gennaei filius, sed et Hieronymus, et Demophon super hos, et Nicanor Cypriarches, non sinebant eos in silentio agere et quiete. 
+    3: Joppitae vero tale quoddam flagitium perpetrarunt : rogaverunt Judaeos, cum quibus habitabant, ascendere scaphas, quas paraverant, cum uxoribus et filiis, quasi nullis inimicitiis inter eos subjacentibus. 
+    4: Secundum commune itaque decretum civitatis, et ipsis acquiescentibus, pacisque causa nihil suspectum habentibus : cum in altum processissent, submerserunt non minus ducentos. 
+    5: Quam crudelitatem Judas in suae gentis homines factam ut cognovit, praecepit viris qui erant cum ipso : et invocato justo judice Deo,
+    6: venit adversus interfectores fratrum, et portum quidem noctu succendit, scaphas exussit, eos autem qui ab igne refugerant, gladio peremit. 
+    7: Et cum haec ita egisset, discessit quasi iterum reversurus, et universos Joppitas eradicaturus. 
+    8: Sed cum cognovisset et eos, qui erant Jamniae, velle pari modo facere habitantibus secum Judaeis, 
+    9: Jamnitis quoque nocte supervenit, et portum cum navibus succendit : ita ut lumen ignis appareret Jerosolymis a stadiis ducentis quadraginta. 
+    10: Inde cum jam abiissent novem stadiis, et iter facerent ad Timotheum, commiserunt cum eo Arabes quinque millia viri, et equites quingenti.
+    11: Cumque pugna valida fieret, et auxilio Dei prospere cessisset, residui Arabes victi, petebant a Juda dextram sibi dari, promittentes se pascua daturos, et in ceteris profuturos. 
+    12: Judas autem arbitratus vere in multis eos utiles, promsit pacem : dextrisque acceptis, discessere ad tabernacula sua. 
+    13: Aggressus est autem et civitatem quamdam firmam pontibus murisque circumseptam, quae a turbis habitabatur gentium promiscuarum : cui nomen Casphin. 
+    14: Hi vero qui intus erant, confidentes in stabilitate murorum, et apparatu alimoniarum, remissius agebant, maledictis lacessentes Judam, et blasphemantes, ac loquentes quae fas non est. 
+    15: Machabaeus autem, invocato magno mundi Principe, qui sine arietibus et machinis temporibus Jesu praecipitavit Jericho, irruit ferociter muris :
+    16: et capta civitate per Domini voluntatem innumerabiles caedes fecit, ita ut adjacens stagnum stadiorum duorum latitudinis sanguine interfectorum fluere videretur. 
+    17: Inde discesserunt stadia septingenta quinquaginta, et venerunt in Characa ad eos, qui dicuntur Tubianaei, Judaeos : 
+    18: et Timotheum quidem in illis locis non comprehenderunt, nulloque negotio perfecto regressus est, relicto in quodam loco firmissimo praesidio. 
+    19: Dositheus autem et Sosipater, qui erant duces cum Machabaeo, peremerunt a Timotheo relictos in praesidio, decem millia viros. 
+    20: At Machabaeus, ordinatis circum se sex millibus, et constitutis per cohortes, adversus Timotheum processit, habentem secum centum viginti millia peditum, equitumque duo millia quingentos.
+    21: Cognito autem Judae adventu, Timotheus praemisit mulieres, et filios, et reliquum apparatum, in praesidium, quod Carnion dicitur : erat enim inexpugnabile, et accessu difficile propter locorum angustias. 
+    22: Cumque cohors Judae prima apparuisset, timor hostibus incussus est, ex praesentia Dei, qui universa conspicit, et in fugam versi sunt alius ab alio, ita ut magis a suis dejicerentur, et gladiorum suorum ictibus debilitarentur. 
+    23: Judas autem vehementer instabat puniens profanos, et prostravit ex eis triginta millia virorum. 
+    24: Ipse vero Timotheus incidit in partes Dosithei et Sosipatris : et multis precibus postulabat ut vivus dimitteretur, eo quod multorum ex Judaeis parentes haberet, ac fratres, quos morte ejus decipi eveniret. 
+    25: Et cum fidem dedisset restituturum se eos secundum constitutum, illaesum eum dimiserunt propter fratrum salutem.
+    26: Judas autem egressus est ad Carnion, interfectis viginti quinque millibus. 
+    27: Post horum fugam et necem, movit exercitum ad Ephron civitatem munitam, in qua multitudo diversarum gentium habitabat : et robusti juvenes pro muris consistentes fortiter repugnabant : in hac autem machinae multae, et telorum erat apparatus. 
+    28: Sed cum Omnipotentem invocassent, qui potestate sua vires hostium confringit, ceperunt civitatem : et ex eis, qui intus erant, viginti quinque millia prostraverunt. 
+    29: Inde ad civitatem Scytharum abierunt, quae ab Jerosolymis sexcentis stadiis aberat. 
+    30: Contestantibus autem his, qui apud Scythopolitas erant, Judaeis, quod benigne ab eis haberentur, etiam temporibus infelicitatis quod modeste secum egerint :
+    31: gratias agentes eis, et exhortati etiam de cetero erga genus suum benignos esse, venerunt Jerosolymam die solemni septimanarum instante. 
+    32: Et post Pentecosten abierunt contra Gorgiam praepositum Idumaeae. 
+    33: Exivit autem cum peditibus tribus millibus, et equitibus quadringentis. 
+    34: Quibus congressis, contigit paucos ruere Judaeorum. 
+    35: Dositheus vero quidem de Bacenoris eques, vir fortis, Gorgiam tenebat : et, cum vellet illum capere vivum, eques quidam de Thracibus irruit in eum, humerumque ejus amputavit : atque ita Gorgias effugit in Maresa.
+    36: At illis, qui cum Esdrim erant, diutius pugnantibus et fatigatis, invocavit Judas Dominum adjutorem, et ducem belli fieri : 
+    37: incipiens voce patria, et cum hymnis clamorem extollens, fugam Gorgiae militibus incussit. 
+    38: Judas autem collecto exercitu venit in civitatem Odollam : et cum septima dies superveniret, secundum consuetudinem purificati, in eodem loco sabbatum egerunt. 
+    39: Et sequenti die venit cum suis Judas, ut corpora prostratorum tolleret, et cum parentibus poneret in sepulchris paternis. 
+    40: Invenerunt autem sub tunicis interfectorum de donariis idolorum, quae apud Jamniam fuerunt, a quibus lex prohibet Judaeos : omnibus ergo manifestum factum est, ob hanc causam eos corruisse.
+    41: Omnes itaque benedixerunt justum judicium Domini, qui occulta fecerat manifesta : 
+    42: atque ita ad preces conversi, rogaverunt ut id quod factum erat, delictum oblivioni traderetur. At vero fortissimus Judas hortabatur populum conservare se sine peccato, sub oculis videntes quae facta sunt pro peccatis eorum qui prostrati sunt. 
+    43: Et facta collatione, duodecim millia drachmas argenti misit Jerosolymam offerri pro peccatis mortuorum sacrificium, bene et religiose de resurrectione cogitans 
+    44: ( nisi enim eos, qui ceciderant, resurrecturos speraret, superfluum videretur, et vanum, orare pro mortuis), 
+    45: et quia considerabat quod hi qui cum pietate dormitionem acceperant, optimam haberent repositam gratiam.
+    46: Sancta ergo et salubris est cogitatio pro defunctis exorare, ut a peccatis solvantur.
+
+End of day 131.

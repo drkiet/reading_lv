@@ -1,0 +1,116 @@
+Day 26:
+
+Reading Leviticus, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Facto autem octavo die, vocavit Moyses Aaron, et filios ejus, ac majores natu Israel, dixitque ad Aaron : 
+    2: Tolle de armento vitulum pro peccato, et arietem in holocaustum, utrumque immaculatum, et offer illos coram Domino. 
+    3: Et ad filios Israel loqueris : Tollite hircum pro peccato, et vitulum, atque agnum, anniculos, et sine macula in holocaustum, 
+    4: bovem et arietem pro pacificis : et immolate eos coram Domino, in sacrificio singulorum similam conspersam oleo offerentes : hodie enim Dominus apparebit vobis. 
+    5: Tulerunt ergo cuncta quae jusserat Moyses ad ostium tabernaculi : ubi cum omnis multitudo astaret,
+    6: ait Moyses : Iste est sermo, quem praecepit Dominus : facite, et apparebit vobis gloria ejus. 
+    7: Et dixit ad Aaron : Accede ad altare, et immola pro peccato tuo : offer holocaustum, et deprecare pro te et pro populo : cumque mactaveris hostiam populi, ora pro eo, sicut praecepit Dominus. 
+    8: Statimque Aaron accedens ad altare, immolavit vitulum pro peccato suo : 
+    9: cujus sanguinem obtulerunt ei filii sui : in quo tingens digitum, tetigit cornua altaris, et fudit residuum ad basim ejus. 
+    10: Adipemque, et renunculos, ac reticulum jecoris, quae sunt pro peccato, adolevit super altare, sicut praeceperat Dominus Moysi :
+    11: carnes vero et pellem ejus extra castra combussit igni. 
+    12: Immolavit et holocausti victimam : obtuleruntque ei filii sui sanguinem ejus, quem fudit per altaris circuitum. 
+    13: Ipsam etiam hostiam in frusta concisam, cum capite et membris singulis obtulerunt; quae omnia super altare cremavit igni, 
+    14: lotis aqua prius intestinis et pedibus. 
+    15: Et pro peccato populi offerens, mactavit hircum : expiatoque altari,
+    16: fecit holocaustum, 
+    17: addens in sacrificio libamenta, quae pariter offeruntur, et adolens ea super altare, absque caeremoniis holocausti matutini. 
+    18: Immolavit et bovem atque arietem, hostias pacificas populi : obtuleruntque ei filii sui sanguinem, quem fudit super altare in circuitum. 
+    19: Adipem autem bovis, et caudam arietis, renunculosque cum adipibus suis, et reticulum jecoris, 
+    20: posuerunt super pectora : cumque cremati essent adipes super altare,
+    21: pectora eorum, et armos dextros separavit Aaron, elevans coram Domino, sicut praeceperat Moyses. 
+    22: Et extendens manus ad populum, benedixit ei. Sicque completis hostiis pro peccato, et holocaustis, et pacificis, descendit. 
+    23: Ingressi autem Moyses et Aaron in tabernaculum testimonii, et deinceps egressi, benedixerunt populo. Apparuitque gloria Domini omni multitudini : 
+    24: et ecce egressus ignis a Domino, devoravit holocaustum, et adipes qui erant super altare. Quod cum vidissent turbae, laudaverunt Dominum, ruentes in facies suas.
+
+  Chapter 10.
+
+    1: Arreptisque Nadab et Abiu filii Aaron thuribulis, posuerunt ignem, et incensum desuper, offerentes coram Domino ignem alienum : quod eis praeceptum non erat. 
+    2: Egressusque ignis a Domino, devoravit eos, et mortui sunt coram Domino. 
+    3: Dixitque Moyses ad Aaron : Hoc est quod locutus est Dominus : Sanctificabor in iis qui appropinquant mihi, et in conspectu omnis populi glorificabor. Quod audiens tacuit Aaron. 
+    4: Vocatis autem Moyses Misaele et Elisaphan filiis Oziel, patrui Aaron, ait ad eos : Ite, et tollite fratres vestros de conspectu sanctuarii, et asportate extra castra. 
+    5: Confestimque pergentes, tulerunt eos sicut jacebant, vestitos lineis tunicis, et ejecerunt foras, ut sibi fuerat imperatum.
+    6: Locutusque est Moyses ad Aaron, et ad Eleazar, et Ithamar, filios ejus : Capita vestra nolite nudare, et vestimenta nolite scindere, ne forte moriamini, et super omnem coetum oriatur indignatio. Fratres vestri, et omnis domus Israel, plangant incendium quod Dominus suscitavit : 
+    7: vos autem non egrediemini fores tabernaculi, alioquin peribitis : oleum quippe sanctae unctionis est super vos. Qui fecerunt omnia juxta praeceptum Moysi. 
+    8: Dixit quoque Dominus ad Aaron : 
+    9: Vinum, et omne quod inebriare potest, non bibetis tu et filii tui, quando intratis in tabernaculum testimonii, ne moriamini : quia praeceptum sempiternum est in generationes vestras : 
+    10: et ut habeatis scientiam discernendi inter sanctum et profanum, inter pollutum et mundum;
+    11: doceatisque filios Israel omnia legitima mea quae locutus est Dominus ad eos per manum Moysi. 
+    12: Locutusque est Moyses ad Aaron, et ad Eleazar, et Ithamar, filios ejus, qui erant residui : Tollite sacrificium, quod remansit de oblatione Domini, et comedite illud absque fermento juxta altare, quia Sanctum sanctorum est. 
+    13: Comedetis autem in loco sancto : quod datum est tibi et filiis tuis de oblationibus Domini, sicut praeceptum est mihi. 
+    14: Pectusculum quoque quod oblatum est, et armum qui separatus est, edetis in loco mundissimo tu et filii tui, et filiae tuae tecum : tibi enim ac liberis tuis reposita sunt de hostiis salutaribus filiorum Israel : 
+    15: eo quod armum et pectus, et adipes qui cremantur in altari, elevaverunt coram Domino, et pertineant ad te, et ad filios tuos, lege perpetua, sicut praecepit Dominus.
+    16: Inter haec, hircum, qui oblatus fuerat pro peccato, cum quaereret Moyses, exustum reperit : iratusque contra Eleazar et Ithamar filios Aaron, qui remanserant, ait : 
+    17: Cur non comedistis hostiam pro peccato in loco sancto, quae Sancta sanctorum est, et data vobis ut portetis iniquitatem multitudinis, et rogetis pro ea in conspectu Domini, 
+    18: praesertim cum de sanguine illius non sit illatum intra sancta, et comedere debueritis eam in Sanctuario, sicut praeceptum est mihi? 
+    19: Respondit Aaron : Oblata est hodie victima pro peccato, et holocaustum coram Domino : mihi autem accidit quod vides; quomodo potui comedere eam, aut placere Domino in caeremoniis mente lugubri? 
+    20: Quod cum audisset Moyses, recepit satisfactionem.
+
+  Chapter 11.
+
+    1: Locutusque est Dominus ad Moysen et Aaron, dicens : 
+    2: Dicite filiis Israel : Haec sunt animalia quae comedere debetis de cunctis animantibus terrae : 
+    3: omne quod habet divisam ungulam, et ruminat in pecoribus, comedetis. 
+    4: Quidquid autem ruminat quidem, et habet ungulam, sed non dividit eam, sicut camelus et cetera, non comedetis illud, et inter immunda reputabitis. 
+    5: Choerogryllus qui ruminat, ungulamque non dividit, immundus est.
+    6: Lepus quoque : nam et ipse ruminat, sed ungulam non dividit. 
+    7: Et sus : qui cum ungulam dividat, non ruminat. 
+    8: Horum carnibus non vescemini, nec cadavera contingetis, quia immunda sunt vobis. 
+    9: Haec sunt quae gignuntur in aquis, et vesci licitum est : omne quod habet pinnulas et squamas, tam in mari quam in fluminibus et stagnis, comedetis. 
+    10: Quidquid autem pinnulas et squamas non habet, eorum quae in aquis moventur et vivunt, abominabile vobis,
+    11: execrandumque erit : carnes eorum non comedetis, et morticina vitabitis. 
+    12: Cuncta quae non habent pinnulas et squamas in aquis, polluta erunt. 
+    13: Haec sunt quae de avibus comedere non debetis, et vitanda sunt vobis : aquilam, et gryphem, et haliaeetum, 
+    14: et milvum ac vulturem juxta genus suum, 
+    15: et omne corvini generis in similitudinem suam,
+    16: struthionem, et noctuam, et larum, et accipitrem juxta genus suum : 
+    17: bubonem, et mergulum, et ibin, 
+    18: et cygnum, et onocrotalum, et porphyrionem, 
+    19: herodionem, et charadrion juxta genus suum, upupam quoque, et vespertilionem. 
+    20: Omne de volucribus quod graditur super quatuor pedes, abominabile erit vobis.
+    21: Quidquid autem ambulat quidem super quatuor pedes, sed habet longiora retro crura, per quae salit super terram, 
+    22: comedere debetis, ut est bruchus in genere suo, et attacus atque ophiomachus, ac locusta, singula juxta genus suum. 
+    23: Quidquid autem ex volucribus quatuor tantum habet pedes, execrabile erit vobis : 
+    24: et quicumque morticina eorum tetigerit, polluetur, et erit immundus usque ad vesperum : 
+    25: et si necesse fuerit ut portet quippiam horum mortuum, lavabit vestimenta sua, et immundus erit usque ad occasum solis.
+    26: Omne animal quod habet quidem ungulam, sed non dividit eam, nec ruminat, immundum erit : et qui tetigerit illud, contaminabitur. 
+    27: Quod ambulat super manus ex cunctis animantibus, quae incedunt quadrupedia, immundum erit : qui tetigerit morticina eorum, polluetur usque ad vesperum. 
+    28: Et qui portaverit hujuscemodi cadavera, lavabit vestimenta sua, et immundus erit usque ad vesperum : quia omnia haec immunda sunt vobis. 
+    29: Haec quoque inter polluta reputabuntur de his quae moventur in terra, mustela et mus et crocodilus, singula juxta genus suum, 
+    30: mygale, et chamaeleon, et stellio, et lacerta, et talpa.
+    31: Omnia haec immunda sunt. Qui tetigerit morticina eorum, immundus erit usque ad vesperum : 
+    32: et super quod ceciderit quidquam de morticinis eorum, polluetur, tam vas ligneum et vestimentum, quam pelles et cilicia : et in quocumque fit opus, tingentur aqua, et polluta erunt usque ad vesperum, et sic postea mundabuntur. 
+    33: Vas autem fictile, in quod horum quidquam intro cecidit, polluetur, et idcirco frangendum est. 
+    34: Omnis cibus, quem comedetis, si fusa fuerit super eum aqua, immundus erit : et omne liquens quod bibitur de universo vase, immundum erit. 
+    35: Et quidquid de morticinis hujuscemodi ceciderit super illud, immundum erit : sive clibani, sive chytropodes, destruentur, et immundi erunt.
+    36: Fontes vero et cisternae, et omnis aquarum congregatio munda erit. Qui morticinum eorum tetigerit, polluetur. 
+    37: Si ceciderit super sementem, non polluet eam. 
+    38: Si autem quispiam aqua sementem perfuderit, et postea morticinis tacta fuerit, illico polluetur. 
+    39: Si mortuum fuerit animal, quod licet vobis comedere, qui cadaver ejus tetigerit, immundus erit usque ad vesperum : 
+    40: et qui comederit ex eo quippiam, sive portaverit, lavabit vestimenta sua, et immundus erit usque ad vesperum.
+    41: Omne quod reptat super terram, abominabile erit, nec assumetur in cibum. 
+    42: Quidquid super pectus quadrupes graditur, et multos habet pedes, sive per humum trahitur, non comedetis, quia abominabile est. 
+    43: Nolite contaminare animas vestras, nec tangatis quidquam eorum, ne immundi sitis. 
+    44: Ego enim sum Dominus Deus vester : sancti estote, quia ego sanctus sum. Ne polluatis animas vestras in omni reptili quod movetur super terram. 
+    45: Ego enim sum Dominus, qui eduxi vos de terra Aegypti, ut essem vobis in Deum. Sancti eritis, quia ego sanctus sum.
+    46: Ista est lex animantium ac volucrum, et omnis animae viventis, quae movetur in aqua, et reptat in terra, 
+    47: ut differentias noveritis mundi et immundi, et sciatis quid comedere et quid respuere debeatis.
+
+  Chapter 12.
+
+    1: Locutusque est Dominus ad Moysen, dicens : 
+    2: Loquere filiis Israel, et dices ad eos : Mulier, si suscepto semine pepererit masculum, immunda erit septem diebus juxta dies separationis menstruae. 
+    3: Et die octavo circumcidetur infantulus : 
+    4: ipsa vero triginta tribus diebus manebit in sanguine purificationis suae. Omne sanctum non tanget, nec ingredietur in sanctuarium, donec impleantur dies purificationis suae. 
+    5: Sin autem feminam pepererit, immunda erit duabus hebdomadibus juxta ritum fluxus menstrui, et sexaginta sex diebus manebit in sanguine purificationis suae.
+    6: Cumque expleti fuerint dies purificationis suae, pro filio sive pro filia, deferet agnum anniculum in holocaustum, et pullum columbae sive turturem pro peccato, ad ostium tabernaculi testimonii, et tradet sacerdoti, 
+    7: qui offeret illa coram Domino, et orabit pro ea, et sic mundabitur a profluvio sanguinis sui : ista est lex parientis masculum aut feminam. 
+    8: Quod si non invenerit manus ejus, nec potuerit offerre agnum, sumet duos turtures vel duos pullos columbarum, unum in holocaustum, et alterum pro peccato : orabitque pro ea sacerdos, et sic mundabitur.
+
+End of day 26.

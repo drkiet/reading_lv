@@ -1,0 +1,79 @@
+Day 156:
+
+Reading Psalms, chapters ['49', '50', '51', '52']:
+
+  Chapter 49.
+
+    1: Psalmus Asaph. Deus deorum, Dominus, locutus est, et vocavit terram a solis ortu usque ad occasum. 
+    2: Ex Sion species decoris ejus : 
+    3: Deus manifeste veniet; Deus noster, et non silebit. Ignis in conspectu ejus exardescet; et in circuitu ejus tempestas valida. 
+    4: Advocabit caelum desursum, et terram, discernere populum suum. 
+    5: Congregate illi sanctos ejus, qui ordinant testamentum ejus super sacrificia.
+    6: Et annuntiabunt caeli justitiam ejus, quoniam Deus judex est. 
+    7: Audi, populus meus, et loquar Israel, et testificabor tibi. Deus, Deus tuus ego sum. 
+    8: Non in sacrificiis tuis arguam te; holocausta autem tua in conspectu meo sunt semper. 
+    9: Non accipiam de domo tua vitulos, neque de gregibus tuis hircos; 
+    10: quoniam meae sunt omnes ferae silvarum, jumenta in montibus, et boves.
+    11: Cognovi omnia volatilia caeli; et pulchritudo agri mecum est. 
+    12: Si esuriero, non dicam tibi : meus est enim orbis terrae, et plenitudo ejus. 
+    13: Numquid manducabo carnes taurorum? aut sanguinem hircorum potabo? 
+    14: Immola Deo sacrificium laudis, et redde Altissimo vota tua. 
+    15: Et invoca me in die tribulationis; eruam te, et honorificabis me.
+    16: Peccatori autem dixit Deus : Quare tu enarras justitias meas? et assumis testamentum meum per os tuum? 
+    17: Tu vero odisti disciplinam, et projecisti sermones meos retrorsum. 
+    18: Si videbas furem, currebas cum eo; et cum adulteris portionem tuam ponebas. 
+    19: Os tuum abundavit malitia, et lingua tua concinnabat dolos. 
+    20: Sedens, adversus fratrem tuum loquebaris, et adversus filium matris tuae ponebas scandalum.
+    21: Haec fecisti, et tacui. Existimasti inique quod ero tui similis : arguam te, et statuam contra faciem tuam. 
+    22: Intelligite haec, qui obliviscimini Deum : nequando rapiat, et non sit qui eripiat. 
+    23: Sacrificium laudis honorificabit me; et illic iter quo ostendam illi salutare Dei.
+
+  Chapter 50.
+
+    1: In finem. Psalmus David, 
+    2: cum venit ad eum Nathan propheta, quando intravit ad Bethsabee. 
+    3: Miserere mei, Deus, secundum magnam misericordiam tuam; et secundum multitudinem miserationum tuarum, dele iniquitatem meam. 
+    4: Amplius lava me ab iniquitate mea, et a peccato meo munda me. 
+    5: Quoniam iniquitatem meam ego cognosco, et peccatum meum contra me est semper.
+    6: Tibi soli peccavi, et malum coram te feci; ut justificeris in sermonibus tuis, et vincas cum judicaris. 
+    7: Ecce enim in iniquitatibus conceptus sum, et in peccatis concepit me mater mea. 
+    8: Ecce enim veritatem dilexisti; incerta et occulta sapientiae tuae manifestasti mihi. 
+    9: Asperges me hyssopo, et mundabor; lavabis me, et super nivem dealbabor. 
+    10: Auditui meo dabis gaudium et laetitiam, et exsultabunt ossa humiliata.
+    11: Averte faciem tuam a peccatis meis, et omnes iniquitates meas dele. 
+    12: Cor mundum crea in me, Deus, et spiritum rectum innova in visceribus meis. 
+    13: Ne projicias me a facie tua, et spiritum sanctum tuum ne auferas a me. 
+    14: Redde mihi laetitiam salutaris tui, et spiritu principali confirma me. 
+    15: Docebo iniquos vias tuas, et impii ad te convertentur.
+    16: Libera me de sanguinibus, Deus, Deus salutis meae, et exsultabit lingua mea justitiam tuam. 
+    17: Domine, labia mea aperies, et os meum annuntiabit laudem tuam. 
+    18: Quoniam si voluisses sacrificium, dedissem utique; holocaustis non delectaberis. 
+    19: Sacrificium Deo spiritus contribulatus; cor contritum et humiliatum, Deus, non despicies. 
+    20: Benigne fac, Domine, in bona voluntate tua Sion, ut aedificentur muri Jerusalem.
+    21: Tunc acceptabis sacrificium justitiae, oblationes et holocausta; tunc imponent super altare tuum vitulos.
+
+  Chapter 51.
+
+    1: In finem. Intellectus David, 
+    2: cum venit Doeg Idumaeus, et nuntiavit Sauli : Venit David in domum Achimelech. 
+    3: Quid gloriaris in malitia, qui potens es in iniquitate? 
+    4: Tota die injustitiam cogitavit lingua tua; sicut novacula acuta fecisti dolum. 
+    5: Dilexisti malitiam super benignitatem; iniquitatem magis quam loqui aequitatem.
+    6: Dilexisti omnia verba praecipitationis, lingua dolosa. 
+    7: Propterea Deus destruet te in finem; evellet te, et emigrabit te de tabernaculo tuo, et radicem tuam de terra viventium. 
+    8: Videbunt justi, et timebunt; et super eum ridebunt, et dicent : 
+    9: Ecce homo qui non posuit Deum adjutorem suum; sed speravit in multitudine divitiarum suarum, et praevaluit in vanitate sua. 
+    10: Ego autem, sicut oliva fructifera in domo Dei; speravi in misericordia Dei, in aeternum et in saeculum saeculi.
+    11: Confitebor tibi in saeculum, quia fecisti; et exspectabo nomen tuum, quoniam bonum est in conspectu sanctorum tuorum.
+
+  Chapter 52.
+
+    1: In finem, pro Maeleth intelligentiae. David. Dixit insipiens in corde suo : Non est Deus. 
+    2: Corrupti sunt, et abominabiles facti sunt in iniquitatibus; non est qui faciat bonum. 
+    3: Deus de caelo prospexit super filios hominum, ut videat si est intelligens, aut requirens Deum. 
+    4: Omnes declinaverunt, simul inutiles facti sunt; non est qui faciat bonum, non est usque ad unum. 
+    5: Nonne scient omnes qui operantur iniquitatem, qui devorant plebem meam ut cibum panis?
+    6: Deum non invocaverunt; illic trepidaverunt timore, ubi non erat timor. Quoniam Deus dissipavit ossa eorum qui hominibus placent : confusi sunt, quoniam Deus sprevit eos. 
+    7: Quis dabit ex Sion salutare Israel? Cum converterit Deus captivitatem plebis suae, exsultabit Jacob, et laetabitur Israel.
+
+End of day 156.

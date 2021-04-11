@@ -1,0 +1,73 @@
+Day 178:
+
+Reading Psalms, chapters ['137', '138', '139', '140']:
+
+  Chapter 137.
+
+    1: Ipsi David. Confitebor tibi, Domine, in toto corde meo, quoniam audisti verba oris mei. In conspectu angelorum psallam tibi, 
+    2: adorabo ad templum sanctum tuum, et confitebor nomini tuo super misericordia tua et veritate tua, quoniam magnificasti super omne nomen sanctum tuum. 
+    3: In quacumque die invocavero te, exaudi me; multiplicabis in anima mea virtutem. 
+    4: Confiteantur tibi, Domine, omnes reges terrae, quia audierunt omnia verba oris tui; 
+    5: et cantent in viis Domini, quoniam magna est gloria Domini;
+    6: quoniam excelsus Dominus, et humilia respicit, et alta a longe cognoscit. 
+    7: Si ambulavero in medio tribulationis, vivificabis me; et super iram inimicorum meorum extendisti manum tuam, et salvum me fecit dextera tua. 
+    8: Dominus retribuet pro me. Domine, misericordia tua in saeculum; opera manuum tuarum ne despicias.
+
+  Chapter 138.
+
+    1: In finem, psalmus David. Domine, probasti me, et cognovisti me; 
+    2: tu cognovisti sessionem meam et resurrectionem meam. 
+    3: Intellexisti cogitationes meas de longe; semitam meam et funiculum meum investigasti; 
+    4: et omnes vias meas praevidisti, quia non est sermo in lingua mea. 
+    5: Ecce, Domine, tu cognovisti omnia, novissima et antiqua. Tu formasti me, et posuisti super me manum tuam.
+    6: Mirabilis facta est scientia tua ex me; confortata est, et non potero ad eam. 
+    7: Quo ibo a spiritu tuo? et quo a facie tua fugiam? 
+    8: Si ascendero in caelum, tu illic es; si descendero in infernum, ades. 
+    9: Si sumpsero pennas meas diluculo, et habitavero in extremis maris, 
+    10: etenim illuc manus tua deducet me, et tenebit me dextera tua.
+    11: Et dixi : Forsitan tenebrae conculcabunt me; et nox illuminatio mea in deliciis meis. 
+    12: Quia tenebrae non obscurabuntur a te, et nox sicut dies illuminabitur; sicut tenebrae ejus, ita et lumen ejus. 
+    13: Quia tu possedisti renes meos; suscepisti me de utero matris meae. 
+    14: Confitebor tibi, quia terribiliter magnificatus es; mirabilia opera tua, et anima mea cognoscit nimis. 
+    15: Non est occultatum os meum a te, quod fecisti in occulto; et substantia mea in inferioribus terrae.
+    16: Imperfectum meum viderunt oculi tui, et in libro tuo omnes scribentur. Dies formabuntur, et nemo in eis. 
+    17: Mihi autem nimis honorificati sunt amici tui, Deus; nimis confortatus est principatus eorum. 
+    18: Dinumerabo eos, et super arenam multiplicabuntur. Exsurrexi, et adhuc sum tecum. 
+    19: Si occideris, Deus, peccatores, viri sanguinum, declinate a me; 
+    20: quia dicitis in cogitatione : Accipient in vanitate civitates tuas.
+    21: Nonne qui oderunt te, Domine, oderam? et super inimicos tuos tabescebam? 
+    22: Perfecto odio oderam illos, et inimici facti sunt mihi. 
+    23: Proba me, Deus, et scito cor meum; interroga me, et cognosce semitas meas. 
+    24: Et vide si via iniquitatis in me est; et deduc me in via aeterna.
+
+  Chapter 139.
+
+    1: In finem. Psalmus David. 
+    2: Eripe me, Domine, ab homine malo; a viro iniquo eripe me. 
+    3: Qui cogitaverunt iniquitates in corde, tota die constituebant praelia. 
+    4: Acuerunt linguas suas sicut serpentis; venenum aspidum sub labiis eorum. 
+    5: Custodi me, Domine, de manu peccatoris, et ab hominibus iniquis eripe me : qui cogitaverunt supplantare gressus meos;
+    6: absconderunt superbi laqueum mihi, et funes extenderunt in laqueum; juxta iter scandalum posuerunt mihi. 
+    7: Dixi Domino : Deus meus es tu; exaudi, Domine, vocem deprecationis meae. 
+    8: Domine, Domine, virtus salutis meae, obumbrasti super caput meum in die belli. 
+    9: Ne tradas me, Domine, a desiderio meo peccatori; cogitaverunt contra me; ne derelinquas me, ne forte exaltentur. 
+    10: Caput circuitus eorum, labor labiorum ipsorum operiet eos.
+    11: Cadent super eos carbones, in ignem dejicies eos; in miseriis non subsistent. 
+    12: Vir linguosus non dirigetur in terra, virum injustum mala capient in interitu. 
+    13: Cognovi quia faciet Dominus judicium inopis, et vindictam pauperum. 
+    14: Verumtamen justi confitebuntur nomini tuo; et habitabunt recti cum vultu tuo.
+
+  Chapter 140.
+
+    1: Psalmus David. Domine, clamavi ad te, exaudi me; intende voci meae, cum clamavero ad te. 
+    2: Dirigatur oratio mea sicut incensum in conspectu tuo; elevatio manuum mearum sacrificium vespertinum. 
+    3: Pone, Domine, custodiam ori meo, et ostium circumstantiae labiis meis. 
+    4: Non declines cor meum in verba malitiae, ad excusandas excusationes in peccatis; cum hominibus operantibus iniquitatem; et non communicabo cum electis eorum. 
+    5: Corripiet me justus in misericordia, et increpabit me : oleum autem peccatoris non impinguet caput meum, quoniam adhuc et oratio mea in beneplacitis eorum.
+    6: Absorpti sunt juncti petrae judices eorum; audient verba mea, quoniam potuerunt. 
+    7: Sicut crassitudo terrae erupta est super terram; dissipata sunt ossa nostra secus infernum. 
+    8: Quia ad te, Domine, Domine, oculi mei; in te speravi, non auferas animam meam. 
+    9: Custodi me a laqueo quem statuerunt mihi, et a scandalis operantium iniquitatem. 
+    10: Cadent in retiaculo ejus peccatores : singulariter sum ego, donec transeam.
+
+End of day 178.

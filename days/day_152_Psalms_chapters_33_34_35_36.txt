@@ -1,0 +1,121 @@
+Day 152:
+
+Reading Psalms, chapters ['33', '34', '35', '36']:
+
+  Chapter 33.
+
+    1: David, cum immutavit vultum suum coram Achimelech, et dimisit eum, et abiit. 
+    2: Benedicam Dominum in omni tempore; semper laus ejus in ore meo. 
+    3: In Domino laudabitur anima mea : audiant mansueti, et laetentur. 
+    4: Magnificate Dominum mecum, et exaltemus nomen ejus in idipsum. 
+    5: Exquisivi Dominum, et exaudivit me; et ex omnibus tribulationibus meis eripuit me.
+    6: Accedite ad eum, et illuminamini; et facies vestrae non confundentur. 
+    7: Iste pauper clamavit, et Dominus exaudivit eum, et de omnibus tribulationibus ejus salvavit eum. 
+    8: Immittet angelus Domini in circuitu timentium eum, et eripiet eos. 
+    9: Gustate, et videte quoniam suavis est Dominus; beatus vir qui sperat in eo. 
+    10: Timete Dominum, omnes sancti ejus, quoniam non est inopia timentibus eum.
+    11: Divites eguerunt, et esurierunt; inquirentes autem Dominum non minuentur omni bono. 
+    12: Venite, filii, audite me; timorem Domini docebo vos. 
+    13: Quis est homo qui vult vitam, diligit dies videre bonos? 
+    14: Prohibe linguam tuam a malo, et labia tua ne loquantur dolum. 
+    15: Diverte a malo, et fac bonum; inquire pacem, et persequere eam.
+    16: Oculi Domini super justos, et aures ejus in preces eorum. 
+    17: Vultus autem Domini super facientes mala, ut perdat de terra memoriam eorum. 
+    18: Clamaverunt justi, et Dominus exaudivit eos; et ex omnibus tribulationibus eorum liberavit eos. 
+    19: Juxta est Dominus iis qui tribulato sunt corde, et humiles spiritu salvabit. 
+    20: Multae tribulationes justorum; et de omnibus his liberabit eos Dominus.
+    21: Custodit Dominus omnia ossa eorum : unum ex his non conteretur. 
+    22: Mors peccatorum pessima; et qui oderunt justum delinquent. 
+    23: Redimet Dominus animas servorum suorum, et non delinquent omnes qui sperant in eo.
+
+  Chapter 34.
+
+    1: Ipsi David. Judica, Domine, nocentes me; expugna impugnantes me. 
+    2: Apprehende arma et scutum, et exsurge in adjutorium mihi. 
+    3: Effunde frameam, et conclude adversus eos qui persequuntur me; dic animae meae : Salus tua ego sum. 
+    4: Confundantur et revereantur quaerentes animam meam; avertantur retrorsum et confundantur cogitantes mihi mala. 
+    5: Fiant tamquam pulvis ante faciem venti, et angelus Domini coarctans eos.
+    6: Fiat via illorum tenebrae, et lubricum; et angelus Domini persequens eos. 
+    7: Quoniam gratis absconderunt mihi interitum laquei sui, supervacue exprobraverunt animam meam. 
+    8: Veniat illi laqueus quem ignorat, et captio quam abscondit apprehendat eum, et in laqueum cadat in ipsum. 
+    9: Anima autem mea exsultabit in Domino, et delectabitur super salutari suo. 
+    10: Omnia ossa mea dicent : Domine, quis similis tibi? eripiens inopem de manu fortiorum ejus; egenum et pauperem a diripientibus eum.
+    11: Surgentes testes iniqui, quae ignorabam interrogabant me. 
+    12: Retribuebant mihi mala pro bonis, sterilitatem animae meae. 
+    13: Ego autem, cum mihi molesti essent, induebar cilicio; humiliabam in jejunio animam meam, et oratio mea in sinu meo convertetur. 
+    14: Quasi proximum et quasi fratrem nostrum sic complacebam; quasi lugens et contristatus sic humiliabar. 
+    15: Et adversum me laetati sunt, et convenerunt; congregata sunt super me flagella, et ignoravi.
+    16: Dissipati sunt, nec compuncti, tentaverunt me, subsannaverunt me subsannatione; frenduerunt super me dentibus suis. 
+    17: Domine, quando respicies? Restitue animam meam a malignitate eorum, a leonibus unicam meam. 
+    18: Confitebor tibi in ecclesia magna; in populo gravi laudabo te. 
+    19: Non supergaudeant mihi qui adversantur mihi inique, qui oderunt me gratis, et annuunt oculis. 
+    20: Quoniam mihi quidem pacifice loquebantur; et in iracundia terrae loquentes, dolos cogitabant.
+    21: Et dilataverunt super me os suum; dixerunt : Euge, euge! viderunt oculi nostri. 
+    22: Vidisti, Domine, ne sileas; Domine, ne discedas a me. 
+    23: Exsurge et intende judicio meo, Deus meus; et Dominus meus, in causam meam. 
+    24: Judica me secundum justitiam tuam, Domine Deus meus, et non supergaudeant mihi. 
+    25: Non dicant in cordibus suis : Euge, euge, animae nostrae; nec dicant : Devoravimus eum.
+    26: Erubescant et revereantur simul qui gratulantur malis meis; induantur confusione et reverentia qui magna loquuntur super me. 
+    27: Exsultent et laetentur qui volunt justitiam meam; et dicant semper : Magnificetur Dominus, qui volunt pacem servi ejus. 
+    28: Et lingua mea meditabitur justitiam tuam, tota die laudem tuam.
+
+  Chapter 35.
+
+    1: In finem. Servo Domini ipsi David. 
+    2: Dixit injustus ut delinquat in semetipso : non est timor Dei ante oculos ejus. 
+    3: Quoniam dolose egit in conspectu ejus, ut inveniatur iniquitas ejus ad odium. 
+    4: Verba oris ejus iniquitas, et dolus; noluit intelligere ut bene ageret. 
+    5: Iniquitatem meditatus est in cubili suo; astitit omni viae non bonae, malitiam autem non odivit.
+    6: Domine, in caelo misericordia tua, et veritas tua usque ad nubes. 
+    7: Justitia tua sicut montes Dei; judicia tua abyssus multa. Homines et jumenta salvabis, Domine, 
+    8: quemadmodum multiplicasti misericordiam tuam, Deus. Filii autem hominum in tegmine alarum tuarum sperabunt. 
+    9: Inebriabuntur ab ubertate domus tuae, et torrente voluptatis tuae potabis eos; 
+    10: quoniam apud te est fons vitae, et in lumine tuo videbimus lumen.
+    11: Praetende misericordiam tuam scientibus te, et justitiam tuam his qui recto sunt corde. 
+    12: Non veniat mihi pes superbiae, et manus peccatoris non moveat me. 
+    13: Ibi ceciderunt qui operantur iniquitatem; expulsi sunt, nec potuerunt stare.
+
+  Chapter 36.
+
+    1: Psalmus ipsi David. Noli aemulari in malignantibus, neque zelaveris facientes iniquitatem; 
+    2: quoniam tamquam foenum velociter arescent, et quemadmodum olera herbarum cito decident. 
+    3: Spera in Domino, et fac bonitatem; et inhabita terram, et pasceris in divitiis ejus. 
+    4: Delectare in Domino, et dabit tibi petitiones cordis tui. 
+    5: Revela Domino viam tuam, et spera in eo, et ipse faciet.
+    6: Et educet quasi lumen justitiam tuam, et judicium tuum tamquam meridiem. 
+    7: Subditus esto Domino, et ora eum. Noli aemulari in eo qui prosperatur in via sua, in homine faciente injustitias. 
+    8: Desine ab ira, et derelinque furorem; noli aemulari ut maligneris. 
+    9: Quoniam qui malignantur exterminabuntur; sustinentes autem Dominum, ipsi haereditabunt terram. 
+    10: Et adhuc pusillum, et non erit peccator; et quaeres locum ejus, et non invenies.
+    11: Mansueti autem haereditabunt terram, et delectabuntur in multitudine pacis. 
+    12: Observabit peccator justum, et stridebit super eum dentibus suis. 
+    13: Dominus autem irridebit eum, quoniam prospicit quod veniet dies ejus. 
+    14: Gladium evaginaverunt peccatores, intenderunt arcum suum, ut dejiciant pauperem et inopem, ut trucident rectos corde. 
+    15: Gladius eorum intret in corda ipsorum, et arcus eorum confringatur.
+    16: Melius est modicum justo, super divitias peccatorum multas; 
+    17: quoniam brachia peccatorum conterentur, confirmat autem justos Dominus. 
+    18: Novit Dominus dies immaculatorum, et haereditas eorum in aeternum erit. 
+    19: Non confundentur in tempore malo, et in diebus famis saturabuntur, 
+    20: quia peccatores peribunt. Inimici vero Domini mox ut honorificati fuerint et exaltati, deficientes quemadmodum fumus deficient.
+    21: Mutuabitur peccator, et non solvet, justus autem miseretur et tribuet; 
+    22: quia benedicentes ei haereditabunt terram : maledicentes autem ei disperibunt. 
+    23: Apud Dominum gressus hominis dirigentur; et viam ejus volet. 
+    24: Cum ceciderit, non collidetur, quia Dominus supponit manum suam. 
+    25: Junior fui, etenim senui; et non vidi justum derelictum, nec semen ejus quaerens panem.
+    26: Tota die miseretur et commodat; et semen illius in benedictione erit. 
+    27: Declina a malo, et fac bonum, et inhabita in saeculum saeculi; 
+    28: quia Dominus amat judicium, et non derelinquet sanctos suos; in aeternum conservabuntur. Injusti punientur, et semen impiorum peribit. 
+    29: Justi autem haereditabunt terram, et inhabitabunt in saeculum saeculi super eam. 
+    30: Os justi meditabitur sapientiam, et lingua ejus loquetur judicium.
+    31: Lex Dei ejus in corde ipsius, et non supplantabuntur gressus ejus. 
+    32: Considerat peccator justum, et quaerit mortificare eum. 
+    33: Dominus autem non derelinquet eum in manibus ejus, nec damnabit eum cum judicabitur illi. 
+    34: Exspecta Dominum, et custodi viam ejus; et exaltabit te ut haereditate capias terram; cum perierint peccatores, videbis. 
+    35: Vidi impium superexaltatum, et elevatum sicut cedros Libani;
+    36: et transivi, et ecce non erat; et quaesivi eum, et non est inventus locus ejus. 
+    37: Custodi innocentiam, et vide aequitatem, quoniam sunt reliquiae homini pacifico. 
+    38: Injusti autem disperibunt simul; reliquiae impiorum interibunt. 
+    39: Salus autem justorum a Domino; et protector eorum in tempore tribulationis. 
+    40: Et adjuvabit eos Dominus, et liberabit eos; et eruet eos a peccatoribus, et salvabit eos, quia speraverunt in eo.
+
+End of day 152.

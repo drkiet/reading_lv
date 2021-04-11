@@ -1,0 +1,94 @@
+Day 215:
+
+Reading Isaiah, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Primo tempore alleviata est terra Zabulon et terra Nephthali : et novissimo aggravata est via maris trans Jordanem Galilaeae gentium. 
+    2: Populus qui ambulabat in tenebris, vidit lucem magnam; habitantibus in regione umbrae mortis, lux orta est eis. 
+    3: Multiplicasti gentem, et non magnificasti laetitiam. Laetabuntur coram te, sicut qui laetantur in messe; sicut exsultant victores capta praeda, quando dividunt spolia. 
+    4: Jugum enim oneris ejus, et virgam humeri ejus, et sceptrum exactoris ejus superasti, sicut in die Madian. 
+    5: Quia omnis violentia praedatio cum tumultu, et vestimentum mistum sanguine, erit in combustionem, et cibus ignis.
+    6: Parvulus enim natus est nobis, et filius datus est nobis, et factus est principatus super humerum ejus : et vocabitur nomen ejus, Admirabilis, Consiliarius, Deus, Fortis, Pater futuri saeculi, Princeps pacis. 
+    7: Multiplicabitur ejus imperium, et pacis non erit finis; super solium David, et super regnum ejus sedebit, ut confirmet illud et corroboret in judicio et justitia, amodo usque in sempiternum : zelus Domini exercituum faciet hoc. 
+    8: Verbum misit Dominus in Jacob, et cecidit in Israel. 
+    9: Et sciet omnis populus Ephraim, et habitantes Samariam, in superbia et magnitudine cordis dicentes : 
+    10: Lateres ceciderunt, sed quadris lapidibus aedificabimus; sycomoros succiderunt, sed cedros immutabimus.
+    11: Et elevabit Dominus hostes Rasin super eum, et inimicos ejus in tumultum vertet. 
+    12: Syriam ab oriente, et Philisthiim ab occidente; et devorabunt Israel toto ore. In omnibus his non est aversus furor ejus, sed adhuc manus ejus extenta. 
+    13: Et populus non est reversus ad percutientem se, et Dominum exercituum non inquisierunt. 
+    14: Et disperdet Dominus ab Israel caput et caudam, incurvantem et refrenantem, die una. 
+    15: Longaevus et honorabilis, ipse est caput; et propheta docens mendacium, ipse est cauda.
+    16: Et erunt qui beatificant populum istum, seducentes; et qui beatificantur, praecipitati. 
+    17: Propter hoc super adolescentulis ejus non laetabitur Dominus, et pupillorum ejus et viduarum non miserebitur : quia omnis hypocrita est et nequam, et universum os locutum est stultitiam; in omnibus his non est aversus furor ejus, sed adhuc manus ejus extenta. 
+    18: Succensa est enim quasi ignis impietas : veprem et spinam vorabit, et succendetur in densitate saltus, et convolvetur superbia fumi. 
+    19: In ira Domini exercituum conturbata est terra, et erit populus quasi esca ignis; vir fratri suo non parcet. 
+    20: Et declinabit ad dexteram, et esuriet; et comedet ad sinistram, et non saturabitur; unusquisque carnem brachii sui vorabit : Manasses Ephraim, et Ephraim Manassen; simul ipsi contra Judam.
+    21: In omnibus his non est aversus furor ejus, sed adhuc manus ejus extenta.
+
+  Chapter 10.
+
+    1: Vae qui condunt leges iniquas, et scribentes injustitiam scripserunt, 
+    2: ut opprimerent in judicio pauperes, et vim facerent causae humilium populi mei; ut essent viduae praeda eorum, et pupillos diriperent. 
+    3: Quid facietis in die visitationis, et calamitatis de longe venientis? ad cujus confugietis auxilium? et ubi derelinquetis gloriam vestram, 
+    4: ne incurvemini sub vinculo, et cum interfectis cadatis? Super omnibus his non est aversus furor ejus, sed adhuc manus ejus extenta. 
+    5: Vae Assur! virga furoris mei et baculus ipse est; in manu eorum indignatio mea.
+    6: Ad gentem fallacem mittam eum, et contra populum furoris mei mandabo illi, ut auferat spolia, et diripiat praedam, et ponat illum in conculcationem quasi lutum platearum. 
+    7: Ipse autem non sic arbitrabitur, et cor ejus non ita existimabit; sed ad conterendum erit cor ejus, et ad internecionem gentium non paucarum. 
+    8: Dicet enim : 
+    9: Numquid non principes mei simul reges sunt? numquid non ut Charcamis, sic Calano? et ut Arphad, sic Emath? numquid non ut Damascus, sic Samaria? 
+    10: Quomodo invenit manus mea regna idoli, sic et simulacra eorum de Jerusalem et de Samaria.
+    11: Numquid non sicut feci Samariae et idolis ejus, sic faciam Jerusalem et simulacris ejus? 
+    12: Et erit, cum impleverit Dominus cuncta opera sua in monte Sion et in Jerusalem, visitabo super fructum magnifici cordis regis Assur, et super gloriam altitudinis oculorum ejus. 
+    13: Dixit enim : In fortitudine manus meae feci, et in sapientia mea intellexi; et abstuli terminos populorum, et principes eorum depraedatus sum, et detraxi quasi potens in sublimi residentes. 
+    14: Et invenit quasi nidum manus mea fortitudinem populorum; et sicut colliguntur ova quae derelicta sunt, sic universam terram ego congregavi; et non fuit qui moveret pennam, et aperiret os, et ganniret. 
+    15: Numquid gloriabitur securis contra eum qui secat in ea? aut exaltabitur serra contra eum a quo trahitur? Quomodo si elevetur virga contra elevantem se, et exaltetur baculus, qui utique lignum est.
+    16: Propter hoc mittet Dominator, Dominus exercituum, in pinguibus ejus tenuitatem; et subtus gloriam ejus succensa ardebit quasi combustio ignis. 
+    17: Et erit lumen Israel in igne, et Sanctus ejus in flamma; et succendetur, et devorabitur spina ejus et vepres in die una. 
+    18: Et gloria saltus ejus, et carmeli ejus, ab anima usque ad carnem consumetur; et erit terrore profugus. 
+    19: Et reliquiae ligni saltus ejus prae paucitate numerabuntur, et puer scribet eos. 
+    20: Et erit in die illa : non adjiciet residuum Israel, et hi qui fugerint de domo Jacob, inniti super eo qui percutit eos; sed innitetur super Dominum, Sanctum Israel, in veritate.
+    21: Reliquiae convertentur; reliquiae, inquam, Jacob ad Deum fortem. 
+    22: Si enim fuerit populus tuus, Israel, quasi arena maris, reliquiae convertentur ex eo; consummatio abbreviata inundabit justitiam. 
+    23: Consummationem enim et abbreviationem Dominus Deus exercituum faciet in medio omnis terrae. 
+    24: Propter hoc, haec dicit Dominus Deus exercituum : Noli timere, populus meus, habitator Sion, ab Assur : in virga percutiet te, et baculum suum levabit super te, in via Aegypti. 
+    25: Adhuc enim paululum modicumque, et consummabitur indignatio et furor meus super scelus eorum.
+    26: Et suscitabit super eum Dominus exercituum flagellum, juxta plagam Madian in petra Oreb : et virgam suam super mare, et levabit eam in via Aegypti. 
+    27: Et erit in die illa : auferetur onus ejus de humero tuo et jugum ejus de collo tuo, et computrescet jugum a facie olei. 
+    28: Veniet in Aiath, transibit in Magron, apud Machmas commendabit vasa sua. 
+    29: Transierunt cursim, Gaba sedes nostra; obstupuit Rama, Gabaath Saulis fugit. 
+    30: Hinni voce tua, filia Gallim, attende Laisa, paupercula Anathoth.
+    31: Migravit Medemena; habitatores Gabim, confortamini. 
+    32: Adhuc dies est ut in Nobe stetur; agitabit manum suam super montem filiae Sion, collem Jerusalem. 
+    33: Ecce Dominator, Dominus exercituum, confringet lagunculam in terrore; et excelsi statura succidentur, et sublimes humiliabuntur. 
+    34: Et subvertentur condensa saltus ferro; et Libanus cum excelsis cadet.
+
+  Chapter 11.
+
+    1: Et egredietur virga de radice Jesse, et flos de radice ejus ascendet. 
+    2: Et requiescet super eum spiritus Domini : spiritus sapientiae et intellectus, spiritus consilii et fortitudinis, spiritus scientiae et pietatis; 
+    3: et replebit eum spiritus timoris Domini. Non secundum visionem oculorum judicabit, neque secundum auditum aurium arguet; 
+    4: sed judicabit in justitia pauperes, et arguet in aequitate pro mansuetis terrae; et percutiet terram virga oris sui, et spiritu labiorum suorum interficiet impium. 
+    5: Et erit justitia cingulum lumborum ejus, et fides cinctorium renum ejus.
+    6: Habitabit lupus cum agno, et pardus cum haedo accubabit; vitulus, et leo, et ovis, simul morabuntur, et puer parvulus minabit eos. 
+    7: Vitulus et ursus pascentur, simul requiescent catuli eorum; et leo quasi bos comedet paleas. 
+    8: Et delectabitur infans ab ubere super foramine aspidis; et in caverna reguli qui ablactatus fuerit manum suam mittet. 
+    9: Non nocebunt, et non occident in universo monte sancto meo, quia repleta est terra scientia Domini, sicut aquae maris operientes. 
+    10: In die illa radix Jesse, qui stat in signum populorum, ipsum gentes deprecabuntur, et erit sepulchrum ejus gloriosum.
+    11: Et erit in die illa : adjiciet Dominus secundo manum suam ad possidendum residuum populi sui, quod relinquetur ab Assyriis, et ab Aegypto, et a Phetros, et ab Aethiopia, et ab Aelam, et a Sennaar, et ab Emath, et ab insulis maris. 
+    12: Et levabit signum in nationes, et congregabit profugos Israel, et dispersos Juda colliget a quatuor plagis terrae. 
+    13: Et auferetur zelus Ephraim, et hostes Juda peribunt; Ephraim non aemulabitur Judam, et Judas non pugnabit contra Ephraim. 
+    14: Et volabunt in humeros Philisthiim per mare, simul praedabuntur filios orientis; Idumaea et Moab praeceptum manus eorum, et filii Ammon obedientes erunt. 
+    15: Et desolabit Dominus linguam maris Aegypti, et levabit manum suam super flumen in fortitudine spiritus sui; et percutiet eum in septem rivis, ita ut transeant per eum calceati.
+    16: Et erit via residuo populo meo qui relinquetur ab Assyriis, sicut fuit Israeli in die illa qua ascendit de terra Aegypti.
+
+  Chapter 12.
+
+    1: Et dices in die illa : Confitebor tibi, Domine, quoniam iratus es mihi; conversus est furor tuus, et consolatus es me. 
+    2: Ecce Deus salvator meus; fiducialiter agam, et non timebo : quia fortitudo mea et laus mea Dominus, et factus est mihi in salutem. 
+    3: Haurietis aquas in gaudio de fontibus salvatoris. 
+    4: Et dicetis in die illa : Confitemini Domino et invocate nomen ejus; notas facite in populis adinventiones ejus; mementote quoniam excelsum est nomen ejus. 
+    5: Cantate Domino, quoniam magnifice fecit; annuntiate hoc in universa terra.
+    6: Exsulta et lauda, habitatio Sion, quia magnus in medio tui Sanctus Israel.
+
+End of day 215.

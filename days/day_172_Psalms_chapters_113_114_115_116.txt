@@ -1,0 +1,64 @@
+Day 172:
+
+Reading Psalms, chapters ['113', '114', '115', '116']:
+
+  Chapter 113.
+
+    1: Alleluja. In exitu Israel de Aegypto, domus Jacob de populo barbaro, 
+    2: facta est Judaea sanctificatio ejus, Israel potestas ejus. 
+    3: Mare vidit, et fugit; Jordanis conversus est retrorsum. 
+    4: Montes exsultaverunt ut arietes, et colles sicut agni ovium. 
+    5: Quid est tibi, mare, quod fugisti? et tu, Jordanis, quia conversus es retrorsum?
+    6: montes, exsultastis sicut arietes? et colles sicut agni ovium? 
+    7: A facie Domini mota est terra, a facie Dei Jacob; 
+    8: qui convertit petram in stagna aquarum, et rupem in fontes aquarum. 
+    9: Non nobis, Domine, non nobis; sed nomini tuo da gloriam, 
+    10: super misericordia tua et veritate tua; nequando dicant gentes : Ubi est Deus eorum?
+    11: Deus autem noster in caelo; omnia quaecumque voluit fecit. 
+    12: Simulacra gentium argentum et aurum, opera manuum hominum. 
+    13: Os habent, et non loquentur; oculos habent, et non videbunt. 
+    14: Aures habent, et non audient; nares habent, et non odorabunt. 
+    15: Manus habent, et non palpabunt; pedes habent, et non ambulabunt; non clamabunt in gutture suo.
+    16: Similes illis fiant qui faciunt ea, et omnes qui confidunt in eis. 
+    17: Domus Israel speravit in Domino; adjutor eorum et protector eorum est. 
+    18: Domus Aaron speravit in Domino; adjutor eorum et protector eorum est. 
+    19: Qui timent Dominum speraverunt in Domino; adjutor eorum et protector eorum est. 
+    20: Dominus memor fuit nostri, et benedixit nobis. Benedixit domui Israel; benedixit domui Aaron.
+    21: Benedixit omnibus qui timent Dominum, pusillis cum majoribus. 
+    22: Adjiciat Dominus super vos, super vos et super filios vestros. 
+    23: Benedicti vos a Domino, qui fecit caelum et terram. 
+    24: Caelum caeli Domino; terram autem dedit filiis hominum. 
+    25: Non mortui laudabunt te, Domine; neque omnes qui descendunt in infernum.
+    26: Sed nos qui vivimus, benedicimus Domino, ex hoc nunc et usque in saeculum.
+
+  Chapter 114.
+
+    1: Alleluja. Dilexi, quoniam exaudiet Dominus vocem orationis meae. 
+    2: Quia inclinavit aurem suam mihi, et in diebus meis invocabo. 
+    3: Circumdederunt me dolores mortis; et pericula inferni invenerunt me. Tribulationem et dolorem inveni, 
+    4: et nomen Domini invocavi : o Domine, libera animam meam. 
+    5: Misericors Dominus et justus, et Deus noster miseretur.
+    6: Custodiens parvulos Dominus; humiliatus sum, et liberavit me. 
+    7: Convertere, anima mea, in requiem tuam, quia Dominus benefecit tibi; 
+    8: quia eripuit animam meam de morte, oculos meos a lacrimis, pedes meos a lapsu. 
+    9: Placebo Domino in regione vivorum.
+
+  Chapter 115.
+
+    1: Alleluja. Credidi, propter quod locutus sum; ego autem humiliatus sum nimis. 
+    2: Ego dixi in excessu meo : Omnis homo mendax. 
+    3: Quid retribuam Domino pro omnibus quae retribuit mihi?2 
+    4: Calicem salutaris accipiam, et nomen Domini invocabo. 
+    5: Vota mea Domino reddam coram omni populo ejus.
+    6: Pretiosa in conspectu Domini mors sanctorum ejus. 
+    7: O Domine, quia ego servus tuus; ego servus tuus, et filius ancillae tuae. Dirupisti vincula mea : 
+    8: tibi sacrificabo hostiam laudis, et nomen Domini invocabo. 
+    9: Vota mea Domino reddam in conspectu omnis populi ejus; 
+    10: in atriis domus Domini, in medio tui, Jerusalem.
+
+  Chapter 116.
+
+    1: Alleluja. Laudate Dominum, omnes gentes, laudate eum, omnes populi. 
+    2: Quoniam confirmata est super nos misericordia ejus, et veritas Domini manet in aeternum.
+
+End of day 172.

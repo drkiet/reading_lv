@@ -1,0 +1,163 @@
+Day 309:
+
+Reading Acts, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Saulus autem adhuc spirans minarum, et caedis in discipulos Domini, accessit ad principem sacerdotum, 
+    2: et petiit ab eo epistolas in Damascum ad synagogas : ut si quos invenisset hujus viae viros, ac mulieres, vinctos perduceret in Jerusalem. 
+    3: Et cum iter faceret, contigit ut appropinquaret Damasco : et subito circumfulsit eum lux de caelo. 
+    4: Et cadens in terram audivit vocem dicentem sibi : Saule, Saule, quid me persequeris? 
+    5: Qui dixit : Quis es Domine? Et ille : Ego sum Jesus, quem tu persequeris : durum est tibi contra stimulum calcitrare.
+    6: Et tremens ac stupens dixit : Domine, quid me vis facere? 
+    7: Et Dominus ad eum : Surge, et ingredere civitatem, et ibi dicetur tibi quid te oporteat facere. Viri autem illi, qui comitabantur cum eo, stabant stupefacti, audientes quidem vocem, neminem autem videntes. 
+    8: Surrexit autem Saulus de terra, apertisque oculis nihil videbat. Ad manus autem illum trahentes, introduxerunt Damascum. 
+    9: Et erat ibi tribus diebus non videns, et non manducavit, neque bibit. 
+    10: Erat autem quidam discipulus Damasci, nomine Ananias : et dixit ad illum in visu Dominus : Anania. At ille ait : Ecce ego, Domine.
+    11: Et Dominus ad eum : Surge, et vade in vicum qui vocatur Rectus : et quaere in domo Judae Saulum nomine Tarsensem : ecce enim orat. 
+    12: ( Et vidit virum Ananiam nomine, introeuntem, et imponentem sibi manus ut visum recipiat.) 
+    13: Respondit autem Ananias : Domine, audivi a multis de viro hoc, quanta mala fecerit sanctis tuis in Jerusalem : 
+    14: et hic habet potestatem a principibus sacerdotum alligandi omnes qui invocant nomen tuum. 
+    15: Dixit autem ad eum Dominus : Vade, quoniam vas electionis est mihi iste, ut portet nomen meum coram gentibus, et regibus, et filiis Israel.
+    16: Ego enim ostendam illi quanta oporteat eum pro nomine meo pati. 
+    17: Et abiit Ananias, et introivit in domum : et imponens ei manus, dixit : Saule frater, Dominus misit me Jesus, qui apparuit tibi in via qua veniebas, ut videas, et implearis Spiritu Sancto. 
+    18: Et confestim ceciderunt ab oculis ejus, tamquam squamae, et visum recepit : et surgens baptizatus est. 
+    19: Et cum accepisset cibum, confortatus est. Fuit autem cum discipulis qui erant Damasci, per dies aliquot. 
+    20: Et continuo in synagogis praedicabat Jesum, quoniam hic est Filius Dei.
+    21: Stupebant autem omnes qui audiebant, et dicebant : Nonne hic est qui expugnabat in Jerusalem eos qui invocabant nomen istud : et huc ad hoc venit ut vinctos illos duceret ad principes sacerdotum? 
+    22: Saulus autem multo magis convalescebat, et confundebat Judaeos, qui habitabant Damasci, affirmans quoniam hic est Christus. 
+    23: Cum autem implerentur dies multi, consilium fecerunt in unum Judaei, ut eum interficerent. 
+    24: Notae autem factae sunt Saulo insidiae eorum. Custodiebant autem et portas die ac nocte, ut eum interficerent. 
+    25: Accipientes autem eum discipuli nocte, per murum dimiserunt eum, submittentes in sporta.
+    26: Cum autem venisset in Jerusalem, tentabat se jungere discipulis, et omnes timebant eum, non credentes quod esset discipulus. 
+    27: Barnabas autem apprehensum illum duxit ad Apostolos : et narravit illis quomodo in via vidisset Dominum, et quia locutus est ei, et quomodo in Damasco fiducialiter egerit in nomine Jesu. 
+    28: Et erat cum illis intrans et exiens in Jerusalem, et fiducialiter agens in nomine Domini. 
+    29: Loquebatur quoque gentibus, et disputabat cum Graecis : illi autem quaerebant occidere eum. 
+    30: Quod cum cognovissent fratres, deduxerunt eum Caesaream, et dimiserunt Tarsum.
+    31: Ecclesia quidem per totam Judaeam, et Galilaeam, et Samariam habebat pacem, et aedificabatur ambulans in timore Domini, et consolatione Sancti Spiritus replebatur. 
+    32: Factum est autem, ut Petrus dum pertransiret universos, deveniret ad sanctos qui habitabant Lyddae. 
+    33: Invenit autem ibi hominem quemdam, nomine Aeneam, ab annis octo jacentem in grabato, qui erat paralyticus. 
+    34: Et ait illi Petrus : Aenea, sanat te Dominus Jesus Christus : surge, et sterne tibi. Et continuo surrexit. 
+    35: Et viderunt eum omnes qui habitabant Lyddae et Saronae : qui conversi sunt ad Dominum.
+    36: In Joppe autem fuit quaedam discipula, nomine Tabitha, quae interpretata dicitur Dorcas. Haec erat plena operibus bonis, et eleemosynis, quas faciebat. 
+    37: Factum est autem in diebus illis ut infirmata moreretur. Quam cum lavissent, posuerunt eam in coenaculo. 
+    38: Cum autem prope esset Lydda ad Joppen, discipuli audientes quia Petrus esset in ea, miserunt duos viros ad eum, rogantes : Ne pigriteris venire ad nos. 
+    39: Exsurgens autem Petrus venit cum illis. Et cum advenisset, duxerunt illum in coenaculum : et circumsteterunt illum omnes viduae flentes, et ostendentes ei tunicas, et vestes, quas faciebat illis Dorcas. 
+    40: Ejectis autem omnibus foras, Petrus ponens genua oravit : et conversus ad corpus, dixit : Tabitha, surge. At illa aperuit oculos suos : et viso Petro, resedit.
+    41: Dans autem illi manum, erexit eam. Et cum vocasset sanctos, et viduas, assignavit eam vivam. 
+    42: Notum autem factum est per universam Joppen : et crediderunt multi in Domino. 
+    43: Factum est autem ut dies multos moraretur in Joppe, apud Simonem quemdam coriarium.
+
+  Chapter 10.
+
+    1: Vir autem quidam erat in Caesarea, nomine Cornleius, centurio cohortis quae dicitur Italica, 
+    2: religiosus, ac timens Deum cum omni domo sua, faciens eleemosynas multas plebi, et deprecans Deum semper : 
+    3: is vidit in visu manifeste, quasi hora diei nona, angelum Dei introeuntem ad se, et dicentem sibi : Corneli. 
+    4: At ille intuens eum, timore correptus, dixit : Quid est, Domine? Dixit autem illi : Orationes tuae et eleemosynae tuae ascenderunt in memoriam in conspectu Dei. 
+    5: Et nunc mitte viros in Joppen, et accersi Simonem quemdam, qui cognominatur Petrus :
+    6: hic hospitatur apud Simonem quemdam coriarium, cujus est domus juxta mare : hic dicet tibi quid te oporteat facere. 
+    7: Et cum discessisset angelus qui loquebatur illi, vocavit duos domesticos suos, et militem metuentem Dominum ex his qui illi parebant. 
+    8: Quibus cum narrasset omnia, misit illos in Joppen. 
+    9: Postera autem die, iter illis facientibus, et appropinquantibus civitati, ascendit Petrus in superiora ut oraret circa horam sextam. 
+    10: Et cum esuriret, voluit gustare. Parantibus autem illis, cecidit super eum mentis excessus :
+    11: et vidit caelum apertum, et descendens vas quoddam, velut linteum magnum, quatuor initiis submitti de caelo in terram, 
+    12: in quo erant omnia quadrupedia, et serpentia terrae, et volatilia caeli. 
+    13: Et facta est vox ad eum : Surge Petre, occide, et manduca. 
+    14: Ait autem Petrus : Absit Domine, quia numquam manducavi omne commune et immundum. 
+    15: Et vox iterum secundo ad eum : Quod Deus purificavit, tu commune ne dixeris.
+    16: Hoc autem factum est per ter : et statim receptum est vas in caelum. 
+    17: Et dum intra se haesitaret Petrus quidnam esset visio, quam vidisset : ecce viri qui missi erant a Cornelio, inquirentes domum Simonis, astiterunt ad januam. 
+    18: Et cum vocassent, interrogabant, si Simon, qui cognominatur Petrus, illic haberet hospitium. 
+    19: Petro autem cogitante de visione, dixit Spiritus ei : Ecce viri tres quaerunt te. 
+    20: Surge itaque, descende, et vade cum eis nihil dubitans : quia ego misi illos.
+    21: Descendens autem Petrus ad viros, dixit : Ecce ego sum, quem quaeritis : quae causa est, propter quam venistis? 
+    22: Qui dixerunt : Cornelius centurio, vir justus, et timens Deum, et testimonium habens ab universa gente Judaeorum, responsum accepit ab angelo sancto accersire te in domum suam, et audire verba abs te. 
+    23: Introducens ergo eos, recepit hospitio. Sequenti autem die surgens profectus est cum illis; et quidam ex fratribus ab Joppe comitati sunt eum. 
+    24: Altera autem die introivit Caesaream. Cornelius vero exspectabat illos, convocatis cognatis suis, et necessariis amicis. 
+    25: Et factum est cum introisset Petrus, obvius venit ei Cornelius, et procidens ad pedes ejus adoravit.
+    26: Petrus vero elevavit eum, dicens : Surge, et ego ipse homo sum. 
+    27: Et loquens cum illo intravit, et invenit multos qui convenerant : 
+    28: dixitque ad illos : Vos scitis quomodo abominatum sit viro Judaeo conjungi, aut accedere ad alienigenam : sed mihi ostendit Deus neminem communem aut immundum dicere hominem. 
+    29: Propter quod sine dubitatione veni accersitus. Interrogo ergo, quam ob causam accersistis me? 
+    30: Et Cornelius ait : A nudiusquarta die usque ad hanc horam, orans eram hora nona in domo mea, et ecce vir stetit ante me in veste candida, et ait :
+    31: Corneli, exaudita est oratio tua, et eleemosynae tuae commemoratae sunt in conspectu Dei. 
+    32: Mitte ergo in Joppen, et accersi Simonem, qui cognominatur Petrus : hic hospitatur in domo Simonis coriarii juxta mare. 
+    33: Confestim ergo misi ad te : et tu benefecisti veniendo. Nunc ergo omnes nos in conspectu tuo adsumus audire omnia quaecumque tibi praecepta sunt a Domino. 
+    34: Aperiens autem Petrus os suum, dixit : In veritate comperi quia non est personarum acceptor Deus; 
+    35: sed in omni gente qui timet eum, et operatur justitiam, acceptus est illi.
+    36: Verbum misit Deus filiis Israel, annuntians pacem per Jesum Christum ( hic est omnium Dominus). 
+    37: Vos scitis quod factum est verbum per universam Judaeum : incipiens enim a Galilaea post baptismum, quod praedicavit Joannes, 
+    38: Jesum a Nazareth : quomodo unxit eum Deus Spiritu Sancto, et virtute, qui pertransiit benefaciendo, et sanando omnes oppressos a diabolo, quoniam Deus erat cum illo. 
+    39: Et nos testes sumus omnium quae fecit in regione Judaeorum, et Jerusalem, quem occiderunt suspendentes in ligno. 
+    40: Hunc Deus suscitavit tertia die, et dedit eum manifestum fieri,
+    41: non omni populo, sed testibus praeordinatis a Deo : nobis, qui manducavimus et bibimus cum illo postquam resurrexit a mortuis. 
+    42: Et praecepit nobis praedicare populo, et testificari, quia ipse est qui constitutus est a Deo judex vivorum et mortuorum. 
+    43: Huic omnes prophetae testimonium perhibent remissionem peccatorum accipere per nomen ejus omnes qui credunt in eum. 
+    44: Adhuc loquente Petro verba haec, cecidit Spiritus Sanctus super omnes qui audiebant verbum. 
+    45: Et obstupuerunt ex circumcisione fideles qui venerant cum Petro : quia et in nationes gratia Spiritus Sancti effusa est.
+    46: Audiebant enim illos loquentes linguis, et magnificantes Deum. 
+    47: Tunc respondit Petrus : Numquid aquam quis prohibere potest ut non baptizentur hi qui Spiritum Sanctum acceperunt sicut et nos? 
+    48: Et jussit eos baptizari in nomine Domini Jesu Christi. Tunc rogaverunt eum ut maneret apud eos aliquot diebus.
+
+  Chapter 11.
+
+    1: Audierunt autem Apostoli, et fratres, qui erant in Judaea, quoniam et gentes receperunt verbum Dei. 
+    2: Cum autem ascendisset Petrus Jerosolymam, disceptabant adversus illum qui erant ex circumcisione, 
+    3: dicentes : Quare introisti ad viros praeputium habentes, et manducasti cum illis? 
+    4: Incipiens autem Petrus exponebat illis ordinem, dicens : 
+    5: Ego eram in civitate Joppe orans, et vidi in excessu mentis visionem, descendens vas quoddam velut linteum magnum quatuor initiis summitti de caelo, et venit usque ad me.
+    6: In quod intuens considerabam, et vidi quadrupedia terrae, et bestias, et reptilia, et volatilia caeli. 
+    7: Audivi autem et vocem dicentem mihi : Surge Petre, occide, et manduca. 
+    8: Dixi autem : Nequaquam Domine : quia commune aut immundum numquam introivit in os meum. 
+    9: Respondit autem vox secundo de caelo : Quae Deus mundavit, tu ne commune dixeris. 
+    10: Hoc autem factum est per ter : et recepta sunt omnia rursum in caelum.
+    11: Et ecce viri tres confestim astiterunt in domo in qua eram, missi a Caesarea ad me. 
+    12: Dixit autem Spiritus mihi ut irem cum illis, nihil haesitans. Venerunt autem mecum et sex fratres isti, et ingressi sumus in domum viri. 
+    13: Narravit autem nobis, quomodo vidisset angelum in domo sua, stantem et dicentem sibi : Mitte in Joppen, et accersi Simonem, qui cognominatur Petrus, 
+    14: qui loquetur tibi verba in quibus salvus eris tu, et universa domus tua. 
+    15: Cum autem coepissem loqui, cecidit Spiritus Sanctus super eos, sicut et in nos in initio.
+    16: Recordatus sum autem verbi Domini, sicut dicebat : Joannes quidem baptizavit aqua, vos autem baptizabimini Spiritu Sancto. 
+    17: Si ergo eamdem gratiam dedit illis Deus, sicut et nobis, qui credidimus in Dominum Jesum Christum : ego quis eram, qui possem prohibere Deum? 
+    18: His auditis, tacuerunt : et glorificaverunt Deum, dicentes : Ergo et gentibus poenitentiam dedit Deus ad vitam. 
+    19: Et illi quidem, qui dispersi fuerant a tribulatione, quae facta fuerat sub Stephano, perambulaverunt usque Phoenicen, et Cyprum, et Antiochiam, nemini loquentes verbum, nisi solis Judaeis. 
+    20: Erant autem quidam ex eis viri Cyprii, et Cyrenaei, qui cum introissent Antiochiam, loquebantur et ad Graecos, annuntiantes Dominum Jesum.
+    21: Et erat manus Domini cum eis : multusque numerus credentium conversus est ad Dominum. 
+    22: Pervenit autem sermo ad aures ecclesiae quae erat Jerosolymis, super istis : et miserunt Barnabam usque ad Antiochiam. 
+    23: Qui cum pervenisset, et vidisset gratiam Dei, gavisus est : et hortabatur omnes in proposito cordis permanere in Domino : 
+    24: quia erat vir bonus, et plenus Spiritu Sancto, et fide. Et apposita est multa turba Domino. 
+    25: Profectus est autem Barnabas Tarsum, ut quaereret Saulum : quem cum invenisset, perduxit Antiochiam.
+    26: Et annum totum conversati sunt ibi in ecclesia : et docuerunt turbam multam, ita ut cognominarentur primum Antiochiae discipuli, christiani. 
+    27: In his autem diebus supervenerunt ab Jerosolymis prophetae Antiochiam : 
+    28: et surgens unus ex eis nomine Agabus, significabat per spiritum famem magnam futuram in universo orbe terrarum, quae facta est sub Claudio. 
+    29: Discipuli autem, prout quis habebat, proposuerunt singuli in ministerium mittere habitantibus in Judaea fratribus : 
+    30: quod et fecerunt, mittentes ad seniores per manus Barnabae et Sauli.
+
+  Chapter 12.
+
+    1: Eodem autem tempore misit Herodes rex manus, ut affligeret quosdam de ecclesia. 
+    2: Occidit autem Jacobum fratrem Joannis gladio. 
+    3: Videns autem quia placeret Judaeis, apposuit ut apprehenderet et Petrum. Erant autem dies Azymorum. 
+    4: Quem cum apprehendisset, misit in carcerem, tradens quatuor quaternionibus militum custodiendum, volens post Pascha producere eum populo. 
+    5: Et Petrus quidem servabatur in carcere. Oratio autem fiebant sine intermissione ab ecclesia ad Deum pro eo.
+    6: Cum autem producturus eum esset Herodes, in ipsa nocte erat Petrus dormiens inter duos milites, vinctus catenis duabus : et custodes ante ostium custodiebant carcerem. 
+    7: Et ecce angelus Domini astitit : et lumen refulsit in habitaculo : percussoque latere Petri, excitavit eum, dicens : Surge velociter. Et ceciderunt catenae de manibus ejus. 
+    8: Dixit autem angelus ad eum : Praecingere, et calcea te caligas tuas. Et fecit sic. Et dixit illi : Circumda tibi vestimentum tuum, et sequere me. 
+    9: Et exiens sequebatur eum, et nesciebat quia verum est, quod fiebat per angelum : existimabat autem se visum videre. 
+    10: Transeuntes autem primam et secundam custodiam, venerunt ad portam ferream, quae ducit ad civitatem : quae ultro aperta est eis. Et exeuntes processerunt vicum unum : et continuo discessit angelus ab eo.
+    11: Et Petrus ad se reversus, dixit : Nunc scio vere quia misit Dominus angelum suum, et eripuit me de manu Herodis, et de omni exspectatione plebis Judaeorum. 
+    12: Consideransque venit ad domum Mariae matris Joannis, qui cognominatus est Marcus, ubi erant multi congregati, et orantes. 
+    13: Pulsante autem eo ostium januae, processit puella ad audiendum, nomine Rhode. 
+    14: Et ut cognovit vocem Petri, prae gaudio non aperuit januam, sed intro currens nuntiavit stare Petrum ante januam. 
+    15: At illi dixerunt ad eam : Insanis. Illa autem affirmabat sic se habere. Illi autem dicebant : Angelus ejus est.
+    16: Petrus autem perseverabat pulsans. Cum autem aperuissent, viderunt eum, et obstupuerunt. 
+    17: Annuens autem eis manu ut tacerent, narravit quomodo Dominus eduxisset eum de carcere, dixitque : Nuntiate Jacobo et fratribus haec. Et egressus abiit in alium locum. 
+    18: Facta autem die, erat non parva turbatio inter milites, quidnam factum esset de Petro. 
+    19: Herodes autem cum requisisset eum, et non invenisset, inquisitione facta de custodibus, jussit eos duci : descendensque a Judaea in Caesaream, ibi commoratus est. 
+    20: Erat autem iratus Tyriis et Sidonis. At illi unanimes venerunt ad eum, et persuaso Blasto, qui erat super cubiculum regis, postulabant pacem, eo quod alerentur regiones eorum ab illo.
+    21: Statuto autem die Herodes vestitus veste regia, sedit pro tribunali, et concionabatur ad eos. 
+    22: Populus autem acclamabat : Dei voces, et non hominis. 
+    23: Confestim autem percussit eum angelus Domini, eo quod non dedisset honorem Deo : et consumptus a vermibus, expiravit. 
+    24: Verbum autem Domini crescebat, et multiplicabatur. 
+    25: Barnabas autem et Saulus reversi sunt ab Jerosolymis expleto ministerio assumpto Joanne, qui cognominatus est Marcus.
+
+End of day 309.

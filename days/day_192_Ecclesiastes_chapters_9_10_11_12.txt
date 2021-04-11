@@ -1,0 +1,79 @@
+Day 192:
+
+Reading Ecclesiastes, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Omnia haec tractavi in corde meo, ut curiose intelligerem. Sunt justi atque sapientes, et opera eorum in manu Dei; et tamen nescit homo utrum amore an odio dignus sit. 
+    2: Sed omnia in futurum servantur incerta, eo quod universa aeque eveniant justo et impio, bono et malo, mundo et immundo, immolanti victimas et sacrificia contemnenti. Sicut bonus, sic et peccator; ut perjurus, ita et ille qui verum dejerat. 
+    3: Hoc est pessimum inter omnia quae sub sole fiunt : quia eadem cunctis eveniunt. Unde et corda filiorum hominum implentur malitia et contemptu in vita sua, et post haec ad inferos deducentur. 
+    4: Nemo est qui semper vivat, et qui hujus rei habeat fiduciam; melior est canis vivus leone mortuo. 
+    5: Viventes enim sciunt se esse morituros; mortui vero nihil noverunt amplius, nec habent ultra mercedem, quia oblivioni tradita est memoria eorum.
+    6: Amor quoque, et odium, et invidiae simul perierunt; nec habent partem in hoc saeculo, et in opere quod sub sole geritur. 
+    7: Vade ergo, et comede in laetitia panem tuum, et bibe cum gaudio vinum tuum, quia Deo placent opera tua. 
+    8: Omni tempore sint vestimenta tua candida, et oleum de capite tuo non deficiat. 
+    9: Perfruere vinum cum uxore quam diligis, cunctis diebus vitae instabilitatis tuae, qui dati sunt tibi sub sole omni tempore vanitatis tuae : haec est enim pars in vita et in labore tuo quo laboras sub sole. 
+    10: Quodcumque facere potest manus tua, instanter operare, quia nec opus, nec ratio, nec sapientia, nec scientia erunt apud inferos, quo tu properas.
+    11: Verti me ad aliud, et vidi sub sole nec velocium esse cursum, nec fortium bellum, nec sapientium panem, nec doctorum divitias, nec artificum gratiam; sed tempus casumque in omnibus. 
+    12: Nescit homo finem suum; sed sicut pisces capiuntur hamo, et sicut aves laqueo comprehenduntur, sic capiuntur homines in tempore malo, cum eis extemplo supervenerit. 
+    13: Hanc quoque sub sole vidi sapientiam, et probavi maximam : 
+    14: civitas parva, et pauci in ea viri; venit contra eam rex magnus, et vallavit eam, exstruxitque munitiones per gyrum, et perfecta est obsidio. 
+    15: Inventusque est in ea vir pauper et sapiens, et liberavit urbem per sapientiam suam; et nullus deinceps recordatus est hominis illius pauperis.
+    16: Et dicebam ego meliorem esse sapientiam fortitudine. Quomodo ergo sapientia pauperis contempta est, et verba ejus non sunt audita? 
+    17: Verba sapientium audiuntur in silentio, plus quam clamor principis inter stultos. 
+    18: Melior est sapientia quam arma bellica; et qui in uno peccaverit, multa bona perdet.
+
+  Chapter 10.
+
+    1: Muscae morientes perdunt suavitatem unguenti. Pretiosior est sapientia et gloria, parva et ad tempus stultitia. 
+    2: Cor sapientis in dextera ejus, et cor stulti in sinistra illius. 
+    3: Sed et in via stultus ambulans, cum ipse insipiens sit, omnes stultos aestimat. 
+    4: Si spiritus potestatem habentis ascenderit super te, locum tuum ne demiseris, quia curatio faciet cessare peccata maxima. 
+    5: Est malum quod vidi sub sole, quasi per errorem egrediens a facie principis :
+    6: positum stultum in dignitate sublimi, et divites sedere deorsum. 
+    7: Vidi servos in equis, et principes ambulantes super terram quasi servos. 
+    8: Qui fodit foveam incidet in eam, et qui dissipat sepem mordebit eum coluber. 
+    9: Qui transfert lapides affligetur in eis, et qui scindit ligna vulnerabitur ab eis. 
+    10: Si retusum fuerit ferrum, et hoc non ut prius, sed hebetatum fuerit, multo labore exacuetur, et post industriam sequetur sapientia.
+    11: Si mordeat serpens in silentio, nihil eo minus habet qui occulte detrahit. 
+    12: Verba oris sapientis gratia, et labia insipientis praecipitabunt eum; 
+    13: initium verborum ejus stultitia, et novissimum oris illius error pessimus. 
+    14: Stultus verba multiplicat. Ignorat homo quid ante se fuerit; et quid post se futurum sit, quis ei poterit indicare? 
+    15: Labor stultorum affliget eos, qui nesciunt in urbem pergere.
+    16: Vae tibi, terra, cujus rex puer est, et cujus principes mane comedunt. 
+    17: Beata terra cujus rex nobilis est, et cujus principes vescuntur in tempore suo, ad reficiendum, et non ad luxuriam. 
+    18: In pigritiis humiliabitur contignatio, et in infirmitate manuum perstillabit domus. 
+    19: In risum faciunt panem et vinum ut epulentur viventes; et pecuniae obediunt omnia. 
+    20: In cogitatione tua regi ne detrahas, et in secreto cubiculi tui ne maledixeris diviti : quia et aves caeli portabunt vocem tuam, et qui habet pennas annuntiabit sententiam.
+
+  Chapter 11.
+
+    1: Mitte panem tuum super transeuntes aquas, quia post tempora multa invenies illum. 
+    2: Da partem septem necnon et octo, quia ignoras quid futurum sit mali super terram. 
+    3: Si repletae fuerint nubes, imbrem super terram effundent. Si ceciderit lignum ad austrum aut ad aquilonem, in quocumque loco ceciderit, ibi erit. 
+    4: Qui observat ventum non seminat; et qui considerat nubes numquam metet. 
+    5: Quomodo ignoras quae sit via spiritus, et qua ratione compingantur ossa in ventre praegnantis, sic nescis opera Dei, qui fabricator est omnium.
+    6: Mane semina semen tuum, et vespere ne cesset manus tua : quia nescis quid magis oriatur, hoc aut illud; et si utrumque simul, melius erit. 
+    7: Dulce lumen, et delectabile est oculis videre solem. 
+    8: Si annis multis vixerit homo, et in his omnibus laetatus fuerit, meminisse debet tenebrosi temporis, et dierum multorum, qui cum venerint, vanitatis arguentur praeterita. 
+    9: Laetare ergo, juvenis, in adolescentia tua, et in bono sit cor tuum in diebus juventutis tuae : et ambula in viis cordis tui, et in intuitu oculorum tuorum, et scito quod pro omnibus his adducet te Deus in judicium. 
+    10: Aufer iram a corde tuo, et amove malitiam a carne tua : adolescentia enim et voluptas vana sunt.
+
+  Chapter 12.
+
+    1: Memento Creatoris tui in diebus juventutis tuae, antequam veniat tempus afflictionis, et appropinquent anni de quibus dicas : Non mihi placent; 
+    2: antequam tenebrescat sol, et lumen, et luna, et stellae, et revertantur nubes post pluviam; 
+    3: quando commovebuntur custodes domus, et nutabunt viri fortissimi, et otiosae erunt molentes in minuto numero, et tenebrescent videntes per foramina; 
+    4: et claudent ostia in platea, in humilitate vocis molentis, et consurgent ad vocem volucris, et obsurdescent omnes filiae carminis : 
+    5: excelsa quoque timebunt, et formidabunt in via. Florebit amygdalus, impinguabitur locusta, et dissipabitur capparis, quoniam ibit homo in domum aeternitatis suae, et circuibunt in platea plangentes.
+    6: Antequam rumpatur funiculus argenteus, et recurrat vitta aurea, et conteratur hydria super fontem, et confringatur rota super cisternam, 
+    7: et revertatur pulvis in terram suam unde erat, et spiritus redeat ad Deum, qui dedit illum. 
+    8: Vanitas vanitatum, dixit Ecclesiastes, et omnia vanitas. 
+    9: Cumque esset sapientissimus Ecclesiastes, docuit populum, et enarravit quae fecerat; et investigans composuit parabolas multas. 
+    10: Quaesivit verba utilia, et conscripsit sermones rectissimos ac veritate plenos.
+    11: Verba sapientium sicut stimuli, et quasi clavi in altum defixi, quae per magistrorum consilium data sunt a pastore uno. 
+    12: His amplius, fili mi, ne requiras. Faciendi plures libros nullus est finis; frequensque meditatio, carnis afflictio est. 
+    13: Finem loquendi pariter omnes audiamus. Deum time, et mandata ejus observa : hoc est enim omnis homo, 
+    14: et cuncta quae fiunt adducet Deus in judicium pro omni errato, sive bonum, sive malum illud sit.
+
+End of day 192.

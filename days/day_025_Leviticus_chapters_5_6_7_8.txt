@@ -1,0 +1,140 @@
+Day 25:
+
+Reading Leviticus, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: Si peccaverit anima, et audierit vocem jurantis, testisque fuerit quod aut ipse vidit, aut conscius est : nisi indicaverit, portabit iniquitatem suam. 
+    2: Anima quae tetigerit aliquid immundum, sive quod occisum a bestia est, aut per se mortuum, aut quodlibet aliud reptile : et oblita fuerit immunditiae suae, rea est, et deliquit : 
+    3: et si tetigerit quidquam de immunditia hominis juxta omnem impuritatem, qua pollui solet, oblitaque cognoverit postea, subjacebit delicto. 
+    4: Anima, quae juraverit, et protulerit labiis suis, ut vel male quid faceret, vel bene, et idipsum juramento et sermone firmaverit, oblitaque postea intellexerit delictum suum, 
+    5: agat poenitentiam pro peccato,
+    6: et offerat de gregibus agnam sive capram, orabitque pro ea sacerdos et pro peccato ejus. 
+    7: Sin autem non potuerit offerre pecus, offerat duos turtures, vel duos pullos columbarum Domino, unum pro peccato, et alterum in holocaustum, 
+    8: dabitque eos sacerdoti : qui primum offerens pro peccato, retorquebit caput ejus ad pennulas, ita ut collo haereat, et non penitus abrumpatur. 
+    9: Et asperget de sanguine ejus parietem altaris; quidquid autem reliquum fuerit, faciet distillare ad fundamentum ejus, quia pro peccato est. 
+    10: Alterum vero adolebit in holocaustum, ut fieri solet : rogabitque pro eo sacerdos et pro peccato ejus, et dimittetur ei.
+    11: Quod si non quiverit manus ejus duos offerre turtures, aut duos pullos columbarum, offeret pro peccato suo similae partem ephi decimam : non mittet in eam oleum, nec thuris aliquid imponet, quia pro peccato est. 
+    12: Tradetque eam sacerdoti : qui plenum ex ea pugillum hauriens, cremabit super altare in monimentum ejus qui obtulerit, 
+    13: rogans pro illo et expians : reliquam vero partem ipse habebit in munere. 
+    14: Locutusque est Dominus ad Moysen, dicens : 
+    15: Anima si praevaricans caeremonias, per errorem, in his quae Domino sunt sanctificata, peccaverit, offeret pro delicto suo arietem immaculatum de gregibus, qui emi potest duobus siclis, juxta pondus sanctuarii :
+    16: ipsumque quod intulit damni restituet, et quintam partem ponet supra, tradens sacerdoti, qui rogabit pro eo offerens arietem, et dimittetur ei. 
+    17: Anima si peccaverit per ignorantiam, feceritque unum ex his quae Domini lege prohibentur, et peccati rea intellexerit iniquitatem suam, 
+    18: offeret arietem immaculatum de gregibus sacerdoti, juxta mensuram aestimationemque peccati : qui orabit pro eo, quia nesciens fecerit : et dimittetur ei, 
+    19: quia per errorem deliquit in Dominum.
+
+  Chapter 6.
+
+    1: Locutus est Dominus ad Moysen, dicens : 
+    2: Anima quae peccaverit, et contempto Domino, negaverit proximo suo depositum quod fidei ejus creditum fuerat, vel vi aliquid extorserit, aut calumniam fecerit, 
+    3: sive rem perditam invenerit, et inficians insuper pejeraverit, et quodlibet aliud ex pluribus fecerit, in quibus solent peccare homines, 
+    4: convicta delicti, 
+    5: reddet omnia, quae per fraudem voluit obtinere, integra, et quintam insuper partem domino cui damnum intulerat.
+    6: Pro peccato autem suo offeret arietem immaculatum de grege, et dabit eum sacerdoti, juxta aestimationem mensuramque delicti : 
+    7: qui rogabit pro eo coram Domino, et dimittetur illi pro singulis quae faciendo peccavit. 
+    8: Locutusque est Dominus ad Moysen, dicens : 
+    9: Praecipe Aaron et filiis ejus : Haec est lex holocausti : cremabitur in altari tota nocte usque mane : ignis ex eodem altari erit. 
+    10: Vestietur tunica sacerdos et feminalibus lineis : tolletque cineres, quos vorans ignis exussit, et ponens juxta altare,
+    11: spoliabitur prioribus vestimentis, indutusque aliis, efferret eos extra castra, et in loco mundissimo usque ad favillam consumi faciet. 
+    12: Ignis autem in altari semper ardebit, quem nutriet sacerdos subjiciens ligna mane per singulos dies, et imposito holocausto, desuper adolebit adipes pacificorum. 
+    13: Ignis est iste perpetuus, qui numquam deficiet in altari. 
+    14: Haec est lex sacrificii et libamentorum, quae offerent filii Aaron coram Domino, et coram altari. 
+    15: Tollet sacerdos pugillum similae, quae conspersa est oleo, et totum thus, quod super similam positum est : adolebitque illud in altari in monimentum odoris suavissimi Domino :
+    16: reliquam autem partem similae comedet Aaron cum filiis suis, absque fermento : et comedet in loco sancto atrii tabernaculi. 
+    17: Ideo autem non fermentabitur, quia pars ejus in Domini offertur incensum. Sanctum sanctorum erit, sicut pro peccato atque delicto. 
+    18: Mares tantum stirpis Aaron comedent illud. Legitimum ac sempiternum erit in generationibus vestris de sacrificiis Domini : omnis qui tetigerit illa, sanctificabitur. 
+    19: Locutusque est Dominus ad Moysen, dicens : 
+    20: Haec est oblatio Aaron, et filiorum ejus, quam offerre debent Domino in die unctionis suae. Decimam partem ephi offerent similae in sacrificio sempiterno, medium ejus mane, et medium ejus vespere :
+    21: quae in sartagine oleo conspersa frigetur. Offeret autem eam calidam in odorem suavissimum Domino 
+    22: sacerdos, qui jure patri successerit, et tota cremabitur in altari. 
+    23: Omne enim sacrificium sacerdotum igne consumetur, nec quisquam comedet ex eo. 
+    24: Locutus est autem Dominus ad Moysen, dicens : 
+    25: Loquere Aaron et filiis ejus : Ista est lex hostiae pro peccato : in loco ubi offertur holocaustum, immolabitur coram Domino. Sanctum sanctorum est.
+    26: Sacerdos, qui offert, comedet eam in loco sancto, in atrio tabernaculi. 
+    27: Quidquid tetigerit carnes ejus, sanctificabitur. Si de sanguine illius vestis fuerit aspersa, lavabitur in loco sancto. 
+    28: Vas autem fictile, in quo cocta est, confringetur; quod si vas aeneum fuerit, defricabitur, et lavabitur aqua. 
+    29: Omnis masculus de genere sacerdotali vescetur de carnibus ejus, quia Sanctum sanctorum est. 
+    30: Hostia enim quae caeditur pro peccato, cujus sanguis infertur in tabernaculum testimonii ad expiandum in sanctuario, non comedetur, sed comburetur igni.
+
+  Chapter 7.
+
+    1: Haec quoque lex hostiae pro delicto, Sancta sanctorum est : 
+    2: idcirco ubi immolabitur holocaustum, mactabitur et victima pro delicto : sanguis ejus per gyrum altaris fundetur. 
+    3: Offerent ex ea caudam et adipem qui operit vitalia : 
+    4: duos renunculos, et pinguedinem quae juxta ilia est, reticulumque jecoris cum renunculis. 
+    5: Et adolebit ea sacerdos super altare : incensum est Domini pro delicto.
+    6: Omnis masculus de sacerdotali genere, in loco sancto vescetur his carnibus, quia Sanctum sanctorum est. 
+    7: Sicut pro peccato offertur hostia, ita et pro delicto : utriusque hostiae lex una erit : ad sacerdotem, qui eam obtulerit, pertinebit. 
+    8: Sacerdos qui offert holocausti victimam, habebit pellem ejus. 
+    9: Et omne sacrificium similae, quod coquitur in clibano, et quidquid in craticula, vel in sartagine praeparatur, ejus erit sacerdotis a quo offertur : 
+    10: sive oleo conspersa, sive arida fuerint, cunctis filiis Aaron mensura aequa per singulos dividetur.
+    11: Haec est lex hostiae pacificorum quae offertur Domino. 
+    12: Si pro gratiarum actione oblatio fuerit, offerent panes absque fermento conspersos oleo, et lagana azyma uncta oleo, coctamque similam, et collyridas olei admistione conspersas : 
+    13: panes quoque fermentatos cum hostia gratiarum, quae immolatur pro pacificis : 
+    14: ex quibus unus pro primitiis offeretur Domino, et erit sacerdotis qui fundet hostiae sanguinem, 
+    15: cujus carnes eadem comedentur die, nec remanebit ex eis quidquam usque mane.
+    16: Si voto, vel sponte quispiam obtulerit hostiam, eadem similiter edetur die : sed et si quid in crastinum remanserit, vesci licitum est : 
+    17: quidquid autem tertius invenerit dies, ignis absumet. 
+    18: Si quis de carnibus victimae pacificorum die tertio comederit, irrita fiet oblatio, nec proderit offerenti : quin potius quaecumque anima tali se edulio contaminaverit, praevaricationis rea erit. 
+    19: Caro, quae aliquid tetigerit immundum, non comedetur, sed comburetur igni : qui fuerit mundus, vescetur ex ea. 
+    20: Anima polluta quae ederit de carnibus hostiae pacificorum, quae oblata est Domino, peribit de populis suis.
+    21: Et quae tetigerit immunditiam hominis, vel jumenti, sive omnis rei quae polluere potest, et comederit de hujuscemodi carnibus, interibit de populis suis. 
+    22: Locutusque est Dominus ad Moysen, dicens : 
+    23: Loquere filiis Israel : Adipem ovis, et bovis, et caprae non comedetis. 
+    24: Adipem cadaveris morticini, et ejus animalis, quod a bestia captum est, habebitis in varios usus. 
+    25: Si quis adipem, qui offerri debet in incensum Domini, comederit, peribit de populo suo.
+    26: Sanguinem quoque omnis animalis non sumetis in cibo, tam de avibus quam de pecoribus. 
+    27: Omnis anima, quae ederit sanguinem, peribit de populis suis. 
+    28: Locutusque est Dominus ad Moysen, dicens : 
+    29: Loquere filiis Israel, dicens : Qui offert victimam pacificorum Domino, offerat simul et sacrificium, id est, libamenta ejus. 
+    30: Tenebit manibus adipem hostiae, et pectusculum : cumque ambo oblata Domino consecraverit, tradet sacerdoti,
+    31: qui adolebit adipem super altare, pectusculum autem erit Aaron et filiorum ejus. 
+    32: Armus quoque dexter de pacificorum hostiis cedet in primitias sacerdotis. 
+    33: Qui obtulerit sanguinem et adipem filiorum Aaron, ipse habebit et armum dextrum in portione sua. 
+    34: Pectusculum enim elevationis, et armum separationis, tuli a filiis Israel de hostiis eorum pacificis, et dedi Aaron sacerdoti, et filiis ejus, lege perpetua, ab omni populo Israel. 
+    35: Haec est unctio Aaron et filiorum ejus in caeremoniis Domini die qua obtulit eos Moyses, ut sacerdotio fungerentur,
+    36: et quae praecepit eis dari Dominus a filiis Israel religione perpetua in generationibus suis. 
+    37: Ista est lex holocausti, et sacrificii pro peccato atque delicto, et pro consecratione et pacificorum victimis, 
+    38: quam constituit Dominus Moysi in monte Sinai, quando mandabit filiis Israel ut offerrent oblationes suas Domino in deserto Sinai.
+
+  Chapter 8.
+
+    1: Locutusque est Dominus ad Moysen, dicens : 
+    2: Tolle Aaron cum filiis suis, vestes eorum, et unctionis oleum, vitulum pro peccato, duos arietes, canistrum cum azymis : 
+    3: et congregabis omnem coetum ad ostium tabernaculi. 
+    4: Fecit Moyses ut Dominus imperaverat. Congregataque omni turba ante fores tabernaculi, 
+    5: ait : Iste est sermo, quem jussit Dominus fieri.
+    6: Statimque obtulit Aaron et filios ejus. Cumque lavisset eos, 
+    7: vestivit pontificem subucula linea, accingens eum balteo, et induens eum tunica hyacinthina, et desuper humerale imposuit, 
+    8: quod astringens cingulo aptavit rationali, in quo erat Doctrina et Veritas. 
+    9: Cidari quoque texit caput : et super eam, contra frontem, posuit laminam auream consecratam in sanctificatione, sicut praeceperat ei Dominus. 
+    10: Tulit et unctionis oleum, quo linivit tabernaculum cum omni supellectili sua.
+    11: Cumque sanctificans aspersisset altare septem vicibus, unxit illud, et omnia vasa ejus, labrumque cum basi sua sanctificavit oleo. 
+    12: Quod fundens super caput Aaron, unxit eum, et consecravit : 
+    13: filios quoque ejus oblatos vestivit tunicis lineis, et cinxit balteis, imposuitque mitras, ut jusserat Dominus. 
+    14: Obtulit et vitulum pro peccato : cumque super caput ejus posuisset Aaron et filii ejus manus suas, 
+    15: immolavit eum, hauriens sanguinem, et tincto digito, tetigit cornua altaris per gyrum : quo expiato et sanctificato, fudit reliquum sanguinem ad fundamenta ejus.
+    16: Adipem vero qui erat super vitalia, et reticulum jecoris, duosque renunculos, cum arvinulis suis, adolevit super altare : 
+    17: vitulum cum pelle, et carnibus, et fimo, cremans extra castra, sicut praeceperat Dominus. 
+    18: Obtulit et arietem in holocaustum : super cujus caput cum imposuissent Aaron et filii ejus manus suas, 
+    19: immolavit eum, et fudit sanguinem ejus per circuitum altaris. 
+    20: Ipsumque arietem in frusta concidens, caput ejus, et artus, et adipem adolevit igni,
+    21: lotis prius intestinis et pedibus : totumque simul arietem incendit super altare, eo quod esset holocaustum suavissimi odoris Domino, sicut praeceperat ei. 
+    22: Obtulit et arietem secundum in consecratione sacerdotum, posueruntque super caput ejus Aaron et filii ejus manus suas : 
+    23: quem cum immolasset Moyses, sumens de sanguine ejus, tetigit extremum auriculae dextrae Aaron, et pollicem manus ejus dextrae, similiter et pedis. 
+    24: Obtulit et filios Aaron : cumque de sanguine arietis immolati tetigisset extremum auriculae singulorum dextrae, et pollices manus ac pedis dextri, reliquum fudit super altare per circuitum : 
+    25: adipem vero, et caudam, omnemque pinguedinem quae operit intestina, reticulumque jecoris, et duos renes cum adipibus suis et armo dextro separavit.
+    26: Tollens autem de canistro azymorum, quod erat coram Domino, panem absque fermento, et collyridam conspersam oleo, laganumque, posuit super adipes, et armum dextrum, 
+    27: tradens simul omnia Aaron et filiis ejus. Qui postquam levaverunt ea coram Domino, 
+    28: rursum suscepta de manibus eorum, adolevit super altare holocausti, eo quod consecrationis esset oblatio, in odorem suavitatis, sacrificii Domino. 
+    29: Tulitque pectusculum, elevans illud coram Domino, de ariete consecrationis in partem suam, sicut praeceperat ei Dominus. 
+    30: Assumensque unguentum, et sanguinem qui erat in altari, aspersit super Aaron et vestimenta ejus, et super filios illius ac vestes eorum.
+    31: Cumque sanctificasset eos in vestitu suo, praecepit eis, dicens : Coquite carnes ante fores tabernaculi, et ibi comedite eas; panes quoque consecrationis edite, qui positi sunt in canistro, sicut praecepit mihi Dominus, dicens : Aaron et filii ejus comedent eos : 
+    32: quidquid autem reliquum fuerit de carne et panibus, ignis absumet. 
+    33: De ostio quoque tabernaculi non exibitis septem diebus, usque ad diem quo complebitur tempus consecrationis vestrae; septem enim diebus finitur consecratio : 
+    34: sicut et impraesentiarum factum est, ut ritus sacrificii compleretur. 
+    35: Die ac nocte manebitis in tabernaculo observantes custodias Domini, ne moriamini : sic enim mihi praeceptum est.
+    36: Feceruntque Aaron et filii ejus cuncta quae locutus est Dominus per manum Moysi.
+
+End of day 25.

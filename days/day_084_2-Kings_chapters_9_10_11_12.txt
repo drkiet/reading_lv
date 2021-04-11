@@ -1,0 +1,132 @@
+Day 84:
+
+Reading 2-Kings, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Eliseus autem prophetes vocavit unum de filiis prophetarum, et ait illi : Accinge lumbos tuos, et tolle lenticulam olei hanc in manu tua, et vade in Ramoth Galaad. 
+    2: Cumque veneris illuc, videbis Jehu filium Josaphat filii Namsi : et ingressus suscitabis eum de medio fratrum suorum, et introduces in interius cubiculum. 
+    3: Tenensque lenticulam olei, fundes super caput ejus, et dices : Haec dicit Dominus : Unxi te regem super Israel. Aperiesque ostium, et fugies, et non ibi subsistes. 
+    4: Abiit ergo adolescens puer prophetae in Ramoth Galaad, 
+    5: et ingressus est illuc : ecce autem principes exercitus sedebant, et ait : Verbum mihi ad te, o princeps. Dixitque Jehu : Ad quem ex omnibus nobis? At ille dixit : Ad te, o princeps.
+    6: Et surrexit et ingressus est cubiculum : at ille fudit oleum super caput ejus, et ait : Haec dicit Dominus Deus Israel : Unxi te regem super populum Domini Israel, 
+    7: et percuties domum Achab domini tui, et ulciscar sanguinem servorum meorum prophetarum, et sanguinem omnium servorum Domini de manu Jezabel. 
+    8: Perdamque omnem domum Achab : et interficiam de Achab mingentem ad parietem, et clausum et novissimum in Israel. 
+    9: Et dabo domum Achab, sicut domum Jeroboam filii Nabat, et sicut domum Baasa filii Ahia. 
+    10: Jezabel quoque comedent canes in agro Jezrahel, nec erit qui sepeliat eam. Aperuitque ostium, et fugit.
+    11: Jehu autem egressus est ad servos domini sui : qui dixerunt ei : Rectene sunt omnia? quid venit insanus iste ad te? Qui ait eis : Nostis hominem, et quid locutus sit. 
+    12: At ille responderunt : Falsum est, sed magis narra nobis. Qui ait eis : Haec et haec locutus est mihi, et ait : Haec dicit Dominus : Unxi te regem super Israel. 
+    13: Festinaverunt itaque, et unusquisque tollens pallium suum posuerunt sub pedibus ejus, in similitudinem tribunalis, et cecinerunt tuba, atque dixerunt : Regnavit Jehu. 
+    14: Conjuravit ergo Jehu filius Josaphat filii Namsi contra Joram : porro Joram obsederat Ramoth Galaad, ipse et omnis Israel contra Hazael regem Syriae : 
+    15: et reversus fuerat ut curaretur in Jezrahel propter vulnera, quia percusserant eum Syri, praeliantem contra Hazael regem Syriae. Dixitque Jehu : Si placet vobis, nemo egrediatur profugus de civitate, ne vadat, et nuntiet in Jezrahel.
+    16: Et ascendit, et profectus est in Jezrahel : Joram enim aegrotabat ibi, et Ochozias rex Juda descenderat ad visitandum Joram. 
+    17: Igitur speculator qui stabat super turrim Jezrahel, vidit globum Jehu venientis, et ait : Video ego globum. Dixitque Joram : Tolle currum, et mitte in occursum eorum, et dicat vadens : Rectene sunt omnia? 
+    18: Abiit ergo, qui ascenderat currum, in occursum ejus, et ait : Haec dicit rex : Pacatane sunt omnia? Dixitque Jehu : Quid tibi et paci? Transi, et sequere me. Nuntiavit quoque speculator, dicens : Venit nuntius ad eos, et non revertitur. 
+    19: Misit etiam currum equorum secundum : venitque ad eos, et ait : Haec dicit rex : Numquid pax est? Et ait Jehu : Quid tibi et paci? Transi, et sequere me. 
+    20: Nuntiavit autem speculator, dicens : Venitusque ad eos, et non revertitur : est autem incessus quasi incessus Jehu filii Namsi, praeceps enim graditur.
+    21: Et ait Joram : Junge currum. Junxeruntque currum ejus, et egressus est Joram rex Israel, et Ochozias rex Juda, singuli in curribus suis, egressique sunt in occursum Jehu, et invenerunt eum in agro Naboth Jezrahelitae. 
+    22: Cumque vidisset Joram Jehu, dixit : Pax est, Jehu? At ille respondit : Quae pax? Adhuc fornicationes Jezabel matris tuae, et veneficia ejus multa vigent. 
+    23: Convertit autem Joram manum suam, et fugiens ait ad Ochoziam : Insidiae, Ochozia. 
+    24: Porro Jehu tetendit arcum manu, et percussit Joram inter scapulas : et egressa est sagitta per cor ejus, statimque corruit in curru suo. 
+    25: Dixitque Jehu ad Badacer ducem : Tolle, projice eum in agro Naboth Jezrahelitae : memini enim quando ego et tu sedentes in curru sequebamur Achab patrem hujus, quod Dominus onus hoc levaverit super eum, dicens :
+    26: Si non pro sanguine Naboth, et pro sanguine filiorum ejus, quem vidi heri, ait Dominus, reddam tibi in agro isto, dicit Dominus. Nunc ergo tolle, et projice eum in agrum juxta verbum Domini. 
+    27: Ochozias autem rex Juda videns hoc, fugit per viam domus horti : persecutusque est eum Jehu, et ait : Etiam hunc percutite in curru suo. Et percusserunt eum in ascensu Gaver, qui est juxta Jeblaam : qui fugit in Mageddo, et mortuus est ibi. 
+    28: Et imposuerunt eum servi ejus super currum suum, et tulerunt in Jerusalem : sepelieruntque eum in sepulchro cum patribus suis in civitate David. 
+    29: Anno undecimo Joram filii Achab, regnavit Ochozias super Judam, 
+    30: venitque Jehu in Jezrahel. Porro Jezabel, introitu ejus audito, depinxit oculos suos stibio, et ornavit caput suum, et respexit per fenestram
+    31: ingredientem Jehu per portam, et ait : Numquid pax potest esse Zambri, qui interfecit dominum suum? 
+    32: Levavitque Jehu faciem suam ad fenestram, et ait : Quae est ista? et inclinaverunt se ad eum duo vel tres eunuchi. 
+    33: At ille dixit eis : Praecipitate eam deorsum : et praecipitaverunt eam, aspersusque est sanguine paries, et equorum ungulae conculcaverunt eam. 
+    34: Cumque introgressus esset, ut comederet biberetque, ait : Ite, et videte maledictam illam, et sepelite eam : quia filia regis est. 
+    35: Cumque issent ut sepelirent eam, non invenerunt nisi calvariam, et pedes, et summas manus.
+    36: Reversique nuntiaverunt ei. Et ait Jehu : Sermo Domini est, quem locutus est per servum suum Eliam Thesbiten, dicens : In agro Jezrahel comedent canes carnes Jezabel, 
+    37: et erunt carnes Jezabel sicut stercus super faciem terrae in agro Jezrahel, ita ut praetereuntes dicant : Haeccine est illa Jezabel?
+
+  Chapter 10.
+
+    1: Erant autem Achab septuaginta filii in Samaria : scripsit ergo Jehu litteras, et misit in Samariam, ad optimates civitatis, et ad majores natu, et ad nutritios Achab, dicens : 
+    2: Statim ut acceperitis litteras has, qui habetis filios domini vestri, et currus, et equos, et civitates firmas, et arma, 
+    3: eligite meliorem, et eum qui vobis placuerit de filiis domini vestri, et eum ponite super solium patris sui, et pugnate pro domo domini vestri. 
+    4: Timuerunt illi vehementer, et dixerunt : Ecce duo reges non potuerunt stare coram eo, et quomodo nos valebimus resistere? 
+    5: Miserunt ergo praepositi domus, et praefecti civitatis, et majores natu, et nutritii ad Jehu, dicentes : Servi tui sumus, quaecumque jusseris faciemus, nec constituemus nobis regem : quaecumque tibi placent, fac.
+    6: Rescripsit autem eis litteras secundo, dicens : Si mei estis, et obeditis mihi, tollite capita filiorum domini vestri, et venite ad me hac eadem hora cras in Jezrahel. Porro filii regis, septuaginta viri apud optimates civitates nutriebantur. 
+    7: Cumque venissent litteras ad eos, tulerunt filios regis, et occiderunt septuaginta viros, et posuerunt capita eorum in cophinis, et miserunt ad eum in Jezrahel. 
+    8: Venit autem nuntius, et indicavit ei, dicens : Attulerunt capita filiorum regis. Qui respondit : Ponite ea ad duos acervos juxta introitum portae usque mane. 
+    9: Cumque diluxisset, egressus est, et stans dixit ad omnem populum : Justi estis : si ego conjuravi contra dominum meum, et interfeci eum, quis percussit omnes hos? 
+    10: Videte ergo nunc quoniam non cecidit de sermonibus Domini in terram, quos locutus est Dominus super domum Achab, et Dominus fecit quod locutus est in manu servi sui Eliae.
+    11: Percussit igitur Jehu omnes, qui reliqui erant de domo Achab in Jezrahel, et universos optimates ejus, et notos, et sacerdotes, donec non remanerent ex eo reliquiae. 
+    12: Et surrexit, et venit in Samariam : cumque venisset ad Cameram pastorum in via, 
+    13: invenit fratres Ochoziae regis Juda, dixitque ad eos : Quinam estis vos? Qui responderunt : Fratres Ochoziae sumus, et descendimus ad salutandos filios regis, et filios reginae. 
+    14: Qui ait : Comprehendite eos vivos. Quos cum comprehendissent vivos, jugulaverunt eos in cisterna juxta Cameram, quadraginta duos viros, et non reliquit ex eis quemquam. 
+    15: Cumque abiisset inde, invenit Jonadab filium Rechab in occursum sibi, et benedixit ei. Et ait ad eum : Numquid est cor tuum rectum, sicut cor meum cum corde tuo? Et ait Jonadab : Est. Si est, inquit, da manum tuam. Qui dedit ei manum suam. At ille levavit eum ad se in currum :
+    16: dixitque ad eum : Veni mecum, et vide zelum meum pro Domino. Et impositum in curru suo 
+    17: duxit in Samariam. Et percussit omnes qui reliqui fuerant de Achab in Samaria usque ad unum, juxta verbum Domini, quod locutus est per Eliam. 
+    18: Congregavit ergo Jehu omnem populum, et dixit ad eos : Achab coluit Baal parum, ego autem colam eum amplius. 
+    19: Nunc igitur omnes prophetas Baal, et universos servos ejus, et cunctos sacerdotes ipsius vocate ad me : nullus sit qui non veniat, sacrificium enim grande est mihi Baal : quicumque defuerit, non vivet. Porro Jehu faciebat hoc insidiose, ut disperderet cultores Baal. 
+    20: Et dixit : Sanctificate diem solemnem Baal. Vocavitque
+    21: et misit in univeros terminos Israel, et venerunt cuncti servi Baal : non fuit residuus ne unus quidem qui non veniret. Et ingressi sunt templum Baal : et repleta est domus Baal, a summo usque ad summum. 
+    22: Dixitque his qui erant super vestes : Proferte vestimenta universis servis Baal. Et protulerunt eis vestes. 
+    23: Ingressusque Jehu, et Jonadab filius Rechab, templum Baal, ait cultoribus Baal : Perquirite, et videte, ne quis forte vobiscum sit de servis Domini, sed ut sint servi Baal soli. 
+    24: Ingressi sunt igitur ut facerent victimas et holocausta : Jehu autem praeparaverat sibi foris octoginta viros, et dixerat eis : Quicumque fugerit de hominibus his, quos ego adduxero in manus vestras, anima ejus erit pro anima illius. 
+    25: Factum est autem, cum completum esset holocaustum, praecepit Jehu militibus et ducibus suis : Ingredimini, et percutite eos, nullus evadat. Percusseruntque eos in ore gladii, et projecerunt milites et duces, et ierunt in civitatem templi Baal,
+    26: et protulerunt statuam de fano Baal, et combusserunt, 
+    27: et comminuerunt eam. Destruxerunt quoque aedem Baal, et fecerunt pro ea latrinas usque in diem hanc. 
+    28: Delevit itaque Jehu Baal de Israel : 
+    29: verumtamen a peccatis Jeroboam filii Nabat, qui peccare fecit Israel, non recessit, nec dereliquit vitulos aureos, qui erant in Bethel, et in Dan. 
+    30: Dixit autem Dominus ad Jehu : Quia studiose egisti quod rectum erat, et placebat in oculis meis, et omnia quae erant in corde meo fecisti contra domum Achab : filii tui usque ad quartam generationem sedebunt super thronum Israel.
+    31: Porro Jehu non custodivit ut ambularet in lege Domini Dei Israel in toto corde suo : non enim recessit a peccatis Jeroboam, qui peccare fecerat Israel. 
+    32: In diebus illis coepit Dominus taedere super Israel : percussitque eos Hazael in universis finibus Israel, 
+    33: a Jordane contra orientalem plagam, omnem terram Galaad, et Gad, et Ruben, et Manasse, ab Aroer, quae est super torrentem Arnon, et Galaad, et Basan. 
+    34: Reliqua autem verborum Jehu, et universa quae fecit, et fortitudo ejus, nonne haec scripta sunt in libro verborum dierum regum Israel? 
+    35: Et dormivit Jehu cum patribus suis, sepelieruntque eum in Samaria : et regnavit Joachaz filius ejus pro eo.
+    36: Dies autem, quos regnavit Jehu super Israel, viginti et octo anni sunt in Samaria.
+
+  Chapter 11.
+
+    1: Athalia vero mater Ochoziae, videns mortuum filium suum, surrexit, et interfecit omne semen regium. 
+    2: Tollens autem Josaba filia regis Joram, soror Ochoziae, Joas filium Ochoziae, furata est eum de medio filiorum regis, qui interficiebantur, et nutricem ejus de triclinio : et abscondit eum a facie Athaliae ut non interficeretur. 
+    3: Eratque cum ea sex annis clam in domo Domini : porro Athalia regnavit super terram. 
+    4: Anno autem septimo misit Jojada, et assumens centuriones et milites, introduxit ad se in templum Domini, pepigitque cum eis foedus : et adjurans eos in domo Domini, ostendit eis filium regis : 
+    5: et praecepit illis, dicens : Iste est sermo, quem facere debetis :
+    6: tertia pars vestrum introeat sabbato, et observet excubias domus regis. Tertia autem pars sit ad portam Sur, et tertia pars sit ad portam, quae est post habitaculum scutariorum : et custodietis excubias domus Messa. 
+    7: Duae vero partes e vobis, omnes egredientes sabbato, custodiant excubias domus Domini circa regem. 
+    8: Et vallabitis eum, habentes arma in manibus vestris : si quis autem ingressus fuerit septum templi, interficiatur : eritisque cum rege introeunte et egrediente. 
+    9: Et fecerunt centuriones juxta omnia quae praeceperat eis Jojada sacerdos : et assumentes singuli viros suos, qui ingrediebantur sabbato, cum his qui egrediebantur sabbato, venerunt ad Jojadam sacerdotem. 
+    10: Qui dedit eis hastas, et arma regis David, quae erant in domo Domini.
+    11: Et steterunt singuli habentes arma in manu sua a parte templi dextera, usque ad partem sinistram altaris, et aedis, circum regem. 
+    12: Produxitque filium regis, et posuit super eum diadema, et testimonium : feceruntque eum regem, et unxerunt : et plaudentes manu, dixerunt : Vivat rex. 
+    13: Audivit autem Athalia vocem populi currentis : et ingressa ad turbas in templum Domini, 
+    14: vidit regem stantem super tribunal juxta morem, et cantores, et tubas prope eum, omnemque populum terrae laetantem, et canentem tubis : et scidit vestimenta sua, clamavitque : Conjuratio, conjuratio. 
+    15: Praecepit autem Jojada centurionibus, qui erant super exercitum, et ait eis : Educite eam extra septa templi, et quicumque eam secutus fuerit, feriatur gladio. Dixerat enim sacerdos : Non occidatur in templo Domini.
+    16: Imposueruntque ei manus, et impegerunt eam per viam introitus equorum, juxta palatium, et interfecta est ibi. 
+    17: Pepigit ergo Jojada foedus inter Dominum, et inter regem, et inter populum, ut esset populus Domini, et inter regem et populum. 
+    18: Ingressusque est omnis populus terrae templum Baal, et destruxerunt aras ejus, et imagines contriverunt valide : Mathan quoque sacerdotem Baal occiderunt coram altari. Et posuit sacerdos custodias in domo Domini. 
+    19: Tulitque centuriones, et Cerethi et Phelethi legiones, et omnem populum terrae, deduxeruntque regem de domo Domini : et venerunt per viam portae scutariorum in palatium, et sedit super thronum regum. 
+    20: Laetatusque est omnis populus terrae, et civitas conquievit : Athalia autem occisa est gladio in domo regis.
+    21: Septemque annorum erat Joas, cum regnare coepisset.
+
+  Chapter 12.
+
+    1: Anno septimo Jehu regnavit Joas : et quadraginta annis regnavit in Jerusalem. Nomen matris ejus Sebia de Bersabee. 
+    2: Fecitque Joas rectum coram Domino cunctis diebus, quibus docuit eum Jojada sacerdos. 
+    3: Verumtamen excelsa non abstulit : adhuc enim populus immolabat, et adolebat in excelsis incensum. 
+    4: Dixitque Joas ad sacerdotes : Omnem pecuniam sanctorum, quae illata fuerit in templum Domini a praetereuntibus, quae offertur pro pretio animae, et quam sponte et arbitrio cordis sui inferunt in templum Domini : 
+    5: accipiant illam sacerdotes juxta ordinem suum, et instaurent sartatecta domus, si quid necessarium viderint instauratione.
+    6: Igitur usque ad vigesimum tertium annum regis Joas, non instauraverunt sacerdotes sartatecta templi. 
+    7: Vocavitque rex Joas Jojadam pontificem et sacerdotes, dicens eis : Quare sartatecta non instauratis templi? Nolite ergo amplius accipere pecuniam juxta ordinem vestrum, sed ad instaurationem templi reddite eam. 
+    8: Prohibitique sunt sacerdotes ultra accipere pecuniam a populo, et instaurare sartatecta domus. 
+    9: Et tulit Jojada pontifex gazophylacium unum, aperuitque foramen desuper, et posuit illud juxta altare ad dexteram ingredientium domum Domini, mittebantque in eo sacerdotes, qui custodiebant ostia, omnem pecuniam, quae deferebatur ad templum Domini. 
+    10: Cumque viderent nimiam pecuniam esse in gazophylacio, ascendebat scriba regis, et pontifex, effundebantque et numerabant pecuniam, quae inveniebatur in domo Domini :
+    11: et dabant eam juxta numerum atque mensuram in manu eorum, qui praeerant caementariis domus Domini : qui impendebant eam in fabris lignorum, et in caementariis iis, qui operabantur in domo Domini, 
+    12: et sartatecta faciebant : et in iis, qui caedebant saxa, et ut emerent ligna, et lapides, qui excidebantur, ita ut impleretur instauratio domus Domini in universis, quae indigebant expensa ad muniendam domum. 
+    13: Verumtamen non fiebant ex eadem pecunia hydriae templi Domini, et fuscinulae, et thuribula, et tubae, et omne vas aureum et argenteum de pecunia, quae inferebatur in templum Domini. 
+    14: Iis enim, qui faciebant opus, dabatur ut instauraretur templum Domini : 
+    15: et non fiebat ratio iis hominibus, qui accipiebant pecuniam ut distribuerent eam artificibus, sed in fide tractabant eam.
+    16: Pecuniam vero pro delicto, et pecuniam pro peccatis non inferebant in templum Domini, quia sacerdotum erat. 
+    17: Tunc ascendit Hazael rex Syriae, et pugnabat contra Geth, cepitque eam : et direxit faciem suam ut ascenderet in Jerusalem. 
+    18: Quam ob rem tulit Joas rex Juda omnia sanctificata, quae consecraverant Josaphat, et Joram, et Ochozias, patres ejus reges Juda, et quae ipse obtulerat : et universum argentum, quod inveniri potuit in thesauris templi Domini, et in palatio regis : misitque Hazaeli regi Syriae, et recessit ab Jerusalem. 
+    19: Reliqua autem sermonum Joas, et universa quae fecit, nonne haec scripta sunt in libro verborum dierum regum Juda? 
+    20: Surrexerunt autem servi ejus, et conjuraverunt inter se, percusseruntque Joas in Domo Mello in descensu Sella.
+    21: Josachar namque filius Semaath, et Jozabad filius Somer servi ejus, percusserunt eum, et mortuus est : et sepelierunt eum cum patribus suis in civitate David : regnavitque Amasias filius ejus pro eo.
+
+End of day 84.

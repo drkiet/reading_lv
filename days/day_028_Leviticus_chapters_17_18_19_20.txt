@@ -1,0 +1,127 @@
+Day 28:
+
+Reading Leviticus, chapters ['17', '18', '19', '20']:
+
+  Chapter 17.
+
+    1: Et locutus est Dominus ad Moysen, dicens : 
+    2: Loquere Aaron et filiis ejus, et cunctis filiis Israel, dicens ad eos : Iste est sermo quem mandavit Dominus, dicens : 
+    3: Homo quilibet de domo Israel, si occiderit bovem aut ovem, sive capram, in castris vel extra castra, 
+    4: et non obtulerit ad ostium tabernaculi oblationem Domino, sanguinis reus erit : quasi si sanguinem fuderit, sic peribit de medio populi sui. 
+    5: Ideo sacerdoti offerre debent filii Israel hostias suas, quas occident in agro, ut sanctificentur Domino ante ostium tabernaculi testimonii, et immolent eas hostias pacificas Domino.
+    6: Fundetque sacerdos sanguinem super altare Domini ad ostium tabernaculi testimonii, et adolebit adipem in odorem suavitatis Domino : 
+    7: et nequaquam ultra immolabunt hostias suas daemonibus, cum quibus fornicati sunt. Legitimum sempiternum erit illis et posteris eorum. 
+    8: Et ad ipsos dices : Homo de domo Israel, et de advenis qui peregrinantur apud vos, qui obtulerit holocaustum sive victimam, 
+    9: et ad ostium tabernaculi testimonii non adduxerit eam, ut offeratur Domino, interibit de populo suo. 
+    10: Homo quilibet de domo Israel et de advenis qui pereginantur inter eos, si comederit sanguinem, obfirmabo faciem meam contra animam illius, et disperdam eam de populo suo,
+    11: quia anima carnis in sanguine est : et ego dedi illum vobis, ut super altare in eo expietis pro animabus vestris, et sanguis pro animae piaculo sit. 
+    12: Idcirco dixi filiis Israel : Omnis anima ex vobis non comedet sanguinem, nec ex advenis qui peregrinantur apud vos. 
+    13: Homo quicumque de filiis Israel, et de advenis qui peregrinantur apud vos, si venatione atque aucupio ceperit feram, vel avem, quibus vesci licitum est, fundat sanguinem ejus, et operiat illum terra. 
+    14: Anima enim omnis carnis in sanguine est : unde dixi filiis Israel : Sanguinem universae carnis non comedetis, quia anima carnis in sanguine est : et quicumque comederit illum, interibit. 
+    15: Anima, quae comederit morticinum, vel captum a bestia, tam de indigenis, quam de advenis, lavabit vestimenta sua et semetipsum aqua, et contaminatus erit usque ad vesperum : et hoc ordine mundus fiet.
+    16: Quod si non laverit vestimenta sua et corpus, portabit iniquitatem suam.
+
+  Chapter 18.
+
+    1: Locutus est Dominus ad Moysen, dicens : 
+    2: Loquere filiis Israel, et dices ad eos : Ego Dominus Deus vester : 
+    3: juxta consuetudinem terrae Aegypti, in qua habitastis, non facietis : et juxta morem regionis Chanaan, ad quam ego introducturus sum vos, non agetis, nec in legitimis eorum ambulabitis. 
+    4: Facietis judicia mea, et praecepta mea servabitis, et ambulabitis in eis. Ego Dominus Deus vester. 
+    5: Custodite leges meas atque judicia, quae faciens homo, vivet in eis. Ego Dominus.
+    6: Omnis homo ad proximam sanguinis sui non accedet, ut revelet turpitudinem ejus. Ego Dominus. 
+    7: Turpitudinem patris tui, turpitudinem matris tuae non discooperies : mater tua est : non revelabis turpitudinem ejus. 
+    8: Turpitudinem uxoris patris tui non discooperies : turpitudo enim patris tui est. 
+    9: Turpitudinem sororis tuae ex patre sive ex matre, quae domi vel foris genita est, non revelabis. 
+    10: Turpitudinem filiae filii tui vel neptis ex filia non revelabis : quia turpitudo tua est.
+    11: Turpitudinem filiae uxoris patris tui, quam peperit patri tuo, et est soror tua, non revelabis. 
+    12: Turpitudinem sororis patris tui non discooperies : quia caro est patris tui. 
+    13: Turpitudinem sororis matris tuae non revelabis, eo quod caro sit matris tuae. 
+    14: Turpitudinem patrui tui non revelabis, nec accedes ad uxorem ejus, quae tibi affinitate conjungitur. 
+    15: Turpitudinem nurus tuae non revelabis, quia uxor filii tui est : nec discooperies ignominiam ejus.
+    16: Turpitudinem uxoris fratris tui non revelabis : quia turpitudo fratris tui est. 
+    17: Turpitudinem uxoris tuae et filiae ejus non revelabis. Filiam filii ejus, et filiam filiae illius non sumes, ut reveles ignominiam ejus : quia caro illius sunt, et talis coitus incestus est. 
+    18: Sororem uxoris tuae in pellicatum illius non accipies, nec revelabis turpitudinem ejus adhuc illa vivente. 
+    19: Ad mulierem quae patitur menstrua non accedes, nec revelabis foeditatem ejus. 
+    20: Cum uxore proximi tui non coibis, nec seminis commistione maculaberis.
+    21: De semine tuo non dabis ut consecretur idolo Moloch, nec pollues nomen Dei tui. Ego Dominus. 
+    22: Cum masculo non commiscearis coitu femineo, quia abominatio est. 
+    23: Cum omni pecore non coibis, nec maculaberis cum eo. Mulier non succumbet jumento, nec miscebitur ei, quia scelus est. 
+    24: Nec polluamini in omnibus his quibus contaminatae sunt universae gentes, quas ego ejiciam ante conspectum vestrum, 
+    25: et quibus polluta est terra : cujus ego scelera visitabo, ut evomat habitatores suos.
+    26: Custodite legitima mea atque judicia, et non faciatis ex omnibus abominationibus istis, tam indigena quam colonus qui peregrinantur apud vos. 
+    27: Omnes enim execrationes istas fecerunt accolae terrae qui fuerunt ante vos, et polluerunt eam. 
+    28: Cavete ergo ne et vos similiter evomat, cum paria feceritis, sicut evomuit gentem, quae fuit ante vos. 
+    29: Omnis anima, quae fecerit de abominationibus his quippiam, peribit de medio populi sui. 
+    30: Custodite mandata mea. Nolite facere quae fecerunt hi qui fuerunt ante vos, et ne polluamini in eis. Ego Dominus Deus vester.
+
+  Chapter 19.
+
+    1: Locutus est Dominus ad Moysen, dicens : 
+    2: Loquere ad omnem coetum filiorum Israel, et dices ad eos : Sancti estote, quia ego sanctus sum, Dominus Deus vester. 
+    3: Unusquisque patrem suum, et matrem suam timeat. Sabbata mea custodite. Ego Dominus Deus vester. 
+    4: Nolite converti ad idola, nec deos conflatiles faciatis vobis. Ego Dominus Deus vester. 
+    5: Si immolaveritis hostiam pacificorum Domino, ut sit placabilis,
+    6: eo die quo fuerit immolata, comedetis eam, et die altero : quidquid autem residuum fuerit in diem tertium, igne comburetis. 
+    7: Si quis post biduum comederit ex ea, profanus erit, et impietatis reus : 
+    8: portabitque iniquitatem suam, quia sanctum Domini polluit, et peribit anima illa de populo suo. 
+    9: Cumque messueris segetes terrae tuae, non tondebis usque ad solum superficiem terrae, nec remanentes spicas colliges, 
+    10: neque in vinea tua racemos et grana decidentia congregabis : sed pauperibus et peregrinis carpenda dimittes. Ego Dominus Deus vester.
+    11: Non facietis furtum. Non mentiemini, nec decipiet unusquisque proximum suum. 
+    12: Non perjurabis in nomine meo, nec pollues nomen Dei tui. Ego Dominus. 
+    13: Non facies calumniam proximo tuo nec vi opprimes eum. Non morabitur opus mercenarii tui apud te usque mane. 
+    14: Non maledices surdo, nec coram caeco pones offendiculum : sed timebis Dominum Deum tuum, quia ego sum Dominus. 
+    15: Non facies quod iniquum est, nec injuste judicabis. Non consideres personam pauperis, nec honores vultum potentis. Juste judica proximo tuo.
+    16: Non eris criminator, nec susurro in populo. Non stabis contra sanguinem proximi tui. Ego Dominus. 
+    17: Non oderis fratrem tuum in corde tuo, sed publice argue eum, ne habeas super illo peccatum. 
+    18: Non quaeras ultionem, nec memor eris injuriae civium tuorum. Diliges amicum tuum sicut teipsum. Ego Dominus. 
+    19: Leges meas custodite. Jumentum tuum non facies coire cum alterius generis animantibus. Agrum tuum non seres diverso semine. Veste, quae ex duobus texta est, non indueris. 
+    20: Homo, si dormierit cum muliere coitu seminis, quae sit ancilla etiam nubilis, et tamen pretio non redempta, nec libertate donata : vapulabunt ambo, et non morientur, quia non fuit libera.
+    21: Pro delicto autem suo offeret Domino ad ostium tabernaculi testimonii arietem : 
+    22: orabitque pro eo sacerdos, et pro peccato ejus coram Domino, et repropitiabitur ei, dimitteturque peccatum. 
+    23: Quando ingressi fueritis terram, et plantaveritis in ea ligna pomifera, auferetis praeputia eorum : poma, quae germinant, immunda erunt vobis, nec edetis ex eis. 
+    24: Quarto autem anno omnis fructus eorum sanctificabitur, laudabilis Domino. 
+    25: Quinto autem anno comedetis fructus, congregantes poma, quae proferunt. Ego Dominus Deus vester.
+    26: Non comedetis cum sanguine. Non augurabimini, nec observabitis somnia. 
+    27: Neque in rotundum attondebitis comam, nec radetis barbam. 
+    28: Et super mortuo non incidetis carnem vestram, neque figuras aliquas aut stigmata facietis vobis. Ego Dominus. 
+    29: Ne prostituas filiam tuam, ne contaminetur terra et impleatur piaculo. 
+    30: Sabbata mea custodite, et sanctuarium meum metuite. Ego Dominus.
+    31: Non declinetis ad magos, nec ab ariolis aliquid sciscitemini, ut polluamini per eos. Ego Dominus Deus vester. 
+    32: Coram cano capite consurge, et honora personam senis : et time Dominum Deum tuum. Ego Dominus. 
+    33: Si habitaverit advena in terra vestra, et moratus fuerit inter vos, non exprobretis ei : 
+    34: sed sit inter vos quasi indigena, et diligetis eum quasi vosmetipsos : fuistis enim et vos advenae in terra Aegypti. Ego Dominus Deus vester. 
+    35: Nolite facere iniquum aliquid in judicio, in regula, in pondere, in mensura.
+    36: Statera justa, et aequa sint pondera, justus modius, aequusque sextarius. Ego Dominus Deus vester, qui eduxi vos de terra Aegypti. 
+    37: Custodite omnia praecepta mea, et universa judicia, et facite ea. Ego Dominus.
+
+  Chapter 20.
+
+    1: Locutusque est Dominus ad Moysen, dicens : 
+    2: Haec loqueris filiis Israel : Homo de filiis Israel, et de advenis qui habitant in Israel, si quis dederit de semine suo idolo Moloch, morte moriatur : populus terrae lapidabit eum. 
+    3: Et ego ponam faciem meam contra illum : succidamque eum de medio populi sui, eo quod dederit de semine suo Moloch, et contaminaverit sanctuarium meum, ac polluerit nomen sanctum meum. 
+    4: Quod si negligens populus terrae, et quasi parvipendens imperium meum, dimiserit hominem qui dedit de semine suo Moloch, nec voluerit eum occidere : 
+    5: ponam faciem meam super hominem illum, et super cognationem ejus, succidamque et ipsum, et omnes qui consensuerunt ei ut fornicarentur cum Moloch, de medio populi sui.
+    6: Anima, quae declinaverit ad magos et ariolos, et fornicata fuerit cum eis, ponam faciem meam contra eam, et interficiam illam de medio populi sui. 
+    7: Sanctificamini et estote sancti, quia ego sum Dominus Deus vester. 
+    8: Custodite praecepta mea, et facite ea : ego Dominus qui sanctifico vos. 
+    9: Qui maledixerit patri suo, aut matri, morte moriatur : patri matrique maledixit : sanguis ejus sit super eum. 
+    10: Si moechatus quis fuerit cum uxore alterius, et adulterium perpetraverit cum conjuge proximi sui, morte moriantur et moechus et adultera.
+    11: Qui dormierit cum noverca sua, et revelaverit ignominiam patris sui, morte moriantur ambo : sanguis eorum sit super eos. 
+    12: Si quis dormierit cum nuru sua, uterque moriatur, quia scelus operati sunt : sanguis eorum sit super eos. 
+    13: Qui dormierit cum masculo coitu femineo, uterque operatus est nefas : morte moriantur : sit sanguis eorum super eos. 
+    14: Qui supra uxorem filiam, duxerit matrem ejus, scelus operatus est : vivus ardebit cum eis, nec permanebit tantum nefas in medio vestri. 
+    15: Qui cum jumento et pecore coierit, morte moriatur : pecus quoque occidite.
+    16: Mulier, quae succubuerit cuilibet jumento, simul interficietur cum eo : sanguis eorum sit super eos. 
+    17: Qui acceperit sororem suam filiam patris sui, vel filiam matris suae, et viderit turpitudinem ejus, illaque conspexerit fratris ignominiam, nefariam rem operati sunt : occidentur in conspectu populi sui, eo quod turpitudinem suam mutuo revelaverint, et portabunt iniquitatem suam. 
+    18: Qui coierit cum muliere in fluxu menstruo, et revelaverit turpitudinem ejus, ipsaque aperuerit fontem sanguinis sui, interficientur ambo de medio populi sui. 
+    19: Turpitudinem materterae et amitae tuae non discooperies : qui hoc fecerit, ignominiam carnis suae nudavit; portabunt ambo iniquitatem suam. 
+    20: Qui coierit cum uxore patrui vel avunculi sui, et revelaverit ignominiam cognationis suae, portabunt ambo peccatum suum : absque liberis morientur.
+    21: Qui duxerit uxorem fratris sui, rem facit illicitam : turpitudinem fratris sui revelavit : absque liberis erunt. 
+    22: Custodite leges meas, atque judicia, et facite ea : ne et vos evomat terra quam intraturi estis et habitaturi. 
+    23: Nolite ambulare in legitimis nationum, quas ego expulsurus sum ante vos. Omnia enim haec fecerunt, et abominatus sum eas. 
+    24: Vobis autem loquor. Possidete terram eorum, quam dabo vobis in haereditatem, terram fluentem lacte et melle. Ego Dominus Deus vester, qui separavi vos a ceteris populis. 
+    25: Separate ergo et vos jumentum mundum ab immundo, et avem mundam ab immunda : ne polluatis animas vestras in pecore, et avibus, et cunctis quae moventur in terra, et quae vobis ostendi esse polluta.
+    26: Eritis mihi sancti, quia sanctus sum ego Dominus, et separavi vos a ceteris populis, ut essetis mei. 
+    27: Vir, sive mulier, in quibus pythonicus, vel divinationis fuerit spiritus, morte moriantur : lapidibus obruent eos : sanguis eorum sit super illos.
+
+End of day 28.

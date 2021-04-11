@@ -1,0 +1,205 @@
+Day 31:
+
+Reading Numbers, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Locutusque est Dominus ad Moysen in deserto Sinai in tabernaculo foederis, prima die mensis secundi, anno altero egressionis eorum ex Aegypto, dicens : 
+    2: Tollite summam universae congregationis filiorum Israel per cognationes et domos suas, et nomina singulorum, quidquid sexus est masculini 
+    3: a vigesimo anno et supra, omnium virorum fortium ex Israel, et numerabitis eos per turmas suas, tu et Aaron. 
+    4: Eruntque vobiscum principes tribuum ac domorum in cognationibus suis, 
+    5: quorum ista sunt nomina : de Ruben, Elisur, filius Sedeur;
+    6: de Simeon, Salamiel filius Surisaddai; 
+    7: de Juda, Nahasson filius Aminadab; 
+    8: de Issachar, Nathanael filius Suar; 
+    9: de Zabulon, Eliab filius Helon; 
+    10: filiorum autem Joseph, de Ephraim, Elisama filius Ammiud; de Manasse, Gamaliel filius Phadassur;
+    11: de Benjamin, Abidan filius Gedeonis; 
+    12: de Dan, Ahiezer filius Ammisaddai; 
+    13: de Aser, Phegiel filius Ochran; 
+    14: de Gad, Eliasaph filius Duel; 
+    15: de Nephthali, Ahira filius Enan.
+    16: Hi nobilissimi principes multitudinis per tribus et cognationes suas, et capita exercitus Israel, 
+    17: quos tulerunt Moyses et Aaron cum omni vulgi multitudine : 
+    18: et congregaverunt primo die mensis secundi, recensentes eos per cognationes, et domos, ac familias, et capita, et nomina singulorum a vigesimo anno et supra, 
+    19: sicut praeceperat Dominus Moysi. Numeratique sunt in deserto Sinai. 
+    20: De Ruben primogenito Israelis per generationes et familias ac domos suas, et nomina capitum singulorum, omne quod sexus est masculini a vigesimo anno et supra, procedentium ad bellum,
+    21: quadraginta sex millia quingenti. 
+    22: De filiis Simeon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina et capita singulorum, omne quod sexus est masculini a vigesimo anno et supra, procedentium ad bellum, 
+    23: quinquaginta novem millia trecenti. 
+    24: De filiis Gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui ad bella procederent, 
+    25: quadraginta quinque millia sexcenti quinquaginta.
+    26: De filiis Juda per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere, 
+    27: recensiti sunt septuaginta quatuor millia sexcenti. 
+    28: De filiis Issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent, 
+    29: recensiti sunt quinquaginta quatuor millia quadringenti. 
+    30: De filiis Zabulon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+    31: quinquaginta septem millia quadringenti. 
+    32: De filiis Joseph, filiorum Ephraim per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere, 
+    33: quadraginta millia quingenti. 
+    34: Porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere, 
+    35: triginta duo millia ducenti.
+    36: De filiis Benjamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere, 
+    37: triginta quinque millia quadringenti. 
+    38: De filiis Dan per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere, 
+    39: sexaginta duo millia septingenti. 
+    40: De filiis Aser per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+    41: quadraginta millia et mille quingenti. 
+    42: De filiis Nephthali per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere, 
+    43: quinquaginta tria millia quadringenti. 
+    44: Hi sunt, quos numeraverunt Moyses et Aaron, et duodecim principes Israel, singulos per domos cognationum suarum. 
+    45: Fueruntque omnis numerus filiorum Israel per domos et familias suas a vigesimo anno et supra, qui poterant ad bella procedere,
+    46: sexcenta tria millia virorum quingenti quinquaginta. 
+    47: Levitae autem in tribu familiarum suarum non sunt numerati cum eis. 
+    48: Locutusque est Dominus ad Moysen, dicens : 
+    49: Tribum Levi noli numerare, neque pones summam eorum cum filiis Israel : 
+    50: sed constitue eos super tabernaculum testimonii et cuncta vasa ejus, et quidquid ad caeremonias pertinet. Ipsi portabunt tabernaculum et omnia utensilia ejus : et erunt in ministerio, ac per gyrum tabernaculi metabuntur.
+    51: Cum proficiscendum fuerit, deponent Levitae tabernaculum; cum castrametandum, erigent. Quisquis externorum accesserit, occidetur. 
+    52: Metabuntur autem castra filii Israel unusquisque per turmas et cuneos atque exercitum suum. 
+    53: Porro Levitae per gyrum tabernaculi figent tentoria, ne fiat indignatio super multitudinem filiorum Israel, et excubabunt in custodiis tabernaculi testimonii. 
+    54: Fecerunt ergo filii Israel juxta omnia quae praeceperat Dominus Moysi.
+
+  Chapter 2.
+
+    1: Locutusque est Dominus ad Moysen et Aaron, dicens : 
+    2: Singuli per turmas, signa, atque vexilla, et domos cognationum suarum, castrametabuntur filii Israel, per gyrum tabernaculi foederis. 
+    3: Ad orientem Judas figet tentoria per turmas exercitus sui : eritque princeps filiorum ejus Nahasson filius Aminadab. 
+    4: Et omnis de stirpe ejus summa pugnantium, septuaginta quatuor millia sexcenti. 
+    5: Juxta eum castrametati sunt de tribu Issachar, quorum princeps fuit Nathanael filius Suar.
+    6: Et omnis numerus pugnatorum ejus quinquaginta quatuor millia quadringenti. 
+    7: In tribu Zabulon princeps fuit Eliab filius Helon. 
+    8: Omnis de stirpe ejus exercitus pugnatorum, quinquaginta septem millia quadringenti. 
+    9: Universi qui in castris Judae enumerati sunt, fuerunt centum octoginta sex millia quadringenti : et per turmas suas primi egredientur. 
+    10: In castris filiorum Ruben ad meridianam plagam erit princeps Elisur filius Sedeur.
+    11: Et cunctus exercitus pugnatorum ejus qui numerati sunt, quadraginta sex millia quingenti. 
+    12: Juxta eum castrametati sunt de tribu Simeon : quorum princeps fuit Salamiel filius Surisaddai. 
+    13: Et cunctus exercitus pugnatorum ejus qui numerati sunt, quinquaginta novem millia trecenti. 
+    14: In tribu Gad princeps fuit Eliasaph filius Duel. 
+    15: Et cunctus exercitus pugnatorum ejus, qui numerati sunt, quadraginta quinque millia sexcenti quinquaginta.
+    16: Omnes qui recensiti sunt in castris Ruben, centum quinquaginta millia et mille quadringenti quinquaginta per turmas suas : in secundo loco proficiscentur. 
+    17: Levabitur autem tabernaculum testimonii per officia Levitarum, et turmas eorum : quomodo erigetur, ita et deponetur. Singuli per loca et ordines suos proficiscentur. 
+    18: Ad occidentalem plagam erunt castra filiorum Ephraim, quorum princeps fuit Elisama filius Ammiud. 
+    19: Cunctus exercitus pugnatorum ejus, qui numerati sunt, quadraginta millia quingenti. 
+    20: Et cum eis tribus filiorum Manasse, quorum princeps fuit Gamaliel filius Phadassur.
+    21: Cunctusque exercitus pugnatorum ejus, qui numerati sunt, triginta duo millia ducenti. 
+    22: In tribu filiorum Benjamin princeps fuit Abidan filius Gedeonis. 
+    23: Et cunctus exercitus pugnatorum ejus, qui recensiti sunt, triginta quinque millia quadringenti. 
+    24: Omnes qui numerati sunt in castris Ephraim, centum octo millia centum per turmas suas : tertii proficiscentur. 
+    25: Ad aquilonis partem castrametati sunt filii Dan : quorum princeps fuit Ahiezer filius Ammisaddai.
+    26: Cunctus exercitus pugnatorum ejus, qui numerati sunt, sexaginta duo millia septingenti. 
+    27: Juxta eum fixere tentoria de tribu Aser : quorum princeps fuit Phegiel filius Ochran. 
+    28: Cunctus exercitus pugnatorum ejus, qui numerati sunt, quadraginta millia et mille quingenti. 
+    29: De tribu filiorum Nephthali princeps fuit Ahira filius Enan. 
+    30: Cunctus exercitus pugnatorum ejus, quinquaginta tria millia quadringenti.
+    31: Omnes qui numerati sunt in castris Dan, fuerunt centum quinquaginta septem millia sexcenti : et novissimi proficiscentur. 
+    32: Hic numerus filiorum Israel, per domos cognationum suarum et turmas divisi exercitus, sexcenta tria millia quingenti quinquaginta. 
+    33: Levitae autem non sunt numerati inter filios Israel : sic enim praeceperat Dominus Moysi. 
+    34: Feceruntque filii Israel juxta omnia quae mandaverat Dominus. Castrametati sunt per turmas suas, et profecti per familias ac domos patrum suorum.
+
+  Chapter 3.
+
+    1: Hae sunt generationes Aaron et Moysi in die qua locutus est Dominus ad Moysen in monte Sinai. 
+    2: Et haec nomina filiorum Aaron : primogenitus ejus Nadab, deinde Abiu, et Eleazar, et Ithamar. 
+    3: Haec nomina filiorum Aaron sacerdotum qui uncti sunt, et quorum repletae et consecratae manus ut sacerdotio fungerentur. 
+    4: Mortui sunt enim Nadab et Abiu cum offerrent ignem alienum in conspectu Domini in deserto Sinai, absque liberis : functique sunt sacerdotio Eleazar et Ithamar coram Aaron patre suo. 
+    5: Locutusque est Dominus ad Moysen, dicens :
+    6: Applica tribum Levi, et fac stare in conspectu Aaron sacerdotis ut ministrent ei, et excubent, 
+    7: et observent quidquid ad cultum pertinet multitudinis coram tabernaculo testimonii, 
+    8: et custodiant vasa tabernaculi, servientes in ministerio ejus. 
+    9: Dabisque dono Levitas 
+    10: Aaron et filiis ejus, quibus traditi sunt a filiis Israel. Aaron autem et filios ejus constitues super cultum sacerdotii. Externus, qui ad ministrandum accesserit, morietur.
+    11: Locutusque est Dominus ad Moysen, dicens : 
+    12: Ego tuli Levitas a filiis Israel pro omni primogenito, qui aperit vulvam in filiis Israel, eruntque Levitae mei. 
+    13: Meum est enim omne primogenitum : ex quo percussi primogenitos in terra Aegypti, sanctificavi mihi quidquid primum nascitur in Israel : ab homine usque ad pecus, mei sunt. Ego Dominus. 
+    14: Locutusque est Dominus ad Moysen in deserto Sinai, dicens : 
+    15: Numera filios Levi per domos patrum suorum et familias, omnem masculum ab uno mense et supra.
+    16: Numeravit Moyses, ut praeceperat Dominus, 
+    17: et inventi sunt filii Levi per nomina sua, Gerson et Caath et Merari. 
+    18: Filii Gerson : Lebni et Semei. 
+    19: Filii Caath : Amram et Jesaar, Hebron et Oziel. 
+    20: Filii Merari : Moholi et Musi.
+    21: De Gerson fuere familiae duae, Lebnitica, et Semeitica : 
+    22: quarum numeratus est populus sexus masculini ab uno mense et supra, septem millia quingenti. 
+    23: Hi post tabernaculum metabuntur ad occidentem, 
+    24: sub principe Eliasaph filio Lael. 
+    25: Et habebunt excubias in tabernaculo foederis,
+    26: ipsum tabernaculum et operimentum ejus, tentorium quod trahitur ante fores tecti foederis, et cortinas atrii : tentorium quoque quod appenditur in introitu atrii tabernaculi, et quidquid ad ritum altaris pertinet, funes tabernaculi et omnia utensilia ejus. 
+    27: Cognatio Caath habebit populos Amramitas et Jesaaritas et Hebronitas et Ozielitas. Hae sunt familiae Caathitarum recensitae per nomina sua. 
+    28: Omnes generis masculini ab uno mense et supra, octo millia sexcenti habebunt excubias sanctuarii, 
+    29: et castrametabuntur ad meridianam plagam. 
+    30: Princepsque eorum erit Elisaphan filius Oziel :
+    31: et custodient arcam, mensamque et candelabrum, altaria et vasa sanctuarii, in quibus ministratur, et velum, cunctamque hujuscemodi supellectilem. 
+    32: Princeps autem principum Levitarum Eleazar filius Aaron sacerdotis, erit super excubitores custodiae sanctuarii. 
+    33: At vero de Merari erunt populi Moholitae et Musitae recensiti per nomina sua : 
+    34: omnes generis masculini ab uno mense et supra, sex millia ducenti. 
+    35: Princeps eorum Suriel filius Abihaiel : in plaga septentrionali castrametabuntur.
+    36: Erunt sub custodia eorum tabulae tabernaculi et vectes, et columnae ac bases earum, et omnia quae ad cultum hujuscemodi pertinent : 
+    37: columnaeque atrii per circuitum cum basibus suis, et paxilli cum funibus. 
+    38: Castrametabuntur ante tabernaculum foederis, id est, ad orientalem plagam, Moyses et Aaron cum filiis suis, habentes custodiam sanctuarii in medio filiorum Israel. Quisquis alienus accesserit, morietur. 
+    39: Omnes Levitae, quos numeraverunt Moyses et Aaron juxta praeceptum Domini per familias suas in genere masculino a mense uno et supra, fuerunt viginti duo millia. 
+    40: Et ait Dominus ad Moysen : Numera primogenitos sexus masculini de filiis Israel ab uno mense et supra, et habebis summam eorum.
+    41: Tollesque Levitas mihi pro omni primogenito filiorum Israel : ego sum Dominus : et pecora eorum pro universis primogenitis pecorum filiorum Israel. 
+    42: Recensuit Moyses, sicut praeceperat Dominus, primogenitos filiorum Israel : 
+    43: et fuerunt masculi per nomina sua, a mense uno et supra, viginti duo millia ducenti septuaginta tres. 
+    44: Locutusque est Dominus ad Moysen, dicens : 
+    45: Tolle Levitas pro primogenitis filiorum Israel, et pecora Levitarum pro pecoribus eorum, eruntque Levitae mei. Ego sum Dominus.
+    46: In pretio autem ducentorum septuaginta trium, qui excedunt numerum Levitarum de primogenitis filiorum Israel, 
+    47: accipies quinque siclos per singula capita ad mensuram sanctuarii ( siclus habet viginti obolos) : 
+    48: dabisque pecuniam Aaron et filiis ejus pretium eorum qui supra sunt. 
+    49: Tulit igitur Moyses pecuniam eorum, qui fuerant amplius, et quos redemerant a Levitis, 
+    50: pro primogenitis filiorum Israel, mille trecentorum sexaginta quinque siclorum juxta pondus sanctuarii :
+    51: et dedit eam Aaron et filiis ejus juxta verbum quod praeceperat sibi Dominus.
+
+  Chapter 4.
+
+    1: Locutusque est Dominus ad Moysen et Aaron, dicens : 
+    2: Tolle summam filiorum Caath de medio Levitarum per domos et familias suas, 
+    3: a trigesimo anno et supra, usque ad quinquagesimum annum, omnium qui ingrediuntur ut stent et ministrent in tabernaculo foederis. 
+    4: Hic est cultus filiorum Caath : tabernaculum foederis, et Sanctum sanctorum 
+    5: ingredientur Aaron et filii ejus, quando movenda sunt castra, et deponent velum quod pendet ante fores, involventque eo arcam testimonii,
+    6: et operient rursum velamine janthinarum pellium, extendentque desuper pallium totum hyacinthinum, et inducent vectes. 
+    7: Mensam quoque propositionis involvent hyacinthino pallio, et ponent cum ea thuribula et mortariola, cyathos et crateras ad liba fundenda : panes semper in ea erunt : 
+    8: extendentque desuper pallium coccineum, quod rursum operient velamento janthinarum pellium, et inducent vectes. 
+    9: Sument et pallium hyacinthinum, quo operient candelabrum cum lucernis et forcipibus suis et emunctoriis et cunctis vasis olei, quae ad cocinnandas lucernas necessaria sunt : 
+    10: et super omnia ponent operimentum janthinarum pellium, et inducent vectes.
+    11: Necnon et altare aureum involvent hyacinthino vestimento, et extendent desuper operimentum janthinarum pellium, inducentque vectes. 
+    12: Omnia vasa, quibus ministratur in sanctuario, involvent hyacinthino pallio, et extendent desuper operimentum janthinarum pellium, inducentque vectes. 
+    13: Sed et altare mundabunt cinere, et involvent illud purpureo vestimento, 
+    14: ponentque cum eo omnia vasa, quibus in ministerio ejus utuntur, id est, ignium receptacula, fuscinulas ac tridentes, uncinos et batilla. Cuncta vasa altaris operient simul velamine janthinarum pellium, et inducent vectes. 
+    15: Cumque involverint Aaron et filii ejus sanctuarium et omnia vasa ejus in commotione castrorum, tunc intrabunt filii Caath ut portent involuta : et non tangent vasa sanctuarii, ne moriantur. Ista sunt onera filiorum Caath in tabernaculo foederis :
+    16: super quos erit Eleazar filius Aaron sacerdotis, ad cujus curam pertinet oleum ad concinnandas lucernas, et compositionis incensum, et sacrificium, quod semper offertur, et oleum unctionis, et quidquid ad cultum tabernaculi pertinet, omniumque vasorum, quae in sanctuario sunt. 
+    17: Locutusque est Dominus ad Moysen et Aaron, dicens : 
+    18: Nolite perdere populum Caath de medio Levitarum : 
+    19: sed hoc facite eis, ut vivant, et non moriantur, si tetigerint Sancta sanctorum. Aaron et filii ejus intrabunt, ipsique disponent opera singulorum, et divident quid portare quis debeat. 
+    20: Alii nulla curiositate videant quae sunt in sanctuario priusquam involvantur, alioquin morientur.
+    21: Locutusque est Dominus ad Moysen, dicens : 
+    22: Tolle summam etiam filiorum Gerson per domos ac familias et cognationes suas, 
+    23: a triginta annis et supra, usque ad annos quinquaginta. Numera omnes qui ingrediuntur et ministrant in tabernaculo foederis. 
+    24: Hoc est officium familiae Gersonitarum, 
+    25: ut portent cortinas tabernaculi et tectum foederis, operimentum aliud, et super omnia velamen janthinum tentoriumque quod pendet in introitu tabernaculi foederis,
+    26: cortinas atrii, et velum in introitu quod est ante tabernaculum. Omnia quae ad altare pertinent, funiculos, et vasa ministerii, 
+    27: jubente Aaron et filiis ejus, portabunt filii Gerson : et scient singuli cui debeant oneri mancipari. 
+    28: Hic est cultus familiae Gersonitarum in tabernaculo foederis, eruntque sub manu Ithamar filii Aaron sacerdotis. 
+    29: Filios quoque Merari per familias et domos patrum suorum recensebis, 
+    30: a triginta annis et supra, usque ad annos quinquaginta, omnes qui ingrediuntur ad officium ministerii sui et cultum foederis testimonii.
+    31: Haec sunt onera eorum : portabunt tabulas tabernaculi et vectes ejus, columnas ac bases earum, 
+    32: columnas quoque atrii per circuitum cum basibus et paxillis et funibus suis. Omnia vasa et supellectilem ad numerum accipient, sicque portabunt. 
+    33: Hoc est officium familiae Meraritarum et ministerium in tabernaculo foederis : eruntque sub manu Ithamar filii Aaron sacerdotis. 
+    34: Recensuerunt igitur Moyses et Aaron et principes synagogae filios Caath per cognationes et domos patrum suorum, 
+    35: a triginta annis et supra, usque ad annum quinquagesimum, omnes qui ingrediuntur ad ministerium tabernaculi foederis :
+    36: et inventi sunt duo millia septingenti quinquaginta. 
+    37: Hic est numerus populi Caath qui intrant tabernaculum foederis : hos numeravit Moyses et Aaron juxta sermonem Domini per manum Moysi. 
+    38: Numerati sunt et filii Gerson per cognationes et domos patrum suorum, 
+    39: a triginta annos et supra, usque ad quinquagesimum annum, omnes qui ingrediuntur ut ministrent in tabernaculo foederis : 
+    40: et inventi sunt duo millia sexcenti triginta.
+    41: Hic est populus Gersonitarum, quos numeraverunt Moyses et Aaron juxta verbum Domini. 
+    42: Numerati sunt et filii Merari per cognationes et domos patrum suorum, 
+    43: a triginta annis et supra, usque ad annum quinquagesimum, omnes qui ingrediuntur ad explendos ritus tabernaculi foederis : 
+    44: et inventi sunt tria millia ducenti. 
+    45: Hic est numerus filiorum Merari, quos recensuerunt Moyses et Aaron juxta imperium Domini per manum Moysi.
+    46: Omnes qui recensiti sunt de Levitis, et quos recenseri fecit ad nomen Moyses et Aaron, et principes Israel per cognationes et domos patrum suorum, 
+    47: a triginta annis et supra, usque ad annum quinquagesimum, ingredientes ad ministerium tabernaculi, et onera portanda, 
+    48: fuerunt simul octo millia quingenti octoginta. 
+    49: Juxta verbum Domini recensuit eos Moyses, unumquemque juxta officium et onera sua, sicut praeceperat ei Dominus.
+
+End of day 31.

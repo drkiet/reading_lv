@@ -1,0 +1,103 @@
+Day 220:
+
+Reading Isaiah, chapters ['29', '30', '31', '32']:
+
+  Chapter 29.
+
+    1: Vae Ariel, Ariel civitas, quam expugnavit David! additus est annus ad annum : solemnitates evolutae sunt. 
+    2: Et circumvallabo Ariel, et erit tristis et moerens, et erit mihi quasi Ariel. 
+    3: Et circumdabo quasi sphaeram in circuitu tuo, et jaciam contra te aggerem, et munimenta ponam in obsidionem tuam. 
+    4: Humiliaberis, de terra loqueris, et de humo audietur eloquium tuum; et erit quasi pythonis de terra vox tua, et de humo eloquium tuum mussitabit. 
+    5: Et erit sicut pulvis tenuis multitudo ventilantium te, et sicut favilla pertransiens multitudo eorum qui contra te praevaluerunt;
+    6: eritque repente confestim. A Domino exercituum visitabitur in tonitruo, et commotione terrae, et voce magna turbinis et tempestatis, et flammae ignis devorantis. 
+    7: Et erit sicut somnium visionis nocturnae multitudo omnium gentium quae dimicaverunt contra Ariel, et omnes qui militaverunt, et obsederunt, et praevaluerunt adversus eam. 
+    8: Et sicut somniat esuriens, et comedit, cum autem fuerit expergefactus, vacua est anima ejus; et sicut somniat sitiens et bibit, et postquam fuerit expergefactus, lassus adhuc sitit, et anima ejus vacua est : sic erit multitudo omnium gentium quae dimicaverunt contra montem Sion. 
+    9: Obstupescite et admiramini; fluctuate et vacillate; inebriamini, et non a vino; movemini, et non ab ebrietate. 
+    10: Quoniam miscuit vobis Dominus spiritum soporis; claudet oculos vestros : prophetas et principes vestros, qui vident visiones, operiet.
+    11: Et erit vobis visio omnium sicut verba libri signati, quem cum dederint scienti litteras, dicent : Lege istum : et respondebit : Non possum, signatus est enim. 
+    12: Et dabitur liber nescienti litteras, diceturque ei : Lege; et respondebit : Nescio litteras. 
+    13: Et dixit Dominus : Eo quod appropinquat populus iste ore suo, et labiis suis glorificat me, cor autem ejus longe est a me, et timuerunt me mandato hominum et doctrinis, 
+    14: ideo ecce ego addam ut admirationem faciam populo huic miraculo grandi et stupendo; peribit enim sapientia a sapientibus ejus, et intellectus prudentium ejus abscondetur. 
+    15: Vae qui profundi estis corde, ut a Domino abscondatis consilium; quorum sunt in tenebris opera, et dicunt : Quis videt nos? et quis novit nos?
+    16: Perversa est haec vestra cogitatio; quasi si lutum contra figulum cogitet, et dicat opus factori suo : Non fecisti me; et figmentum dicat fictori suo : Non intelligis. 
+    17: Nonne adhuc in modico et in brevi convertetur Libanus in carmel, et carmel in saltum reputabitur? 
+    18: Et audient in die illa surdi verba libri, et de tenebris et caligine oculi caecorum videbunt. 
+    19: Et addent mites in Domino laetitiam, et pauperes homines in Sancto Israel exsultabunt; 
+    20: quoniam defecit qui praevalebat, consummatus est illusor, et succisi sunt omnes qui vigilabant super iniquitatem,
+    21: qui peccare faciebant homines in verbo, et arguentem in porta supplantabant, et declinaverunt frustra a justo. 
+    22: Propter hoc, haec dicit Dominus ad domum Jacob, qui redemit Abraham : Non modo confundetur Jacob, nec modo vultus ejus erubescet; 
+    23: sed cum viderit filios suos, opera manuum mearum in medio sui sanctificantes nomen meum, et sanctificabunt Sanctum Jacob, et Deum Israel praedicabunt; 
+    24: et scient errantes spiritu intellectum, et mussitatores discent legem.
+
+  Chapter 30.
+
+    1: Vae filii desertores, dicit Dominus, ut faceretis consilium, et non ex me, et ordiremini telam, et non per spiritum meum, ut adderetis peccatum super peccatum; 
+    2: qui ambulatis ut descendatis in Aegyptum, et os meum non interrogastis, sperantes auxilium in fortitudine Pharaonis, et habentes fiduciam in umbra Aegypti! 
+    3: Et erit vobis fortitudo Pharaonis in confusionem, et fiducia umbrae Aegypti in ignominiam. 
+    4: Erant enim in Tani principes tui, et nuntii tui usque ad Hanes pervenerunt. 
+    5: Omnes confusi sunt super populo qui eis prodesse non potuit : non fuerunt in auxilium et in aliquam utilitatem, sed in confusionem et in opprobrium.
+    6: Onus jumentorum austri. In terra tribulationis et angustiae leaena, et leo ex eis, vipera et regulus volans; portantes super humeros jumentorum divitias suas, et super gibbum camelorum thesauros suos, ad populum qui eis prodesse non poterit. 
+    7: Aegyptus enim frustra et vane auxiliabitur. Ideo clamavi super hoc : Superbia tantum est, quiesce. 
+    8: Nunc ergo ingressus, scribe ei super buxum, et in libro diligenter exara illud, et erit in die novissimo in testimonium usque in aeternum. 
+    9: Populus enim ad iracundiam provocans est : et filii mendaces, filii nolentes audire legem Dei; 
+    10: qui dicunt videntibus : Nolite videre, et aspicientibus : Nolite aspicere nobis ea quae recta sunt; loquimini nobis placentia : videte nobis errores.
+    11: Auferte a me viam; declinate a me semitam; cesset a facie nostra Sanctus Israel. 
+    12: Propterea haec dicit Sanctus Israel : Pro eo quod reprobastis verbum hoc, et sperastis in calumnia et in tumultu, et innixi estis super eo; 
+    13: propterea erit vobis iniquitas haec sicut interruptio cadens, et requisita in muro excelso, quoniam subito, dum non speratur, veniet contritio ejus. 
+    14: Et comminuetur sicut conteritur lagena figuli contritione pervalida, et non invenietur de fragmentis ejus testa in qua portetur igniculus de incendio, aut hauriatur parum aquae de fovea. 
+    15: Quia haec dicit Dominus Deus, Sanctus Israel : Si revertamini et quiescatis, salvi eritis; in silentio et in spe erit fortitudo vestra. Et noluistis,
+    16: et dixistis : Nequaquam, sed ad equos fugiemus : ideo fugietis; et : Super veloces ascendemus : ideo velociores erunt qui persequentur vos. 
+    17: Mille homines a facie terroris unius; et a facie terroris quinque fugietis, donec relinquamini quasi malus navis in vertice montis, et quasi signum super collem. 
+    18: Propterea exspectat Dominus ut misereatur vestri; et ideo exaltabitur parcens vobis, quia Deus judicii Dominus : beati omnes qui exspectant eum! 
+    19: Populus enim Sion habitabit in Jerusalem : plorans nequaquam plorabis : miserans miserebitur tui, ad vocem clamoris tui : statim ut audierit, respondebit tibi. 
+    20: Et dabit vobis Dominus panem arctum, et aquam brevem; et non faciet avolare a te ultra doctorem tuum; et erunt oculi tui videntes praeceptorem tuum.
+    21: Et aures tuae audient verbum post tergum monentis : Haec est via; ambulate in ea, et non declinetis neque ad dexteram, neque ad sinistram. 
+    22: Et contaminabis laminas sculptilium argenti tui, et vestimentum conflatilis auri tui, et disperges ea sicut immunditiam menstruatae. Egredere, dices ei. 
+    23: Et dabitur pluvia semini tuo, ubicumque seminaveris in terra, et panis frugum terrae erit uberrimus et pinguis; pascetur in possessione tua in die illo agnus spatiose, 
+    24: et tauri tui, et pulli asinorum, qui operantur terram, commistum migma comedent sicut in area ventilatum est. 
+    25: Et erunt super omnem montem excelsum, et super omnem collem elevatum, rivi currentium aquarum, in die interfectionis multorum, cum ceciderint turres :
+    26: et erit lux lunae sicut lux solis, et lux solis erit septempliciter sicut lux septem dierum, in die qua alligaverit Dominus vulnus populi sui, et percussuram plagae ejus sanaverit. 
+    27: Ecce nomen Domini venit de longinquo, ardens furor ejus, et gravis ad portandum; labia ejus repleta sunt indignatione, et lingua ejus quasi ignis devorans. 
+    28: Spiritus ejus velut torrens inundans usque ad medium colli, ad perdendas gentes in nihilum, et frenum erroris quod erat in maxillis populorum. 
+    29: Canticum erit vobis sicut nox sanctificatae solemnitatis, et laetitia cordis sicut qui pergit cum tibia, ut intret in montem Domini ad Fortem Israel. 
+    30: Et auditam faciet Dominus gloriam vocis suae, et terrorem brachii sui ostendet in comminatione furoris, et flamma ignis devorantis : allidet in turbine, et in lapide grandinis.
+    31: A voce enim Domini pavebit Assur virga percussus. 
+    32: Et erit transitus virgae fundatus, quam requiescere faciet Dominus super eum in tympanis et citharis; et in bellis praecipuis expugnabit eos. 
+    33: Praeparata est enim ab heri Topheth, a rege praeparata, profunda, et dilatata. Nutrimenta ejus, ignis et ligna multa; flatus Domini sicut torrens sulphuris succendens eam.
+
+  Chapter 31.
+
+    1: Vae qui descendunt in Aegyptum ad auxilium, in equis sperantes, et habentes fiduciam super quadrigis, quia multae sunt; et super equitibus, quia praevalidi nimis; et non sunt confisi super Sanctum Israel, et Dominum non requisierunt! 
+    2: Ipse autem sapiens adduxit malum, et verba sua non abstulit; et consurget contra domum pessimorum, et contra auxilium operantium iniquitatem. 
+    3: Aegyptus homo, et non deus; et equi eorum caro, et non spiritus; et Dominus inclinabit manum suam, et corruet auxiliator, et cadet cui praestatur auxilium, simulque omnes consumentur. 
+    4: Quia haec dicit Dominus ad me : Quomodo si rugiat leo et catulus leonis super praedam suam; et cum occurrerit ei multitudo pastorum, a voce eorum non formidabit, et a multitudine eorum non pavebit : sic descendet Dominus exercituum ut praelietur super montem Sion et super collem ejus. 
+    5: Sicut aves volantes, sic proteget Dominus exercituum Jerusalem, protegens et liberans, transiens et salvans.
+    6: Convertimini, sicut in profundum recesseratis, filii Israel. 
+    7: In die enim illa abjiciet vir idola argenti sui, et idola auri sui, quae fecerunt vobis manus vestrae in peccatum. 
+    8: Et cadet Assur in gladio non viri, et gladius non hominis vorabit eum : et fugiet non a facie gladii, et juvenes ejus vectigales erunt. 
+    9: Et fortitudo ejus a terrore transibit, et pavebunt fugientes principes ejus, dixit Dominus : cujus ignis est in Sion et caminus ejus in Jerusalem.
+
+  Chapter 32.
+
+    1: Ecce in justitia regnabit rex, et principes in judicio praeerunt. 
+    2: Et erit vir sicut qui absconditur a vento, et celat se a tempestate; sicut rivi aquarum in siti, et umbra petrae prominentis in terra deserta. 
+    3: Non caligabunt oculi videntium, et aures audientium diligenter auscultabunt. 
+    4: Et cor stultorum intelliget scientiam, et lingua balborum velociter loquetur et plane. 
+    5: Non vocabitur ultra is qui insipiens est, princeps, neque fraudulentus appellabitur major;
+    6: stultus enim fatua loquetur, et cor ejus faciet iniquitatem, ut perficiat simulationem, et loquatur ad Dominum fraudulenter, et vacuam faciat animam esurientis, et potum sitienti auferat. 
+    7: Fraudulenti vasa pessima sunt; ipse enim cogitationes concinnavit ad perdendos mites in sermone mendacii, cum loqueretur pauper judicium. 
+    8: Princeps vero ea quae digna sunt principe cogitabit, et ipse super duces stabit. 
+    9: Mulieres opulentae, surgite, et audite vocem meam; filiae confidentes, percipite auribus eloquium meum. 
+    10: Post dies enim et annum, vos conturbabimini confidentes; consummata est enim vindemia, collectio ultra non veniet.
+    11: Obstupescite, opulentae; conturbamini, confidentes : exuite vos et confundimini; accingite lumbos vestros. 
+    12: Super ubera plangite, super regione desiderabili, super vinea fertili. 
+    13: Super humum populi mei spinae et vepres ascendent : quanto magis super omnes domos gaudii civitatis exultantis! 
+    14: Domus enim dimissa est, multitudo urbis relicta est, tenebrae et palpatio factae sunt super speluncas usque in aeternum; gaudium onagrorum, pascua gregum. 
+    15: Donec effundatur super nos spiritus de excelso, et erit desertum in carmel, et carmel in saltum reputabitur.
+    16: Et habitabit in solitudine judicium, et justitia in carmel sedebit. 
+    17: Et erit opus justitiae pax, et cultus justitiae silentium, et securitas usque in sempiternum. 
+    18: Et sedebit populus meus in pulchritudine pacis, et in tabernaculis fiduciae, et in requie opulenta. 
+    19: Grando autem in descensione saltus, et humilitate humiliabitur civitas. 
+    20: Beati qui seminatis super omnes aquas, immittentes pedem bovis et asini.
+
+End of day 220.

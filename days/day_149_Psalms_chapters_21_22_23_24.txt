@@ -1,0 +1,87 @@
+Day 149:
+
+Reading Psalms, chapters ['21', '22', '23', '24']:
+
+  Chapter 21.
+
+    1: In finem, pro susceptione matutina. Psalmus David. 
+    2: Deus, Deus meus, respice in me : quare me dereliquisti? Longe a salute mea verba delictorum meorum. 
+    3: Deus meus, clamabo per diem, et non exaudies; et nocte, et non ad insipientiam mihi. 
+    4: Tu autem in sancto habitas, laus Israel. 
+    5: In te speraverunt patres nostri; speraverunt, et liberasti eos.
+    6: Ad te clamaverunt, et salvi facti sunt; in te speraverunt, et non sunt confusi. 
+    7: Ego autem sum vermis, et non homo; opprobrium hominum, et abjectio plebis. 
+    8: Omnes videntes me deriserunt me; locuti sunt labiis, et moverunt caput. 
+    9: Speravit in Domino, eripiat eum : salvum faciat eum, quoniam vult eum. 
+    10: Quoniam tu es qui extraxisti me de ventre, spes mea ab uberibus matris meae.
+    11: In te projectus sum ex utero; de ventre matris meae Deus meus es tu; 
+    12: ne discesseris a me, quoniam tribulatio proxima est, quoniam non est qui adjuvet. 
+    13: Circumdederunt me vituli multi; tauri pingues obsederunt me. 
+    14: Aperuerunt super me os suum, sicut leo rapiens et rugiens. 
+    15: Sicut aqua effusus sum; et dispersa sunt omnia ossa mea. Factum est cor meum tamquam cera liquescens in medio ventris mei.
+    16: Aruit tamquam testa virtus mea, et lingua mea adhaesit faucibus meis, et in pulverem mortis deduxisti me. 
+    17: Quoniam circumdederunt me canes multi; concilium malignantium obsedit me. Foderunt manus meas et pedes meos, 
+    18: dinumeraverunt omnia ossa mea. Ipsi vero consideraverunt et inspexerunt me. 
+    19: Diviserunt sibi vestimenta mea, et super vestem meam miserunt sortem. 
+    20: Tu autem, Domine, ne elongaveris auxilium tuum a me; ad defensionem meam conspice.
+    21: Erue a framea, Deus, animam meam, et de manu canis unicam meam. 
+    22: Salva me ex ore leonis, et a cornibus unicornium humilitatem meam. 
+    23: Narrabo nomen tuum fratribus meis; in medio ecclesiae laudabo te. 
+    24: Qui timetis Dominum, laudate eum; universum semen Jacob, glorificate eum. 
+    25: Timeat eum omne semen Israel, quoniam non sprevit, neque despexit deprecationem pauperis; nec avertit faciem suam a me : et cum clamarem ad eum exaudivit me.
+    26: Apud te laus mea in ecclesia magna; vota mea reddam in conspectu timentium eum. 
+    27: Edent pauperes, et saturabuntur; et laudabunt Dominum qui requirunt eum; vivent corda eorum in saeculum saeculi. 
+    28: Reminiscentur et convertentur ad Dominum universi fines terrae; et adorabunt in conspectu ejus universae familiae gentium; 
+    29: quoniam Domini est regnum, et ipse dominabitur gentium. 
+    30: Manducaverunt et adoraverunt omnes pingues terrae; in conspectu ejus cadent omnes qui descendunt in terram.
+    31: Et anima mea illi vivet; et semen meum serviet ipsi. 
+    32: Annuntiabitur Domino generatio ventura; et annuntiabunt caeli justitiam ejus, populo qui nascetur, quem fecit Dominus.
+
+  Chapter 22.
+
+    1: Psalmus David. Dominus regit me, et nihil mihi deerit : 
+    2: in loco pascuae ibi me collocavit. Super aquam refectionis educavit me, 
+    3: animam meam convertit. Deduxit me super semitas justitiae, propter nomen suum. 
+    4: Nam, etsi ambulavero in medio umbrae mortis, non timebo mala, quoniam tu mecum es. Virga tua, et baculus tuus, ipsa me consolata sunt. 
+    5: Parasti in conspectu meo mensam, adversus eos qui tribulant me; impinguasti in oleo caput meum; et calix meus inebrians quam praeclarus est!
+    6: Et misericordia tua subsequetur me omnibus diebus vitae meae; et ut inhabitem in domo Domini, in longitudinem dierum.
+
+  Chapter 23.
+
+    1: Prima sabbati. Psalmus David. Domini est terra, et plenitudo ejus; orbis terrarum, et universi qui habitant in eo. 
+    2: Quia ipse super maria fundavit eum, et super flumina praeparavit eum. 
+    3: Quis ascendet in montem Domini? aut quis stabit in loco sancto ejus? 
+    4: Innocens manibus et mundo corde, qui non accepit in vano animam suam, nec juravit in dolo proximo suo. 
+    5: Hic accipiet benedictionem a Domino, et misericordiam a Deo salutari suo.
+    6: Haec est generatio quaerentium eum, quaerentium faciem Dei Jacob. 
+    7: Attollite portas, principes, vestras, et elevamini, portae aeternales, et introibit rex gloriae. 
+    8: Quis est iste rex gloriae? Dominus fortis et potens, Dominus potens in praelio. 
+    9: Attollite portas, principes, vestras, et elevamini, portae aeternales, et introibit rex gloriae. 
+    10: Quis est iste rex gloriae? Dominus virtutum ipse est rex gloriae.
+
+  Chapter 24.
+
+    1: In finem. Psalmus David. Ad te, Domine, levavi animam meam. 
+    2: Deus meus, in te confido; non erubescam. 
+    3: Neque irrideant me inimici mei : etenim universi, qui sustinent te, non confundentur. 
+    4: Confundantur omnes iniqua agentes supervacue. Vias tuas, Domine, demonstra mihi, et semitas tuas edoce me. 
+    5: Dirige me in veritate tua, et doce me, quia tu es Deus salvator meus, et te sustinui tota die.
+    6: Reminiscere miserationum tuarum, Domine, et misericordiarum tuarum quae a saeculo sunt. 
+    7: Delicta juventutis meae, et ignorantias meas ne memineris. Secundum misericordiam tuam memento mei tu, propter bonitatem tuam, Domine. 
+    8: Dulcis et rectus Dominus; propter hoc legem dabit delinquentibus in via. 
+    9: Diriget mansuetos in judicio; docebit mites vias suas. 
+    10: Universae viae Domini, misericordia et veritas, requirentibus testamentum ejus et testimonia ejus.
+    11: Propter nomen tuum, Domine, propitiaberis peccato meo; multum est enim. 
+    12: Quis est homo qui timet Dominum? legem statuit ei in via quam elegit. 
+    13: Anima ejus in bonis demorabitur; et semen ejus haereditabit terram. 
+    14: Firmamentum est Dominus timentibus eum; et testamentum ipsius ut manifestetur illis. 
+    15: Oculi mei semper ad Dominum, quoniam ipse evellet de laqueo pedes meos.
+    16: Respice in me, et miserere mei; quia unicus et pauper sum ego. 
+    17: Tribulationes cordis mei multiplicatae sunt; de necessitatibus meis erue me. 
+    18: Vide humilitatem meam et laborem meum, et dimitte universa delicta mea. 
+    19: Respice inimicos meos, quoniam multiplicati sunt, et odio iniquo oderunt me. 
+    20: Custodi animam meam, et erue me; non erubescam, quoniam speravi in te.
+    21: Innocentes et recti adhaeserunt mihi, quia sustinui te. 
+    22: Libera, Deus, Israel ex omnibus tribulationibus suis.
+
+End of day 149.

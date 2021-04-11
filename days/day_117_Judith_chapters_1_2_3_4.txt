@@ -1,0 +1,78 @@
+Day 117:
+
+Reading Judith, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Arphaxad itaque, rex Medorum, subjugaverat multas gentes imperio suo, et ipse aedificavit civitatem potentissimam, quam appellavit Ecbatanis, 
+    2: ex lapidibus quadratis et sectis : fecit muros ejus in altitudinem cubitorum septuaginta, et in latitudinem cubitorum triginta, turres vero ejus posuit in altitudinem cubitorum centum. 
+    3: Per quadrum vero earum latus utrumque vicenorum pedum spatio tendebatur, posuitque portas ejus in altitudinem turrium : 
+    4: et gloriabatur quasi potens in potentia exercitus sui, et in gloria quadrigarum suarum. 
+    5: Anno igitur duodecimo regni sui, Nabuchodonosor rex Assyriorum, qui regnabat in Ninive civitate magna, pugnavit contra Arphaxad, et obtinuit eum
+    6: in campo magno, qui appellatur Ragau, circa Euphraten, et Tigrin, et Jadason, in campo Erioch regis Elicorum. 
+    7: Tunc exaltatum est regnum Nabuchodonosor, et cor ejus elevatum est : et misit ad omnes, qui habitabant in Cilicia, et Damasco, et Libano, 
+    8: et ad gentes quae sunt in Carmelo et Cedar, et inhabitantes Galilaeam in campo magno Esdrelon, 
+    9: et ad omnes qui erant in Samaria, et trans flumen Jordanem usque ad Jerusalem, et omnem terram Jesse quousque perveniatur ad terminos Aethiopiae. 
+    10: Ad hos omnes misit nuntios Nabuchodonosor rex Assyriorum :
+    11: qui omnes uno animo contradixerunt, et remiserunt eos vacuos, et sine honore abjecerunt. 
+    12: Tunc indignatus Nabuchodonosor rex adversus omnem terram illam, juravit per thronum et regnum suum quod defenderet se de omnibus regionibus his.
+
+  Chapter 2.
+
+    1: Anno tertiodecimo Nabuchodonosor regis vigesima et secunda die mensis primi, factum est verbum in domo Nabuchodonosor regis Assyriorum ut defenderet se. 
+    2: Vocavitque omnes majores natu, omnesque duces, et bellatores suos, et habuit cum eis mysterium consilii sui : 
+    3: dixitque cogitationem suam in eo esse, ut omnem terram suo subjugaret imperio. 
+    4: Quod dictum cum placuisset omnibus, vocavit Nabuchodonosor rex Holofernem principem militiae suae, 
+    5: et dixit ei : Egredere adversus omne regnum occidentis, et contra eos praecipue, qui contempserunt imperium eum.
+    6: Non parcet oculus tuus ulli regno, omnemque urbem munitam subjugabis mihi. 
+    7: Tunc Holofernes vocavit duces, et magistratus virtutis Assyriorum, et dinumeravit viros in expeditionem, sicut praecepit ei rex, centum viginti millia peditum pugnatorum, et equitum sagittariorum duodecim millia. 
+    8: Omnemque expeditionem suam fecit praeire in multitudine innumerabilium camelorum, cum his quae exercitibus sufficerent copiose, boum quoque armenta, gregesque ovium, quorum non erat numerus. 
+    9: Frumentum ex omni Syria in transitu suo parari constituit. 
+    10: Aurum vero et argentum de domo regis assumpsit multum nimis.
+    11: Et profectus est ipse, et omnis exercitus cum quadrigis, et equitibus, et sagittariis, qui cooperuerunt faciem terrae, sicut locustae. 
+    12: Cumque pertransisset fines Assyriorum, venit ad magnos montes Ange, qui sunt a sinistro Ciliciae, ascenditque omnia castella eorum, et obtinuit omnem munitionem. 
+    13: Effregit autem civitatem opinatissimam Melothi, praedavitque omnes filios Tharsis, et filios Ismael, qui erant contra faciem deserti, et ad austrum terrae Cellon. 
+    14: Et transivit Euphraten, et venit in Mesopotamiam : et fregit omnes civitates excelsas, quae erant ibi, a torrente Mambre usquequo perveniatur ad mare : 
+    15: et occupavit terminos ejus, a Cilicia usque ad fines Japheth, qui sunt ad austrum.
+    16: Abduxitque omnes filios Madian, et praedavit omnem locupletationem eorum, omnesque resistentes sibi occidit in ore gladii. 
+    17: Et post haec descendit in campos Damasci in diebus messis, et succendit omnia sata, omnesque arbores, et vineas fecit incidi : 
+    18: et cecidit timor illius super omnes inhabitantes terram.
+
+  Chapter 3.
+
+    1: Tunc miserunt legatos suos universarum urbium, ac provinciarum reges ac principes, Syriae scilicet Mesopotamiae, et Syriae Sobal, et Libyae, atque Ciliciae, qui venientes ad Holofernem, dixerunt : 
+    2: Desinat indignatio tua circa nos : melius est enim ut viventes serviamus Nabuchodonosor regi magno, et subditi simus tibi, quam morientes cum interitu nostro ipsi servitutis nostrae damna patiamur. 
+    3: Omnis civitas nostra, omnisque possessio, omnes montes, et colles, et campi, et armenta boum, gregesque ovium, et caprarum, equorumque et camelorum, et universae facultates nostrae, atque familiae, in conspectu tuo sunt : 
+    4: sint omnia nostra sub lege tua. 
+    5: Nos, et filii nostri, servi tui sumus.
+    6: Veni nobis pacificus dominus, et utere servitio nostro, sicut placuerit tibi. 
+    7: Tunc descendit de montibus cum equitibus in virtute magna, et obtinuit omnem civitatem, et omnem inhabitantem terram. 
+    8: De universis autem urbibus assumpsit sibi auxiliarios viros fortes, et electos ad bellum. 
+    9: Tantusque metus provinciis illis incubuit, ut universarum urbium habitatores principes, et honorati simul cum populis exirent obviam venienti, 
+    10: excipientes eum cum coronis, et lampadibus, ducentes choros in tympanis, et tibiis.
+    11: Nec ista tamen facientes, ferocitatem ejus pectoris mitigare potuerunt : 
+    12: nam et civitates eorum destruxit, et lucos eorum excidit. 
+    13: Praeceperat enim illi Nabuchodonosor rex, ut omnes deos terrae exterminaret, videlicet ut ipse solus diceretur deus ab his nationibus, quae potuissent Holofernis potentia subjugari. 
+    14: Pertransiens autem Syriam Sobal, et omnem Apameam, omnemque Mesopotamiam, venit ad Idumaeos in terram Gabaa, 
+    15: accepitque civitates eorum, et sedit ibi per triginta dies, in quibus diebus adunari praecepit universum exercitum virtutis suae.
+
+  Chapter 4.
+
+    1: Tunc audientes haec filii Israel, qui habitabant in terra Juda, timuerunt valde a facie ejus. 
+    2: Tremor et horror invasit sensus eorum, ne hoc faceret Jerusalem et templo Domini, quod fecerat ceteris civitatibus et templis earum. 
+    3: Et miserunt in omnem Samariam per circuitum usque Jericho, et praeoccupaverunt omnes vertices montium : 
+    4: et muris circumdederunt vicos suos, et congregaverunt frumenta in praeparationem pugnae. 
+    5: Sacerdos etiam Eliachim scripsit ad universos qui erant contra Esdrelon, quae est contra faciem campi magni juxta Dothain, et universos per quos viae transitus esse poterat, ut obtinerent ascensus montium, per quos via esse poterat ad Jerusalem, et illic custodirent ubi angustum iter esse poterat inter montes.
+    6: Et fecerunt filii Israel secundum quod constituerat eis sacerdos Domini Eliachim. 
+    7: Et clamavit omnis populus ad Dominum instantia magna, et humiliaverunt animas suas in jejuniis, et orationibus, ipsi et mulieres eorum. 
+    8: Et induerunt se sacerdotes ciliciis, et infantes prostraverunt contra faciem templi Domini, et altare Domini operuerunt cilicio : 
+    9: et clamaverunt ad Dominum Deum Israel unanimiter ne darentur in praedam infantes eorum, et uxores eorum in divisionem, et civitates eorum in exterminium, et sancta eorum in pollutionem, et fierent opprobrium gentibus. 
+    10: Tunc Eliachim sacerdos Domini magnus circuivit omnem Israel, allocutusque est eos,
+    11: dicens : Scitote quoniam exaudiet Dominus preces vestras, si manentes permanseritis in jejuniis, et orationibus in conspectu Domini. 
+    12: Memores estote Moysi servi Domini, qui Amalec confidentem in virtute sua, et in potentia sua, et in exercitu suo, et in clypeis suis, et in curribus suis, et in equitibus suis, non ferro pugnando, sed precibus sanctis orando dejecit : 
+    13: sic erunt universi hostes Israel, si perseveraveritis in hoc opere quod coepistis. 
+    14: Ad hanc igitur exhortationem ejus deprecantes Dominum, permanebant in conspectu Domini, 
+    15: ita ut etiam hi qui offerebant Domino holocausta, praecincti ciliciis offerrent sacrificia Domino, et erat cinis super capita eorum.
+    16: Et ex toto corde suo omnes orabant Deum, ut visitaret populum suum Israel.
+
+End of day 117.

@@ -1,0 +1,120 @@
+Day 87:
+
+Reading 2-Kings, chapters ['21', '22', '23', '24']:
+
+  Chapter 21.
+
+    1: Duodecim annorum erat Manasses cum regnare coepisset, et quinquaginta quinque annis regnavit in Jerusalem : nomen matris ejus Haphsiba. 
+    2: Fecitque malum in conspectu Domini, juxta idola gentium, quas delevit Dominus a facie filiorum Israel. 
+    3: Conversusque est, et aedificavit excelsa, quae dissipaverat Ezechias pater ejus : et erexit aras Baal, et fecit lucos sicut fecerat Achab rex Israel, et adoravit omnem militiam caeli, et coluit eam. 
+    4: Exstruxitque aras in domo Domini, de qua dixit Dominus : In Jerusalem ponam nomen meum. 
+    5: Et exstruxit altaria universae militiae caeli in duobus atriis templi Domini.
+    6: Et traduxit filium suum per ignem : et ariolatus est, et observavit auguria, et fecit pythones, et aruspices multiplicavit, ut faceret malum coram Domino, et irritaret eum. 
+    7: Posuit quoque idolum luci, quem fecerat, in templo Domini, super quod locutus est Dominus ad David, et ad Salomonem filium ejus : In templo hoc, et in Jerusalem, quam elegi de cunctis tribubus Israel, ponam nomen meum in sempiternum. 
+    8: Et ultra non faciam commoveri pedem Israel de terra, quam dedi patribus eorum : si tamen custodierint opere omnia quae praecepi eis, et universam legem, quam mandavit eis servus meus Moyses. 
+    9: Illi vero non audierunt : sed seducti sunt a Manasse, ut facerent malum super gentes, quas contrivit Dominus a facie filiorum Israel. 
+    10: Locutusque est Dominus in manu servorum suorum prophetarum, dicens :
+    11: Quia fecit Manasses rex Juda abominationes istas pessimas, super omnia quae fecerunt Amorrhaei ante eum, et peccare fecit etiam Judam in immunditiis suis : 
+    12: propterea haec dicit Dominus Deus Israel : Ecce ego inducam mala super Jerusalem et Judam : ut quicumque audierit, tinniant ambae aures ejus. 
+    13: Et extendam super Jerusalem funiculum Samariae, et pondus domus Achab : et delebo Jerusalem, sicut deleri solent tabulae : et delens vertam, et ducam crebrius stylum super faciem ejus. 
+    14: Dimittam vero reliquias haereditatis meae, et tradam eas in manus inimicorum ejus : eruntque in vastitatem, et in rapinam cunctis adversariis suis : 
+    15: eo quod fecerint malum coram me, et perseveraverint irritantes me, ex die qua egressi sunt patres eorum ex Aegypto, usque ad hanc diem.
+    16: Insuper et sanguinem innoxium fudit Manasses multum nimis, donec impleret Jerusalem usque ad os : absque peccatis suis, quibus peccare fecit Judam, ut faceret malum coram Domino. 
+    17: Reliqua autem sermonum Manasse, ut universa quae fecit, et peccatum ejus, quod peccavit, nonne haec scripta sunt in libro sermonum dierum regum Juda? 
+    18: Dormivitque Manasses cum patribus suis, et sepultus est in horto domus suae, in horto Oza : et regnavit Amon filius ejus pro eo. 
+    19: Viginti duorum annorum erat Amon cum regnare coepisset : duobus quoque annis regnavit in Jerusalem : nomen matris ejus Messalemeth filia Harus de Jeteba. 
+    20: Fecitque malum in conspectu Domini, sicut fecerat Manasses pater ejus.
+    21: Et ambulavit in omni via, per quam ambulaverat pater ejus : servivitque immunditiis, quibus servierat pater ejus, et adoravit eas, 
+    22: et dereliquit Dominum Deum patrum suorum, et non ambulavit in via Domini. 
+    23: Tetenderuntque ei insidias servi sui, et interfecerunt regem in domo sua. 
+    24: Percussit autem populus terrae omnes, qui conjuraverant contra regem Amon, et constituerunt sibi regem Josiam filium ejus pro eo. 
+    25: Reliqua autem sermonum Amon, quae fecit, nonne haec scripta sunt in libro sermonum dierum regum Juda?
+    26: Sepelieruntque eum in sepulchro suo, in horto Oza : et regnavit Josias filius ejus pro eo.
+
+  Chapter 22.
+
+    1: Octo annorum erat Josias cum regnare coepisset, triginta et uno anno regnavit in Jerusalem : nomen matris ejus Idida, filia Hadaia de Besecath. 
+    2: Fecitque quod placitum erat coram Domino, et ambulavit per omnes vias David patris sui : non declinavit ad dexteram, sive ad sinistram. 
+    3: Anno autem octavodecimo regis Josiae, misit rex Saphan filium Aslia, filii Messulam scribam templi Domini, dicens ei : 
+    4: Vade ad Helciam sacerdotem magnum, ut confletur pecunia, quae illata est in templum Domini, quam collegerunt janitores templi a populo, 
+    5: deturque fabris per praepositos domus Domini : qui et distribuant eam his qui operantur in templo Domini, ad instauranda sartatecta templi :
+    6: tignariis videlicet et caementariis, et iis qui interrupta componunt : et ut emantur ligna, et lapides de lapicidinis, ad instaurandum templum Domini. 
+    7: Verumtamen non supputetur eis argentum quod accipiunt, sed in potestate habeant, et in fide. 
+    8: Dixit autem Helcias pontifex ad Saphan scribam : Librum legis reperi in domo Domini : deditque Helcias volumen Saphan, qui et legit illud. 
+    9: Venit quoque Saphan scriba ad regem, et renuntiavit ei quod praeceperat, et ait : Conflaverunt servi tui pecuniam, quae reperta est in domo Domini : et dederunt ut distribueretur fabris a praefectis operum templi Domini. 
+    10: Narravit quoque Saphan scriba regi, dicens : Librum dedit mihi Helcias sacerdos. Quem cum legisset Saphan coram rege,
+    11: et audisset rex verba libri legis Domini, scidit vestimenta sua. 
+    12: Et praecepit Helciae sacerdoti, et Ahicam filio Saphan, et Achobor filio Micha, et Saphan scribae, et Asaiae servo regis, dicens : 
+    13: Ite et consulite Dominum super me, et super populo, et super omni Juda, de verbis voluminis istius, quod inventum est : magna enim ira Domini succensa est contra nos : quia non audierunt patres nostri verba libri hujus, ut facerent omne quod scriptum est nobis. 
+    14: Ierunt itaque Helcias sacerdos, et Ahicam, et Achobor, et Sapham, et Asaia, ad Holdam prophetidem, uxorem Sellum, filii Thecuae, filii Araas custodis vestium, quae habitabat in Jerusalem in Secunda : locutique sunt ad eam. 
+    15: Et illa respondit eis : Haec dicit Dominus Deus Israel : Dicite viro, qui misit vos ad me :
+    16: Haec dicit Dominus : Ecce, ego adducam mala super locum istum, et super habitatores ejus, omnia verba legis quae legit rex Juda : 
+    17: quia dereliquerunt me, et sacrificaverunt diis alienis, irritantes me in cunctis operibus manuum suarum : et succendetur indignatio mea in loco hoc, et non extinguetur. 
+    18: Regi autem Juda, qui misit vos ut consuleretis Dominum, sic dicetis : Haec dicit Dominus Deus Israel : Pro eo quod audisti verba voluminis, 
+    19: et perterritum est cor tuum, et humiliatus es coram Domino, auditis sermonibus contra locum istum, et habitatores ejus, quod videlicet fierent in stuporem et in maledictum : et scidisti vestimenta tua, et flevisti coram me, et ego audivi, ait Dominus : 
+    20: idcirco colligam te ad patres tuos, et colligeris ad sepulchrum tuum in pace, ut non videant oculi tui omnia mala quae inducturus sum super locum istum.
+
+  Chapter 23.
+
+    1: Et renuntiaverunt regi quod dixerat. Qui misit : et congregati sunt ad eum omnes senes Juda et Jerusalem. 
+    2: Ascenditque rex templum Domini, et omnes viri Juda, universique qui habitabant in Jerusalem cum eo sacerdotes et prophetae, et omnis populus a parvo usque ad magnum : legitque, cunctis audientibus, omnia verba libri foederis, qui inventus est in domo Domini. 
+    3: Stetitque rex super gradum : et foedus percussit coram Domino, ut ambularent post Dominum, et custodirent praecepta ejus, et testimonia, et caeremonias in omni corde, et in tota anima, et suscitarent verba foederis hujus, quae scripta erant in libro illo : acquievitque populus pacto. 
+    4: Et praecepit rex Helciae pontifici, et sacerdotibus secundi ordinis, et janitoribus, ut projicerent de templo Domini omnia vasa, quae facta fuerant Baal, et in luco, et universae militiae caeli : et combussit ea foris Jerusalem in convalle Cedron, et tulit pulverem eorum in Bethel. 
+    5: Et delevit aruspices, quos posuerant reges Juda ad sacrificandum in excelsis per civitates Juda, et in circuitu Jerusalem : et eos, qui adolebant incensum Baal, et soli, et lunae, et duodecim signis, et omni militiae caeli.
+    6: Et efferri fecit lucum de domo Domini foras Jerusalem in convalle Cedron, et combussit eum ibi, et redegit in pulverem, et projecit super sepulchra vulgi. 
+    7: Destruxit quoque aediculas effeminatorum, quae erant in domo Domini, pro quibus mulieres texebant quasi domunculas luci. 
+    8: Congregavitque omnes sacerdotes de civitatibus Juda : et contaminavit excelsa, ubi sacrificabant sacerdotes de Gabaa usque Bersabee : et destruxit aras portarum in introitu ostii Josue principis civitatis, quod erat ad sinistram portae civitatis. 
+    9: Verumtamen non ascendebant sacerdotes excelsorum ad altare Domini in Jerusalem : sed tantum comedebant azyma in medio fratrum suorum. 
+    10: Contaminavit quoque Topheth, quod est in convalle filii Ennom : ut nemo consecraret filium suum aut filiam per ignem, Moloch.
+    11: Abstulit quoque equos, quos dederant reges Juda soli, in introitu templi Domini juxta exedram Nathanmelech eunuchi, qui erat in Pharurim : currus autem solis combussit igni. 
+    12: Altaria quoque, quae erant super tecta coenaculi Achaz, quae fecerant reges Juda, et altaria quae fecerat Manasses in duobus atriis templi Domini, destruxit rex, et cucurrit inde, et dispersit cinerem eorum in torrentem Cedron. 
+    13: Excelsa quoque, quae erant in Jerusalem ad dexteram partem montis offensionis, quae aedificaverat Salomon rex Israel Astaroth idolo Sidoniorum, et Chamos offensioni Moab, et Melchom abominationi filiorum Ammon, polluit rex. 
+    14: Et contrivit statuas, et succidit lucos : replevitque loca eorum ossibus mortuorum. 
+    15: Insuper et altare, quod erat in Bethel, et excelsum, quod fecerat Jeroboam filius Nabat, qui peccare fecit Israel : et altare illud, et excelsum destruxit, atque combussit, et comminuit in pulverem, succenditque etiam lucum.
+    16: Et conversus Josias, vidit ibi sepulchra, quae erant in monte : misitque et tulit ossa de sepulchris, et combussit ea super altare, et polluit illud juxta verbum Domini, quod locutus est vir Dei, qui praedixerat verba haec. 
+    17: Et ait : Quis est titulus ille, quem video? Responderuntque ei cives urbis illius : Sepulchrum est hominis Dei, qui venit de Juda, et praedixit verba haec, quae fecisti super altare Bethel. 
+    18: Et ait : Dimitte eum, nemo commoveat ossa ejus. Et intacta manserunt ossa illius cum ossibus prophetae, qui venerat de Samaria. 
+    19: Insuper et omnia fana excelsorum, quae erant in civitatibus Samariae, quae fecerant reges Israel ad irritandum Dominum, abstulit Josias : et fecit eis secundum omnia opera quae fecerat in Bethel. 
+    20: Et occidit universos sacerdotes excelsorum, qui erant ibi super altaria : et combussit ossa humana super ea : reversusque est Jerusalem.
+    21: Et praecepit omni populo, dicens : Facite Phase Domino Deo vestro, secundum quod scriptum est in libro foederis hujus. 
+    22: Nec enim factum est Phase tale a diebus judicum, qui judicaverunt Israel, et omnium dierum regum Israel, et regum Juda, 
+    23: sicut in octavodecimo anno regis Josiae factum est Phase istud Domino in Jerusalem. 
+    24: Sed et pythones, et ariolos, et figuras idolorum, et immunditias, et abominationes, quae fuerant in terra Juda et Jerusalem, abstulit Josias : ut statueret verba legis, quae scipta sunt in libro, quem invenit Helcias sacerdos in templo Domini. 
+    25: Similis illi non fuit ante eum rex, qui reverteretur ad Dominum in omni corde suo, et in tota anima sua, et in universa virtute sua juxta omnem legem Moysi : neque post eum surrexit similis illi.
+    26: Verumtamen non est aversus Dominus ab ira furoris sui magni, quo iratus est furor ejus contra Judam : propter irritationes, quibus provocaverat eum Manasses. 
+    27: Dixit itaque Dominus : Etiam Judam auferam a facie mea, sicut abstuli Israel : et projiciam civitatem hanc, quam elegi Jerusalem, et domum, de qua dixi : Erit nomen meum ibi. 
+    28: Reliqua autem sermonum Josiae, et universa quae fecit, nonne haec scripta sunt in libro verborum dierum regum Juda? 
+    29: In diebus ejus ascendit Pharao Nechao rex Aegypti, contra regem Assyriorum ad flumen Euphraten : et abiit Josias rex in occursum ejus : et occisus est in Mageddo, cum vidisset eum. 
+    30: Et portaverunt eum servi sui mortuum de Mageddo : et pertulerunt in Jerusalem, et sepelierunt eum in sepulchro suo. Tulitque populus terrae Joachaz filium Josiae : et unxerunt eum, et constituerunt eum regem pro patre suo.
+    31: Viginti trium annorum erat Joachaz cum regnare coepisset, et tribus mensibus regnavit in Jerusalem : nomen matris ejus Amital, filia Jeremiae, de Lobna. 
+    32: Et fecit malum coram Domino, juxta omnia quae fecerant patres ejus. 
+    33: Vinxitque eum Pharao Nechao in Rebla, quae est in terra Emath, ne regnaret in Jerusalem : et imposuit mulctam terrae centum talentis argenti, et talento auri. 
+    34: Regemque constituit Pharao Nechao Eliacim filium Josiae pro Josia patre ejus : vertitque nomen ejus Joakim. Porro Joachaz tulit, et duxit in Aegyptum, et mortuus est ibi. 
+    35: Argentum autem et aurum dedit Joakim Pharaoni, cum indixisset terrae per singulos, ut conferretur juxta praeceptum Pharaonis : et unumquemque juxta vires suas exegit, tam argentum quam aurum de populo terrae : ut daret Pharaoni Nechao.
+    36: Viginti quinque annorum erat Joakim cum regnare coepisset : et undecim annis regnavit in Jerusalem : nomen matris ejus Zebida filia Phadaia de Ruma. 
+    37: Et fecit malum coram Domino juxta omnia quae fecerant patres ejus.
+
+  Chapter 24.
+
+    1: In diebus ejus ascendit Nabuchodonosor rex Babylonis, et factus est ei Joakim servus tribus annis : et rursum rebellavit contra eum. 
+    2: Immisitque ei Dominus latrunculos Chaldaeorum, et latrunculos Syriae, et latrunculos Moab, et latrunculos filiorum Ammon : et immisit eos in Judam, ut disperderent eum, juxta verbum Domini, quod locutus fuerat per servos suos prophetas. 
+    3: Factum est autem hoc per verbum Domini contra Judam, ut auferret eum coram se propter peccata Manasse universa quae fecit, 
+    4: et propter sanguinem innoxium, quem effudit, et implevit Jerusalem cruore innocentium : et ob hanc rem noluit Dominus propitiari. 
+    5: Reliqua autem sermonum Joakim, et universa quae fecit, nonne haec scripta sunt in libro sermonum dierum regum Juda? Et dormivit Joakim cum patribus suis :
+    6: et regnavit Joachin filius ejus pro eo. 
+    7: Et ultra non addidit rex Aegypti, ut egrederetur de terra sua : tulerat enim rex Babylonis a rivo Aegypti usque ad fluvium Euphraten, omnia quae fuerant regis Aegypti. 
+    8: Decem et octo annorum erat Joachin cum regnare coepisset, et tribus mensibus regnavit in Jerusalem : nomen matris ejus Nohesta filia Elnathan de Jerusalem. 
+    9: Et fecit malum coram Domino, juxta omnia quae fecerat pater ejus. 
+    10: In tempore illo ascenderunt servi Nabuchodonosor regis Babylonis in Jerusalem, et circumdata est urbs munitionibus.
+    11: Venitque Nabuchodonosor rex Babylonis ad civitatem cum servis suis ut oppugnarent eam. 
+    12: Egressusque est Joachin rex Juda ad regem Babylonis, ipse et mater ejus, et servi ejus, et principes ejus, et eunuchi ejus : et suscepit eum rex Babylonis anno octavo regni sui. 
+    13: Et protulit inde omnes thesauros domus Domini, et thesauros domus regiae : et concidit universa vasa aurea, quae fecerat Salomon rex Israel in templo Domini juxta verbum Domini. 
+    14: Et transtulit omnem Jerusalem, et universos principes, et omnes fortes exercitus, decem millia, in captivitatem : et omnem artificem et clusorem : nihilque relictum est, exceptis pauperibus populi terrae. 
+    15: Transtulit quoque Joachin in Babylonem, et matrem regis, et uxores regis, et eunuchos ejus : et judices terrae duxit in captivitatem de Jerusalem in Babylonem.
+    16: Et omnes viros robustos, septem millia, et artifices, et clusores mille, omnes viros fortes et bellatores : duxitque eos rex Babylonis captivos in Babylonem. 
+    17: Et constituit Matthaniam patruum ejus pro eo : imposuitque nomen ei Sedeciam. 
+    18: Vigesimum et primum annum aetatis habebat Sedecias cum regnare coepisset, et undecim annis regnavit in Jerusalem : nomen matris ejus erat Amital, filia Jeremiae, de Lobna. 
+    19: Et fecit malum coram Domino, juxta omnia quae fecerat Joakim. 
+    20: Irascebatur enim Dominus contra Jerusalem et contra Judam, donec projiceret eos a facie sua : recessitque Sedecias a rege Babylonis.
+
+End of day 87.

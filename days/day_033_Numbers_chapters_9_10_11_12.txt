@@ -1,0 +1,125 @@
+Day 33:
+
+Reading Numbers, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Locutus est Dominus ad Moysen in deserto Sinai anno secundo, postquam egressi sunt de terra Aegypti, mense primo, dicens : 
+    2: Faciant filii Israel Phase in tempore suo, 
+    3: quartadecima die mensis hujus ad vesperam, juxta omnes caeremonias et justificationes ejus. 
+    4: Praecepitque Moyses filiis Israel ut facerent Phase. 
+    5: Qui fecerunt tempore suo, quartadecima die mensis ad vesperam, in monte Sinai. Juxta omnia quae mandaverat Dominus Moysi, fecerunt filii Israel.
+    6: Ecce autem quidam immundi super anima hominis, qui non poterant facere Phase in die illo, accedentes ad Moysen et Aaron, 
+    7: dixerunt eis : Immundi sumus super anima hominis : quare fraudamur ut non valeamus oblationem offerre Domino in tempore suo inter filios Israel? 
+    8: Quibus respondit Moyses : State ut consulam quid praecipiat Dominus de vobis. 
+    9: Locutusque est Dominus ad Moysen, dicens : 
+    10: Loquere filiis Israel : Homo, qui fuerit immundus super anima, sive in via procul in gente vestra, faciat Phase Domino
+    11: in mense secundo, quartadecima die mensis ad vesperam. Cum azymis et lactucis agrestibus comedent illud : 
+    12: non relinquent ex eo quippiam usque mane, et os ejus non confringent : omnem ritum Phase observabunt. 
+    13: Si quis autem et mundus est, et in itinere non fuit, et tamen non fecit Phase, exterminabitur anima illa de populis suis, quia sacrificium Domino non obtulit tempore suo : peccatum suum ipse portabit. 
+    14: Peregrinus quoque et advena si fuerint apud vos, facient Phase Domino juxta caeremonias et justificationes ejus. Praeceptum idem erit apud vos tam advenae quam indigenae. 
+    15: Igitur die qua erectum est tabernaculum, operuit illud nubes. A vespere autem super tentorium erat quasi species ignis usque mane.
+    16: Sic fiebat jugiter : per diem operiebat illud nubes, et per noctem quasi species ignis. 
+    17: Cumque ablata fuisset nubes, quae tabernaculum protegebat, tunc proficiscebantur filii Israel : et in loco ubi stetisset nubes, ibi castrametabantur. 
+    18: Ad imperium Domini proficiscebantur, et ad imperium illius figebant tabernaculum. Cunctis diebus quibus stabat nubes super tabernaculum, manebant in eodem loco : 
+    19: et si evenisset ut multo tempore maneret super illud, erant filii Israel in excubiis Domini, et non proficiscebantur 
+    20: quot diebus fuisset nubes super tabernaculum. Ad imperium Domini erigebant tentoria, et ad imperium illius deponebant.
+    21: Si fuisset nubes a vespere usque mane, et statim diluculo tabernaculum reliquisset, proficiscebantur : et si post diem et noctem recessisset, dissipabant tentoria. 
+    22: Si vero biduo aut uno mense vel longiori tempore fuisset super tabernaculum, manebant filii Israel in eodem loco, et non proficiscebantur : statim autem ut recessisset, movebant castra. 
+    23: Per verbum Domini figebant tentoria, et per verbum illius proficiscebantur : erantque in excubiis Domini juxta imperium ejus per manum Moysi.
+
+  Chapter 10.
+
+    1: Locutusque est Dominus ad Moysen, dicens : 
+    2: Fac tibi duas tubas argenteas ductiles, quibus convocare possis multitudinem quando movenda sunt castra. 
+    3: Cumque increpueris tubis, congregabitur ad te omnis turba ad ostium tabernaculi foederis. 
+    4: Si semel clangueris, venient ad te principes, et capita multitudinis Israel. 
+    5: Si autem prolixior atque concisus clangor increpuerit, movebunt castra primi qui sunt ad orientalem plagam.
+    6: In secundo autem sonitu et pari ululatu tubae, levabunt tentoria qui habitant ad meridiem; et juxta hunc modum reliqui facient, ululantibus tubis in profectionem. 
+    7: Quando autem congregandus est populus, simplex tubarum clangor erit, et non concise ululabunt. 
+    8: Filii autem Aaron sacerdotes clangent tubis : eritque hoc legitimum sempiternum in generationibus vestris. 
+    9: Si exieritis ad bellum de terra vestra contra hostes qui dimicant adversum vos, clangetis ululantibus tubis, et erit recordatio vestri coram Domino Deo vestro, ut eruamini de manibus inimicorum vestrorum. 
+    10: Siquando habebitis epulum, et dies festos, et calendas, canetis tubis super holocaustis, et pacificis victimis, ut sint vobis in recordationem Dei vestri. Ego Dominus Deus vester.
+    11: Anno secundo, mense secundo, vigesima die mensis, elevata est nubes de tabernaculo foederis : 
+    12: profectique sunt filii Israel per turmas suas de deserto Sinai, et recubuit nubes in solitudine Pharan. 
+    13: Moveruntque castra primi juxta imperium Domini in manu Moysi. 
+    14: Filii Juda per turmas suas : quorum princeps erat Nahasson filius Aminadab. 
+    15: In tribu filiorum Issachar fuit princeps Nathanael filius Suar.
+    16: In tribu Zabulon erat princeps Eliab filius Helon. 
+    17: Depositumque est tabernaculum, quod portantes egressi sunt filii Gerson et Merari. 
+    18: Profectique sunt et filii Ruben, per turmas et ordinem suum : quorum princeps erat Helisur filius Sedeur. 
+    19: In tribu autem filiorum Simeon, princeps fuit Salamiel filius Surisaddai. 
+    20: Porro in tribu Gad erat princeps Eliasaph filius Duel.
+    21: Profectique sunt et Caathitae portantes sanctuarium. Tamdiu tabernaculum portabatur, donec venirent ad erectionis locum. 
+    22: Moverunt castra et filii Ephraim per turmas suas, in quorum exercitu princeps erat Elisama filius Ammiud. 
+    23: In tribu autem filiorum Manasse princeps fuit Gamaliel filius Phadassur. 
+    24: Et in tribu Benjamin erat dux Abidan filius Gedeonis. 
+    25: Novissimi castrorum omnium profecti sunt filii Dan per turmas suas, in quorum exercitu princeps fuit Ahiezer filius Ammisaddai.
+    26: In tribu autem filiorum Aser erat princeps Phegiel filius Ochran. 
+    27: Et in tribu filiorum Nephthali princeps fuit Ahira filius Enan. 
+    28: Haec sunt castra, et profectiones filiorum Israel per turmas suas quando egrediebantur. 
+    29: Dixitque Moyses Hobab filio Raguel Madianitae, cognato suo : Proficiscimur ad locum quem Dominus daturus est nobis : veni nobiscum, ut benefaciamus tibi, quia Dominus bona promisit Israeli. 
+    30: Cui ille respondit : Non vadam tecum, sed revertar in terram meam, in qua natus sum.
+    31: Et ille : Noli, inquit, nos relinquere : tu enim nosti in quibus locis per desertum castra ponere debeamus, et eris ductor noster. 
+    32: Cumque nobiscum veneris, quidquid optimum fuerit ex opibus, quas nobis traditurus est Dominus, dabimus tibi. 
+    33: Profecti sunt ergo de monte Domini viam trium dierum, arcaque foederis Domini praecedebat eos, per dies tres providens castrorum locum. 
+    34: Nubes quoque Domini super eos erat per diem cum incederent. 
+    35: Cumque elevaretur arca, dicebat Moyses : Surge, Domine, et dissipentur inimici tui, et fugiant qui oderunt te, a facie tua.
+    36: Cum autem deponeretur, aiebat : Revertere, Domine, ad multitudinem exercitus Israel.
+
+  Chapter 11.
+
+    1: Interea ortum est murmur populi, quasi dolentium pro labore, contra Dominum. Quod cum audisset Dominus, iratus est. Et accensus in eos ignis Domini, devoravit extremam castrorum partem. 
+    2: Cumque clamasset populus ad Moysen, oravit Moyses ad Dominum, et absorptus est ignis. 
+    3: Vocavitque nomen illius, Incensio : eo quod incesus fuisset contra eos ignis Domini. 
+    4: Vulgus quippe promiscuum, quod ascenderat cum eis, flagravit desiderio, sedens et flens, junctis sibi pariter filiis Israel, et ait : Quis dabit nobis ad vescendum carnes? 
+    5: recordamur piscium quos comedebamus in Aegypto gratis : in mentem nobis veniunt cucumeres, et pepones, porrique, et caepe, et allia.
+    6: Anima nostra arida est : nihil aliud respiciunt oculi nostri nisi man. 
+    7: Erat autem man quasi semen coriandri, coloris bdellii. 
+    8: Circuibatque populus, et colligens illud, frangebat mola, sive terebat in mortario, coquens in olla, et faciens ex eo tortulas saporis quasi panis oleati. 
+    9: Cumque descederet nocte super castra ros, descendebat pariter et man. 
+    10: Audivit ergo Moyses flentem populum per familias, singulos per ostia tentorii sui. Iratusque est furor Domini valde : sed et Moysi intoleranda res visa est,
+    11: et ait ad Dominum : Cur afflixisti servum tuum? quare non invenio gratiam coram te? et cur imposuisti pondus universi populi hujus super me? 
+    12: Numquid ego concepi omnem hanc multitudinem, vel genui eam, ut dicas mihi : Porta eos in sinu tuo sicut portare solet nutrix infantulum, et defer in terram, pro qua jurasti patribus eorum? 
+    13: Unde mihi carnes ut dem tantae multitudini? flent contra me, dicentes : Da nobis carnes ut comedamus. 
+    14: Non possum solus sustinere omnem hunc populum, quia gravis est mihi. 
+    15: Sin aliter tibi videtur, obsecro ut interficias me, et inveniam gratiam in oculis tuis, ne tantis afficiar malis.
+    16: Et dixit Dominus ad Moysen : Congrega mihi septuaginta viros de senibus Israel, quos tu nosti quod senes populi sint ac magistri : et duces eos ad ostium tabernaculi foederis, faciesque ibi stare tecum, 
+    17: ut descendam et loquar tibi : et auferam de spiritu tuo, tradamque eis, ut sustentent tecum onus populi, et non tu solus graveris. 
+    18: Populo quoque dices : Sanctificamini ( cras comedetis carnes : ego enim audivi vos dicere : Quis dabit nobis escas carnium? bene nobis erat in Aegypto), ut det vobis Dominus carnes, et comedatis : 
+    19: non uno die, nec duobus, vel quinque aut decem, nec viginti quidem, 
+    20: sed usque ad mensem dierum, donec exeat per nares vestras, et vertatur in nauseam, eo quod replueritis Dominum, qui in medio vestri est, et fleveritis coram eo, dicentes : Quare egressi sumus ex Aegypto?
+    21: Et ait Moyses : Sexcenta millia peditum hujus populi sunt : et tu dicis : Dabo eis esum carnium mense integro? 
+    22: numquid ovium et boum multitudo caedetur, ut possit sufficere ad cibum? vel omnes pisces maris in unum congregabuntur, ut eos satient? 
+    23: Cui respondit Dominus : Numquid manus Domini invalida est? jam nunc videbis utrum meus sermo opere compleatur. 
+    24: Venit igitur Moyses, et narravit populo verba Domini, congregans septuaginta viros de senibus Israel, quos stare fecit circa tabernaculum. 
+    25: Descenditque Dominus per nubem, et locutus est ad eum, auferens de spiritu qui erat in Moyse, et dans septuaginta viris. Cumque requievisset in eis spiritus, prophetaverunt, nec ultra cessaverunt.
+    26: Remanserat autem in castris duo viri, quorum unus vocabatur Eldad, et alter Medad, super quos requievit spiritus. Nam et ipsi descripti fuerant, et non exierant ad tabernaculum. 
+    27: Cumque prophetarent in castris, cucurrit puer, et nuntiavit Moysi, dicens : Eldad et Medad prophetant in castris. 
+    28: Statim Josue filius Nun, minister Moysi, et electus e pluribus, ait : Domine mi Moyses, prohibe eos. 
+    29: At ille : Quid, inquit aemularis pro me? quis tribuat ut omnis populus prophetet, et det eis Dominus spiritum suum? 
+    30: Reversusque est Moyses, et majores natu Israel in castra.
+    31: Ventus autem egrediens a Domino, arreptans trans mare coturnices detulit, et demisit in castra itinere quantum uno die confici potest, ex omni parte castrorum per circuitum, volabantque in aere duobus cubitis altitudine super terram. 
+    32: Surgens ergo populus toto die illo, et nocte, ac die altero, congregavit coturnicum : qui parum, decem coros : et siccaverunt eas per gyrum castrorum. 
+    33: Adhuc carnes erant in dentibus eorum, nec defecerat hujuscemodi cibus : et ecce furor Domini concitatus in populum, percussit eum plaga magna nimis. 
+    34: Vocatusque est ille locus, Sepulchra concupiscentiae : ibi enim sepelierunt populum qui desideraverat. Egressi autem de Sepulchris concupiscentiae, venerunt in Haseroth, et manserunt ibi.
+
+  Chapter 12.
+
+    1: Locutaque est Maria et Aaron contra Moysen propter uxorem ejus Aethiopissam, 
+    2: et dixerunt : Num per solum Moysen locutus est Dominus? nonne et nobis similiter est locutus? Quod cum audisset Dominus 
+    3: ( erat enim Moyses vir mitissimus super omnes homines qui morabantur in terra), 
+    4: statim locutus est ad eum, et ad Aaron et Mariam : Egredimini vos tantum tres ad tabernaculum foederis. Cumque fuissent egressi, 
+    5: descendit Dominus in columna nubis, et stetit in introitu tabernaculi, vocans Aaron et Mariam. Qui cum issent,
+    6: dixit ad eos : Audite sermones meos : si quis fuerit inter vos propheta Domini, in visione apparebo ei, vel per somnium loquar ad illum. 
+    7: At non talis servus meus Moyses, qui in omni domo mea fidelissimus est : 
+    8: ore enim ad os loquor ei : et palam, et non per aenigmata et figuras Dominum videt. Quare ergo non timuistis detrahere servo meo Mosyi? 
+    9: Iratusque contra eos, abiit : 
+    10: nubes quoque recessit quae erat super tabernaculum : et ecce Maria apparuit candens lepra quasi nix. Cumque respexisset eam Aaron, et vidisset perfusam lepra,
+    11: ait ad Moysen : Obsecro, domine mi, ne imponas nobis hoc peccatum quod stulte commisimus, 
+    12: ne fiat haec quasi mortua, et ut abortivum quod projicitur de vulva matris suae : ecce jam medium carnis ejus devoratum est a lepra. 
+    13: Clamavitque Moyses ad Dominum, dicens : Deus, obsecro, sana eam. 
+    14: Cui respondit Dominus : Si pater ejus spuisset in faciem illius, nonne debuerat saltem septem diebus rubore suffundi? separetur septem diebus extra castra, et postea revocabitur. 
+    15: Exclusa est itaque Maria extra castra septem diebus : et populus non est motus de loco illo, donec revocata est Maria.
+
+End of day 33.

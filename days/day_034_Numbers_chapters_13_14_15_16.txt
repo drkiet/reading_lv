@@ -1,0 +1,187 @@
+Day 34:
+
+Reading Numbers, chapters ['13', '14', '15', '16']:
+
+  Chapter 13.
+
+    1: Profectusque est populus de Haseroth, fixis tentoriis in deserto Pharan. 
+    2: Ibique locutus est Dominus ad Moysen, dicens : 
+    3: Mitte viros, qui considerent terram Chanaan, quam daturus sum filiis Israel, singulos de singulis tribubus, ex principibus. 
+    4: Fecit Moyses quod Dominus imperaverat, de deserto Pharan mittens principes viros, quorum ista sunt nomina. 
+    5: De tribu Ruben, Sammua filium Zechur.
+    6: De tribu Simeon, Saphat filium Huri. 
+    7: De tribu Juda, Caleb filium Jephone. 
+    8: De tribu Issachar, Igal filium Joseph. 
+    9: De tribu Ephraim, Osee filium Nun. 
+    10: De tribu Benjamin, Phalti filium Raphu.
+    11: De tribu Zabulon, Geddiel filium Sodi. 
+    12: De tribu Joseph, sceptri Manasse, Gaddi filium Susi. 
+    13: De tribu Dan, Ammiel filium Gemalli. 
+    14: De tribu Aser, Sthur filium Michael. 
+    15: De tribu Nephthali, Nahabi filium Vapsi.
+    16: De tribu Gad, Guel filium Machi. 
+    17: Haec sunt nomina virorum, quos misit Moyses ad considerandam terram : vocavitque Osee filium Nun, Josue. 
+    18: Misit ergo eos Moyses ad considerandam terram Chanaan, et dixit ad eos : Ascendite per meridianam plagam. Cumque veneritis ad montes, 
+    19: considerate terram, qualis sit : et populum qui habitator est ejus, utrum fortis sit an infirmus : si pauci numero an plures : 
+    20: ipsa terra, bona an mala : urbes quales, muratae an absque muris :
+    21: humus, pinguis an sterilis, nemorosa an absque arboribus. Confortamini, et afferte nobis de fructibus terrae. Erat autem tempus quando jam praecoquae uvae vesci possunt. 
+    22: Cumque ascendissent, exploraverunt terram a deserto Sin, usque Rohob intrantibus Emath. 
+    23: Ascenderuntque ad meridiem, et venerunt in Hebron, ubi erant Achiman et Sisai et Tholmai filii Enac : nam Hebron septem annis ante Tanim urbem Aegypti condita est. 
+    24: Pergentesque usque ad Torrentem botri, absciderunt palmitem cum uva sua, quem portaverunt in vecte duo viri. De malis quoque granatis et de ficis loci illius tulerunt : 
+    25: qui appellatus est Nehelescol, id est Torrens botri, eo quod botrum portassent inde filii Israel.
+    26: Reversique exploratores terrae post quadraginta dies, omni regione circuita, 
+    27: venerunt ad Moysen et Aaron et ad omnem coetum filiorum Israel in desertum Pharan, quod est in Cades. Locutique eis et omni multitudini ostenderunt fructus terrae : 
+    28: et narraverunt, dicentes : Venimus in terram, ad quam misisti nos, quae revera fluit lacte et melle, ut ex his fructibus cognosci potest : 
+    29: sed cultores fortissimos habet, et urbes grandes atque muratas. Stirpem Enac vidimus ibi. 
+    30: Amalec habitat in meridie, Hethaeus et Jebusaeus et Amorrhaeus in montanis : Chananaeus vero moratur juxta mare et circa fluenta Jordanis.
+    31: Inter haec Caleb compescens murmur populi, qui oriebatur contra Moysen, ait : Ascendamus, et possideamus terram, quoniam poterimus obtinere eam. 
+    32: Alii vero, qui fuerant cum eo, dicebant : Nequaquam ad hunc populum valemus ascendere, quia fortior nobis est. 
+    33: Detraxeruntque terrae, quam inspexerant, apud filios Israel, dicentes : Terra, quam lustravimus, devorat habitatores suos : populus, quem aspeximus, procerae staturae est. 
+    34: Ibi vidimus monstra quaedam filiorum Enac de genere giganteo : quibus comparati, quasi locustae videbamur.
+
+  Chapter 14.
+
+    1: Igitur vociferans omnis turba flevit nocte illa, 
+    2: et murmurati sunt contra Moysen et Aaron cuncti filii Israel, dicentes : 
+    3: Utinam mortui essemus in Aegypto : et in hac vasta solitudine utinam pereamus, et non inducat nos Dominus in terram istam, ne cadamus gladio, et uxores ac liberi nostri ducantur captivi. Nonne melius est reverti in Aegyptum? 
+    4: Dixeruntque alter ad alterum : Constituamus nobis ducem, et revertamur in Aegyptum. 
+    5: Quo audito, Moyses et Aaron ceciderunt proni in terram coram omni multitudine filiorum Israel.
+    6: At vero Josue filius Nun et Caleb filius Jephone, qui et ipsi lustraverant terram, sciderunt vestimenta sua, 
+    7: et ad omnem multitudinem filiorum Israel locuti sunt : Terra, quam circuivimus, valde bona est. 
+    8: Si propitius fuerit Dominus, inducet nos in eam, et tradet humum lacte et melle manantem. 
+    9: Nolite rebelles esse contra Dominum : neque timeatis populum terrae hujus, quia sicut panem ita eos possumus devorare. Recessit ab eis omne praesidium : Dominus nobiscum est, nolite metuere. 
+    10: Cumque clamaret omnis multitudo, et lapidibus eos vellet opprimere, apparuit gloria Domini super tectum foederis cunctis filiis Israel.
+    11: Et dixit Dominus ad Moysen : Usquequo detrahet mihi populus iste? quousque non credent mihi, in omnibus signis quae feci coram eis? 
+    12: Feriam igitur eos pestilentia, atque consumam : te autem faciam principem super gentem magnam, et fortiorem quam haec est. 
+    13: Et ait Moyses ad Dominum : Ut audiant Aegyptii, de quorum medio eduxisti populum istum, 
+    14: et habitatores terrae hujus, qui audierunt quod tu, Domine, in populo isto sis, et facie videaris ad faciem, et nubes tua protegat illos, et in columna nubis praecedas eos per diem, et in columna ignis per noctem : 
+    15: quod occideris tantam multitudinem quasi unum hominem, et dicant :
+    16: Non poterat introducere populum in terram pro qua juraverat : idcirco occidit eos in solitudine? 
+    17: Magnificetur ergo fortitudo Domini sicut jurasti, dicens : 
+    18: Dominus patiens et multae misericordiae, auferens iniquitatem et scelera, nullumque innoxium derelinquens, qui visitas peccata patrum in filios in tertiam et quartam generationem. 
+    19: Dimitte, obsecro, peccatum populi hujus secundum magnitudinem misericordiae tuae, sicut propitius fuisti egredientibus de Aegypto usque ad locum istum. 
+    20: Dixitque Dominus : Dimisi juxta verbum tuum.
+    21: Vivo ego : et implebitur gloria Domini universa terra. 
+    22: Attamen omnes homines qui viderunt majestatem meam, et signa quae feci in Aegypto et in solitudine, et tentaverunt me jam per decem vices, nec obedierunt voci meae, 
+    23: non videbunt terram pro qua juravi patribus eorum, nec quisquam ex illis qui detraxit mihi, intuebitur eam. 
+    24: Servum meum Caleb, qui plenus alio spiritu secutus est me, inducam in terram hanc, quam circuivit; et semen ejus possidebit eam. 
+    25: Quoniam Amalecites et Chananaeus habitant in vallibus. Cras movete castra, et revertimini in solitudinem per viam maris Rubri.
+    26: Locutusque est Dominus ad Moysen et Aaron, dicens : 
+    27: Usquequo multitudo haec pessima murmurat contra me? querelas filiorum Israel audivi. 
+    28: Dic ergo eis : Vivo ego, ait Dominus : sicut locuti estis audiente me, sic faciam vobis. 
+    29: In solitudine hac jacebunt cadavera vestra. Omnes qui numerati estis a viginti annis et supra, et murmurastis contra me, 
+    30: non intrabitis terram, super quam levavi manum meam ut habitare vos facerem, praeter Caleb filium Jephone, et Josue filium Nun.
+    31: Parvulos autem vestros, de quibus dixistis quod praedae hostibus forent, introducam, ut videant terram, quae vobis displicuit. 
+    32: Vestra cadavera jacebunt in solitudine. 
+    33: Filii vestri erunt vagi in deserto annis quadraginta, et portabunt fornicationem vestram, donec consumantur cadavera patrum in deserto, 
+    34: juxta numerum quadraginta dierum, quibus considerastis terram : annus pro die imputabitur. Et quadraginta annis recipietis iniquitates vestras, et scietis ultionem meam : 
+    35: quoniam sicut locutus sum, ita faciam omni multitudini huic pessimae, quae consurrexit adversum me : in solitudine hac deficiet, et morietur.
+    36: Igitur omnes viri, quos miserat Moyses ad contemplandam terram, et qui reversi murmurare fecerant contra eum omnem multitudinem, detrahentes terrae quod esset mala, 
+    37: mortui sunt atque percussi in conspectu Domini. 
+    38: Josue autem filius Nun, et Caleb filius Jephone, vixerunt ex omnibus qui perrexerant ad considerandam terram. 
+    39: Locutusque est Moyses universa verba haec ad omnes filios Israel, et luxit populus nimis. 
+    40: Et ecce mane primo surgentes ascenderunt verticem montis, atque dixerunt : Parati sumus ascendere ad locum, de quo Dominus locutus est : quia peccavimus.
+    41: Quibus Moyses : Cur, inquit, transgredimini verbum Domini, quod vobis non cedet in prosperum? 
+    42: nolite ascendere : non enim est Dominus vobiscum : ne corruatis coram inimicis vestris. 
+    43: Amalecites et Chananaeus ante vos sunt, quorum gladio corruetis, eo quod nolueritis acquiescere Domino : nec erit Dominus vobiscum. 
+    44: At illi contenebrati ascenderunt in verticem montis. Arca autem testamenti Domini et Moyses non recesserunt de castris. 
+    45: Descenditque Amalecites et Chananaeus, qui habitabat in monte : et percutiens eos atque concidens, persecutus est eos usque Horma.
+
+  Chapter 15.
+
+    1: Locutus est Dominus ad Moysen, dicens : 
+    2: Loquere ad filios Israel, et dices ad eos : Cum ingressi fueritis terram habitationis vestrae, quam ego dabo vobis, 
+    3: et feceritis oblationem Domino in holocaustum, aut victimam, vota solventes, vel sponte offerentes munera, aut in solemnitatibus vestris adolentes odorem suavitatis Domino, de bobus sive de ovibus : 
+    4: offeret quicumque immolaverit victimam, sacrificium similae, decimam partem ephi, conspersae oleo, quod mensuram habebit quartam partem hin : 
+    5: et vinum ad liba fundenda ejusdem mensurae dabit in holocaustum sive in victimam. Per agnos singulos
+    6: et arietes erit sacrificium similae duarum decimarum, quae conspersa sit oleo tertiae partis hin : 
+    7: et vinum ad libamentum tertiae partis ejusdem mensurae offeret in odorem suavitatis Domino. 
+    8: Quando vero de bobus feceris holocaustum aut hostiam, ut impleas votum vel pacificas victimas, 
+    9: dabis per singulos boves similae tres decimas conspersae oleo, quod habeat medium mensurae hin : 
+    10: et vinum ad liba fundenda ejusdem mensurae in oblationem suavissimi odoris Domino.
+    11: Sic facies 
+    12: per singulos boves et arietis et agnos et haedos. 
+    13: Tam indigenae quam peregrini 
+    14: eodem ritu offerent sacrificia. 
+    15: Unum praeceptum erit atque judicium tam vobis quam advenis terrae.
+    16: Locutus est Dominus ad Moysen, dicens : 
+    17: Loquere filiis Israel, et dices ad eos : 
+    18: Cum veneritis in terram, quam dabo vobis, 
+    19: et comederitis de panibus regionis illius, separabitis primitias Domino 
+    20: de cibis vestris. Sicut de areis primitias separatis,
+    21: ita et de pulmentis dabitis primitiva Domino. 
+    22: Quod si per ignorantiam praeterieritis quidquam horum, quae locutus est Dominus ad Moysen, 
+    23: et mandavit per eum ad vos, a die qua coepit jubere et ultra, 
+    24: oblitaque fuerit facere multitudo : offeret vitulum de armento, holocaustum in odorem suavissimum Domino, et sacrificum ejus ac liba, ut caeremoniae postulant, hircumque pro peccato : 
+    25: et rogabit sacerdos pro omni multitudine filiorum Israel, et dimittetur eis, quoniam non sponte peccaverunt, nihilominus offerentes incensum Domino pro se et pro peccato atque errore suo :
+    26: et dimittetur universae plebi filiorum Israel, et advenis qui peregrinantur inter eos : quoniam culpa est omnis populi per ignorantiam. 
+    27: Quod si anima una nesciens peccaverit, offeret capram anniculam pro peccato suo : 
+    28: et deprecabitur pro ea sacerdos, quod inscia peccaverit coram Domino : impetrabitque ei veniam, et dimittetur illi. 
+    29: Tam indigenis quam advenis una lex erit omnium, qui peccaverint ignorantes. 
+    30: Anima vero, quae per superbiam aliquid commiserit, sive civis sit ille, sive peregrinus ( quoniam adversus Dominum rebellis fuit), peribit de populo suo :
+    31: verbum enim Domini contempsit, et praeceptum illius fecit irritum : idcirco delebitur, et portabit iniquitatem suam. 
+    32: Factum est autem, cum essent filii Israel in solitudine, et invenissent hominem colligentem ligna in die sabbati, 
+    33: obtulerunt eum Moysi et Aaron et universae multitudini. 
+    34: Qui recluserunt eum in carcerem, nescientes quid super eo facere deberent. 
+    35: Dixitque Dominus ad Moysen : Morte moriatur homo iste : obruat eum lapidibus omnis turba extra castra.
+    36: Cumque eduxissent eum foras, obruerunt lapidibus, et mortuus est, sicut praeceperat Dominus. 
+    37: Dixit quoque Dominus ad Moysen : 
+    38: Loquere filiis Israel, et dices ad eos ut faciant sibi fimbrias per angulos palliorum, ponentes in eis vittas hyacinthinas : 
+    39: quas cum viderint, recordentur omnium mandatorum Domini, nec sequantur cogitationes suas et oculos per res varias fornicantes, 
+    40: sed magis memores praeceptorum Domini faciant ea, sintque sancti Deo suo.
+    41: Ego Dominus Deus vester, qui eduxi vos de terra Aegypti, ut essem Deus vester.
+
+  Chapter 16.
+
+    1: Ecce autem Core filius Isaar, filii Caath, filii Levi, et Dathan atque Abiron filii Eliab, Hon quoque filius Pheleth de filiis Ruben, 
+    2: surrexerunt contra Moysen, aliique filiorum Israel ducenti quinquaginta viri proceres synagogae, et qui tempore concilii per nomina vocabantur. 
+    3: Cumque stetissent adversum Moysen et Aaron, dixerunt : Sufficiat vobis, quia omnis multitudo sanctorum est, et in ipsis est Dominus : cur elevamini super populum Domini? 
+    4: Quod cum audisset Moyses, cecidit pronus in faciem : 
+    5: locutusque ad Core et ad omnem multitudinem : Mane, inquit, notum faciet Dominus qui ad se pertineant, et sanctos applicabit sibi : et quos elegerit, appropinquabunt ei.
+    6: Hoc igitur facite : tollat unusquisque thuribula sua, tu Core, et omne concilium tuum : 
+    7: et hausto cras igne, ponite desuper thymiama coram Domino : et quemcumque elegerit, ipse erit sanctus : multum erigimini filii Levi. 
+    8: Dixitque rursum ad Core : Audite, filii Levi : 
+    9: num parum vobis est quod separavit vos Deus Israel ab omni populo, et junxit sibi, ut serviretis ei in cultu tabernaculi, et staretis coram frequentia populi, et ministraretis ei? 
+    10: idcirco ad se fecit accedere te et omnes fratres tuos filios Levi, ut vobis etiam sacerdotium vindicetis,
+    11: et omnis globus tuus stet contra Dominum? quid est enim Aaron ut murmuretis contra eum? 
+    12: Misit ergo Moyses ut vocaret Dathan et Abiron filios Eliab. Qui responderunt : Non venimus. 
+    13: Numquid parum est tibi quod eduxisti nos de terra, quae lacte et melle manabat, ut occideres in deserto, nisi et dominatus fueris nostri? 
+    14: Revera induxisti nos in terram, quae fluit rivis lactis et mellis, et dedisti nobis possessiones agrorum et vinearum : an et oculos nostros vis eruere? non venimus. 
+    15: Iratusque Moyses valde, ait ad Dominum : Ne respicias sacrificia eorum : tu scis quod ne asellum quidem umquam acceperim ab eis, nec afflixerim quempiam eorum.
+    16: Dixitque ad Core : Tu, et omnis congregatio tua, state seorsum coram Domino, et Aaron die crastino separatim. 
+    17: Tollite singuli thuribula vestra, et ponite super ea incensum, offerentes Domino ducenta quinquaginta thuribula : Aaron quoque teneat thuribulum suum. 
+    18: Quod cum fecissent, stantibus Moyses et Aaron, 
+    19: et coacervassent adversum eos omnem multitudinem ad ostium tabernaculi, apparuit cunctis gloria Domini. 
+    20: Locutusque Dominus ad Moysen et Aaron, ait :
+    21: Separamini de medio congregationis hujus, ut eos repente disperdam. 
+    22: Qui ceciderunt proni in faciem, atque dixerunt : Fortissime Deus spirituum universae carnis, num uno peccante, contra omnes ira tua desaeviet? 
+    23: Et ait Dominus ad Moysen : 
+    24: Praecipe universo populo ut separetur a tabernaculis Core et Dathan et Abiron. 
+    25: Surrexitque Moyses, et abiit ad Dathan et Abiron : et sequentibus eum senioribus Israel,
+    26: dixit ad turbam : Recedite a tabernaculis hominum impiorum, et nolite tangere quae ad eos pertinent, ne involvamini in peccatis eorum. 
+    27: Cumque recessissent a tentoriis eorum per circuitum, Dathan et Abiron egressi stabant in introitu papilionum suorum cum uxoribus et liberis, omnique frequentia. 
+    28: Et ait Moyses : In hoc scietis quod Dominus miserit me ut facerem universa quae cernitis, et non ex proprio ea corde protulerim : 
+    29: si consueta hominum morte interierint, et visitaverit eos plaga, qua et ceteri visitari solent, non misit me Dominus : 
+    30: sin autem novam rem fecerit Dominus, ut aperiens terra os suum deglutiat eos et omnia quae ad illos pertinent, descenderintque viventes in infernum, scietis quod blasphemaverint Dominum.
+    31: Confestim igitur ut cessavit loqui, dirupta est terra sub pedibus eorum : 
+    32: et aperiens os suum, devoravit illos cum tabernaculis suis et universa substantia eorum, 
+    33: descenderuntque vivi in infernum operti humo, et perierunt de medio multitudinis. 
+    34: At vero omnis Israel, qui stabat per gyrum, fugit ad clamorem pereuntium, dicens : Ne forte et nos terra deglutiat. 
+    35: Sed et ignis egressus a Domino interfecit ducentos quinquaginta viros, qui offerebant incensum.
+    36: Locutusque est Dominus ad Moysen, dicens : 
+    37: Praecipe Eleazaro filio Aaron sacerdoti ut tollat thuribula quae jacent in incendio, et ignem huc illucque dispergat : quoniam sanctificata sunt 
+    38: in mortibus peccatorum : producatque ea in laminas, et affigat altari, eo quod oblatum sit in eis incensum Domino, et sanctificata sint, ut cernant ea pro signo et monimento filii Israel. 
+    39: Tulit ergo Eleazar sacerdos thuribula aenea, in quibus obtulerant hi quos incendium devoravit, et produxit ea in laminas, affigens altari : 
+    40: ut haberent postea filii Israel, quibus commonerentur ne quis accedat alienigena, et qui non est de semine Aaron ad offerendum incensum Domino, ne patiatur sicut passus est Core, et omnis congregatio ejus, loquente Domino ad Moysen.
+    41: Murmuravit autem omnis multitudo filiorum Israel sequenti die contra Moysen et Aaron, dicens : Vos interfecistis populum Domini. 
+    42: Cumque oriretur seditio, et tumultus incresceret, 
+    43: Moyses et Aaron fugerunt ad tabernaculum foederis. Quod, postquam ingressi sunt, operuit nubes, et apparuit gloria Domini. 
+    44: Dixitque Dominus ad Moysen : 
+    45: Recedite de medio hujus multitudinis, etiam nunc delebo eos. Cumque jacerent in terra,
+    46: dixit Moyses ad Aaron : Tolle thuribulum, et hausto igne de altari, mitte incensum desuper, pergens cito ad populum, ut roges pro eis : jam enim egressa est ira a Domino, et plaga desaevit. 
+    47: Quod cum fecisset Aaron, et cucurrisset ad mediam multitudinem, quam jam vastabat incendium, obtulit thymiama : 
+    48: et stans inter mortuos ac viventes, pro populo deprecatus est, et plaga cessavit. 
+    49: Fuerunt autem qui percussi sunt, quatuordecim millia hominum, et septingenti, absque his qui perierant in seditione Core. 
+    50: Reversusque est Aaron ad Moysen ad ostium tabernaculi foederis postquam quievit interitus.
+
+End of day 34.

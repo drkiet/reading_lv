@@ -1,0 +1,124 @@
+Day 258:
+
+Reading Ezekiel, chapters ['45', '46', '47', '48']:
+
+  Chapter 45.
+
+    1: Cumque coeperitis terram dividere sortito, separate primitias Domino, sanctificatum de terra, longitudine viginti quinque millia, et latitudine decem millia : sanctificatum erit in omni termino ejus per circuitum. 
+    2: Et erit ex omni parte sanctificatum quingentos per quingentos, quadrifariam per circuitum, et quinquaginta cubitis in suburbana ejus per gyrum. 
+    3: Et a mensura ista mensurabis longitudinem viginti quinque millium, et latitudinem decem millium : et in ipso erit templum Sanctumque sanctorum. 
+    4: Sanctificatum de terra erit sacerdotibus ministris sanctuarii, qui accedunt ad ministerium Domini : et erit eis locus in domos, et in sanctuarium sanctitatis. 
+    5: Viginti quinque autem millia longitudinis, et decem millia latitudinis erunt Levitis qui ministrant domui : ipsi possidebunt viginti gazophylacia.
+    6: Et possessionem civitatis dabitis quinque millia latitudinis, et longitudinis viginti quinque millia, secundum separationem sanctuarii, omni domui Israel. 
+    7: Principi quoque hinc et inde in separationem sanctuarii, et in possessionem civitatis, contra faciem separationis sanctuarii, et contra faciem possessionis urbis, a latere maris usque ad mare, et a latere orientis usque ad orientem : longitudinis autem juxta unamquamque partem, a termino occidentali usque ad terminum orientalem. 
+    8: De terra erit ei possessio in Israel, et non depopulabuntur ultra principes populum meum : sed terram dabunt domui Israel secundum tribus eorum. 
+    9: Haec dicit Dominus Deus : Sufficiat vobis, principes Israel : iniquitatem et rapinas intermittite, et judicium et justitiam facite : separate confinia vestra a populo meo, ait Dominus Deus. 
+    10: Statera justa, et ephi justum, et batus justus erit vobis.
+    11: Ephi et batus aequalia et unius mensurae erunt, ut capiat decimam partem cori batus, et decimam partem cori ephi : juxta mensuram cori erit aequa libratio eorum. 
+    12: Siclus autem viginti obolos habet : porro viginti sicli, et viginti quinque sicli, et quindecim sicli, mnam faciunt. 
+    13: Et haec sunt primitiae quas tolletis : sextam partem ephi de coro frumenti, et sextam partem ephi de coro hordei. 
+    14: Mensura quoque olei, batus olei, decima pars cori est : et decem bati corum faciunt, quia decem bati implent corum. 
+    15: Et arietem unum de grege ducentorum, de his quae nutriunt Israel, in sacrificium, et in holocaustum, et in pacifica, ad expiandum pro eis, ait Dominus Deus.
+    16: Omnis populus terrae tenebitur primitiis his principi in Israel. 
+    17: Et super principem erunt holocausta, et sacrificium, et libamina, in solemnitatibus, et in calendis, et in sabbatis, et in universis solemnitatibus domus Israel : ipse faciet pro peccato sacrificium, et holocaustum, et pacifica, ad expiandum pro domo Israel. 
+    18: Haec dicit Dominus Deus : In primo mense, una mensis, sumes vitulum de armento immaculatum, et expiabis sanctuarium. 
+    19: Et tollet sacerdos de sanguine quod erit pro peccato, et ponet in postibus domus, et in quatuor angulis crepidinis altaris, et in postibus portae atrii interioris. 
+    20: Et sic facies in septima mensis, pro unoquoque qui ignoravit, et errore deceptus est : et expiabis pro domo.
+    21: In primo mense, quartadecima die mensis, erit vobis Paschae solemnitas : septem diebus azyma comedentur. 
+    22: Et faciet princeps in die illa, pro se et pro universo populo terrae, vitulum pro peccato. 
+    23: Et in septem dierum solemnitate faciet holocaustum Domino septem vitulos, et septem arietes immaculatos, quotidie septem diebus : et pro peccato hircum caprarum quotidie. 
+    24: Et sacrificium ephi per vitulum, et ephi per arietem faciet, et olei hin per singula ephi. 
+    25: Septimo mense, quintadecima die mensis, in solemnitate, faciet sicut supra dicta sunt per septem dies, tam pro peccato quam pro holocausto, et in sacrificio, et in oleo.
+
+  Chapter 46.
+
+    1: Haec dicit Dominus Deus : Porta atrii interioris, quae respicit ad orientem, erit clausa sex diebus in quibus opus fit : die autem sabbati aperietur, sed in die calendarum aperietur. 
+    2: Et intrabit princeps per viam vestibuli portae deforis, et stabit in limine portae : et facient sacerdotes holocaustum ejus, et pacifica ejus : et adorabit super limen portae, et egredietur : porta autem non claudetur usque ad vesperam. 
+    3: Et adorabit populus terrae ad ostium portae illius in sabbatis et in calendis coram Domino. 
+    4: Holocaustum autem hoc offeret princeps Domino : in die sabbati, sex agnos immaculatos, et arietem immaculatum, 
+    5: et sacrificium ephi per arietem, in agnis autem sacrificium quod dederit manus ejus, et olei hin per singula ephi.
+    6: In die autem calendarum vitulum de armento immaculatum, et sex agni et arietes immaculati erunt. 
+    7: Et ephi per vitulum, ephi quoque per arietem faciet sacrificium : de agnis autem, sicut invenerit manus ejus, et olei hin per singula ephi. 
+    8: Cumque ingressurus est princeps, per viam vestibuli portae ingrediatur, et per eamdem viam exeat. 
+    9: Et cum intrabit populus terrae in conspectu Domini in solemnitatibus, qui ingreditur per portam aquilonis, ut adoret, egrediatur per viam portae meridianae : porro qui ingreditur per viam portae meridianae, egrediatur per viam portae aquilonis. Non revertetur per viam portae per quam ingressus est, sed e regione illius egredietur. 
+    10: Princeps autem in medio eorum, cum ingredientibus indredietur, et cum egredientibus egredietur.
+    11: Et in nundinis, et in solemnitatibus, erit sacrificium ephi per vitulum, et ephi per arietem : agnis autem erit sacrificium sicut invenerit manus ejus, et olei hin per singula ephi. 
+    12: Cum autem fecerit princeps spontaneum holocaustum, aut pacifica voluntaria Domino, aperietur ei porta quae respicit ad orientem, et faciet holocaustum suum et pacifica sua, sicut fieri solet in die sabbati : et egredietur, claudeturque porta postquam exierit. 
+    13: Et agnum ejusdem anni immaculatum faciet holocaustum quotidie Domino : semper mane faciet illud. 
+    14: Et faciet sacrificium super eo cata mane mane sextam partem ephi, et de oleo tertiam partem hin, ut misceatur similae : sacrificium Domino legitimum, juge atque perpetuum. 
+    15: Faciet agnum, et sacrificium, et oleum cata mane mane, holocaustum sempiternum.
+    16: Haec dicit Dominuis Deus : Si dederit princeps donum alicui de filiis suis, haereditas ejus filiorum suorum erit : possidebunt eam haereditarie. 
+    17: Si autem dederit legatum de haereditate sua uni servorum suorum, erit illius usque ad annum remissionis, et revertetur ad principem : haereditas autem ejus filiis ejus erit. 
+    18: Et non accipiet princeps de haereditate populi per violentiam, et de possessione eorum : sed de possessione sua haereditatem dabit filiis suis, ut non dispergatur populus meus unusquisque a possessione sua. 
+    19: Et introduxit me per ingressum qui erat ex latere portae, in gazophylacia sanctuarii ad sacerdotes, quae respiciebant ad aquilonem : et erat ibi locus vergens ad occidentem. 
+    20: Et dixit ad me : Iste est locus ubi coquent sacerdotes pro peccato et pro delicto, ubi coquent sacrificium, ut non efferant in atrium exterius, et sanctificetur populus.
+    21: Et eduxit me in atrium exterius, et circumduxit me per quatuor angulos atrii : et ecce atriolum erat in angulo atrii, atriola singula per angulos atrii. 
+    22: In quatuor angulis atrii atriola disposita, quadraginta cubitorum per longum, et triginta per latum : mensurae unius quatuor erant. 
+    23: Et paries per circuitum ambiens quatuor atriola : et culinae fabricatae erant subter porticus per gyrum. 
+    24: Et dixit ad me : Haec est domus culinarum, in qua coquent ministri domus Domini victimas populi.
+
+  Chapter 47.
+
+    1: Et convertit me ad portam domus, et ecce aquae egrediebantur subter limen domus ad orientem : facies enim domus respiciebat ad orientem, aquae autem descendebant in latus templi dextrum, ad meridiem altaris. 
+    2: Et eduxit me per viam portae aquilonis, et convertit me ad viam foras portam exteriorem, viam quae respiciebat ad orientem : et ecce aquae redundantes a latere dextro. 
+    3: Cum egrederetur vir ad orientem, qui habebat funiculum in manu sua, et mensus est mille cubitos, et traduxit me per aquam usque ad talos. 
+    4: Rursumque mensus est mille, et traduxit me per aquam usque ad genua. 
+    5: Et mensus est mille, et traduxit me per aquam usque ad renes. Et mensus est mille, torrentem quem non potui pertransire, quoniam intumuerant aquae profundi torrentis, qui non potest transvadari.
+    6: Et dixit ad me : Certe vidisti, fili hominis. Et eduxit me, et convertit ad ripam torrentis. 
+    7: Cumque me convertissem, ecce in ripa torrentis ligna multa nimis ex utraque parte. 
+    8: Et ait ad me : Aquae istae quae egrediuntur ad tumulos sabuli orientalis, et descendunt ad plana deserti, intrabunt mare et exibunt : et sanabuntur aquae. 
+    9: Et omnis anima vivens, quae serpit quocumque venerit torrens, vivet : et erunt pisces multi satis, postquam venerint illuc aquae istae : et sanabuntur et vivent omnia ad quae venerit torrens. 
+    10: Et stabunt super illas piscatores, ab Engaddi usque ad Engallim siccatio sagenarum erit : plurimae species erunt piscium ejus, sicut pisces maris magni, multitudinis nimiae.
+    11: In littoribus autem ejus, et in palustribus, non sanabuntur, quia in salinas dabuntur. 
+    12: Et super torrentem orietur in ripis ejus, ex utraque parte, omne lignum pomiferum : non defluet folium ex eo, et non deficiet fructus ejus : per singulos menses afferet primitiva, quia aquae ejus de sanctuario egredientur : et erunt fructus ejus in cibum, et folia ejus ad medicinam. 
+    13: Haec dicit Dominus Deus : Hic est terminus in quo possidebitis terram in duodecim tribubus Israel : quia Joseph duplicem funiculum habet. 
+    14: Possidebitis autem eam singuli aeque ut frater suus, super quam levavi manum meam ut darem patribus vestris : et cadet terra haec vobis in possessionem. 
+    15: Hic est autem terminus terrae : ad plagam septentrionalem, a mari magno via Hethalon, venientibus Sedada,
+    16: Emath, Berotha, Sabarim, quae est inter terminum Damasci et confinium Emath, domus Tichon, quae est juxta terminum Auran. 
+    17: Et erit terminus a mari usque ad atrium Enon, terminus Damasci : et ab aquilone ad aquilonem, terminus Emath plaga septentrionalis. 
+    18: Porro plaga orientalis de medio Auran, et de medio Damasci, et de medio Galaad, et de medio terrae Israel, Jordanis disterminans ad mare orientale. Metiemini etiam plagam orientalem. 
+    19: Plaga autem australis meridiana, a Thamar usque ad aquas contradictionis Cades, et torrens usque ad mare magnum : et haec est plaga ad meridiem australis. 
+    20: Et plaga maris, mare magnum a confinio per directum, donec venias Emath : haec est plaga maris.
+    21: Et dividetis terram istam vobis per tribus Israel : 
+    22: et mittetis eam in haereditatem vobis, et advenis qui accesserint ad vos, qui genuerint filios in medio vestrum : et erunt vobis sicut indigenae inter filios Israel : vobiscum divident possessionem in medio tribuum Israel. 
+    23: In tribu autem quacumque fuerit advena, ibi dabitis possessionem illi, ait Dominus Deus.
+
+  Chapter 48.
+
+    1: Et haec nomina tribuum a finibus aquilonis, juxta viam Hethalon, pergentibus Emath, atrium Enan terminus Damasci ad aquilonem, juxta viam Emath : et erit ei plaga orientalis mare, Dan una. 
+    2: Et super terminum Dan, a plaga orientali usque ad plagam maris, Aser una. 
+    3: Et super terminum Aser, a plaga orientali usque ad plagam maris, Nephthali una. 
+    4: Et super terminum Nephthali, a plaga orientali usque ad plagam maris, Manasse una. 
+    5: Et super terminum Manasse, a plaga orientali usque ad plagam maris, Ephraim una.
+    6: Et super terminum Ephraim, a plaga orientali usque ad plagam maris, Ruben una. 
+    7: Et super terminum Ruben, a plaga orientali usque ad plagam maris, Juda una. 
+    8: Et super terminum Juda, a plaga orientali usque ad plagam maris, erunt primitiae quas separabitis, viginti quinque millibus latitudinis et longitudinis, sicuti singulae partes a plaga orientali usque ad plagam maris : et erit sanctuarium in medio ejus. 
+    9: Primitiae quas separabitis Domino, longitudo viginti quinque millibus, et latitudo decem millibus. 
+    10: Hae autem erunt primitiae sanctuarii sacerdotum, ad aquilonem longitudinis viginti quinque millia, et ad mare latitudinis decem millia, sed et ad orientem latitudinis decem millia, et ad meridiem longitudinis viginti quinque millia : et erit sanctuarium Domini in medio ejus.
+    11: Sacerdotibus sanctuarium erit de filiis Sadoc, qui custodierunt caeremonias meas, et non erraverunt cum errarent filii Israel, sicut erraverunt et Levitae. 
+    12: Et erunt eis primitiae de primitiis terrae Sanctum sanctorum, juxta terminum Levitarum. 
+    13: Sed et Levitis similiter, juxta fines sacerdotum, viginti quinque millia longitudinis, et latitudinis decem millia. Omnis longitudo viginti et quinque millium, et latitudo decem millium. 
+    14: Et non venundabunt ex eo, neque mutabunt : neque transferentur primitiae terrae, quia sanctificatae sunt Domino. 
+    15: Quinque millia autem quae supersunt in latitudine per viginti quinque millia, profana erunt urbis in habitaculum et in suburbana : et erit civitas in medio ejus.
+    16: Et hae mensurae ejus : ad plagam septentrionalem, quingenta et quatuor millia : et ad plagam meridianam, quingenta et quatuor millia : et ad plagam orientalem, quingenta et quatuor millia : et ad plagam occidentalem, quingenta et quatuor millia. 
+    17: Erunt autem suburbana civitatis ad aquilonem, ducenta quinquaginta : et ad meridiem, ducenta quinquaginta : et ad orientem, ducenta quinquaginta : et ad mare, ducenta quinquaginta. 
+    18: Quod autem reliquum fuerit in longitudine secundum primitias sanctuarii, decem millia in orientem, et decem millia in occidentem, erunt sicut primitiae sanctuarii : et erunt fruges ejus in panes his qui serviunt civitati. 
+    19: Servientes autem civitati, operabuntur ex omnibus tribubus Israel. 
+    20: Omnes primitiae viginti quinque millium, per viginti quinque millia in quadrum, separabuntur in primitias sanctuarii, et in possessionem civitatis.
+    21: Quod autem reliquum fuerit, principis erit ex omni parte primitiarum sanctuarii, et possessionis civitatis e regione viginti quinque millium primitiarum usque ad terminum orientalem : sed et ad mare, e regione viginti quinque millium, usque ad terminum maris, similiter in partibus principis erit : et erunt primitiae sanctuarii, et sanctuarium templi, in medio ejus. 
+    22: De possessione autem Levitarum, et de possessione civitatis in medio partium principis, erit inter terminum Juda et inter terminum Benjamin, et ad principem pertinebit. 
+    23: Et reliquis tribubus, a plaga orientali usque ad plagam occidentalem, Benjamin una. 
+    24: Et contra terminum Benjamin, a plaga orientali usque ad plagam occidentalem, Simeon una. 
+    25: Et super terminum Simeonis, a plaga orientali usque ad plagam occidentalem, Issachar una.
+    26: Et super terminum Issachar, a plaga orientali usque ad plagam occidentalem, Zabulon una. 
+    27: Et super terminum Zabulon, a plaga orientali usque ad plagam maris, Gad una. 
+    28: Et super terminum Gad, ad plagam austri in meridie : et erit finis de Thamar usque ad aquas contradictionis Cades : haereditas contra mare magnum. 
+    29: Haec est terra quam mittetis in sortem tribubus Israel, et hae partitiones earum, ait Dominus Deus. 
+    30: Et hi egressus civitatis : a plaga septentrionali, quingentos et quatuor millibus mensurabis.
+    31: Et portae civitatis ex nominibus tribuum Israel : portae tres a septentrione : porta Ruben una, porta Juda una, porta Levi una. 
+    32: Et ad plagam orientalem, quingentos et quatuor millia, et portae tres : porta Joseph una, porta Benjamin una, porta Dan una. 
+    33: Et ad plagam meridianam, quingentos et quatuor millia metieris, et portae tres : porta Simeonis una, porta Issachar una, porta Zabulon una. 
+    34: Et ad plagam occidentalem, quingentos et quatuor millia, et portae eorum tres : porta Gad una, porta Aser una, porta Nephthali una. 
+    35: Per circuitum, decem et octo millia : et nomen civitatis ex illa die, Dominus ibidem.
+
+End of day 258.

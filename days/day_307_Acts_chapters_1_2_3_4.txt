@@ -1,0 +1,153 @@
+Day 307:
+
+Reading Acts, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Primum quidem sermonem feci de omnibus, o Theophile, quae coepit Jesus facere, et docere 
+    2: usque in diem, qua praecipiens Apostolis per Spiritum Sanctum, quos elegit, assumptus est : 
+    3: quibus et praebuit seipsum vivum post passionem suam in multis argumentis, per dies quadraginta apparens eis, et loquens de regno Dei. 
+    4: Et convescens, praecepit eis ab Jerosolymis ne discederent, sed exspectarent promissionem Patris, quam audistis ( inquit) per os meum : 
+    5: quia Joannes quidem baptizavit aqua, vos autem baptizabimini Spiritu Sancto non post multos hos dies.
+    6: Igitur qui convenerant, interrogabant eum, dicentes : Domine, si in tempore hoc restitues regnum Israel? 
+    7: Dixit autem eis : Non est vestrum nosse tempora vel momenta, quae Pater posuit in sua potestate : 
+    8: sed accipietis virtutem supervenientis Spiritus Sancti in vos, et eritis mihi testes in Jerusalem, et in omni Judaea, et Samaria, et usque ad ultimum terrae. 
+    9: Et cum haec dixisset, videntibus illis, elevatus est : et nubes suscepit eum ab oculis eorum. 
+    10: Cumque intuerentur in caelum euntem illum, ecce duo viri astiterunt juxta illos in vestibus albis,
+    11: qui et dixerunt : Viri Galilaei, quid statis aspicientes in caelum? Hic Jesus, qui assumptus est a vobis in caelum, sic veniet quemadmodum vidistis eum euntem in caelum. 
+    12: Tunc reversi sunt Jerosolymam a monte qui vocatur Oliveti, qui est juxta Jerusalem, sabbati habens iter. 
+    13: Et cum introissent in coenaculum, ascenderunt ubi manebant Petrus, et Joannes, Jacobus, et Andreas, Philippus, et Thomas, Bartholomaeus, et Matthaeus, Jacobus Alphaei, et Simon Zelotes, et Judas Jacobi. 
+    14: Hi omnes erant perseverantes unanimiter in oratione cum mulieribus, et Maria matre Jesu, et fratribus ejus. 
+    15: In diebus illis exsurgens Petrus in medio fratrum dixit ( erat autem turba hominum simul, fere centum viginti) :
+    16: Viri fratres, oportet impleri Scripturam, quam praedixit Spiritus Sanctus per os David de Juda, qui fuit dux eorum, qui comprehenderunt Jesum : 
+    17: qui connumeratus erat in nobis, et sortitus est sortem ministerii hujus. 
+    18: Et hic quidem possedit agrum de mercede iniquitatis, et suspensus crepuit medius : et diffusa sunt omnia viscera ejus. 
+    19: Et notum factum est omnibus habitantibus Jerusalem, ita ut appellaretur ager ille, lingua eorum, Haceldama, hoc est, ager sanguinis. 
+    20: Scriptum est enim in libro Psalmorum : Fiat commoratio eorum deserta, et non sit qui inhabitet in ea : et episcopatum ejus accipiat alter.
+    21: Oportet ergo ex his viris qui nobiscum sunt congregati in omni tempore, quo intravit et exivit inter nos Dominus Jesus, 
+    22: incipiens a baptismate Joannis usque in diem qua assumptus est a nobis, testem resurrectionis ejus nobiscum fieri unum ex istis. 
+    23: Et statuerunt duos, Joseph, qui vocabatur Barsabas, qui cognominatus est Justus, et Mathiam. 
+    24: Et orantes dixerunt : Tu Domine, qui corda nosti omnium, ostende quem elegeris ex his duobus unum, 
+    25: accipere locum ministerii hujus, et apostolatus, de quo praevaricatus est Judas ut abiret in locum suum.
+    26: Et dederunt sortes eis, et cecidit sors super Mathiam, et annumeratus est cum undecim Apostolis.
+
+  Chapter 2.
+
+    1: Et cum complerentur dies Pentecostes, erant omnes pariter in eodem loco : 
+    2: et factus est repente de caelo sonus, tamquam advenientis spiritus vehementis, et replevit totam domum ubi erant sedentes. 
+    3: Et apparuerunt illis dispertitae linguae tamquam ignis, seditque supra singulos eorum : 
+    4: et repleti sunt omnes Spiritu Sancto, et coeperunt loqui variis linguis, prout Spiritus Sanctus dabat eloqui illis. 
+    5: Erant autem in Jerusalem habitantes Judaei, viri religiosi ex omni natione, quae sub caelo est.
+    6: Facta autem hac voce, convenit multitudo, et mente confusa est, quoniam audiebat unusquisque lingua sua illos loquentes. 
+    7: Stupebant autem omnes, et mirabantur, dicentes : Nonne ecce omnes isti, qui loquuntur, Galilaei sunt, 
+    8: et quomodo nos audivimus unusquisque linguam nostram, in qua nati sumus? 
+    9: Parthi, et Medi, et Aelamitae, et qui habitant Mespotamiam, Judaeam, et Cappadociam, Pontum, et Asiam, 
+    10: Phrygiam, et Pamphyliam, Aegyptum, et partes Libyae, quae est circa Cyrenen, et advenae Romani,
+    11: Judaei quoque, et Proselyti, Cretes, et Arabes : audivimus eos loquentes nostris linguis magnalia Dei. 
+    12: Stupebant autem omnes, et mirabantur ad invicem, dicentes : Quidnam vult hoc esse? 
+    13: Alii autem irridentes dicebant : Quia musto pleni sunt isti. 
+    14: Stans autem Petrus cum undecim, levavit vocem suam, et locutus est eis : Viri Judaei, et qui habitatis Jerusalem universi, hoc vobis notum sit, et auribus percipite verba mea. 
+    15: Non enim, sicut vos aestimatis, hi ebrii sunt, cum sit hora diei tertia :
+    16: sed hoc est quod dictum est per prophetam Joel : 
+    17: Et erit in novissimis diebus, dicit Dominus, effundam de Spiritu meo super omnem carnem : et prophetabunt filii vestri, et filiae vestrae, et juvenes vestri visiones videbunt, et seniores vestri somnia somniabunt. 
+    18: Et quidem super servos meos, et super ancillas meas, in diebus illis effundam de Spiritu meo, et prophetabunt : 
+    19: et dabo prodigia in caelo sursum, et signa in terra deorsum, sanguinem, et ignem, et vaporem fumi : 
+    20: sol convertetur in tenebras, et luna in sanguinem, antequam veniat dies Domini magnus et manifestus.
+    21: Et erit : omnis quicumque invocaverit nomen Domini, salvus erit. 
+    22: Viri Israelitae, audite verba haec : Jesum Nazarenum, virum approbatum a Deo in vobis, virtutibus, et prodigiis, et signis, quae fecit Deus per illum in medio vestri, sicut et vos scitis : 
+    23: hunc, definito consilio, et praescientia Dei traditum, per manus iniquorum affligentes interemistis : 
+    24: quem Deus suscitavit, solutis doloribus inferni, juxta quod impossibile erat teneri illum ab eo. 
+    25: David enim dicit in eum : Providebam Dominum in conspectu meo semper : quoniam a dextris est mihi, ne commovear :
+    26: propter hoc laetatum est cor meum, et exsultavit lingua mea, insuper et caro mea requiescet in spe : 
+    27: quoniam non derelinques animam meam in inferno, nec dabis sanctum tuum videre corruptionem. 
+    28: Notas mihi fecisti vias vitae : et replebis me jucunditate cum facie tua. 
+    29: Viri fratres, liceat audenter dicere ad vos de patriarcha David, quoniam defunctus est, et sepultus : et sepulchrum ejus est apud nos usque in hodiernum diem. 
+    30: Propheta igitur cum esset, et sciret quia jurejurando jurasset illi Deus de fructu lumbi ejus sedere super sedem ejus :
+    31: providens locutus est de resurrectione Christi, quia neque derelictus est in inferno, neque caro ejus vidit corruptionem. 
+    32: Hunc Jesum resuscitavit Deus, cujus omnes nos testes sumus. 
+    33: Dextera igitur Dei exaltatus, et promissione Spiritus Sancti accepta a Patre, effudit hunc, quem vos videtis, et auditis. 
+    34: Non enim David ascendit in caelum : dixit autem ipse : Dixit Dominus Domino meo : Sede a dextris meis 
+    35: donec ponam inimicos tuos scabellum pedum tuorum.
+    36: Certissime sciat ergo omnis domus Israel, quia et Dominum eum, et Christum fecit Deus, hunc Jesum, quem vos crucifixistis. 
+    37: His autem auditis, compuncti sunt corde, et dixerunt ad Petrum, et ad reliquos Apostolos : Quid faciemus, viri fratres? 
+    38: Petrus vero ad illos : Poenitentiam, inquit, agite, et baptizetur unusquisque vestrum in nomine Jesu Christi in remissionem peccatorum vestrorum : et accipietis donum Spiritus Sancti. 
+    39: Vobis enim est repromissio, et filiis vestris, et omnibus qui longe sunt, quoscumque advocaverit Dominus Deus noster. 
+    40: Aliis etiam verbis plurimis testificatus est, et exhortabatur eos, dicens : Salvamini a generatione ista prava.
+    41: Qui ergo receperunt sermonem ejus, baptizati sunt : et appositae sunt in die illa animae circiter tria millia. 
+    42: Erant autem perseverantes in doctrina Apostolorum, et communicatione fractionis panis, et orationibus. 
+    43: Fiebat autem omni animae timor : multa quoque prodigia et signa per Apostolos in Jerusalem fiebant, et metus erat magnus in universis. 
+    44: Omnes etiam qui credebant, erant pariter, et habebant omnia communia. 
+    45: Possessiones et substantias vendebant, et dividebant illa omnibus, prout cuique opus erat.
+    46: Quotidie quoque perdurantes unanimiter in templo, et frangentes circa domos panem, sumebant cibum cum exsultatione, et simplicitate cordis, 
+    47: collaudantes Deum et habentes gratiam ad omnem plebem. Dominus autem augebat qui salvi fierent quotidie in idipsum.
+
+  Chapter 3.
+
+    1: Petrus autem et Joannes ascendebant in templum ad horam orationis nonam. 
+    2: Et quidam vir, qui erat claudus ex utero matris suae, bajulabatur : quem ponebant quotidie ad portam templi, quae dicitur Speciosa, ut peteret eleemosynam ab introeuntibus in templum. 
+    3: Is cum vidisset Petrum et Joannem incipientes introire in templum, rogabat ut eleemosynam acciperet. 
+    4: Intuens autem in eum Petrus cum Joanne, dixit : Respice in nos. 
+    5: At ille intendebat in eos, sperans se aliquid accepturum ab eis.
+    6: Petrus autem dixit : Argentum et aurum non est mihi : quod autem habeo, hoc tibi do : in nomine Jesu Christi Nazareni surge, et ambula. 
+    7: Et apprehensa manu ejus dextera, allevavit eum, et protinus consolidatae sunt bases ejus et plantae. 
+    8: Et exiliens stetit, et ambulabat : et intravit cum illis in templum ambulans, et exiliens, et laudans Deum. 
+    9: Et vidit omnis populus eum ambulantem, et laudantem Deum. 
+    10: Cognoscebant autem illum, quod ipse erat, qui ad eleemosynam sedebat ad Speciosam portam templi : et impleti sunt stupore et extasi in eo quod contingerat illi.
+    11: Cum teneret autem Petrum et Joannem, cucurrit omnis populus ad eos ad porticum quae appellatur Salomonis, stupentes. 
+    12: Videns autem Petrus, respondit ad populum : Viri Israelitae, quid miramini in hoc, aut nos quid intuemini, quasi nostra virtute aut potestate fecerimus hunc ambulare? 
+    13: Deus Abraham, et Deus Isaac, et Deus Jacob, Deus patrum nostrorum glorificavit filium suum Jesum, quem vos quidem tradidistis, et negastis ante faciem Pilati, judicante illo dimitti. 
+    14: Vos autem sanctum et justum negastis, et petistis virum homicidam donari vobis : 
+    15: auctorem vero vitae interfecistis, quem Deus suscitavit a mortuis, cujus nos testes sumus.
+    16: Et in fide nominis ejus, hunc, quem vos vidistis, et nostis, confirmavit nomen ejus : et fides, quae per eum est, dedit integram sanitatem istam in conspectu omnium vestrum. 
+    17: Et nunc, fratres, scio quia per ignorantiam fecistis, sicut et principes vestri. 
+    18: Deus autem, quae praenuntiavit per os omnium prophetarum, pati Christum suum, sic implevit. 
+    19: Poenitemini igitur, et convertimini ut deleantur peccata vestra : 
+    20: ut cum venerint tempora refrigerii a conspectu Domini, et miserit eum qui praedicatus est vobis, Jesum Christum,
+    21: quem oportet quidem caelum suscipere usque in tempora restitutionis omnium, quae locutus est Deus per os sanctorum suorum a saeculo prophetarum. 
+    22: Moyses quidem dixit : Quoniam prophetam suscitabit vobis Dominus Deus vester de fratribus vestris, tamquam me, ipsum audietis juxta omnia quaecumque locutus fuerit vobis. 
+    23: Erit autem : omnis anima, quae non audierit prophetam illum, exterminabitur de plebe. 
+    24: Et omnes prophetae a Samuel, et deinceps, qui locuti sunt, annuntiaverunt dies istos. 
+    25: Vos estis filii prophetarum et testamenti, quod disposuit Deus ad patres nostros, dicens ad Abraham : Et in semine tuo benedicentur omnes familiae terrae.
+    26: Vobis primum Deus suscitans filium suum, misit eum benedicentem vobis : ut convertat se unusquisque a nequitia sua.
+
+  Chapter 4.
+
+    1: Loquentibus autem illis ad populum, supervenerunt sacerdotes, et magistratus templi, et sadducaei, 
+    2: dolentes quod docerent populum, et annuntiarent in Jesu resurrectionem ex mortuis : 
+    3: et injecerunt in eos manus, et posuerunt eos in custodiam in crastinum : erat enim jam vespera. 
+    4: Multi autem eorum, qui audierant verbum, crediderunt : et factus est numerus virorum quinque millia. 
+    5: Factum est autem in crastinum, ut congregarentur principes eorum, et seniores, et scribae in Jerusalem.
+    6: Et Annas princeps sacerdotum, et Caiphas, et Joannes, et Alexander, et quotquot erant de genere sacerdotali. 
+    7: Et statuentes eos in medio, interrogabant : In qua virtute, aut in quo nomine fecistis hoc vos? 
+    8: Tunc repletus Spiritu Sancto Petrus, dixit ad eos : Principes populi, et seniores, audite : 
+    9: si nos hodie dijudicamur in benefacto hominis infirmi, in quo iste salvus factus est, 
+    10: notum sit omnibus vobis, et omni plebi Israel : quia in nomine Domini nostri Jesu Christi Nazareni, quem vos crucifixistis, quem Deus suscitavit a mortuis, in hoc iste astat coram vobis sanus.
+    11: Hic est lapis qui reprobatus est a vobis aedificantibus, qui factus est in caput anguli : 
+    12: et non est in alio aliquo salus. Nec enim aliud nomen est sub caelo datum hominibus, in quo oporteat nos salvos fieri. 
+    13: Videntes autem Petri constantiam, et Joannis, comperto quod homines essent sine litteris, et idiotae, admirabantur, et cognoscebant eos quoniam cum Jesu fuerant : 
+    14: hominem quoque videntes stantem cum eis, qui curatus fuerat, nihil poterant contradicere. 
+    15: Jusserunt autem eos foras extra concilium secedere : et conferebant ad invicem,
+    16: dicentes : Quid faciemus hominibus istis? quoniam quidem notum signum factum est per eos, omnibus habitantibus Jerusalem : manifestum est, et non possumus negare. 
+    17: Sed ne amplius divulgetur in populum, comminemur eis, ne ultra loquantur in nomine hoc ulli hominum. 
+    18: Et vocantes eos, denuntiaverunt ne omnino loquerentur, neque docerent in nomine Jesu. 
+    19: Petrus vero et Joannes respondentes, dixerunt ad eos : Si justum est in conspectu Dei, vos potius audire quam Deum, judicate. 
+    20: Non enim possumus quae vidimus et audivimus non loqui.
+    21: At illi comminantes dimiserunt eos : non invenientes quomodo punirent eos propter populum, quia omnes clarificabant id quod factum fuerat in eo quod acciderat. 
+    22: Annorum enim erat amplius quadraginta homo, in quo factum fuerat signum istud sanitatis. 
+    23: Dimissi autem venerunt ad suos, et annuntiaverunt eis quanta ad eos principes sacerdotum et seniores dixissent. 
+    24: Qui cum audissent, unanimiter levaverunt vocem ad Deum, et dixerunt : Domine, tu es qui fecisti caelum et terram, mare et omnia quae in eis sunt : 
+    25: qui Spiritu Sancto per os patris nostri David, pueri tui, dixisti : Quare fremuerunt gentes, et populi meditati sunt inania?
+    26: Astiterunt reges terrae, et principes convenerunt in unum adversus Dominum, et adversus Christum ejus? 
+    27: Convenerunt enim vere in civitate ista adversus sanctum puerum tuum Jesum, quem unxisti, Herodes, et Pontius Pilatus, cum gentibus, et populis Israel, 
+    28: facere quae manus tua et consilium tuum decreverunt fieri. 
+    29: Et nunc, Domine, respice in minas eorum, et da servis tuis cum omni fiducia loqui verbum tuum, 
+    30: in eo quod manum tuam extendas ad sanitates, et signa, et prodigia fieri per nomen sancti filii tui Jesu.
+    31: Et cum orassent, motus est locus in quo erant congregati : et repleti sunt omnes Spiritu Sancto, et loquebantur verbum Dei cum fiducia. 
+    32: Multitudinis autem credentium erat cor unum, et anima una : nec quisquam eorum quae possidebat, aliquid suum esse dicebat, sed erant illis omnia communia. 
+    33: Et virtute magna reddebant Apostoli testimonium resurrectionis Jesu Christi Domini nostri : et gratia magna erat in omnibus illis. 
+    34: Neque enim quisquam egens erat inter illos. Quotquot enim possessores agrorum aut domorum erant, vendentes afferebant pretia eorum quae vendebant, 
+    35: et ponebant ante pedes Apostolorum. Dividebatur autem singulis prout cuique opus erat.
+    36: Joseph autem, qui cognominatus est Barnabas ab Apostolis ( quod est interpretatum Filius consolationis), Levites, Cyprius genere, 
+    37: cum haberet agrum, vendidit eum, et attulit pretium, et posuit ante pedes Apostolorum.
+
+End of day 307.

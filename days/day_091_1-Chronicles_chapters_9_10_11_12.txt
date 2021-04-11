@@ -1,0 +1,161 @@
+Day 91:
+
+Reading 1-Chronicles, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Universus ergo Israel dinumeratus est et summa eorum scripta est in libro regum Israel, et Juda : translatique sunt in Babylonem propter delictum suum. 
+    2: Qui autem habitaverunt primi in possessionibus, et in urbibus suis : Israel, et sacerdotes, et Levitae, et Nathinaei. 
+    3: Commorati sunt in Jerusalem de filiis Juda, et de filiis Benjamin, de filiis quoque Ephraim, et Manasse. 
+    4: Othei filius Ammiud, filii Amri, filii Omrai, filii Bonni, de filiis Phares filii Juda. 
+    5: Et de Siloni : Asaia primogenitus, et filii ejus.
+    6: De filiis autem Zara, Jehuel, et fratres eorum, sexcenti nonaginta. 
+    7: Porro de filiis Benjamin : Salo filius Mosollam, filii Oduia, filii Asana : 
+    8: et Jobania filius Jeroham : et Ela filius Ozi, filii Mochori : et Mosollam filius Saphatiae, filii Rahuel, filii Jebaniae, 
+    9: et fratres eorum per familias suas, nongenti quinquaginta sex. Omnes hi, principes cognationum per domos patrum suorum. 
+    10: De sacerdotibus autem : Jedaia, Joiarib, et Jachin :
+    11: Azarias quoque filius Helciae, filii Mosollam, filii Sadoc, filii Maraioth, filii Achitob, pontifex domus Dei. 
+    12: Porro Adaias filius Jeroham, filii Phassur, filii Melchiae : et Maasai filius Adiel filii Jezra, filii Mosollam, filii Mosollamith, filii Emmer. 
+    13: Fratres quoque eorum principes per familias suas, mille septingenti sexaginta, fortissimi robore ad faciendum opus ministerii in domo Dei. 
+    14: De Levitis autem : Semeia filius Hassub filii Ezricam, filii Hasebia de filiis Merari. 
+    15: Bacbacar quoque carpentarius, et Galal, et Mathania filius Micha, filii Zechri, filii Asaph :
+    16: et Obdia filius Semeiae, filii Galal, filii Idithun : et Barachia filius Asa, filii Elcana, qui habitavit in atriis Netophati. 
+    17: Janitores autem : Sellum, et Accub, et Telmon, et Ahimam : et frater eorum Sellum princeps, 
+    18: usque ad illud tempus, in porta regis ad orientem, observabant per vices suas de filiis Levi. 
+    19: Sellum vero filius Core filii Abiasaph, filii Core, cum fratribus suis, et domo patris sui, hi sunt Coritae super opera ministerii, custodes vestibulorum tabernaculi : et familiae eorum per vices castrorum Domini custodientes introitum. 
+    20: Phinees autem filius Eleazari, erat dux eorum coram Domino.
+    21: Porro Zacharias filius Mosollamia, janitor portae tabernaculi testimonii. 
+    22: Omnes hi electi in ostiarios per portas, ducenti duodecim : et descripti in villis propriis, quos constituerunt David, et Samuel videns, in fide sua 
+    23: tam ipsos, quam filios eorum in ostiis domus Domini, et in tabernaculo vicibus suis. 
+    24: Per quatuor ventos erant ostiarii : id est, ad orientem, et ad occidentem, et ad aquilonem, et ad austrum. 
+    25: Fratres autem eorum in viculis morabantur, et veniebant in sabbatis suis de tempore usque ad tempus.
+    26: His quatuor Levitis creditus erat omnis numerus janitorum, et erant super exedras, et thesauros domus Domini. 
+    27: Per gyrum quoque templi Domini morabantur in custodiis suis : ut cum tempus fuisset, ipsi mane aperirent fores. 
+    28: De horum genere erant et super vasa ministerii : ad numerum enim et inferebantur vasa, et efferebantur. 
+    29: De ipsis et qui credita habebant utensilia sanctuarii, praeerant similae, et vino, et oleo, et thuri, et aromatibus. 
+    30: Filii autem sacerdotum unguenta ex aromatibus conficiebant.
+    31: Et Mathathias Levites primogenitus Sellum Coritae, praefectus erat eorum, quae in sartagine frigebantur. 
+    32: Porro de filiis Caath fratribus eorum, super panes erant propositionis, ut semper novos per singula sabbata praepararent. 
+    33: Hi sunt principes cantorum per familias Levitarum, qui in exedris morabantur, ut die ac nocte jugiter suo ministerio deservirent. 
+    34: Capita Levitarum, per familias suas principes, manserunt in Jerusalem. 
+    35: In Gabaon autem commorati sunt pater Gabaon Jehiel, et nomen uxoris ejus Maacha.
+    36: Filius primogenitus ejus Abdon, et Sur, et Cis, et Baal, et Ner, et Nadab, 
+    37: Gedor quoque, et Ahio, et Zacharias, et Macelloth. 
+    38: Porro Macelloth genuit Samaan : isti habitaverunt e regione fratrum suorum in Jerusalem cum fratribus suis. 
+    39: Ner autem genuit Cis : et Cis genuit Saul : et Saul genuit Jonathan, et Melchisua, et Abinadab, et Esbaal. 
+    40: Filius autem Jonathan, Meribbaal : et Meribbaal genuit Micha.
+    41: Porro filii Micha, Phithon, et Melech, et Tharaa, et Ahaz. 
+    42: Ahaz autem genuit Jara, et Jara genuit Alamath, et Azmoth, et Zamri. Zamri autem genuit Mosa. 
+    43: Mosa vero genuit Banaa : cujus filius Raphaia, genuit Elasa : de quo ortus est Asel. 
+    44: Porro Asel sex filios habuit his nominibus : Ezricam, Bocru, Ismahel, Saria, Obdia, Hanan : hi sunt filii Asel.
+
+  Chapter 10.
+
+    1: Philisthiim autem pugnabant contra Israel, fugeruntque viri Israel Palaesthinos, et ceciderunt vulnerati in monte Gelboe. 
+    2: Cumque appropinquassent Philisthaei, persequentes Saul, et filios ejus, percusserunt Jonathan, et Abinadab, et Melchisua filios Saul. 
+    3: Et aggravatum est praelium contra Saul, inveneruntque eum sagittarii, et vulneraverunt jaculis. 
+    4: Et dixit Saul ad armigerum suum : Evagina gladium tuum, et interfice me, ne forte veniant incircumcisi isti, et illudant mihi. Noluit autem armiger ejus hoc facere, timore perterritus : arripuit ergo Saul ensem, et irruit in eum. 
+    5: Quod cum vidisset armiger ejus, videlicet mortuum esse Saul, irruit etiam ipse in gladium suum, et mortuus est.
+    6: Interiit ergo Saul, et tres filii ejus, et omnis domus illius pariter concidit. 
+    7: Quod cum vidissent viri Israel, qui habitabant in campestribus, fugerunt : et Saul ac filiis ejus mortuis, dereliquerunt urbes suas, et huc illucque dispersi sunt : veneruntque Philisthiim, et habitaverunt in eis. 
+    8: Die igitur altero detrahentes Philisthiim spolia caesorum, invenerunt Saul, et filios ejus jacentes in monte Gelboe. 
+    9: Cumque spoliassent eum, et amputassent caput, armisque nudassent, miserunt in terram suam, ut circumferretur, et ostenderetur idolorum templis, et populis : 
+    10: arma autem ejus consecraverunt in fano dei sui, et caput affixerunt in templo Dagon.
+    11: Hoc cum audissent viri Jabes Galaad, omnia scilicet quae Philisthiim fecerant super Saul, 
+    12: consurrexerunt singuli virorum fortium, et tulerunt cadavera Saul et filiorum ejus : attuleruntque ea in Jabes, et sepelierunt ossa eorum subter quercum, quae erat in Jabes, et jejunaverunt septem diebus. 
+    13: Mortuus est ergo Saul propter iniquitates suas, eo quod praevaricatus sit mandatum Domini quod praeceperat, et non custodierit illud : sed insuper etiam pythonissam consuluerit, 
+    14: nec speraverit in Domino : propter quod interfecit eum, et transtulit regnum ejus ad David filium Isai.
+
+  Chapter 11.
+
+    1: Congregatus est igitur omnis Israel ad David in Hebron, dicens : Os tuum sumus, et caro tua. 
+    2: Heri quoque et nudiustertius cum adhuc regnaret Saul, tu eras qui educebas, et introducebas Israel : tibi enim dixit Dominus Deus tuus : Tu pasces populum meum Israel, et tu eris princeps super eum. 
+    3: Venerunt ergo omnes majores natu Israel ad regem in Hebron, et iniit David cum eis foedus coram Domino : unxeruntque eum regem super Israel, juxta sermonem Domini, quem locutus est in manu Samuel. 
+    4: Abiit quoque David, et omnis Israel in Jerusalem : haec est Jebus, ubi erant Jebusaei habitatores terrae. 
+    5: Dixeruntque qui habitabant in Jebus ad David : Non ingredieris huc. Porro David cepit arcem Sion, quae est civitas David,
+    6: dixitque : Omnis qui percusserit Jebusaeum in primis, erit princeps, et dux. Ascendit igitur primus Joab filius Sarviae, et factus est princeps. 
+    7: Habitavit autem David in arce, et idcirco appellata est civitas David. 
+    8: Aedificavitque urbem in circuitu a Mello usque ad gyrum, Joab autem reliqua urbis exstruxit. 
+    9: Proficiebatque David vadens et crescens, et Dominus exercituum erat cum eo. 
+    10: Hi principes virorum fortium David, qui adjuverunt eum ut rex fieret super omnem Israel juxta verbum Domini, quod locutus est ad Israel.
+    11: Et iste numerus robustorum David : Jesbaam filius Hachamoni princeps inter triginta : iste levavit hastam suam super trecentos vulneratos una vice. 
+    12: Et post eum Eleazar filius patrui ejus Ahohites, qui erat inter tres potentes. 
+    13: Iste fuit cum David in Phesdomim, quando Philisthiim congregati sunt ad locum illum in praelium : et erat ager regionis illius plenus hordeo, fugeratque populus a facie Philisthinorum. 
+    14: Hi steterunt in medio agri, et defenderunt eum : cumque percussissent Philisthaeos, dedit Dominus salutem magnam populo suo. 
+    15: Descenderunt autem tres de triginta principibus ad petram, in qua erat David, ad speluncam Odollam, quando Philisthiim fuerant castrametati in valle Raphaim.
+    16: Porro David erat in praesidio, et statio Philisthinorum in Bethlehem. 
+    17: Desideravit igitur David, et dixit : O si quis daret mihi aquam de cisterna Bethlehem, quae est in porta! 
+    18: Tres ergo isti per media castra Philisthinorum perrexerunt, et hauserunt aquam de cisterna Bethlehem, quae erat in porta, et attulerunt ad David ut biberet. Qui noluit, sed magis libavit illam Domino, 
+    19: dicens : Absit ut in conspectu Dei mei hoc faciam, et sanguinem istorum virorum bibam : quia in periculo animarum suarum attulerunt mihi aquam. Et ob hanc causam noluit bibere : haec fecerunt tres robustissimi. 
+    20: Abisai quoque frater Joab ipse erat princeps trium, et ipse levavit hastam suam contra trecentos vulneratos, et ipse erat inter tres nominatissimus,
+    21: et inter tres secundos inclytus, et princeps eorum : verumtamen usque ad tres primos non pervenerat. 
+    22: Banaias filius Jojadae viri robustissimi, qui multa opera perpetrarat, de Cabseel : ipse percussit duos Ariel Moab : et ipse descendit, et interfecit leonem in media cisterna tempore nivis. 
+    23: Et ipse percussit virum aegyptium, cujus statura erat quinque cubitorum, et habebat lanceam ut liciatorium texentium : descendit igitur ad eum cum virga, et rapuit hastam, quam tenebat manu, et interfecit eum hasta sua. 
+    24: Haec fecit Banaias filius Jojadae, qui erat inter tres robustos nominatissimus, 
+    25: inter triginta primus, verumtamen ad tres usque non pervenerat : posuit autem eum David ad auriculam suam.
+    26: Porro fortissimi viri in exercitu, Asahel frater Joab, et Elchanan filius patrui ejus de Bethlehem, 
+    27: Sammoth Arorites, Helles Pharonites, 
+    28: Ira filius Acces Thecuites, Abiezer Anathothites, 
+    29: Sobbochai Husathites, Ilai Ahohites, 
+    30: Maharai Netophathites, Heled filius Baana Netophathites,
+    31: Ethai filius Ribai de Gabaath filiorum Benjamin, Banaia Pharatonites, 
+    32: Hurai de torrente Gaas, Abiel Arbathites, Azmoth Bauramites, Eliaba Salabonites. 
+    33: Filii Assem Gezonites, Jonathan filius Sage Ararites, 
+    34: Ahiam filius Sachar Ararites, 
+    35: Eliphal filius Ur,
+    36: Hepher Mecherathites, Ahia Phelonites, 
+    37: Hesro Carmelites, Naarai filius Asbai, 
+    38: Joel frater Nathan, Mibahar filius Agarai, 
+    39: Selec Ammonites, Naharai Berothites armiger Joab filii Sarviae, 
+    40: Ira Jethraeus, Gareb Jethraeus,
+    41: Urias Hethaeus, Zabad filius Oholi, 
+    42: Adina filius Siza Rubenites princeps Rubenitarum, et cum eo triginta : 
+    43: Hanan filius Maacha, et Josaphat Mathanites, 
+    44: Ozia Astarothites, Samma, et Jehiel filii Hotham Arorites, 
+    45: Jedihel filius Samri, et Joha frater ejus Thosaites,
+    46: Eliel Mahumites, et Jeribai, et Josaia filii Elnaem, et Jethma Moabites, Eliel, et Obed, et Jasiel de Masobia.
+
+  Chapter 12.
+
+    1: Hi quoque venerunt ad David in Siceleg, cum adhuc fugeret Saul filium Cis, qui erant fortissimi et egregii pugnatores, 
+    2: tendentes arcum, et utraque manu fundis saxa jacientes, et dirigentes sagittas : de fratribus Saul ex Benjamin. 
+    3: Princeps Ahiecer, et Joas filii Samaa Gabaathites, et Jaziel, et Phallet filii Azmoth, et Baracha, et Jehu Anathotites. 
+    4: Samaias quoque Gabaonites fortissimus inter triginta et super triginta. Jeremias, et Jeheziel, et Johanan, et Jezabad Gaderothites. 
+    5: Et Eluzai et Jerimuth, et Baalia, et Samaria, et Saphatia Haruphites.
+    6: Elcana, et Jesia, et Azareel, et Joezer, et Jesbaam de Carehim : 
+    7: Joela quoque, et Zabadia filii Jeroham de Gedor. 
+    8: Sed et de Gaddi transfugerunt ad David cum lateret in deserto, viri robustissimi, et pugnatores optimi, tenentes clypeum et hastam : facies eorum quasi facies leonis, et veloces quasi capreae in montibus : 
+    9: Ezer princeps, Obdias secundus, Eliab tertius, 
+    10: Masmana quartus, Jeremias quintus,
+    11: Ethi sextus, Eliel septimus, 
+    12: Johanan octavus, Elzebad nonus, 
+    13: Jeremias decimus, Machbanai undecimus. 
+    14: Hi de filiis Gad principes exercitus : novissimus centum militibus praeerat, et maximus, mille. 
+    15: Isti sunt qui transierunt Jordanem mense primo, quando inundare consuevit super ripas suas : et omnes fugaverunt qui morabantur in vallibus ad orientalem plagam et occidentalem.
+    16: Venerunt autem et de Benjamin, et de Juda ad praesidium, in quo morabatur David. 
+    17: Egressusque est David obviam eis, et ait : Si pacifice venistis ad me ut auxiliemini mihi, cor meum jungatur vobis : si autem insidiamini mihi pro adversariis meis, cum ego iniquitatem in manibus non habeam, videat Deus patrum nostrorum, et judicet. 
+    18: Spiritus vero induit Amasai principem inter triginta, et ait : Tui sumus, o David; et tecum, fili Isai. Pax, pax tibi, et pax adjutoribus tuis : te enim adjuvat Deus tuus. Suscepit ergo eos David, et constituit principes turmae. 
+    19: Porro de Manasse transfugerunt ad David, quando veniebat cum Philisthiim adversus Saul, ut pugnaret : et non dimicavit cum eis, quia inito consilio remiserunt eum principes Philisthinorum, dicentes : Periculo capitis nostri revertetur ad dominum suum Saul. 
+    20: Quando igitur reversus est in Siceleg, transfugerunt ad eum de Manasse, Ednas, et Jozabad, et Jedihel, et Michael, et Ednas, et Jozabad, et Eliu, et Salathi, principes millium in Manasse.
+    21: Hi praebuerunt auxilium David adversus latrunculos : omnes enim erant viri fortissimi, et facti sunt principes in exercitu. 
+    22: Sed et per singulos dies veniebant ad David ad auxiliandum ei, usque dum fieret grandis numerus, quasi exercitus Dei. 
+    23: Iste quoque est numerus principum exercitus, qui venerunt ad David, cum esset in Hebron, ut transferrent regnum Saul ad eum, juxta verbum Domini. 
+    24: Filii Juda portantes clypeum et hastam, sex millia octingenti expediti ad praelium. 
+    25: De filiis Simeon virorum fortissimorum ad pugnandum, septem millia centum.
+    26: De filiis Levi, quatuor millia sexcenti. 
+    27: Jojoda quoque princeps de stirpe Aaron, et cum eo tria millia septingenti. 
+    28: Sadoc etiam puer egregiae indolis, et domus patris ejus, principes viginti duo. 
+    29: De filiis autem Benjamin fratribus Saul, tria millia : magna enim pars eorum adhuc sequebatur domum Saul. 
+    30: Porro de filiis Ephraim viginti millia octingenti, fortissimi robore, viri nominati in cognationibus suis.
+    31: Et ex dimidia tribu Manasse, decem et octo millia, singuli per nomina sua venerunt ut constituerent regem David. 
+    32: De filiis quoque Issachar viri eruditi, qui noverant singula tempora ad praecipiendum quid facere deberet Israel, principes ducenti : omnis autem reliqua tribus eorum consilium sequebatur. 
+    33: Porro de Zabulon qui egrediebantur ad praelium, et stabant in acie instructi armis bellicis, quinquaginta millia venerunt in auxilium, non in corde duplici. 
+    34: Et de Nephthali, principes mille, et cum eis instructi clypeo et hasta, triginta et septem millia. 
+    35: De Dan etiam praeparati ad praelium, viginti octo millia sexcenti.
+    36: Et de Aser egredientes ad pugnam, et in acie provocantes, quadraginta millia. 
+    37: Trans Jordanem autem de filiis Ruben, et de Gad, et dimidia parte tribus Manasse instructi armis bellicis, centum viginti millia. 
+    38: Omnes isti viri bellatores expediti ad pugnandum, corde perfecto venerunt in Hebron, ut constituerent regem David super universum Israel : sed et omnes reliqui ex Israel, uno corde erant, ut rex fieret David. 
+    39: Fueruntque ibi apud David tribus diebus comedentes et bibentes : praeparaverant enim eis fratres sui. 
+    40: Sed et qui juxta eos erant, usque ad Issachar, et Zabulon, et Nephthali, afferebant panes in asinis, et camelis, et mulis, et bobus ad vescendum : farinam, palathas, uvam passam, vinum, oleum, boves, arietes ad omnem copiam : gaudium quippe erat in Israel.
+
+End of day 91.

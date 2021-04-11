@@ -1,0 +1,172 @@
+Day 66:
+
+Reading 1-Samuel, chapters ['17', '18', '19', '20']:
+
+  Chapter 17.
+
+    1: Congregantes autem Philisthiim agmina sua in praelium, convenerunt in Socho Judae : et castrametati sunt inter Socho et Azeca in finibus Dommim. 
+    2: Porro Saul et filii Israel congregati venerunt in Vallem terebinthi, et direxerunt aciem ad pugnandum contra Philisthiim. 
+    3: Et Philisthiim stabant super montem ex parte hac, et Israel stabat supra montem ex altera parte : vallisque erat inter eos. 
+    4: Et egressus est vir spurius de castris Philisthinorum nomine Goliath, de Geth, altitudinis sex cubitorum et palmi : 
+    5: et cassis aerea super caput ejus, et lorica squamata induebatur. Porro pondus loricae ejus, quinque millia siclorum aeris erat :
+    6: et ocreas aereas habebat in cruribus : et clypeus aereus tegebat humeros ejus. 
+    7: Hastile autem hastae ejus erat quasi liciatorium texentium : ipsum autem ferrum hastae ejus sexcentos siclos habebat ferri : et armiger ejus antecedebat eum. 
+    8: Stansque clamabat adversum phalangas Israel, et dicebat eis : Quare venistis parati ad praelium? Numquid ego non sum Philisthaeus, et vos servi Saul? Eligite ex vobis virum, et descendat ad singulare certamen. 
+    9: Si quiverit pugnare mecum, et percusserit me, erimus vobis servi : si autem ego praevaluero, et percussero eum, vos servi eritis, et servietis nobis. 
+    10: Et aiebat Philisthaeus : Ego exprobravi agminibus Israel hodie : date mihi virum, et ineat mecum singulare certamen.
+    11: Audiens autem Saul, et omnes Israelitae, sermones Philisthaei hujuscemodi, stupebant, et metuebant nimis. 
+    12: David autem erat filius viri Ephrathaei, de quo supra dictum est, de Bethlehem Juda, cui nomen erat Isai, qui habebat octo filios, et erat vir in diebus Saul senex, et grandaevus inter viros. 
+    13: Abierunt autem tres filii ejus majores post Saul in praelium : et nomina trium filiorum ejus, qui perrexerunt ad bellum, Eliab primogenitus, et secundus Abinadab, tertiusque Samma. 
+    14: David autem erat minimus. Tribus ergo majoribus secutis Saulem, 
+    15: abiit David, et reversus est a Saul, ut pasceret gregem patris sui in Bethlehem.
+    16: Procedebat vero Philisthaeus mane et vespere, et stabat quadraginta diebus. 
+    17: Dixit autem Isai ad David filium suum : Accipe fratribus tuis ephi polentae, et decem panes istos, et curre in castra ad fratres tuos, 
+    18: et decem formellas casei has deferes ad tribunum : et fratres tuos visitabis, si recte agant : et cum quibus ordinati sunt, disce. 
+    19: Saul autem, et illi, et omnes filii Israel, in Valle terebinthi pugnabant adversum Philisthiim. 
+    20: Surrexit itaque David mane, et commendavit gregem custodi : et onustus abiit, sicut praeceperat ei Isai. Et venit ad locum Magala, et ad exercitum, qui egressus ad pugnam vociferatus erat in certamine.
+    21: Direxerat enim aciem Israel, sed et Philisthiim ex adverso fuerant praeparati. 
+    22: Derelinquens ergo David vasa quae attulerat, sub manu custodis ad sarcinas, cucurrit ad locum certaminis, et interrogabat si omnia recte agerentur erga fratres suos. 
+    23: Cumque adhuc ille loqueretur eis, apparuit vir ille spurius ascendens, Goliath nomine Philisthaeus, de Geth, de castris Philisthinorum : et loquente eo haec eadem verba audivit David. 
+    24: Omnes autem Israelitae, cum vidissent virum, fugerunt a facie ejus, timentes eum valde. 
+    25: Et dixit unus quispiam de Israel : Num vidistis virum hunc, qui ascendit? ad exprobrandum enim Israeli ascendit. Virum ergo, qui percusserit eum, ditabit rex divitiis magnis, et filiam suam dabit ei, et domum patris ejus faciet absque tributo in Israel.
+    26: Et ait David ad viros, qui stabant secum, dicens : Quid dabitur viro, qui percusserit Philisthaeum hunc, et tulerit opprobrium de Israel? quis enim est hic Philisthaeus incircumcisus, qui exprobravit acies Dei viventis? 
+    27: Referebat autem ei populus eumdem sermonem, dicens : Haec dabuntur viro, qui percusserit eum. 
+    28: Quod cum audisset Eliab frater ejus major, loquente eo cum aliis, iratus est contra David, et ait : Quare venisti, et quare dereliquisti pauculas oves illas in deserto? Ego novi superbiam tuam, et nequitiam cordis tui : quia ut videres praelium, descendisti. 
+    29: Et dixit David : Quid feci? numquid non verbum est? 
+    30: Et declinavit paululum ab eo ad alium : dixitque eumdem sermonem. Et respondit ei populus verbum sicut prius.
+    31: Audita sunt autem verba, quae locutus est David, et annuntiata in conspectu Saul. 
+    32: Ad quem cum fuisset adductus, locutus est ei : Non concidat cor cujusquam in eo : ego servus tuus vadam, et pugnabo adversus Philisthaeum. 
+    33: Et ait Saul ad David : Non vales resistere Philisthaeo isti nec pugnare adversus eum : quia puer es, hic autem vir bellator est ab adolescentia sua. 
+    34: Dixitque David ad Saul : Pascebat servus tuus patris sui gregem, et veniebat leo, vel ursus, et tollebat arietem de medio gregis : 
+    35: et persequebar eos, et percutiebam, eruebamque de ore eorum : et illi consurgebant adversum me, et apprehendebam mentum eorum, et suffocabam, interficiebamque eos.
+    36: Nam et leonem et ursum interfeci ego servus tuus : erit igitur et Philisthaeus hic incircumcisus, quasi unus ex eis. Nunc vadam, et auferam opprobrium populi : quoniam quis est iste Philisthaeus incircumcisus, qui ausus est maledicere exercitui Dei viventis? 
+    37: Et ait David : Dominus qui eripuit me de manu leonis, et de manu ursi, ipse me liberabit de manu Philisthaei hujus. Dixit autem Saul ad David : Vade, et Dominus tecum sit. 
+    38: Et induit Saul David vestimentis suis, et imposuit galeam aeream super caput ejus, et vestivit eum lorica. 
+    39: Accinctus ergo David gladio ejus super vestem suam, coepit tentare si armatus posset incedere : non enim habebat consuetudinem. Dixitque David ad Saul : Non possum sic incedere, quia non usum habeo. Et deposuit ea, 
+    40: et tulit baculum suum, quem semper habebat in manibus : et elegit sibi quinque limpidissimos lapides de torrente, et misit eos in peram pastoralem, quam habebat secum, et fundam manu tulit : et processit adversum Philisthaeum.
+    41: Ibat autem Philisthaeus incedens, et appropinquans adversum David, et armiger ejus ante eum. 
+    42: Cumque inspexisset Philisthaeus, et vidisset David, despexit eum. Erat enim adolescens, rufus, et pulcher aspectu. 
+    43: Et dixit Philisthaeus ad David : Numquid ego canis sum, quod tu venis ad me cum baculo? Et maledixit Philisthaeus David in diis suis : 
+    44: dixitque ad David : Veni ad me, et dabo carnes tuas volatilibus caeli et bestiis terrae. 
+    45: Dixit autem David ad Philisthaeum : Tu venis ad me cum gladio, et hasta, et clypeo : ego autem venio ad te in nomine Domini exercituum, Dei agminum Israel, quibus exprobrasti
+    46: hodie, et dabit te Dominus in manu mea, et percutiam te, et auferam caput tuum a te : et dabo cadavera castrorum Philisthiim hodie volatilibus caeli, et bestiis terrae : ut sciat omnis terra quia est Deus in Israel : 
+    47: et noverit universa ecclesia haec, quia non in gladio, nec in hasta salvat Dominus : ipsius enim est bellum, et tradet vos in manus nostras. 
+    48: Cum ergo surrexisset Philisthaeus, et veniret, et appropinquaret contra David, festinavit David et cucurrit ad pugnam ex adverso Philisthaei. 
+    49: Et misit manum suam in peram, tulitque unum lapidem, et funda jecit, et circumducens percussit Philisthaeum in fronte : et infixus est lapis in fronte ejus, et cecidit in faciem suam super terram. 
+    50: Praevaluitque David adversum Philisthaeum in funda et lapide, percussumque Philisthaeum interfecit. Cumque gladium non haberet in manu David,
+    51: cucurrit, et stetit super Philisthaeum, et tulit gladium ejus, et eduxit eum de vagina sua : et interfecit eum, praeciditque caput ejus. Videntes autem Philisthiim quod mortuus esset fortissimus eorum, fugerunt. 
+    52: Et consurgentes viri Israel et Juda vociferati sunt, et persecuti sunt Philisthaeos usque dum venirent in vallem, et usque ad portas Accaron, cecideruntque vulnerati de Philisthiim in via Saraim, et usque ad Geth, et usque ad Accaron. 
+    53: Et revertentes filii Israel postquam persecuti fuerant Philisthaeos, invaserunt castra eorum. 
+    54: Assumens autem David caput Philisthaei, attulit illud in Jerusalem : arma vero ejus posuit in tabernaculo suo. 
+    55: Eo autem tempore, quo viderat Saul David egredientem contra Philisthaeum, ait ad Abner principem militiae : De qua stirpe descendit hic adolescens, Abner? Dixitque Abner : Vivit anima tua, rex, si novi.
+    56: Et ait rex : Interroga tu, cujus filius sit iste puer. 
+    57: Cumque regressus esset David, percusso Philisthaeo, tulit eum Abner, et introduxit coram Saule, caput Philisthaei habentem in manu. 
+    58: Et ait ad eum Saul : De qua progenie es, o adolescens? Dixitque David : Filius servi tui Isai Bethlehemitae ego sum.
+
+  Chapter 18.
+
+    1: Et factum est cum complesset loqui ad Saul : anima Jonathae conglutinata est animae David, et dilexit eum Jonathas quasi animam suam. 
+    2: Tulitque eum Saul in die illa, et non concessit ei ut reverteretur in domum patris sui. 
+    3: Inierunt autem David et Jonathas foedus : diligebat enim eum quasi animam suam. 
+    4: Nam expoliavit se Jonathas tunica, qua erat indutus, et dedit eam David, et reliqua vestimenta sua, usque ad gladium et arcum suum, et usque ad balteum. 
+    5: Egrediebatur quoque David ad omnia quaecumque misisset eum Saul, et prudenter se agebat : posuitque eum Saul super viros belli, et acceptus erat in oculis universi populi, maximeque in conspectu famulorum Saul.
+    6: Porro cum reverteretur percusso Philisthaeo David, egressae sunt mulieres de universis urbibus Israel, cantantes, chorosque ducentes in occursum Saul regis, in tympanis laetitiae, et in sistris. 
+    7: Et praecinebant mulieres ludentes, atque dicentes : Percussit Saul mille, et David decem millia. 
+    8: Iratus est autem Saul nimis, et displicuit in oculis ejus sermo iste : dixitque : Dederunt David decem millia, et mihi mille dederunt : quid ei superest, nisi solum regnum? 
+    9: Non rectis ergo oculis Saul aspiciebat David a die illa, et deinceps. 
+    10: Post diem autem alteram, invasit spiritus Dei malus Saul, et prophetabat in medio domus suae : David autem psallebat manu sua, sicut per singulos dies, tenebatque Saul lanceam,
+    11: et misit eam, putans quod configere posset David cum pariete, et declinavit David a facie ejus secundo. 
+    12: Et timuit Saul David, eo quod Dominus esset cum eo, et a se recessisset. 
+    13: Amovit ergo eum Saul a se, et fecit eum tribunum super mille viros : et egrediebatur, et intrabat in conspectu populi. 
+    14: In omnibus quoque viis suis David prudenter agebat, et Dominus erat cum eo. 
+    15: Vidit itaque Saul quod prudens esset nimis, et coepit cavere eum.
+    16: Omnis autem Israel et Juda diligebat David : ipse enim ingrediebatur et egrediebatur ante eos. 
+    17: Dixitque Saul ad David : Ecce filia mea major Merob, ipsam dabo tibi uxorem : tantummodo esto vir fortis, et praeliare bella Domini. Saul autem reputabat, dicens : Non sit manus mea in eum, sed sit super eum manus Philisthinorum. 
+    18: Ait autem David ad Saul : Quis ego sum, aut quae est vita mea, aut cognatio patris mei in Israel, ut fiam gener regis? 
+    19: Factum est autem tempus cum deberet dari Merob filia Saul David, data est Hadrieli Molathitae uxor. 
+    20: Dilexit autem David Michol filia Saul altera. Et nuntiatum est Saul, et placuit ei.
+    21: Dixitque Saul : Dabo eam illi, ut fiat ei in scandalum, et sit super eum manus Philisthinorum. Dixitque Saul ad David : In duabus rebus gener meus eris hodie. 
+    22: Et mandavit Saul servis suis : Loquimini ad David clam me, dicentes : Ecce places regi, et omnes servi ejus diligunt te. Nunc ergo esto gener regis. 
+    23: Et locuti sunt servi Saul in auribus David omnia verba haec. Et ait David : Num parum videtur vobis, generum esse regis? Ego autem sum vir pauper et tenuis. 
+    24: Et renuntiaverunt servi Saul dicentes : Hujuscemodi verba locutus est David. 
+    25: Dixit autem Saul : Sic loquimini ad David : Non habet rex sponsalia necesse, nisi tantum centum praeputia Philisthinorum, ut fiat ultio de inimicis regis. Porro Saul cogitabat tradere David in manus Philisthinorum.
+    26: Cumque renuntiassent servi ejus David verba quae dixerat Saul, placuit sermo in oculis David, ut fieret gener regis. 
+    27: Et post paucos dies surgens David, abiit cum viris qui sub eo erant. Et percussit ex Philisthiim ducentos viros, et attulit eorum praeputia et annumeravit ea regi, ut esset gener ejus. Dedit itaque Saul ei Michol filiam suam uxorem. 
+    28: Et vidit Saul, et intellexit quod Dominus esset cum David. Michol autem filia Saul diligebat eum. 
+    29: Et Saul magis coepit timere David : factusque est Saul inimicus David cunctis diebus. 
+    30: Et egressi sunt principes Philisthinorum. A principio autem egressionis eorum, prudentius se gerebat David quam omnes servi Saul, et celebre factum est nomen ejus nimis.
+
+  Chapter 19.
+
+    1: Locutus est autem Saul ad Jonatham filium suum, et ad omnes servos suos, ut occiderent David. Porro Jonathas filius Saul diligebat David valde. 
+    2: Et indicavit Jonathas David dicens : Quaerit Saul pater meus occidere te : quapropter observa te, quaeso, mane, et manebis clam, et absconderis. 
+    3: Ego autem egrediens stabo juxta patrem meum, in agro ubicumque fueris : et ego loquar de te ad patrem meum : et quodcumque videro, nuntiabo tibi. 
+    4: Locutus est ergo Jonathas de David bona ad Saul patrem suum : dixitque ad eum : Ne pecces rex in servum tuum David, quia non peccavit tibi, et opera ejus bona sunt tibi valde. 
+    5: Et posuit animam suam in manu sua, et percussit Philisthaeum, et fecit Dominus salutem magnam universo Israeli : vidisti, et laetatus es. Quare ergo peccas in sanguine innoxio, interficiens David, qui est absque culpa?
+    6: Quod cum audisset Saul, placatus voce Jonathae, juravit : Vivit Dominus, quia non occidetur. 
+    7: Vocavit itaque Jonathas David, et indicavit ei omnia verba haec : et introduxit Jonathas David ad Saul, et fuit ante eum, sicut fuerat heri et nudiustertius. 
+    8: Motum est autem rursum bellum : et egressus David, pugnavit adversum Philisthiim : percussitque eos plaga magna, et fugerunt a facie ejus. 
+    9: Et factus est spiritus Domini malus in Saul, sedebat autem in domo sua, et tenebat lanceam : porro David psallebat manu sua. 
+    10: Nisusque est Saul configere David lancea in pariete, et declinavit David a facie Saul : lancea autem casso vulnere perlata est in parietem, et David fugit, et salvatus est nocte illa.
+    11: Misit ergo Saul satellites suos in domum David, ut custodirent eum, et interficeretur mane. Quod cum annuntiasset David Michol uxor sua, dicens : Nisi salvaveris te nocte hac, cras morieris : 
+    12: deposuit eum per fenestram. Porro ille abiit et aufugit, atque salvatus est. 
+    13: Tulit autem Michol statuam, et posuit eam super lectum, et pellem pilosam caprarum posuit ad caput ejus, et operuit eam vestimentis. 
+    14: Misit autem Saul apparitores, qui raperent David : et responsum est quod aegrotaret. 
+    15: Rursumque misit Saul nuntios ut viderent David, dicens : Afferte eum ad me in lecto, ut occidatur.
+    16: Cumque venissent nuntii, inventum est simulacrum super lectum, et pellis caprarum ad caput ejus. 
+    17: Dixitque Saul ad Michol : Quare sic illusisti mihi, et dimisisti inimicum meum ut fugeret? Et respondit Michol ad Saul : Quia ipse locutus est mihi : Dimitte me, alioquin interficiam te. 
+    18: David autem fugiens, salvatus est, et venit ad Samuel in Ramatha, et nuntiavit ei omnia quae fecerat sibi Saul : et abierunt ipse et Samuel, et morati sunt in Najoth. 
+    19: Nuntiatum est autem Sauli a dicentibus : Ecce David in Najoth in Ramatha. 
+    20: Misit ergo Saul lictores, ut raperent David : qui cum vidissent cuneum prophetarum vaticinantium, et Samuelem stantem super eos, factus est etiam spiritus Domini in illis, et prophetare coeperunt etiam ipsi.
+    21: Quod cum nuntiatum esset Sauli, misit et alios nuntios : prophetaverunt autem et illi. Et rursum misit Saul tertios nuntios : qui et ipsi prophetaverunt. Et iratus iracundia Saul, 
+    22: abiit etiam ipse in Ramatha, et venit usque ad cisternam magnam, quae est in Socho, et interrogavit, et dixit : In quo loco sunt Samuel et David? Dictumque est ei : Ecce in Najoth sunt in Ramatha. 
+    23: Et abiit in Najoth in Ramatha, et factus est etiam super eum spiritus Domini, et ambulabat ingrediens, et prophetabat usque dum veniret in Najoth in Ramatha. 
+    24: Et expoliavit etiam ipse se vestimentis suis, et prophetavit cum ceteris coram Samuele, et cecidit nudus tota die illa et nocte. Unde et exivit proverbium : Num et Saul inter prophetas?
+
+  Chapter 20.
+
+    1: Fugit autem David de Najoth, quae est in Ramatha, veniensque locutus est coram Jonatha : Quid feci? quae est iniquitas mea, et quod peccatum meum in patrem tuum, quia quaerit animam meam? 
+    2: Qui dixit ei : Absit, non morieris : neque enim faciet pater meus quidquam grande vel parvum, nisi prius indicaverit mihi : hunc ergo celavit me pater meus sermonem tantummodo? nequaquam erit istud. 
+    3: Et juravit rursum Davidi. Et ille ait : Scit profecto pater tuus quia inveni gratiam in oculis tuis, et dicet : Nesciat hoc Jonathas, ne forte tristetur. Quinimmo vivit Dominus, et vivit anima tua, quia uno tantum ( ut ita dicam) gradu, ego morsque dividimur. 
+    4: Et ait Jonathas ad David : Quodcumque dixerit mihi anima tua, faciam tibi. 
+    5: Dixit autem David ad Jonathan : Ecce calendae sunt crastino, et ego ex more sedere soleo juxta regem ad vescendum : dimitte ergo me ut abscondar in agro usque ad vesperam diei tertiae.
+    6: Si respiciens requisierit me pater tuus, respondebis ei : Rogavit me David, ut iret celeriter in Bethlehem civitatem suam, quia victimae solemnes ibi sunt universis contribulibus suis. 
+    7: Si dixerit : Bene : pax erit servo tuo. Si autem fuerit iratus, scito quia completa est malitia ejus. 
+    8: Fac ergo misericordiam in servum tuum : quia foedus Domini me famulum tuum tecum inire fecisti; si autem est iniquitas aliqua in me, tu me interfice, et ad patrem tuum ne introducas me. 
+    9: Et ait Jonathas : Absit hoc a te : neque enim fieri potest, ut si certe cognovero completam esse patris mei malitiam contra te, non annuntiem tibi. 
+    10: Responditque David ad Jonathan : Quis renuntiabit mihi, si quid forte responderit tibi pater tuus dure de me?
+    11: Et ait Jonathas ad David : Veni, et egrediamur foras in agrum. Cumque exissent ambo in agrum, 
+    12: ait Jonathas ad David : Domine Deus Israel, si investigavero sententiam patris mei crastino vel perendie, et aliquid boni fuerit super David, et non statim misero ad te, et notum tibi fecero, 
+    13: haec faciat Dominus Jonathae, et haec addat. Si autem perseveraverit patris mei malitia adversum te, revelabo aurem tuam, et dimittam te, ut vadas in pace, et sit Dominus tecum, sicut fuit cum patre meo. 
+    14: Et si vixero, facies mihi misericordiam Domini : si vero mortuus fuero, 
+    15: non auferes misericordiam tuam a domo mea usque in sempiternum, quando eradicaverit Dominus inimicos David, unumquemque de terra : auferat Jonathan de domo sua, et requirat Dominus de manu inimicorum David.
+    16: Pepigit ergo Jonathas foedus cum domo David : et requisivit Dominus de manu inimicorum David. 
+    17: Et addidit Jonathas dejerare David, eo quod diligeret illum : sicut enim animam suam, ita diligebat eum. 
+    18: Dixitque ad eum Jonathas : Cras calendae sunt, et requireris : 
+    19: requiretur enim sessio tua usque perendie. Descendes ergo festinus, et venies in locum ubi celandus es in die qua operari licet, et sedebis juxta lapidem, cui nomen est Ezel. 
+    20: Et ego tres sagittas mittam juxta eum, et jaciam quasi exercens me ad signum.
+    21: Mittam quoque et puerum, dicens ei : Vade, et affer mihi sagittas. 
+    22: Si dixero puero : Ecce sagittae intra te sunt, tolle eas : tu veni ad me, quia pax tibi est, et nihil est mali, vivit Dominus. Si autem sic locutus fuero puero : Ecce sagittae ultra te sunt : vade in pace, quia dimisit te Dominus. 
+    23: De verbo autem quod locuti sumus ego et tu, sit Dominus inter me et te usque in sempiternum. 
+    24: Absconditus est ergo David in agro, et venerunt calendae, et sedit rex ad comedendum panem. 
+    25: Cumque sedisset rex super cathedram suam ( secundum consuetudinem) quae erat juxta parietem, surrexit Jonathas, et sedit Abner ex latere Saul, vacuusque apparuit locus David.
+    26: Et non est locutus Saul quidquam in die illa : cogitabat enim quod forte evenisset ei, ut non esset mundus, nec purificatus. 
+    27: Cumque illuxisset dies secunda post calendas, rursus apparuit vacuus locus David. Dixitque Saul ad Jonatham filium suum : Cur non venit filius Isai, nec heri, nec hodie ad vescendum? 
+    28: Responditque Jonathas Sauli : Rogavit me obnixe ut iret in Bethlehem, 
+    29: et ait : Dimitte me, quoniam sacrificium solemne est in civitate, unus de fratribus meis accersivit me : nunc ergo si inveni gratiam in oculis tuis, vadam cito, et videbo fratres meos. Ob hanc causam non venit ad mensam regis. 
+    30: Iratus autem Saul adversum Jonathan, dixit ei : Fili mulieris virum ultro rapientis, numquid ignoro quia diligis filium Isai in confusionem tuam, et in confusionem ignominiosae matris tuae?
+    31: Omnibus enim diebus, quibus filius Isai vixerit super terram, non stabilieris tu, neque regnum tuum. Itaque jam nunc mitte, et adduc eum ad me : quia filius mortis est. 
+    32: Respondens autem Jonathas Sauli patri suo, ait : Quare morietur? quid fecit? 
+    33: Et arripuit Saul lanceam ut percuteret eum. Et intellexit Jonathas quod definitum esset a patre suo, ut interficeret David. 
+    34: Surrexit ergo Jonathas a mensa in ira furoris, et non comedit in die calendarum secunda panem. Contristatus est enim super David, eo quod confudisset eum pater suus. 
+    35: Cumque illuxisset mane, venit Jonathas in agrum juxta placitum David, et puer parvulus cum eo,
+    36: et ait ad puerum suum : Vade, et affer mihi sagittas, quas ego jacio. Cumque puer cucurrisset, jecit aliam sagittam trans puerum. 
+    37: Venit itaque puer ad locum jaculi, quod miserat Jonathas : et clamavit Jonathas post tergum pueri, et ait : Ecce ibi est sagitta porro ultra te. 
+    38: Clamavitque iterum Jonathas post tergum pueri, dicens : Festina velociter, ne steteris. Collegit autem puer Jonathae sagittas, et attulit ad dominum suum : 
+    39: et quid ageretur, penitus ignorabat : tantummodo enim Jonathas et David rem noverant. 
+    40: Dedit ergo Jonathas arma sua puero, et dixit ei : Vade, et defer in civitatem.
+    41: Cumque abiisset puer, surrexit David de loco qui vergebat ad austrum, et cadens pronus in terram, adoravit tertio : et osculantes se alterutrum, fleverunt pariter, David autem amplius. 
+    42: Dixit ergo Jonathas ad David : Vade in pace : quaecumque juravimus ambo in nomine Domini, dicentes : Dominus sit inter me et te, et inter semen meum et semen tuum usque in sempiternum. 
+    43: Et surrexit David, et abiit : sed et Jonathas ingressus est civitatem.
+
+End of day 66.

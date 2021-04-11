@@ -1,0 +1,275 @@
+Day 125:
+
+Reading 1-Maccabees, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Et factum est, postquam percussit Alexander Philippi Macedo, qui primus regnavit in Graecia, egressus de terra Cethim, Darium regem Persarum et Medorum : 
+    2: constituit praelia multa, et obtinuit omnium munitiones, et interfecit reges terrae, 
+    3: et pertransiit usque ad fines terrae : et accepit spolia multitudinis gentium, et siluit terra in conspectu ejus. 
+    4: Et congregavit virtutem, et exercitum fortem nimis : et exaltatum est, et elevatum cor ejus : 
+    5: et obtinuit regiones gentium, et tyrannos : et facti sunt illi in tributum.
+    6: Et post haec decidit in lectum, et cognovit quia moreretur. 
+    7: Et vocavit pueros suos nobiles, qui secum erant nutriti a juventute : et divisit illis regnum suum, cum adhuc viveret. 
+    8: Et regnavit Alexander annis duodecim, et mortuus est. 
+    9: Et obtinuerunt pueri ejus regnum, unusquisque in loco suo : 
+    10: et imposuerunt omnes sibi diademata post mortem ejus, et filii eorum post eos annis multis, et multiplicata sunt mala in terra.
+    11: Et exiit ex eis radix peccatrix, Antiochus illustris, filius Antiochi regis, qui fuerat Romae obses : et regnavit in anno centesimo trigesimo septimo regni Graecorum. 
+    12: In diebus illis, exierunt ex Israel filii iniqui, et suaserunt multis, dicentes : Eamus, et disponamus testamentum cum gentibus, quae circa nos sunt : quia ex quo recessimus ab eis, invenerunt nos multa mala. 
+    13: Et bonus visus est sermo in oculis eorum. 
+    14: Et destinaverunt aliqui de populo, et abierunt ad regem : et dedit illis potestatem ut facerent justitiam gentium. 
+    15: Et aedificaverunt gymnasium in Jerosolymis secundum leges nationum :
+    16: et fecerunt sibi praeputia, et recesserunt a testamento sancto, et juncti sunt nationibus, et venundati sunt ut facerent malum. 
+    17: Et paratum est regnum in conspectu Antiochi, et coepit regnare in terra Aegypti ut regnaret super duo regna. 
+    18: Et intravit in Aegyptum in multitudine gravi, in curribus, et elephantis, et equitibus, et copiosa navium multitudine : 
+    19: et constituit bellum adversus Ptolemaeum regem Aegypti, et veritus est Ptolemaeus a facie ejus, et fugit, et ceciderunt vulnerati multi. 
+    20: Et comprehendit civitates munitas in terra Aegypti, et accepit spolia terrae Aegypti.
+    21: Et convertit Antiochus, postquam percussit Aegyptum in centesimo et quadragesimo tertio anno : et ascendit ad Israel, 
+    22: et ascendit Jerosolymam in multitudine gravi. 
+    23: Et intravit in sanctificationem cum superbia, et accepit altare aureum, et candelabrum luminis, et universa vasa ejus, et mensam propositionis, et libatoria, et phialas, et mortariola aurea, et velum, et coronas, et ornamentum aureum, quod in facie templi erat : et comminuit omnia. 
+    24: Et accepit argentum, et aurum, et vasa concupiscibilia : et accepit thesauros occultos, quos invenit : et sublatis omnibus, abiit in terram suam. 
+    25: Et fecit caedem hominum, et locutus est in superbia magna.
+    26: Et factus est planctus magnus in Israel, et in omni loco eorum : 
+    27: et ingemuerunt principes et seniores; virgines et juvenes infirmati sunt : et speciositas mulierum immutata est. 
+    28: Omnis maritus sumpsit lamentum, et quae sedebant in thoro maritali, lugebant : 
+    29: et commota est terra super habitantes in ea, et universa domus Jacob induit confusionem. 
+    30: Et post duos annos dierum, misit rex principem tributorum in civitates Juda, et venit Jerusalem cum turba magna.
+    31: Et locutus est ad eos verba pacifica in dolo : et crediderunt ei. 
+    32: Et irruit super civitatem repente, et percussit eam plaga magna, et perdidit populum multum ex Israel. 
+    33: Et accepit spolia civitatis : et succendit eam igni, et destruxit domos ejus, et muros ejus in circuitu : 
+    34: et captivas duxerunt mulieres, et natos et pecora possederunt. 
+    35: Et aedificaverunt civitatem David muro magno et firmo, et turribus firmis, et facta est illis in arcem :
+    36: et posuerunt illic gentem peccatricem viros iniquos, et convaluerunt in ea : et posuerunt arma, et escas, et congregaverunt spolia Jerusalem : 
+    37: et reposuerunt illic : et facti sunt in laqueum magnum. 
+    38: Et factum est hoc ad insidias sanctificationi, et in diabolum malum in Israel : 
+    39: et effuderunt sanguinem innocentem per circuitum sanctificationis, et contaminaverunt sanctificationem. 
+    40: Et fugerunt habitatores Jerusalem propter eos, et facta est habitatio exterorum, et facta est extera semini suo, et nati ejus reliquerunt eam.
+    41: Sanctificatio ejus desolata est sicut solitudo; dies testi ejus conversi sunt in luctum, sabbata ejus in opprobrium, honores ejus in nihilum. 
+    42: Secundum gloriam ejus multiplicata est ignominia ejus, et sublimitas ejus conversa est in luctum. 
+    43: Et scripsit rex Antiochus omni regno suo ut esset omnis populus unus : et relinqueret unusquisque legem suam. 
+    44: Et consenserunt omnes gentes secundum verbum regis Antiochi : 
+    45: et multi ex Israel consenserunt servituti ejus, et sacrificaverunt idolis, et coinquinaverunt sabbatum.
+    46: Et misit rex libros per manus nuntiorum in Jerusalem, et in omnes civitates Juda, ut sequerentur leges gentium terrae, 
+    47: et prohiberent holocausta et sacrificia, et placationes fieri in templo Dei, 
+    48: et prohiberent celebrari sabbatum, et dies solemnes : 
+    49: et jussit coinquinari sancta, et sanctum populum Israel. 
+    50: Et jussit aedificari aras, et templa, et idola, et immolari carnes suillas, et pecora communia,
+    51: et relinquere filios suos incircumcisos, et coinquinari animas eorum in omnibus immundis, et abominationibus, ita ut obliviscerentur legem, et immutarent omnes justificationes Dei : 
+    52: et quicumque non fecissent secundum verbum regis Antiochi, morerentur. 
+    53: Secundum omnia verba haec scripsit omni regno suo : et praeposuit principes populo, qui haec fieri cogerent. 
+    54: Et jusserunt civitatibus Juda sacrificare. 
+    55: Et congregati sunt multi de populo ad eos qui dereliquerant legem Domini, et fecerunt mala super terram :
+    56: et effugaverunt populum Israel in abditis, et in absconditis fugitivorum locis. 
+    57: Die quintadecima mensis Casleu, quinto et quadragesimo et centesimo anno, aedificavit rex Antiochus abominandum idolum desolationis super altare Dei, et per universas civitates Juda in circuitu aedificaverunt aras : 
+    58: et ante januas domorum et in plateis incendebant thura, et sacrificabant : 
+    59: et libros legis Dei combusserunt igni, scindentes eos : 
+    60: et apud quemcumque inveniebantur libri testamenti Domini, et quicumque observabat legem Domini, secundum edictum regis trucidabant eum.
+    61: In virtute sua faciebant haec populo Israel, qui inveniebatur in omni mense et mense in civitatibus. 
+    62: Et quinta et vigesima die mensis sacrificabant super aram, quae erat contra altare. 
+    63: Et mulieres, quae circumcidebant filios suos, trucidabantur secundum jussum regis Antiochi, 
+    64: et suspendebant pueros a cervicibus per universas domos eorum : et eos, qui circumciderant illos, trucidabant. 
+    65: Et multi de populo Israel definierunt apud se, ut non manducarent immunda : et elegerunt magis mori, quam cibis coinquinari immundis :
+    66: et noluerunt infringere legem Dei sanctam, et trucidati sunt : 
+    67: et facta est ira magna super populum valde.
+
+  Chapter 2.
+
+    1: In diebus illis surrexit Mathathias filius Joannis filii Simeonis, sacerdos ex filiis Joarib, ab Jerusalem, et consedit in monte Modin : 
+    2: et habebat filios quinque, Joannem, qui cognominabatur Gaddis : 
+    3: et Simonem, qui cognominabatur Thasi : 
+    4: et Judam, qui vocabatur Machabaeus : 
+    5: et Eleazarum, qui cognominabatur Abaron : et Jonathan, qui cognominabatur Apphus :
+    6: hi viderunt mala, quae fiebant in populo Juda, et in Jerusalem. 
+    7: Et dixit Mathathias : Vae mihi! ut quid natus sum videre contritionem populi mei, et contritionem civitatis sanctae, et sedere illic, cum datur in manibus inimicorum? 
+    8: Sancta in manu extraneorum facta sunt : templum ejus sicut homo ignobilis. 
+    9: Vasa gloriae ejus captiva abducta sunt : trucidati sunt senes ejus in plateis, et juvenes ejus ceciderunt in gladio inimicorum. 
+    10: Quae gens non haereditavit regnum ejus et non obtinuit spolia ejus?
+    11: Omnis compositio ejus ablata est. Quae erat libera, facta est ancilla. 
+    12: Et ecce sancta nostra, et pulchritudo nostra, et claritas nostra desolata est, et coinquinaverunt ea gentes. 
+    13: Quo ergo nobis adhuc vivere? 
+    14: Et scidit vestimenta sua Mathathias, et filii ejus : et operuerunt se ciliciis, et planxerunt valde. 
+    15: Et venerunt illuc qui missi erant a rege Antiocho, ut cogerent eos, qui confugerant in civitatem Modin, immolare, et accendere thura, et a lege Dei discedere.
+    16: Et multi de populo Israel consentientes accesserunt ad eos : sed Mathathias et filii ejus constanter steterunt. 
+    17: Et respondentes qui missi erant ab Antiocho, dixerunt Mathathiae : Princeps, et clarissimus et magnus es in hac civitate, et ornatus filiis et fratribus : 
+    18: ergo accede prior, et fac jussum regis, sicut fecerunt omnes gentes, et viri Juda, et qui remanserunt in Jerusalem : et eris tu, et filii tui, inter amicos regis, et amplificatus auro, et argento, et muneribus multis. 
+    19: Et respondit Mathathias, et dixit magna voce : Etsi omnes gentes regi Antiocho obediunt, ut discedat unusquisque a servitute legis patrum suorum, et consentiat mandatis ejus : 
+    20: ego et filii mei, et fratres mei, obediemus legi patrum nostrorum :
+    21: propitius sit nobis Deus : non est nobis utile relinquere legem, et justitias Dei : 
+    22: non audiemus verba regis Antiochi, nec sacrificabimus transgredientes legis nostrae mandata, ut eamus altera via. 
+    23: Et ut cessavit loqui verba haec, accessit quidam Judaeus in omnium oculis sacrificare idolis super aram in civitate Modin, secundum jussum regis : 
+    24: et vidit Mathathias, et doluit, et contremuerunt renes ejus, et accensus est furor ejus secundum judicium legis, et insiliens trucidavit eum super aram : 
+    25: sed et virum, quem rex Antiochus miserat, qui cogebat immolare, occidit in ipso tempore, et aram destruxit :
+    26: et zelatus est legem, sicut fecit Phinees Zamri filio Salomi. 
+    27: Et exclamavit Mathathias voce magna in civitate, dicens : Omnis qui zelum habet legis, statuens testamentum, exeat post me. 
+    28: Et fugit ipse, et filii ejus in montes, et reliquerunt quaecumque habebant in civitate. 
+    29: Tunc descenderunt multi quaerentes judicium, et justitiam, in desertum : 
+    30: et sederunt ibi ipsi, et filii eorum, et mulieres eorum, et pecora eorum : quoniam inundaverunt super eos mala.
+    31: Et renuntiatum est viris regis, et exercitui qui erat in Jerusalem civitate David, quoniam discessissent viri quidam, qui dissipaverunt mandatum regis, in loca occulta in deserto, et abiissent post illos multi. 
+    32: Et statim perrexerunt ad eos, et constituerunt adversus eos praelium in die sabbatorum, 
+    33: et dixerunt ad eos : Resistitis et nunc adhuc? exite, et facite secundum verbum regis Antiochi, et vivetis. 
+    34: Et dixerunt : Non exibimus, neque faciemus verbum regis, ut polluamus diem sabbatorum. 
+    35: Et concitaverunt adversus eos praelium.
+    36: Et non responderunt eis, nec lapidem miserunt in eos, nec oppilaverunt loca occulta, 
+    37: dicentes : Moriamur omnes in simplicitate nostra : et testes erunt super nos caelum et terra, quod injuste perditis nos. 
+    38: Et intulerunt illis bellum sabbatis : et mortui sunt ipsi, et uxores eorum, et filii eorum, et pecora eorum usque ad mille animas hominum. 
+    39: Et cognovit Mathathias et amici ejus, et luctum habuerunt super eos valde. 
+    40: Et dixit vir proximo suo : Si omnes fecerimus sicut fratres nostri fecerunt, et non pugnaverimus adversus gentes pro animabus nostris et justificationibus nostris, nunc citius disperdent nos a terra.
+    41: Et cogitaverunt in die illa, dicentes : Omnis homo, quicumque venerit ad nos in bello die sabbatorum, pugnemus adversus eum : et non moriemur omnes, sicut mortui sunt fratres nostri in occultis. 
+    42: Tunc congregata est ad eos synagoga Assidaeorum fortis viribus ex Israel, omnis voluntarius in lege : 
+    43: et omnes, qui fugiebant a malis, additi sunt ad eos, et facti sunt illis ad firmamentum. 
+    44: Et collegerunt exercitum, et percusserunt peccatores in ira sua, et viros iniquos in indignatione sua : et ceteri fugerunt ad nationes, ut evaderent. 
+    45: Et circuivit Mathathias et amici ejus, et destruxerunt aras :
+    46: et circumciderunt pueros incircumcisos quotquot invenerunt in finibus Israel : et in fortitudine. 
+    47: Et persecuti sunt filios superbiae, et prosperatum est opus in manibus eorum : 
+    48: et obtinuerunt legem de manibus gentium, et de manibus regum, et non dederant cornu peccatori. 
+    49: Et appropinquaverunt dies Mathathiae moriendi, et dixit filiis suis : Nunc confortata est superbia, et castigatio, et tempus eversionis, et ira indignationis. 
+    50: Nunc ergo, o filii, aemulatores estote legis, et date animas vestras pro testamento patrum vestrorum,
+    51: et mementote operum patrum, quae fecerunt in generationibus suis : et accipietis gloriam magnam, et nomen aeternum. 
+    52: Abraham nonne in tentatione inventus est fidelis, et reputatum est ei ad justitiam? 
+    53: Joseph in tempore angustiae suae custodivit mandatum, et factus est dominus Aegypti. 
+    54: Phinees pater noster, zelando zelum Dei, accepit testamentum sacerdotii aeterni. 
+    55: Jesus dum implevit verbum, factus est dux in Israel.
+    56: Caleb dum testificatur in ecclesia, accepit haereditatem. 
+    57: David in sua misericordia consecutus est sedem regni in saecula. 
+    58: Elias, dum zelat zelum legis, receptus est in caelum. 
+    59: Ananias et Azarias et Misael credentes, liberati sunt de flamma. 
+    60: Daniel in sua simplicitate liberatus est de ore leonum.
+    61: Et ita cogitate per generationem et generationem : quia omnes qui sperant in eum, non infirmantur. 
+    62: Et a verbis viri peccatoris ne timueritis, quia gloria ejus stercus et vermis est : 
+    63: hodie extollitur, et cras non invenietur : quia conversus est in terram suam, et cogitatio ejus periit. 
+    64: Vos ergo filii, confortamini, et viriliter agite in lege : quia in ipsa gloriosi eritis. 
+    65: Et ecce Simon frater vester, scio quod vir consilii est : ipsum audite semper, et ipse erit vobis pater.
+    66: Et Judas Machabaeus, fortis viribus a juventute sua, sit vobis princeps militiae, et ipse aget bellum populi. 
+    67: Et adducetis ad vos omnes factores legis : et vindicate vindictam populi vestri. 
+    68: Retribuite retributionem gentibus, et intendite in praeceptum legis. 
+    69: Et benedixit eos, et appositus est ad patres suos. 
+    70: Et defunctus est anno centesimo et quadragesimo sexto : et sepultus est a filiis suis in sepulchris patrum suorum in Modin, et planxerunt eum omnis Israel planctu magno.
+
+  Chapter 3.
+
+    1: Et surrexit Judas, qui vocabatur Machabaeus, filius ejus, pro eo : 
+    2: et adjuvabant eum omnes fratres ejus, et universi qui se conjunxerant patri ejus, et praeliabantur praelium Israel cum laetitia. 
+    3: Et dilatavit gloriam populo suo, et induit se loricam sicut gigas, et succinxit se arma bellica sua in praeliis, et protegebat castra gladio suo. 
+    4: Similis factus est leoni in operibus suis, et sicut catulus leonis rugiens in venatione. 
+    5: Et persecutus est iniquos perscrutans eos : et qui conturbabant populum suum, eos succendit flammis :
+    6: et repulsi sunt inimici ejus prae timore ejus, et omnes operarii iniquitatis conturbati sunt : et directa est salus in manu ejus. 
+    7: Et exacerbabat reges multos, et laetificabat Jacob in operibus suis, et in saeculum memoria ejus in benedictione. 
+    8: Et perambulavit civitates Juda, et perdidit impios ex eis, et avertit iram ab Israel. 
+    9: Et nominatus est usque ad novissimum terrae, et congregavit pereuntes. 
+    10: Et congregavit Apollonius gentes, et a Samaria virtutem multam et magnam ad bellandum contra Israel.
+    11: Et cognovit Judas, et exiit obviam illi : et percussit, et occidit illum : et ceciderunt vulnerati multi, et reliqui fugerunt. 
+    12: Et accepit spolia eorum : et gladium Apollonii abstulit Judas, et erat pugnans in eo omnibus diebus. 
+    13: Et audivit Seron princeps exercitus Syriae, quod congregavit Judas congregationem fidelium, et ecclesiam secum, 
+    14: et ait : Faciam mihi nomen, et glorificabor in regno, et debellabo Judam, et eos qui cum ipso sunt, qui spernebant verbum regis. 
+    15: Et praeparavit se : et ascenderunt cum eo castra impiorum fortes auxiliarii ut facerent vindictam in filios Israel.
+    16: Et appropinquaverunt usque ad Bethoron : et exivit Judas obviam illi cum paucis. 
+    17: Ut autem viderunt exercitum venientem sibi obviam, dixerunt Judae : Quomodo poterimus pauci pugnare contra multitudinem tantam, et tam fortem, et nos fatigati sumus jejunio hodie? 
+    18: Et ait Judas : Facile est concludi multos in manus paucorum : et non est differentia in conspectu Dei caeli liberare in multis, et in paucis : 
+    19: quoniam non in multitudine exercitus victoria belli, sed de caelo fortitudo est. 
+    20: Ipsi veniunt ad nos in multitudine contumaci, et superbia, ut disperdant nos, et uxores nostras, et filios nostros, et ut spolient nos :
+    21: nos vero pugnabimus pro animabus nostris, et legibus nostris : 
+    22: et ipse Dominus conteret eos ante faciem nostram : vos autem ne timueritis eos. 
+    23: Ut cessavit autem loqui, insiluit in eos subito : et contritus est Seron et exercitus ejus in conspectu ipsius : 
+    24: et persecutus est eum in descensu Bethoron usque in campum, et ceciderunt ex eis octingenti viri, reliqui autem fugerunt in terram Philisthiim. 
+    25: Et cecidit timor Judae ac fratrum ejus, et formido super omnes gentes in circuitu eorum :
+    26: et pervenit ad regem nomen ejus, et de praeliis Judae narrabant omnes gentes. 
+    27: Ut audivit autem rex Antiochus sermones istos, iratus est animo : et misit, et congregavit exercitum universi regni sui, castra fortia valde : 
+    28: et aperuit aerarium suum, et dedit stipendia exercitui in annum : et mandavit illis ut essent parati ad omnia. 
+    29: Et vidit quod defecit pecunia de thesauris suis, et tributa regionis modica propter dissensionem et plagam quam fecit in terra, ut tolleret legitima, quae erant a primis diebus : 
+    30: et timuit ne non haberet ut semel et bis, in sumptus et donaria, quae dederat ante larga manu : et abundaverat super reges qui ante eum fuerant.
+    31: Et consternatus erat animo valde, et cogitavit ire in Persidem, et accipere tributa regionum, et congregare argentum multum. 
+    32: Et reliquit Lysiam hominem nobilem de genere regali, super negotia regia, a flumine Euphrate usque ad flumen Aegypti, 
+    33: et ut nutriret Antiochum filium suum, donec rediret. 
+    34: Et tradidit ei medium exercitum, et elephantos : et mandavit ei de omnibus quae volebat, et de inhabitantibus Judaeam, et Jerusalem : 
+    35: et ut mitteret ad eos exercitum ad conterendam et extirpandam virtutem Israel, et reliquias Jerusalem, et auferendam memoriam eorum de loco :
+    36: et ut constitueret habitatores filios alienigenas in omnibus finibus eorum, et sorte distribueret terram eorum. 
+    37: Et rex assumpsit partem exercitus residui, et exivit ab Antiochia civitate regni sui anno centesimo et quadragesimo septimo : et transfretavit Euphraten flumen, et perambulabat superiores regiones. 
+    38: Et elegit Lysias Ptolemaeum filium Dorymini, et Nicanorem, et Gorgiam, viros potentes ex amicis regis : 
+    39: et misit cum eis quadraginta millia virorum, et septem millia equitum, ut venirent in terram Juda, et disperderent eam secundum verbum regis. 
+    40: Et processerunt cum universa virtute sua, et venerunt, et applicuerunt Emmaum in terra campestri.
+    41: Et audierunt mercatores regionum nomen eorum : et acceperunt argentum, et aurum multum valde, et pueros, et venerunt in castra ut acciperent filios Israel in servos, et additi sunt ad eos exercitus Syriae, et terrae alienigenarum. 
+    42: Et vidit Judas et fratres ejus, quia multiplicata sunt mala, et exercitus applicabant ad fines eorum : et cognoverunt verba regis, quae mandavit populo facere in interitum et consummationem : 
+    43: et dixerunt unusquisque ad proximum suum : Erigamus dejectionem populi nostri, et pugnemus pro populo nostro, et sanctis nostris. 
+    44: Et congregatus est conventus ut essent parati in praelium, et ut orarent et peterent misericordiam et miserationes. 
+    45: Et Jerusalem non habitabatur, sed erat sicut desertum : non erat qui ingrederetur et egrederetur de natis ejus. Et sanctum conculcabatur : et filii alienigenarum erant in arce; ibi erat habitatio gentium : et ablata est voluptas a Jacob, et defecit ibi tibia et cithara.
+    46: Et congregati sunt, et venerunt in Maspha contra Jerusalem, quia locus orationis erat in Maspha ante in Israel. 
+    47: Et jejunaverunt illa die, et induerunt se ciliciis, et cinerem imposuerunt capiti suo, et disciderunt vestimenta sua : 
+    48: et expanderunt libros legis, de quibus scrutabantur gentes similitudinem simulacrorum suorum : 
+    49: et attulerunt ornamenta sacerdotalia, et primitias, et decimas : et suscitaverunt Nazaraeos, qui impleverant dies, 
+    50: et clamaverunt voce magna in caelum, dicentes : Quid faciemus istis, et quo eos ducemus?
+    51: et sancta tua conculcata sunt, et contaminata sunt, et sacerdotes tui facti sunt in luctum, et in humilitatem : 
+    52: et ecce nationes convenerunt adversum nos ut nos disperdant : tu scis quae cogitant in nos. 
+    53: Quomodo poterimus subsistere ante faciem eorum, nisi tu, Deus, adjuves nos? 
+    54: Et tubis exclamaverunt voce magna. 
+    55: Et post haec constituit Judas duces populi, tribunos, et centuriones, et pentacontarchos, et decuriones.
+    56: Et dixit his, qui aedificabant domos, et sponsabant uxores, et plantabant vineas, et formidolosis, ut redirent unusquisque in domum suam secundum legem. 
+    57: Et moverunt castra, et collocaverunt ad austrum Emmaum. 
+    58: Et ait Judas : Accingimini, et estote filii potentes, et estote parati in mane, ut pugnetis adversus nationes has quae convenerunt adversus nos disperdere nos, et sancta nostra : 
+    59: quoniam melius est nos mori in bello, quam videre mala gentis nostrae, et sanctorum. 
+    60: Sicut autem fuerit voluntas in caelo, sic fiat.
+
+  Chapter 4.
+
+    1: Et assumpsit Gorgias quinque millia virorum, et mille equites electos : et moverunt castra nocte, 
+    2: ut applicarent ad castra Judaeorum, et percuterent eos subito : et filii, qui erant ex arce, erant illis duces. 
+    3: Et audivit Judas, et surrexit ipse et potentes percutere virtutem exercituum regis, qui erant in Emmaum : 
+    4: adhuc enim dispersus erat exercitus a castris. 
+    5: Et venit Gorgias in castra Judae noctu, et neminem invenit : et quaerebat eos in montibus, quoniam dixit : Fugiunt hi a nobis.
+    6: Et cum dies factus esset, apparuit Judas in campo cum tribus millibus virorum tantum, qui tegumenta et gladios non habebant : 
+    7: et viderunt castra gentium valida, et loricatos et equitatus in circuitu eorum, et hi docti ad praelium. 
+    8: Et ait Judas viris, qui secum erant : Ne timueritis multitudinem eorum, et impetum eorum ne formidetis. 
+    9: Mementote qualiter salvi facti sunt patres nostri in mari Rubro, cum sequeretur eos Pharao cum exercitu multo. 
+    10: Et nunc clamemus in caelum : et miserebitur nostri Dominus, et memor erit testamenti patrum nostrorum, et conteret exercitum istum ante faciem nostram hodie :
+    11: et scient omnes gentes quia est qui redimat et liberet Israel. 
+    12: Et elevaverunt alienigenae oculos suos, et viderunt eos venientes ex adverso. 
+    13: Et exierunt de castris in praelium, et tuba cecinerunt hi qui erant cum Juda. 
+    14: Et congressi sunt : et contritae sunt gentes, et fugerunt in campum. 
+    15: Novissimi autem omnes ceciderunt in gladio, et persecuti sunt eos usque Gezeron, et usque in campos Idumaeae, et Azoti, et Jamniae : et ceciderunt ex illis usque ad tria millia virorum.
+    16: Et reversus est Judas, et exercitus ejus sequens eum. 
+    17: Dixitque ad populum : Non concupiscatis spolia : quia bellum contra nos est, 
+    18: et Gorgias et exercitus ejus prope nos in monte : sed state nunc contra inimicos nostros, et expugnate eos, et sumetis postea spolia securi. 
+    19: Et adhuc loquente Juda haec, ecce apparuit pars quaedam prospiciens de monte. 
+    20: Et vidit Gorgias quod in fugam conversi sunt sui, et succenderunt castra : fumus enim, qui videbatur, declarabat quod factum est.
+    21: Quibus illi conspectis timuerunt valde, aspicientes simul et Judam, et exercitum in campo paratum ad praelium. 
+    22: Et fugerunt omnes in campum alienigenarum : 
+    23: et Judas reversus est ad spolia castrorum, et acceperunt aurum multum, et argentum, et hyacinthinum, et purpuram marinam, et opes magnas. 
+    24: Et conversi, hymnum canebant, et benedicebant Deum in caelum, quoniam bonus est, quoniam in saeculum misericordia ejus. 
+    25: Et facta est salus magna in Israel in die illa.
+    26: Quicumque autem alienigenarum evaserunt, venerunt, et nuntiaverunt Lysiae universa quae acciderant. 
+    27: Quibus ille auditis, consternatus animo deficiebat : quod non qualia voluit, talia contigerunt in Israel, et qualia mandavit rex. 
+    28: Et sequenti anno, congregavit Lysias virorum electorum sexaginta millia, et equitum quinque millia, ut debellaret eos. 
+    29: Et venerunt in Judaeam, et castra posuerunt in Bethoron, et occurrit illis Judas cum decem millibus viris. 
+    30: Et viderunt exercitum fortem, et oravit, et dixit : Benedictus es, salvator Israel, qui contrivisti impetum potentis in manu servi tui David, et tradidisti castra alienigenarum in manu Jonathae filii Saul, et armigeri ejus.
+    31: Conclude exercitum istum in manu populi tui Israel, et confundantur in exercitu suo et equitibus. 
+    32: Da illis formidinem, et tabefac audaciam virtutis eorum, et commoveantur contritione sua. 
+    33: Dejice illos gladio diligentium te : et collaudent te omnes, qui noverunt nomen tuum, in hymnis. 
+    34: Et commiserunt praelium : et ceciderunt de exercitu Lysiae quinque millia virorum. 
+    35: Videns autem Lysias fugam suorum, et Judaeorum audaciam, et quod parati sunt aut vivere, aut mori fortiter, abiit Antiochiam, et elegit milites, ut multiplicati rursus venirent in Judaeam.
+    36: Dixit autem Judas, et fratres ejus : Ecce contriti sunt inimici nostri : ascendamus nunc mundare sancta, et renovare. 
+    37: Et congregatus est omnis exercitus, et ascenderunt in montem Sion. 
+    38: Et viderunt sanctificationem desertam, et altare profanatum, et portas exustas, et in atriis virgulta nata sicut in saltu vel in montibus, et pastophoria diruta. 
+    39: Et sciderunt vestimenta sua, et planxerunt planctu magno, et imposuerunt cinerem super caput suum, 
+    40: et ceciderunt in faciem super terram, et exclamaverunt tubis signorum, et clamaverunt in caelum.
+    41: Tunc ordinavit Judas viros ut pugnarent adversus eos qui erant in arce, donec emundarent sancta. 
+    42: Et elegit sacerdotes sine macula, voluntatem habentes in lege Dei : 
+    43: et mundaverunt sancta, et tulerunt lapides contaminationis in locum immundum. 
+    44: Et cogitavit de altari holocaustorum, quod profanatum erat, quid de eo faceret. 
+    45: Et incidit illis consilium bonum ut destruerent illud : ne forte illis esset in opprobrium, quia contaminaverunt illud gentes, et demoliti sunt illud.
+    46: Et reposuerunt lapides in monte domus in loco apto, quoadusque veniret propheta, et responderet de eis. 
+    47: Et acceperunt lapides integros secundum legem, et aedificaverunt altare novum secundum illud quod fuit prius : 
+    48: et aedificaverunt sancta, et quae intra domum erant intrinsecus : et aedem, et atria sanctificaverunt. 
+    49: Et fecerunt vasa sancta nova, et intulerunt candelabrum, et altare incensorum, et mensam, in templum. 
+    50: Et incensum posuerunt super altare, et accenderunt lucernas quae super candelabrum erant, et lucebant in templo.
+    51: Et posuerunt super mensam panes, et appenderunt vela, et consummaverunt omnia opera quae fecerant. 
+    52: Et ante matutinum surrexerunt quinta et vigesima die mensis noni ( hic est mensis Casleu) centesimi quadragesimi octavi anni : 
+    53: et obtulerunt sacrificium secundum legem super altare holocaustorum novum, quod fecerunt. 
+    54: Secundum tempus et secundum diem in qua contaminaverunt illud gentes, in ipsa renovatum est in canticis, et citharis, et cinyris, et in cymbalis. 
+    55: Et cecidit omnis populus in faciem, et adoraverunt, et benedixerunt in caelum eum, qui prosperavit eis.
+    56: Et fecerunt dedicationem altaris diebus octo, et obtulerunt holocausta cum laetitia, et sacrificium salutaris et laudis. 
+    57: Et ornaverunt faciem templi coronis aureis et scutulis, et dedicaverunt portas et pastophoria, et imposuerunt eis januas. 
+    58: Et facta est laetitia in populo magna valde, et aversum est opprobrium gentium. 
+    59: Et statuit Judas, et fratres ejus, et universa ecclesia Israel, ut agatur dies dedicationis altaris in temporibus suis ab anno in annum per dies octo a quinta et vigesima die mensis Casleu, cum laetitia et gaudio. 
+    60: Et aedificaverunt in tempore illo montem Sion, et per circuitum muros altos et turres firmas, nequando venirent gentes, et conculcarent eum sicut antea fecerunt.
+    61: Et collocavit illic exercitum, ut servarent eum, et munivit eum ad custodiendum Bethsuram, ut haberet populus munitionem contra faciem Idumaeae.
+
+End of day 125.

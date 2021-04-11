@@ -1,0 +1,146 @@
+Day 110:
+
+Reading Nehemiah, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: Et factus est clamor populi et uxorum ejus magnus adversus fratres suos Judaeos. 
+    2: Et erant qui dicerent : Filii nostri et filiae nostrae multae sunt nimis : accipiamus pro pretio eorum frumentum, et comedamus, et vivamus. 
+    3: Et erant qui dicerent : Agros nostros, et vineas, et domus nostras opponamus, et accipiamus frumentum in fame. 
+    4: Et alii dicebant : Mutuo sumamus pecunias in tributa regis, demusque agros nostros et vineas : 
+    5: et nunc sicut carnes fratrum nostrorum, sic carnes nostrae sunt : et sicut filii eorum, ita et filii nostri : ecce nos subjugamus filios nostros et filias nostras in servitutem, et de filiabus nostris sunt famulae, nec habemus unde possint redimi, et agros nostros et vineas nostras alii possident.
+    6: Et iratus sum nimis cum audissem clamorem eorum secundum verba haec : 
+    7: cogitavique cor meum mecum : et increpavi optimates et magistratus, et dixi eis : Usurasne singuli a fratribus vestris exigitis? Et congregavi adversum eos concionem magnam, 
+    8: et dixi eis : Nos, ut scitis, redemimus fratres nostros Judaeos, qui venditi fuerant gentibus secundum possibilitatem nostram : et vos igitur vendetis fratres vestros, et redimemus eos? Et siluerunt, nec invenerunt quid responderent. 
+    9: Dixique ad eos : Non est bona res, quam facitis : quare non in timore Dei nostri ambulastis, ne exprobretur nobis a gentibus inimicis nostris? 
+    10: Et ego, et fratres mei, et pueri mei commodavimus plurimis pecuniam et frumentum : non repetamus in commune istud, aes alienum concedamus, quod debetur nobis.
+    11: Reddite eis hodie agros suos, et vineas suas, et oliveta sua, et domos suas : quin potius et centesimum pecuniae, frumenti, vini et olei, quam exigere soletis ab eis, date pro illis. 
+    12: Et dixerunt : Reddemus, et ab eis nihil quaeremus : sicque faciemus ut loqueris. Et vocavi sacerdotes, et adjuravi eos ut facerent juxta quod dixeram. 
+    13: Insuper excussi sinum meum, et dixi : Sic excutiat Deus omnem virum, qui non compleverit verbum istud, de domo sua, et de laboribus suis : sic excutiatur, et vacuus fiat. Et dixit universa multitudo : Amen : et laudaverunt Deum. Fecit ergo populus sicut erat dictum. 
+    14: A die autem illa, qua praeceperat rex mihi ut essem dux in terra Juda, ab anno vigesimo usque ad annum trigesimum secundum Artaxerxis regis per annos duodecim, ego et fratres mei annonas, quae ducibus debebantur, non comedimus. 
+    15: Duces autem primi, qui fuerant ante me, gravaverunt populum, et acceperunt ab eis in pane, et vino, et pecunia, quotidie siclos quadraginta : sed et ministri eorum depresserunt populum. Ego autem non feci ita propter timorem Dei :
+    16: quin potius in opere muri aedificavi, et agrum non emi, et omnes pueri mei congregati ad opus erant. 
+    17: Judaei quoque et magistratus centum quinquaginta viri, et qui veniebant ad nos de gentibus, quae in circuitu nostro sunt, in mensa mea erant. 
+    18: Parabatur autem mihi per dies singulos bos unus, arietes sex electi, exceptis volatilibus, et inter dies decem vina diversa, et alia multa tribuebam : insuper et annonas ducatus mei non quaesivi : valde enim attenuatus erat populus. 
+    19: Memento mei, Deus meus, in bonum secundum omnia quae feci populo huic.
+
+  Chapter 6.
+
+    1: Factum est autem, cum audisset Sanaballat, et Tobias, et Gossem Arabs, et ceteri inimici nostri, quod aedificassem ego murum, et non esset in ipso residua interruptio ( usque ad tempus autem illud valvas non posueram in portis), 
+    2: miserunt Sanaballat et Gossem ad me, dicentes : Veni, et percutiamus foedus pariter in viculis in campo Ono. Ipsi autem cogitabant ut facerent mihi malum. 
+    3: Misi ergo ad eos nuntios, dicens : Opus grande ego facio, et non possum descendere : ne forte negligatur cum venero, et descendero ad vos. 
+    4: Miserunt autem ad me secundum verbum hoc per quatuor vices : et respondi eis juxta sermonem priorem. 
+    5: Et misit ad me Sanaballat juxta verbum prius quinta vice puerum suum, et epistolam habebat in manu sua scriptam hoc modo :
+    6: In gentibus auditum est, et Gossem dixit, quod tu et Judaei cogitetis rebellare, et propterea aedifices murum, et levare te velis super eos regem : propter quam causam 
+    7: et prophetas posueris, qui praedicent de te in Jerusalem, dicentes : Rex in Judaea est. Auditurus est rex verba haec : idcirco nunc veni, ut ineamus consilium pariter. 
+    8: Et misi ad eos, dicens : Non est factum secundum verba haec, quae tu loqueris : de corde enim tuo tu componis haec. 
+    9: Omnes enim hi terrebant nos, cogitantes quod cessarent manus nostrae ab opere, et quiesceremus : quam ob causam magis confortavi manus meas. 
+    10: Et ingressus sum domum Semaiae filii Dalaiae filii Metabeel secreto. Qui ait : Tractemus nobiscum in domo Dei in medio templi, et claudamus portas aedis : quia venturi sunt ut interficiant te, et nocte venturi sunt ad occidendum te.
+    11: Et dixi : Num quisquam similis mei fugit? et quis ut ego ingredietur templum, et vivet? Non ingrediar. 
+    12: Et intellexi quod Deus non misisset eum, sed quasi vaticinans locutus esset ad me, et Tobias et Sanaballat conduxissent eum. 
+    13: Acceperat enim pretium, ut territus facerem, et peccarem, et haberent malum, quod exprobrarent mihi. 
+    14: Memento mei, Domine, pro Tobia et Sanaballat, juxta opera eorum talia : sed et Noadiae prophetae, et ceterorum prophetarum, qui terrebant me. 
+    15: Completus est autem murus vigesimo quinto die mensis Elul, quinquaginta duobus diebus.
+    16: Factum est ergo cum audissent omnes inimici nostri, ut timerent universae gentes, quae erant in circuitu nostro, et conciderent intra semetipsos, et scirent quod a Deo factum esset opus hoc. 
+    17: Sed et in diebus illis multae optimatum Judaeorum epistolae mittebantur ad Tobiam, et a Tobia veniebant ad eos. 
+    18: Multi enim erant in Judaea habentes juramentum ejus, quia gener erat Secheniae filii Area, et Johanan filius ejus acceperat filiam Mosollam filii Barachiae : 
+    19: sed et laudabant eum coram me, et verba mea nuntiabant ei : et Tobias mittebat epistolas ut terreret me.
+
+  Chapter 7.
+
+    1: Postquam autem aedificatus est murus, et posui valvas, et recensui janitores, et cantores, et Levitas : 
+    2: praecepi Hanani fratri meo, et Hananiae principi domus de Jerusalem ( ipse enim quasi vir verax et timens Deum plus ceteris videbatur), 
+    3: et dixi eis : Non aperiantur portae Jerusalem usque ad calorem solis. Cumque adhuc assisterent, clausae portae sunt, et oppilatae : et posui custodes de habitatoribus Jerusalem, singulos per vices suas, et unumquemque contra domum suam. 
+    4: Civitas autem erat lata nimis et grandis, et populus parvus in medio ejus, et non erant domus aedificatae. 
+    5: Deus autem dedit in corde meo, et congregavi optimates, et magistratus, et vulgus, ut recenserem eos : et inveni librum census eorum, qui ascenderant primum, et inventum est scriptum in eo.
+    6: Isti filii provinciae, qui ascenderunt de captivitate migrantium, quos transtulerat Nabuchodonosor rex Babylonis, et reversi sunt in Jerusalem, et in Judaeam, unusquisque in civitatem suam. 
+    7: Qui venerunt cum Zorobabel, Josue, Nehemias, Azarias, Raamias, Nahamani, Mardochaeus, Belsam, Mespharath, Begoai, Nahum, Baana. Numerus virorum populi Israel : 
+    8: filii Pharos, duo millia centum septuaginta duo : 
+    9: filii Saphatia, trecenti septuaginta duo : 
+    10: filii Area, sexcenti quinquaginta duo :
+    11: filii Phahathmoab filiorum Josue et Joab, duo millia octingenti decem et octo : 
+    12: filii Aelam, mille ducenti quinquaginta quatuor : 
+    13: filii Zethua, octingenti quadraginta quinque : 
+    14: filii Zachai, septingenti sexaginta : 
+    15: filii Bannui, sexcenti quadraginta octo :
+    16: filii Bebai, sexcenti viginti octo : 
+    17: filii Azgad, duo millia trecenti viginti duo : 
+    18: filii Adonicam, sexcenti sexaginta septem : 
+    19: filii Beguai, duo millia sexaginta septem : 
+    20: filii Adin, sexcenti quinquaginta quinque :
+    21: filii Ater, filii Hezeciae, nonaginta octo : 
+    22: filii Hasem, trecenti viginti octo : 
+    23: filii Besai, trecenti viginti quatuor : 
+    24: filii Hareph, centum duodecim : 
+    25: filii Gabaon, nonaginta quinque :
+    26: filii Bethlehem, et Netupha, centum octoginta octo. 
+    27: Viri Anathoth, centum viginti octo. 
+    28: Viri Bethazmoth, quadraginta duo. 
+    29: Viri Cariathiarim, Cephira, et Beroth, septingenti quadraginta tres. 
+    30: Viri Rama et Geba, sexcenti viginti unus.
+    31: Viri Machmas, centum viginti duo. 
+    32: Viri Bethel et Hai, centum viginti tres. 
+    33: Viri Nebo alterius, quinquaginta duo. 
+    34: Viri Aelam alterius, mille ducenti quinquaginta quatuor. 
+    35: Filii Harem, trecenti viginti.
+    36: Filii Jericho, trecenti quadraginta quinque. 
+    37: Filii Lod Hadid et Ono, septingenti viginti unus. 
+    38: Filii Senaa, tria millia nongenti triginta. 
+    39: Sacerdotes : filii Idaia in domo Josue, nongenti septuaginta tres. 
+    40: Filii Emmer, mille quinquaginta duo.
+    41: Filii Phashur, mille ducenti quadraginta septem. 
+    42: Filii Arem, mille decem et septem. Levitae : 
+    43: filii Josue et Cedmihel filiorum. 
+    44: Oduiae, septuaginta quatuor. Cantores : 
+    45: filii Asaph, centum quadraginta octo.
+    46: Janitores : filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita, filii Sobai : centum triginta octo. 
+    47: Nathinaei : filii Soha, filii Hasupha, filii Tebbaoth, 
+    48: filii Ceros, filii Siaa, filii Phadon, filii Lebana, filii Hagaba, filii Selmai, 
+    49: filii Hanan, filii Geddel, filii Gaher, 
+    50: filii Raaia, filii Rasin, filii Necoda,
+    51: filii Gezem, filii Aza, filii Phasea, 
+    52: filii Besai, filii Munim, filii Nephussim, 
+    53: filii Bacbuc, filii Hacupha, filii Harhur, 
+    54: filii Besloth, filii Mahida, filii Harsa, 
+    55: filii Bercos, filii Sisara, filii Thema,
+    56: filii Nasia, filii Hatipha, 
+    57: filii servorum Salomonis, filii Sothai, filii Sophereth, filii Pharida, 
+    58: filii Jahala, filii Darcon, filii Jeddel, 
+    59: filii Saphatia, filii Hatil, filii Phochereth, qui erat ortus ex Sabaim filio Amon. 
+    60: Omnes Nathinaei, et filii servorum Salomonis, trecenti nonaginta duo.
+    61: Hi sunt autem, qui ascenderunt de Thelmela, Thelharsa, Cherub, Addon, et Emmer : et non potuerunt indicare domum patrum suorum, et semen suum, utrum ex Israel essent, 
+    62: filii Dalaia, filii Tobia, filii Necoda, sexcenti quadraginta duo. 
+    63: Et de sacerdotibus, filii Habia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis uxorem : et vocatus est nomine eorum. 
+    64: Hi quaesierunt scripturam suam in censu, et non invenerunt : et ejecti sunt de sacerdotio. 
+    65: Dixitque Athersatha eis ut non manducarent de Sanctis sanctorum, donec staret sacerdos doctus et eruditus.
+    66: Omnis multitudo quasi vir unus quadraginta duo millia trecenti sexaginta, 
+    67: absque servis, et ancillis eorum, qui erant septem millia trecenti triginta septem, et inter eos cantores, et cantatrices, ducenti quadraginta quinque. 
+    68: Equi eorum, septingenti triginta sex : muli eorum, ducenti quadraginta quinque : 
+    69: cameli eorum, quadringenti triginta quinque : asini, sex millia septingenti viginti. 
+    70: Nonnulli autem de principibus familiarum dederunt in opus. Athersatha dedit in thesaurum auri drachmas mille, phialas quinquaginta, tunicas sacerdotales quingentas triginta.
+    71: Et de principibus familiarum dederunt in thesaurum operis, auri drachmas viginti millia, et argenti mnas duo millia ducentas. 
+    72: Et quod dedit reliquus populus, auri drachmas viginti millia, et argenti mnas duo millia, et tunicas sacerdotales sexaginta septem. 
+    73: Habitaverunt autem sacerdotes, et Levitae, et janitores, et cantores, et reliquum vulgus, et Nathinaei, et omnis Israel in civitatibus suis.
+
+  Chapter 8.
+
+    1: Et venerat mensis septimus : filii autem Israel erant in civitatibus suis. Congregatusque est omnis populus quasi vir unus ad plateam, quae est ante portam aquarum : et dixerunt Esdrae scribae ut afferret librum legis Moysi, quam praeceperat Dominus Israeli. 
+    2: Attulit ergo Esdras sacerdos legem coram multitudine virorum et mulierum, cunctisque qui poterant intelligere, in die prima mensis septimi. 
+    3: Et legit in eo aperte in platea quae erat ante portam aquarum, de mane usque ad mediam diem, in conspectu virorum et mulierum, et sapientium : et aures omnis populi erant erectae ad librum. 
+    4: Stetit autem Esdras scriba super gradum ligneum, quem fecerat ad loquendum : et steterunt juxta eum Mathathias, et Semeia, et Ania, et Uria, et Helcia, et Maasia, ad dexteram ejus : et ad sinistram, Phadaia, Misael, et Melchia, et Hasum, et Hasbadana, Zacharia, et Mosollam. 
+    5: Et aperuit Esdras librum coram omni populo : super universum quippe populum eminebat : et cum aperuisset eum, stetit omnis populus.
+    6: Et benedixit Esdras Domino Deo magno : et respondit omnis populus : Amen, amen, elevans manus suas : et incurvati sunt, et adoraverunt Deum proni in terram. 
+    7: Porro Josue, et Bani, et Serebia, Jamin, Accub, Septhai, Odia, Maasia, Celita, Azarias, Jozabed, Hanan, Phalaia, Levitae, silentium faciebant in populo ad audiendam legem : populus autem stabat in gradu suo. 
+    8: Et legerunt in libro legis Dei distincte, et aperte ad intelligendum : et intellexerunt cum legeretur. 
+    9: Dixit autem Nehemias ( ipse est Athersatha) et Esdras sacerdos et scriba, et Levitae interpretantes universo populo : Dies sanctificatus est Domino Deo nostro : nolite lugere, et nolite flere. Flebat enim omnis populus cum audiret verba legis. 
+    10: Et dixit eis : Ite, comedite pinguia, et bibite mulsum, et mittite partes his qui non praeparaverunt sibi, quia sanctus dies Domini est : et nolite contristari : gaudium etenim Domini est fortitudo nostra.
+    11: Levitae autem silentium faciebant in omni populo, dicentes : Tacete, quia dies sanctus est, et nolite dolere. 
+    12: Abiit itaque omnis populus ut comederet, et biberet, et mitteret partes, et faceret laetitiam magnam : quia intellexerant verba, quae docuerat eos. 
+    13: Et in die secundo congregati sunt principes familiarum universi populi, sacerdotes et Levitae ad Esdram scribam, ut interpretaretur eis verba legis. 
+    14: Et invenerunt scriptum in lege praecepisse Dominum in manu Moysi ut habitent filii Israel in tabernaculis, in die solemni, mense septimo : 
+    15: et ut praedicent, et divulgent vocem in universis urbibus suis, et in Jerusalem, dicentes : Egredimini in montem, et afferte frondes olivae, et frondes ligni pulcherrimi, frondes myrti, et ramos palmarum, et frondes ligni nemorosi, ut fiant tabernacula, sicut scriptum est.
+    16: Et egressus est populus, et attulerunt. Feceruntque sibi tabernacula unusquisque in domate suo : et in atriis suis, et in atriis domus Dei, et in platea portae aquarum, et in platea portae Ephraim. 
+    17: Fecit ergo universa ecclesia eorum, qui redierant de captivitate, tabernacula, et habitaverunt in tabernaculis : non enim fecerant a diebus Josue filii Nun taliter filii Israel usque ad diem illum. Et fuit laetitia magna nimis. 
+    18: Legit autem in libro legis Dei per dies singulos, a die primo usque ad diem novissimum. Et fecerunt solemnitatem septem diebus, et in die octavo collectam juxta ritum.
+
+End of day 110.

@@ -1,0 +1,113 @@
+Day 165:
+
+Reading Psalms, chapters ['85', '86', '87', '88']:
+
+  Chapter 85.
+
+    1: Oratio ipsi David. Inclina, Domine, aurem tuam et exaudi me, quoniam inops et pauper sum ego. 
+    2: Custodi animam meam, quoniam sanctus sum; salvum fac servum tuum, Deus meus, sperantem in te. 
+    3: Miserere mei, Domine, quoniam ad te clamavi tota die; 
+    4: laetifica animam servi tui, quoniam ad te, Domine, animam meam levavi. 
+    5: Quoniam tu, Domine, suavis et mitis, et multae misericordiae omnibus invocantibus te.
+    6: Auribus percipe, Domine, orationem meam, et intende voci deprecationis meae. 
+    7: In die tribulationis meae clamavi ad te, quia exaudisti me. 
+    8: Non est similis tui in diis, Domine, et non est secundum opera tua. 
+    9: Omnes gentes quascumque fecisti venient, et adorabunt coram te, Domine, et glorificabunt nomen tuum. 
+    10: Quoniam magnus es tu, et faciens mirabilia; tu es Deus solus.
+    11: Deduc me, Domine, in via tua, et ingrediar in veritate tua; laetetur cor meum, ut timeat nomen tuum. 
+    12: Confitebor tibi, Domine Deus meus, in toto corde meo, et glorificabo nomen tuum in aeternum; 
+    13: quia misericordia tua magna est super me, et eruisti animam meam ex inferno inferiori. 
+    14: Deus, iniqui insurrexerunt super me, et synagoga potentium quaesierunt animam meam, et non proposuerunt te in conspectu suo. 
+    15: Et tu, Domine Deus, miserator et misericors; patiens, et multae misericordiae, et verax.
+    16: Respice in me, et miserere mei; da imperium tuum puero tuo, et salvum fac filium ancillae tuae. 
+    17: Fac mecum signum in bonum, ut videant qui oderunt me, et confundantur, quoniam tu, Domine, adjuvisti me, et consolatus es me.
+
+  Chapter 86.
+
+    1: Filiis Core. Psalmus cantici. Fundamenta ejus in montibus sanctis; 
+    2: diligit Dominus portas Sion super omnia tabernacula Jacob. 
+    3: Gloriosa dicta sunt de te, civitas Dei! 
+    4: Memor ero Rahab et Babylonis, scientium me; ecce alienigenae, et Tyrus, et populus Aethiopum, hi fuerunt illic. 
+    5: Numquid Sion dicet : Homo et homo natus est in ea, et ipse fundavit eam Altissimus?
+    6: Dominus narrabit in scripturis populorum et principum, horum qui fuerunt in ea. 
+    7: Sicut laetantium omnium habitatio est in te.
+
+  Chapter 87.
+
+    1: Canticum Psalmi, filiis Core, in finem, pro Maheleth ad respondendum. Intellectus Eman Ezrahitae. 
+    2: Domine, Deus salutis meae, in die clamavi et nocte coram te. 
+    3: Intret in conspectu tuo oratio mea, inclina aurem tuam ad precem meam. 
+    4: Quia repleta est malis anima mea, et vita mea inferno appropinquavit. 
+    5: Aestimatus sum cum descendentibus in lacum, factus sum sicut homo sine adjutorio,
+    6: inter mortuos liber; sicut vulnerati dormientes in sepulchris, quorum non es memor amplius, et ipsi de manu tua repulsi sunt. 
+    7: Posuerunt me in lacu inferiori, in tenebrosis, et in umbra mortis. 
+    8: Super me confirmatus est furor tuus, et omnes fluctus tuos induxisti super me. 
+    9: Longe fecisti notos meos a me, posuerunt me abominationem sibi. Traditus sum, et non egrediebar; 
+    10: oculi mei languerunt prae inopia. Clamavi ad te, Domine, tota die; expandi ad te manus meas.
+    11: Numquid mortuis facies mirabilia? aut medici suscitabunt, et confitebuntur tibi? 
+    12: Numquid narrabit aliquis in sepulchro misericordiam tuam, et veritatem tuam in perditione? 
+    13: Numquid cognoscentur in tenebris mirabilia tua? et justitia tua in terra oblivionis? 
+    14: Et ego ad te, Domine, clamavi, et mane oratio mea praeveniet te. 
+    15: Ut quid, Domine, repellis orationem meam, avertis faciem tuam a me?
+    16: Pauper sum ego, et in laboribus a juventute mea; exaltatus autem, humiliatus sum et conturbatus. 
+    17: In me transierunt irae tuae, et terrores tui conturbaverunt me : 
+    18: circumdederunt me sicut aqua tota die; circumdederunt me simul. 
+    19: Elongasti a me amicum et proximum, et notos meos a miseria.
+
+  Chapter 88.
+
+    1: Intellectus Ethan Ezrahitae. 
+    2: Misericordias Domini in aeternum cantabo; in generationem et generationem annuntiabo veritatem tuam in ore meo. 
+    3: Quoniam dixisti : In aeternum misericordia aedificabitur in caelis; praeparabitur veritas tua in eis. 
+    4: Disposui testamentum electis meis; juravi David, servo meo : 
+    5: usque in aeternum praeparabo semen tuum, et aedificabo in generationem et generationem sedem tuam.
+    6: Confitebuntur caeli mirabilia tua, Domine; etenim veritatem tuam in ecclesia sanctorum. 
+    7: Quoniam quis in nubibus aequabitur Domino, similis erit Deo in filiis Dei? 
+    8: Deus, qui glorificatur in consilio sanctorum, magnus et terribilis super omnes qui in circuitu ejus sunt. 
+    9: Domine Deus virtutum, quis similis tibi? potens es, Domine, et veritas tua in circuitu tuo. 
+    10: Tu dominaris potestati maris, motum autem fluctuum ejus tu mitigas.
+    11: Tu humiliasti, sicut vulneratum, superbum; in brachio virtutis tuae dispersisti inimicos tuos. 
+    12: Tui sunt caeli, et tua est terra; orbem terrae, et plenitudinem ejus tu fundasti; 
+    13: aquilonem et mare tu creasti. Thabor et Hermon in nomine tuo exsultabunt. 
+    14: Tuum brachium cum potentia; firmetur manus tua, et exaltetur dextera tua. 
+    15: Justitia et judicium praeparatio sedis tuae; misericordia et veritas praecedent faciem tuam.
+    16: Beatus populus qui scit jubilationem : Domine, in lumine vultus tui ambulabunt; 
+    17: et in nomine tuo exsultabunt tota die; et in justitia tua exaltabuntur. 
+    18: Quoniam gloria virtutis eorum tu es, et in beneplacito tuo exaltabitur cornu nostrum. 
+    19: Quia Domini est assumptio nostra, et sancti Israel regis nostri. 
+    20: Tunc locutus es in visione sanctis tuis, et dixisti : Posui adjutorium in potente; et exaltavi electum de plebe mea.
+    21: Inveni David, servum meum, oleo sancto meo unxi eum. 
+    22: Manus enim mea auxiliabitur ei, et brachium meum confortabit eum. 
+    23: Nihil proficiet inimicus in eo, et filius iniquitatis non apponet nocere ei. 
+    24: Et concidam a facie ipsius inimicos ejus, et odientes eum in fugam convertam. 
+    25: Et veritas mea et misericordia mea cum ipso; et in nomine meo exaltabitur cornu ejus.
+    26: Et ponam in mari manum ejus, et in fluminibus dexteram ejus. 
+    27: Ipse invocabit me : Pater meus es tu, Deus meus, et susceptor salutis meae. 
+    28: Et ego primogenitum ponam illum, excelsum prae regibus terrae. 
+    29: In aeternum servabo illi misericordiam meam, et testamentum meum fidele ipsi. 
+    30: Et ponam in saeculum saeculi semen ejus, et thronum ejus sicut dies caeli.
+    31: Si autem dereliquerint filii ejus legem meam, et in judiciis meis non ambulaverint; 
+    32: si justitias meas profanaverint, et mandata mea non custodierint : 
+    33: visitabo in virga iniquitates eorum, et in verberibus peccata eorum; 
+    34: misericordiam autem meam non dispergam ab eo, neque nocebo in veritate mea. 
+    35: Neque profanabo testamentum meum, et quae procedunt de labiis meis non faciam irrita.
+    36: Semel juravi in sancto meo, si David mentiar : 
+    37: Semen ejus in aeternum manebit. Et thronus ejus sicut sol in conspectu meo, 
+    38: et sicut luna perfecta in aeternum, et testis in caelo fidelis. 
+    39: Tu vero repulisti et despexisti; distulisti christum tuum. 
+    40: Evertisti testamentum servi tui; profanasti in terra sanctuarium ejus.
+    41: Destruxisti omnes sepes ejus; posuisti firmamentum ejus formidinem. 
+    42: Diripuerunt eum omnes transeuntes viam; factus est opprobrium vicinis suis. 
+    43: Exaltasti dexteram deprimentium eum; laetificasti omnes inimicos ejus. 
+    44: Avertisti adjutorium gladii ejus, et non es auxiliatus ei in bello. 
+    45: Destruxisti eum ab emundatione, et sedem ejus in terram collisisti.
+    46: Minorasti dies temporis ejus; perfudisti eum confusione. 
+    47: Usquequo, Domine, avertis in finem : exardescet sicut ignis ira tua? 
+    48: Memorare quae mea substantia; numquid enim vane constituisti omnes filios hominum? 
+    49: Quis est homo qui vivet et non videbit mortem? eruet animam suam de manu inferi? 
+    50: Ubi sunt misericordiae tuae antiquae, Domine, sicut jurasti David in veritate tua?
+    51: Memor esto, Domine, opprobrii servorum tuorum, quod continui in sinu meo, multarum gentium; 
+    52: quod exprobraverunt inimici tui, Domine, quod exprobraverunt commutationem christi tui. 
+    53: Benedictus Dominus in aeternum. Fiat! fiat!
+
+End of day 165.

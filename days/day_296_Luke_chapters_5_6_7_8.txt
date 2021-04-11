@@ -1,0 +1,211 @@
+Day 296:
+
+Reading Luke, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: Factum est autem, cum turbae irruerunt in eum ut audirent verbum Dei, et ipse stabat secus stagnum Genesareth. 
+    2: Et vidit duas naves stantes secus stagnum : piscatores autem descenderant, et lavabant retia. 
+    3: Ascendens autem in unam navim, quae erat Simonis, rogavit eum a terra reducere pusillum. Et sedens docebat de navicula turbas. 
+    4: Ut cessavit autem loqui, dixit ad Simonem : Duc in altum, et laxate retia vestra in capturam. 
+    5: Et respondens Simon, dixit illi : Praeceptor, per totam noctem laborantes nihil cepimus : in verbo autem tuo laxabo rete.
+    6: Et cum hoc fecissent, concluserunt piscium multitudinem copiosam : rumpebatur autem rete eorum. 
+    7: Et annuerunt sociis, qui erant in alia navi, ut venirent, et adjuvarent eos. Et venerunt, et impleverunt ambas naviculas, ita ut pene mergerentur. 
+    8: Quod cum vidisset Simon Petrus, procidit ad genua Jesu, dicens : Exi a me, quia homo peccator sum, Domine. 
+    9: Stupor enim circumdederat eum, et omnes qui cum illo erant, in captura piscium, quam ceperant : 
+    10: similiter autem Jacobum et Joannem, filios Zebedaei, qui erunt socii Simonis. Et ait ad Simonem Jesus : Noli timere : ex hoc jam homines eris capiens.
+    11: Et subductis ad terram navibus, relictis omnibus, secuti sunt eum. 
+    12: Et factum est, cum esset in una civitatum, et ecce vir plenus lepra, et videns Jesum, et procidens in faciem, rogavit eum, dicens : Domine, si vis, potes me mundare. 
+    13: Et extendens manum, tetigit eum dicens : Volo : mundare. Et confestim lepra discessit ab illo. 
+    14: Et ipse praecepit illi ut nemini diceret : sed, Vade, ostende te sacerdoti, et offer pro emundatione tua, sicut praecepit Moyses, in testimonium illis. 
+    15: Perambulabat autem magis sermo de illo : et conveniebant turbae multae ut audirent, et curarentur ab infirmitatibus suis.
+    16: Ipse autem secedebat in desertum, et orabat. 
+    17: Et factum est in una dierum, et ipse sedebat docens. Et erant pharisaei sedentes, et legis doctores, qui venerunt ex omni castello Galilaeae, et Judaeae, et Jerusalem : et virtus Domini erat ad sanandum eos. 
+    18: Et ecce viri portantes in lecto hominem, qui erat paralyticus : et quaerebant eum inferre, et ponere ante eum. 
+    19: Et non invenientes qua parte illum inferrent prae turba, ascenderunt supra tectum, et per tegulas summiserunt eum cum lecto in medium ante Jesum. 
+    20: Quorum fidem ut vidit, dixit : Homo, remittuntur tibi peccata tua.
+    21: Et coeperunt cogitare scribae et pharisaei, dicentes : Quis est hic, qui loquitur blasphemias? quis potest dimittere peccata, nisi solus Deus? 
+    22: Ut cognovit autem Jesus cogitationes eorum, respondens, dixit ad illos : Quid cogitatis in cordibus vestris? 
+    23: Quid est facilius dicere : Dimittuntur tibi peccata : an dicere : Surge, et ambula? 
+    24: Ut autem sciatis quia Filius hominis habet potestatem in terra dimittendi peccata, ( ait paralytico) tibi dico, surge, tolle lectum tuum, et vade in domum tuam. 
+    25: Et confestim consurgens coram illis, tulit lectum in quo jacebat : et abiit in domum suam, magnificans Deum.
+    26: Et stupor apprehendit omnes, et magnificabant Deum. Et repleti sunt timore, dicentes : Quia vidimus mirabilia hodie. 
+    27: Et post haec exiit, et vidit publicanum nomine Levi, sedentem ad telonium, et ait illi : Sequere me. 
+    28: Et relictis omnibus, surgens secutus est eum. 
+    29: Et fecit ei convivium magnum Levi in domo sua : et erat turba multa publicanorum, et aliorum qui cum illis erant discumbentes. 
+    30: Et murmurabant pharisaei et scribae eorum, dicentes ad discipulos ejus : Quare cum publicanis et peccatoribus manducatis et bibitis?
+    31: Et respondens Jesus, dixit ad illos : Non egent qui sani sunt medico, sed qui male habent. 
+    32: Non veni vocare justos, sed peccatores ad poenitentiam. 
+    33: At illi dixerunt ad eum : Quare discipuli Joannis jejunant frequenter, et obsecrationes faciunt, similiter et pharisaeorum : tui autem edunt et bibunt? 
+    34: Quibus ipse ait : Numquid potestis filios sponsi, dum cum illis est sponsus, facere jejunare? 
+    35: Venient autem dies, cum ablatus fuerit ab illis sponsus : tunc jejunabunt in illis diebus.
+    36: Dicebat autem et similitudinem ad illos : Quia nemo commissuram a novo vestimento immittit in vestimentum vetus : alioquin et novum rumpit, et veteri non convenit commissura a novo. 
+    37: Et nemo mittit vinum novum in utres veteres : alioquin rumpet vinum novum utres, et ipsum effundetur, et utres peribunt : 
+    38: sed vinum novum in utres novos mittendum est, et utraque conservantur. 
+    39: Et nemo bibens vetus, statim vult novum : dicit enim : Vetus melius est.
+
+  Chapter 6.
+
+    1: Factum est autem in sabbato secundo, primo, cum transiret per sata, vellebant discipuli ejus spicas, et manducabant confricantes manibus. 
+    2: Quidam autem pharisaeorum, dicebant illis : Quid facitis quod non licet in sabbatis? 
+    3: Et respondens Jesus ad eos, dixit : Nec hoc legistis quod fecit David, cum esurisset ipse, et qui cum illo erant? 
+    4: quomodo intravit in domum Dei, et panes propositionis sumpsit, et manducavit, et dedit his qui cum ipso erant : quos non licet manducare nisi tantum sacerdotibus? 
+    5: Et dicebat illis : Quia dominus est Filius hominis etiam sabbati.
+    6: Factum est autem in alio sabbato, ut intraret in synagogam, et doceret. Et erat ibi homo, et manus ejus dextra erat arida. 
+    7: Observabant autem scribae et pharisaei si in sabbato curaret, ut invenirent unde accusarent eum. 
+    8: Ipse vero sciebat cogitationes eorum : et ait homini qui habebat manum aridam : Surge, et sta in medium. Et surgens stetit. 
+    9: Ait autem ad illos Jesus : Interrogo vos si licet sabbatis benefacere, an male : animam salvam facere, an perdere? 
+    10: Et circumspectis omnibus dixit homini : Extende manum tuam. Et extendit : et restituta est manus ejus.
+    11: Ipsi autem repleti sunt insipientia, et colloquebantur ad invicem, quidnam facerent Jesu. 
+    12: Factum est autem in illis diebus, exiit in montem orare, et erat pernoctans in oratione Dei. 
+    13: Et cum dies factus esset, vocavit discipulos suos : et elegit duodecim ex ipsis ( quos et apostolos nominavit) : 
+    14: Simonem, quem cognominavit Petrum, et Andream fratrem ejus, Jacobum, et Joannem, Philippum, et Bartholomaeum, 
+    15: Matthaeum, et Thomam, Jacobum Alphaei, et Simonem, qui vocatur Zelotes,
+    16: et Judam Jacobi, et Judam Iscariotem, qui fuit proditor. 
+    17: Et descendens cum illis, stetit in loco campestri, et turba discipulorum ejus, et multitudo copiosa plebis ab omni Judaea, et Jerusalem, et maritima, et Tyri, et Sidonis, 
+    18: qui venerant ut audirent eum, et sanarentur a languoribus suis. Et qui vexabantur a spiritibus immundis, curabantur. 
+    19: Et omnis turba quaerebat eum tangere : quia virtus de illo exibat, et sanabat omnes. 
+    20: Et ipse elevatis oculis in discipulis suis, dicebat : Beati pauperes, quia vestrum est regnum Dei.
+    21: Beati qui nunc esuritis, quia saturabimini. Beati qui nunc fletis, quia ridebitis. 
+    22: Beati eritis cum vos oderint homines, et cum separaverint vos, et exprobraverint, et ejicerint nomen vestrum tamquam malum propter Filium hominis. 
+    23: Gaudete in illa die, et exsultate : ecce enim merces vestra multa est in caelo : secundum haec enim faciebant prophetis patres eorum. 
+    24: Verumtamen vae vobis divitibus, quia habetis consolationem vestram. 
+    25: Vae vobis, qui saturati estis : quia esurietis. Vae vobis, qui ridetis nunc : quia lugebitis et flebitis.
+    26: Vae cum benedixerint vobis homines : secundum haec enim faciebant pseudoprophetis patres eorum. 
+    27: Sed vobis dico, qui auditis : diligite inimicos vestros, benefacite his qui oderunt vos. 
+    28: Benedicite maledicentibus vobis, et orate pro calumniantibus vos. 
+    29: Et qui te percutit in maxillam, praebe et alteram. Et ab eo qui aufert tibi vestimentum, etiam tunicam noli prohibere. 
+    30: Omni autem petenti te, tribue : et qui aufert quae tua sunt, ne repetas.
+    31: Et prout vultis ut faciant vobis homines, et vos facite illis similiter. 
+    32: Et si diligitis eos qui vos diligunt, quae vobis est gratia? nam et peccatores diligentes se diligunt. 
+    33: Et si benefeceritis his qui vobis benefaciunt, quae vobis est gratia? siquidem et peccatores hoc faciunt. 
+    34: Et si mutuum dederitis his a quibus speratis recipere, quae gratia est vobis? nam et peccatores peccatoribus foenerantur, ut recipiant aequalia. 
+    35: Verumtamen diligite inimicos vestros : benefacite, et mutuum date, nihil inde sperantes : et erit merces vestra multa, et eritis filii Altissimi, quia ipse benignus est super ingratos et malos.
+    36: Estote ergo misericordes sicut et Pater vester misericors est. 
+    37: Nolite judicare, et non judicabimini : nolite condemnare, et non condemnabimini. Dimitte, et dimittemini. 
+    38: Date, et dabitur vobis : mensuram bonam, et confertam, et coagitatam, et supereffluentem dabunt in sinum vestrum. Eadem quippe mensura, qua mensi fueritis, remetietur vobis. 
+    39: Dicebat autem illis et similitudinem : Numquid potest caecus caecum ducere? nonne ambo in foveam cadunt? 
+    40: Non est discipulus super magistrum : perfectus autem omnis erit, si sit sicut magister ejus.
+    41: Quid autem vides festucam in oculo fratris tui, trabem autem, quae in oculo tuo est, non consideras? 
+    42: aut quomodo potes dicere fratri tuo : Frater, sine ejiciam festucam de oculo tuo : ipse in oculo tuo trabem non videns? Hypocrita, ejice primum trabem de oculo tuo : et tunc perspicies ut educas festucam de oculo fratris tui. 
+    43: Non est enim arbor bona, quae facit fructus malos : neque arbor mala, faciens fructum bonum. 
+    44: Unaquaeque enim arbor de fructu suo cognoscitur. Neque enim de spinis colligunt ficus : neque de rubo vindemiant uvam. 
+    45: Bonus homo de bono thesauro cordis sui profert bonum : et malus homo de malo thesauro profert malum. Ex abundantia enim cordis os loquitur.
+    46: Quid autem vocatis me Domine, Domine : et non facitis quae dico? 
+    47: Omnis qui venit ad me, et audit sermones meos, et facit eos, ostendam vobis cui similis sit : 
+    48: similis est homini aedificanti domum, qui fodit in altum, et posuit fundamentum super petram : inundatione autem facta, illisum est flumen domui illi, et non potuit eam movere : fundata enim erat super petram. 
+    49: Qui autem audit, et non facit, similis est homini aedificanti domum suam super terram sine fundamento : in quam illisus est fluvius, et continuo cecidit : et facta est ruina domus illius magna.
+
+  Chapter 7.
+
+    1: Cum autem implesset omnia verba sua in aures plebis, intravit Capharnaum. 
+    2: Centurionis autem cujusdam servus male habens, erat moriturus : qui illi erat pretiosus. 
+    3: Et cum audisset de Jesu, misit ad eum seniores Judaeorum, rogans eum ut veniret et salvaret servum ejus. 
+    4: At illi cum venissent ad Jesum, rogabant eum sollicite, dicentes ei : Quia dignus est ut hoc illi praestes : 
+    5: diligit enim gentem nostram, et synagogam ipse aedificavit nobis.
+    6: Jesus autem ibat cum illis. Et cum jam non longe esset a domo, misit ad eum centurio amicos, dicens : Domine, noli vexari : non enim sum dignus ut sub tectum meum intres : 
+    7: propter quod et meipsum non sum dignum arbitratus ut venirem ad te : sed dic verbo, et sanabitur puer meus. 
+    8: Nam et ego homo sum sub potestate constitutus, habens sub me milites : et dico huic, Vade, et vadit : et alii, Veni, et venit : et servo meo, Fac hoc, et facit. 
+    9: Quo audito Jesus miratus est : et conversus sequentibus se turbis, dixit : Amen dico vobis, nec in Israel tantam fidem inveni. 
+    10: Et reversi, qui missi fuerant, domum, invenerunt servum, qui languerat, sanum.
+    11: Et factum est : deinceps ibat in civitatem quae vocatur Naim : et ibant cum eo discipuli ejus et turba copiosa. 
+    12: Cum autem appropinquaret portae civitatis, ecce defunctus efferebatur filius unicus matris suae : et haec vidua erat : et turba civitatis multa cum illa. 
+    13: Quam cum vidisset Dominus, misericordia motus super eam, dixit illi : Noli flere. 
+    14: Et accessit, et tetigit loculum. ( Hi autem qui portabant, steterunt.) Et ait : Adolescens, tibi dico, surge. 
+    15: Et resedit qui erat mortuus, et coepit loqui. Et dedit illum matri suae.
+    16: Accepit autem omnes timor : et magnificabant Deum, dicentes : Quia propheta magnus surrexit in nobis : et quia Deus visitavit plebem suam. 
+    17: Et exiit hic sermo in universam Judaeam de eo, et in omnem circa regionem. 
+    18: Et nuntiaverunt Joanni discipuli ejus de omnibus his. 
+    19: Et convocavit duos de discipulis suis Joannes, et misit ad Jesum, dicens : Tu es qui venturus es, an alium exspectamus? 
+    20: Cum autem venissent ad eum viri, dixerunt : Joannes Baptista misit nos ad te dicens : Tu es qui venturus es, an alium exspectamus?
+    21: ( In ipsa autem hora multos curavit a languoribus, et plagis, et spiritibus malis, et caecis multis donavit visum.) 
+    22: Et respondens, dixit illis : Euntes renuntiate Joanni quae audistis et vidistis : quia caeci vident, claudi ambulant, leprosi mundantur, surdi audiunt, mortui resurgunt, pauperes evangelizantur : 
+    23: et beatus est quicumque non fuerit scandalizatus in me. 
+    24: Et cum discessissent nuntii Joannis, coepit de Joanne dicere ad turbas : Quid existis in desertum videre? arundinem vento agitatam? 
+    25: Sed quid existis videre? hominem mollibus vestibus indutum? Ecce qui in veste pretiosa sunt et deliciis, in domibus regum sunt.
+    26: Sed quid existis videre? prophetam? Utique dico vobis, et plus quam prophetam : 
+    27: hic est, de quo scriptum est : Ecce mitto angelum meum ante faciem tuam, qui praeparabit viam tuam ante te. 
+    28: Dico enim vobis : major inter natos mulierum propheta Joanne Baptista nemo est : qui autem minor est in regno Dei, major est illo. 
+    29: Et omnis populus audiens et publicani, justificaverunt Deum, baptizati baptismo Joannis. 
+    30: Pharisaei autem et legisperiti consilium Dei spreverunt in semetipsos, non baptizati ab eo.
+    31: Ait autem Dominus : Cui ergo similes dicam homines generationis hujus? et cui similes sunt? 
+    32: Similes sunt pueris sedentibus in foro, et loquentibus ad invicem, et dicentibus : Cantavimus vobis tibiis, et non saltastis : lamentavimus, et non plorastis. 
+    33: Venit enim Joannes Baptista, neque manducans panem, neque bibens vinum, et dicitis : Daemonium habet. 
+    34: Venit Filius hominis manducans, et bibens, et dicitis : Ecce homo devorator, et bibens vinum, amicus publicanorum et peccatorum. 
+    35: Et justificata est sapientia ab omnibus filiis suis.
+    36: Rogabat autem illum quidam de pharisaeis ut manducaret cum illo. Et ingressus domum pharisaei discubuit. 
+    37: Et ecce mulier, quae erat in civitate peccatrix, ut cognovit quod accubuisset in domo pharisaei, attulit alabastrum unguenti : 
+    38: et stans retro secus pedes ejus, lacrimis coepit rigare pedes ejus, et capillis capitis sui tergebat, et osculabatur pedes ejus, et unguento ungebat. 
+    39: Videns autem pharisaeus, qui vocaverat eum, ait intra se dicens : Hic si esset propheta, sciret utique quae et qualis est mulier, quae tangit eum : quia peccatrix est. 
+    40: Et respondens Jesus, dixit ad illum : Simon, habeo tibi aliquid dicere. At ille ait : Magister, dic.
+    41: Duo debitores erant cuidam foeneratori : unus debebat denarios quingentos, et alius quinquaginta. 
+    42: Non habentibus illis unde redderent, donavit utrisque. Quis ergo eum plus diligit? 
+    43: Respondens Simon dixit : Aestimo quia is cui plus donavit. At ille dixit : Recte judicasti. 
+    44: Et conversus ad mulierem, dixit Simoni : Vides hanc mulierem? Intravi in domum tuam, aquam pedibus meis non dedisti : haec autem lacrimis rigavit pedes meos, et capillis suis tersit. 
+    45: Osculum mihi non dedisti : haec autem ex quo intravit, non cessavit osculari pedes meos.
+    46: Oleo caput meum non unxisti : haec autem unguento unxit pedes meos. 
+    47: Propter quod dico tibi : remittuntur ei peccata multa, quoniam dilexit multum. Cui autem minus dimittitur, minus diligit. 
+    48: Dixit autem ad illam : Remittuntur tibi peccata. 
+    49: Et coeperunt qui simul accumbebant, dicere intra se : Quis est hic qui etiam peccata dimittit? 
+    50: Dixit autem ad mulierem : Fides tua te salvam fecit : vade in pace.
+
+  Chapter 8.
+
+    1: Et factum est deinceps, et ipse iter faciebat per civitates, et castella praedicans, et evangelizans regnum Dei : et duodecim cum illo, 
+    2: et mulieres aliquae, quae erant curatae a spiritibus malignis et infirmatibus : Maria, quae vocatur Magdalene, de qua septem daemonia exierant, 
+    3: et Joanna uxor Chusae procuratoris Herodis, et Susanna, et aliae multae, quae ministrabant ei de facultatibus suis. 
+    4: Cum autem turba plurima convenirent, et de civitatibus properarent ad eum, dixit per similitudinem : 
+    5: Exiit qui seminat, seminare semen suum. Et dum seminat, aliud cecidit secus viam, et conculcatum est, et volucres caeli comederunt illud.
+    6: Et aliud cecidit supra petrum : et natum aruit, quia non habebat humorem. 
+    7: Et aliud cecidit inter spinas, et simul exortae spinae suffocaverunt illud. 
+    8: Et aliud cecidit in terram bonam : et ortum fecit fructum centuplum. Haec dicens clamabat : Qui habet aures audiendi, audiat. 
+    9: Interrogabant autem eum discipuli ejus, quae esset haec parabola. 
+    10: Quibus ipse dixit : Vobis datum est nosse mysterium regni Dei, ceteris autem in parabolis : ut videntes non videant, et audientes non intelligant.
+    11: Est autem haec parabola : Semen est verbum Domini. 
+    12: Qui autem secus viam, hi sunt qui audiunt : deinde venit diabolus, et tollit verbum de corde eorum, ne credentes salvi fiant. 
+    13: Nam qui supra petram, qui cum audierint, cum gaudio suscipiunt verbum : et hi radices non habent : qui ad tempus credunt, et in tempore tentationis recedunt. 
+    14: Quod autem in spinas cecidit : hi sunt qui audierunt, et a sollicitudinibus, et divitiis, et voluptatibus vitae euntes, suffocantur, et non referunt fructum. 
+    15: Quod autem in bonam terram : hi sunt qui in corde bono et optimo audientes verbum retinent, et fructum afferunt in patientia.
+    16: Nemo autem lucernam accendens, operit eam vase, aut subtus lectum ponit : sed supra candelabrum ponit, ut intrantes videant lumen. 
+    17: Non est enim occultum, quod non manifestetur : nec absconditum, quod non cognoscatur, et in palam veniat. 
+    18: Videte ergo quomodo audiatis? Qui enim habet, dabitur illi : et quicumque non habet, etiam quod putat se habere, auferetur ab illo. 
+    19: Venerunt autem ad illum mater et fratres ejus, et non poterant adire eum prae turba. 
+    20: Et nuntiatum est illi : Mater tua et fratres tui stant foris, volentes te videre.
+    21: Qui respondens, dixit ad eos : Mater mea et fratres mei hi sunt, qui verbum Dei audiunt et faciunt. 
+    22: Factum est autem in una dierum : et ipse ascendit in naviculam, et discipuli ejus, et ait ad illos : Transfretemus trans stagnum. Et ascenderunt. 
+    23: Et navigantibus illis, obdormivit, et descendit procella venti in stagnum, et complebantur, et periclitabantur. 
+    24: Accedentes autem suscitaverunt eum, dicentes : Praeceptor, perimus. At ille surgens, increpavit ventum, et tempestatem aquae, et cessavit : et facta est tranquillitas. 
+    25: Dixit autem illis : Ubi est fides vestra? Qui timentes, mirati sunt ad invicem, dicentes : Quis putas hic est, quia et ventis, et mari imperat, et obediunt ei?
+    26: Et navigaverunt ad regionem Gerasenorum, quae est contra Galilaeam. 
+    27: Et cum egressus esset ad terram, occurrit illi vir quidam, qui habebat daemonium jam temporibus multis, et vestimento non induebatur, neque in domo manebat, sed in monumentis. 
+    28: Is, ut vidit Jesum, procidit ante illum : et exclamans voce magna, dixit : Quid mihi et tibi est, Jesu Fili Dei Altissimi? obsecro te, ne me torqueas. 
+    29: Praecipiebat enim spiritui immundo ut exiret ab homine. Multis enim temporibus arripiebat illum, et vinciebatur catenis, et compedibus custoditus. Et ruptis vinculis agebatur a daemonio in deserta. 
+    30: Interrogavit autem illum Jesus, dicens : Quod tibi nomen est? At ille dixit : Legio : quia intraverant daemonia multa in eum.
+    31: Et rogabant illum ne imperaret illis ut in abyssum irent. 
+    32: Erat autem ibi grex porcorum multorum pascentium in monte : et rogabant eum, ut permitteret eis in illos ingredi. Et permisit illis. 
+    33: Exierunt ergo daemonia ab homine, et intraverunt in porcos : et impetu abiit grex per praeceps in stagnum, et suffocatus est. 
+    34: Quod ut viderunt factum qui pascebant, fugerunt, et nuntiaverunt in civitatem et in villas. 
+    35: Exierunt autem videre quod factum est, et venerunt ad Jesum, et invenerunt hominem sedentem, a quo daemonia exierant, vestitum ac sana mente, ad pedes ejus, et timuerunt.
+    36: Nuntiaverunt autem illis et qui viderant, quomodo sanus factus esset a legione : 
+    37: et rogaverunt illum omnis multitudo regionis Gerasenorum ut discederet ab ipsis : quia magno timore tenebantur. Ipse autem ascendens navim, reversus est. 
+    38: Et rogabat illum vir, a quo daemonia exierant, ut cum eo esset. Dimisit autem eum Jesus, dicens : 
+    39: Redi in domum tuam, et narra quanta tibi fecit Deus. Et abiit per universam civitatem, praedicans quanta illi fecisset Jesus. 
+    40: Factum est autem cum rediisset Jesus, excepit illum turba : erunt enim omnes exspectantes eum.
+    41: Et ecce venit vir, cui nomen Jairus, et ipse princeps synagogae erat : et cecidit ad pedes Jesu, rogans eum ut intraret in domum ejus, 
+    42: quia unica filia erat ei fere annorum duodecim, et haec moriebatur. Et contigit, dum iret, a turba comprimebatur. 
+    43: Et mulier quaedam erat in fluxu sanguinis ab annis duodecim, quae in medicos erogaverat omnem substantiam suam, nec ab ullo potuit curari : 
+    44: accessit retro, et tetigit fimbriam vestimenti ejus : et confestim stetit fluxus sanguinis ejus. 
+    45: Et ait Jesus : Quis est, qui me tetigit? Negantibus autem omnibus, dixit Petrus, et qui cum illo erant : Praeceptor, turbae te comprimunt, et affligunt, et dicis : Quis me tetigit?
+    46: Et dicit Jesus : Tetigit me aliquis : nam ego novi virtutem de me exiisse. 
+    47: Videns autem mulier, quia non latuit, tremens venit, et procidit ante pedes ejus : et ob quam causam tetigerit eum, indicavit coram omni populo : et quemadmodum confestim sanata sit. 
+    48: At ipse dixit ei : Filia, fides tua salvam te fecit : vade in pace. 
+    49: Adhuc illo loquente, venit quidam ad principem synagogae, dicens ei : Quia mortua est filia tua, noli vexare illum. 
+    50: Jesus autem, audito hoc verbo, respondit patri puellae : Noli timere, crede tantum, et salva erit.
+    51: Et cum venisset domum, non permisit intrare secum quemquam, nisi Petrum, et Jacobum, et Joannem, et patrem, et matrem puellae. 
+    52: Flebant autem omnes, et plangebant illam. At ille dixit : Nolite flere : non est mortua puella, sed dormit. 
+    53: Et deridebant eum, scientes quod mortua esset. 
+    54: Ipse autem tenens manum ejus clamavit, dicens : Puella, surge. 
+    55: Et reversus est spiritus ejus, et surrexit continuo. Et jussit illi dari manducare.
+    56: Et stupuerunt parentes ejus, quibus praecepit ne alicui dicerent quod factum erat.
+
+End of day 296.

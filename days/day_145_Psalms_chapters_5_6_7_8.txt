@@ -1,0 +1,69 @@
+Day 145:
+
+Reading Psalms, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: In finem, pro ea quae haereditatem consequitur. Psalmus David. 
+    2: Verba mea auribus percipe, Domine; intellige clamorem meum. 
+    3: Intende voci orationis meae, rex meus et Deus meus. 
+    4: Quoniam ad te orabo, Domine, mane exaudies vocem meam. 
+    5: Mane astabo tibi, et videbo quoniam non Deus volens iniquitatem tu es.
+    6: Neque habitabit juxta te malignus, neque permanebunt injusti ante oculos tuos. 
+    7: Odisti omnes qui operantur iniquitatem; perdes omnes qui loquuntur mendacium. Virum sanguinum et dolosum abominabitur Dominus. 
+    8: Ego autem in multitudine misericordiae tuae introibo in domum tuam; adorabo ad templum sanctum tuum in timore tuo. 
+    9: Domine, deduc me in justitia tua : propter inimicos meos dirige in conspectu tuo viam meam. 
+    10: Quoniam non est in ore eorum veritas; cor eorum vanum est.
+    11: Sepulchrum patens est guttur eorum; linguis suis dolose agebant, judica illos, Deus. Decidant a cogitationibus suis; secundum multitudinem impietatum eorum expelle eos, quoniam irritaverunt te, Domine. 
+    12: Et laetentur omnes qui sperant in te; in aeternum exsultabunt, et habitabis in eis. Et gloriabuntur in te omnes qui diligunt nomen tuum, 
+    13: quoniam tu benedices justo. Domine, ut scuto bonae voluntatis tuae coronasti nos.
+
+  Chapter 6.
+
+    1: In finem, in carminibus. Psalmus David. Pro octava. 
+    2: Domine, ne in furore tuo arguas me, neque in ira tua corripias me. 
+    3: Miserere mei, Domine, quoniam infirmus sum; sana me, Domine, quoniam conturbata sunt ossa mea. 
+    4: Et anima mea turbata est valde; sed tu, Domine, usquequo? 
+    5: Convertere, Domine, et eripe animam meam; salvum me fac propter misericordiam tuam.
+    6: Quoniam non est in morte qui memor sit tui; in inferno autem quis confitebitur tibi? 
+    7: Laboravi in gemitu meo; lavabo per singulas noctes lectum meum; lacrimis meis stratum meum rigabo. 
+    8: Turbatus est a furore oculus meus; inveteravi inter omnes inimicos meos. 
+    9: Discedite a me omnes qui operamini iniquitatem, quoniam exaudivit Dominus vocem fletus mei. 
+    10: Exaudivit Dominus deprecationem meam; Dominus orationem meam suscepit.
+    11: Erubescant, et conturbentur vehementer omnes inimici mei; convertantur, et erubescant valde velociter.
+
+  Chapter 7.
+
+    1: Psalmus David, quem cantavit Domino pro verbis Chusi, filii Jemini. 
+    2: Domine Deus meus, in te speravi; salvum me fac ex omnibus persequentibus me, et libera me, 
+    3: nequando rapiat ut leo animam meam, dum non est qui redimat, neque qui salvum faciat. 
+    4: Domine Deus meus, si feci istud, si est iniquitas in manibus meis, 
+    5: si reddidi retribuentibus mihi mala, decidam merito ab inimicis meis inanis.
+    6: Persequatur inimicus animam meam, et comprehendat; et conculcet in terra vitam meam, et gloriam meam in pulverem deducat. 
+    7: Exsurge, Domine, in ira tua; et exaltare in finibus inimicorum meorum; et exsurge, Domine Deus meus, in praecepto quod mandasti; 
+    8: et synagoga populorum circumdabit te : et propter hanc in altum regredere. 
+    9: Dominus judicat populos. Judica me, Domine, secundum justitiam meam, et secundum innocentiam meam super me. 
+    10: Consumetur nequitia peccatorum; et diriges justum, scrutans corda et renes, Deus.
+    11: Justum adjutorium meum a Domino, qui salvos facit rectos corde. 
+    12: Deus judex justus, fortis, et patiens; numquid irascitur per singulos dies? 
+    13: Nisi conversi fueritis, gladium suum vibrabit; arcum suum tetendit, et paravit illum. 
+    14: Et in eo paravit vasa mortis, sagittas suas ardentibus effecit. 
+    15: Ecce parturiit injustitiam; concepit dolorem, et peperit iniquitatem.
+    16: Lacum aperuit, et effodit eum; et incidit in foveam quam fecit. 
+    17: Convertetur dolor ejus in caput ejus, et in verticem ipsius iniquitas ejus descendet. 
+    18: Confitebor Domino secundum justitiam ejus, et psallam nomini Domini altissimi.
+
+  Chapter 8.
+
+    1: In finem, pro torcularibus. Psalmus David. 
+    2: Domine, Dominus noster, quam admirabile est nomen tuum in universa terra! quoniam elevata est magnificentia tua super caelos. 
+    3: Ex ore infantium et lactentium perfecisti laudem propter inimicos tuos, ut destruas inimicum et ultorem. 
+    4: Quoniam videbo caelos tuos, opera digitorum tuorum, lunam et stellas quae tu fundasti. 
+    5: Quid est homo, quod memor es ejus? aut filius hominis, quoniam visitas eum?
+    6: Minuisti eum paulo minus ab angelis; gloria et honore coronasti eum; 
+    7: et constituisti eum super opera manuum tuarum. 
+    8: Omnia subjecisti sub pedibus ejus, oves et boves universas, insuper et pecora campi, 
+    9: volucres caeli, et pisces maris qui perambulant semitas maris. 
+    10: Domine, Dominus noster, quam admirabile est nomen tuum in universa terra!
+
+End of day 145.

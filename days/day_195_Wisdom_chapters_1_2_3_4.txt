@@ -1,0 +1,97 @@
+Day 195:
+
+Reading Wisdom, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Diligite justitiam, qui judicatis terram. Sentite de Domino in bonitate, et in simplicitate cordis quaerite illum; 
+    2: quoniam invenitur ab his qui non tentant illum, apparet autem eis qui fidem habent in illum. 
+    3: Perversae enim cogitationes separant a Deo; probata autem virtus corripit insipientes. 
+    4: Quoniam in malevolam animam non introibit sapientia, nec habitabit in corpore subdito peccatis. 
+    5: Spiritus enim sanctus disciplinae effugiet fictum; et auferet se a cogitationibus quae sunt sine intellectu, et corripietur a superveniente iniquitate.
+    6: Benignus est enim spiritus sapientiae, et non liberabit maledicum a labiis suis; quoniam renum illius testis est Deus, et cordis illius scrutator est verus et linguae ejus auditor. 
+    7: Quoniam spiritus Domini replevit orbem terrarum; et hoc quod continet omnia, scientiam habet vocis. 
+    8: Propter hoc qui loquitur iniqua non potest latere, nec praeteriet illum corripiens judicium. 
+    9: In cogitationibus enim impii interrogatio erit; sermonum autem illius auditio ad Deum veniet, ad correptionem iniquitatum illius. 
+    10: Quoniam auris zeli audit omnia, et tumultus murmurationum non abscondetur.
+    11: Custodite ergo vos a murmuratione quae nihil prodest, et a detractione parcite linguae : quoniam sermo obscurus in vacuum non ibit, os autem quod mentitur occidit animam. 
+    12: Nolite zelare mortem in errore vitae vestrae, neque acquiratis perditionem in operibus manuum vestrarum. 
+    13: Quoniam Deus mortem non fecit. Nec laetatur in perditione vivorum. 
+    14: Creavit enim ut essent omnia; et sanabiles fecit nationes orbis terrarum, et non est in illis medicamentum exterminii, nec inferorum regnum in terra. 
+    15: Justitia enim perpetua est, et immortalis.
+    16: Impii autem manibus et verbis accersierunt illam, et aestimantes illam amicam, defluxerunt; et sponsiones posuerunt ad illam, quoniam digni sunt qui sint ex parte illius.
+
+  Chapter 2.
+
+    1: Dixerunt enim cogitantes apud se non recte : Exiguum et cum taedio est tempus vitae nostrae, et non est refrigerium in fine hominis, et non est qui agnitus sit reversus ab inferis. 
+    2: Quia ex nihilo nati sumus, et post hoc erimus tamquam non fuerimus. Quoniam fumus flatus est in naribus nostris, et sermo scintilla ad commovendum cor nostrum : 
+    3: qua extincta, cinis erit corpus nostrum, et spiritus diffundetur tamquam mollis aer; et transibit vita nostra tamquam vestigium nubis, et sicut nebula dissolvetur quae fugata est a radiis solis, et a calore illius aggravata. 
+    4: Et nomen nostrum oblivionem accipiet per tempus, et nemo memoriam habebit operum nostrorum. 
+    5: Umbrae enim transitus est tempus nostrum, et non est reversio finis nostri : quoniam consignata est, et nemo revertitur.
+    6: Venite ergo, et fruamur bonis quae sunt, et utamur creatura tamquam in juventute celeriter. 
+    7: Vino pretioso et unguentis nos impleamus, et non praetereat nos flos temporis. 
+    8: Coronemus nos rosis antequam marcescant; nullum pratum sit quod non pertranseat luxuria nostra : 
+    9: nemo nostrum exsors sit luxuriae nostrae. Ubique relinquamus signa laetitiae, quoniam haec est pars nostra, et haec est sors. 
+    10: Opprimamus pauperem justum, et non parcamus viduae, nec veterani revereamur canos multi temporis,
+    11: sit autem fortitudo nostra lex justitiae; quod enim infirmum est inutile invenitur. 
+    12: Circumveniamus ergo justum, quoniam inutilis est nobis, et contrarius est operibus nostris, et improperat nobis peccata legis, et diffamat in nos peccata disciplinae nostrae. 
+    13: Promittit se scientiam Dei habere, et filium Dei se nominat. 
+    14: Factus est nobis in traductionem cogitationum nostrarum. 
+    15: Gravis est nobis etiam ad videndum, quoniam dissimilis est aliis vita illius, et immutatae sunt viae ejus.
+    16: Tamquam nugaces aestimati sumus ab illo, et abstinet se a viis nostris tamquam ab immunditiis, et praefert novissima justorum, et gloriatur patrem se habere Deum. 
+    17: Videamus ergo si sermones illius veri sint, et tentemus quae ventura sunt illi, et sciemus quae erunt novissima illius. 
+    18: Si enim est verus filius Dei, suscipiet illum, et liberabit eum de manibus contrariorum. 
+    19: Contumelia et tormento interrogemus eum, ut sciamus reverentiam ejus, et probemus patientiam illius. 
+    20: Morte turpissima condemnemus eum; erit enim ei respectus ex sermonibus illius.
+    21: Haec cogitaverunt, et erraverunt : excaecavit enim illos malitia eorum. 
+    22: Et nescierunt sacramenta Dei; neque mercedem speraverunt justitiae, nec judicaverunt honorem animarum sanctarum. 
+    23: Quoniam Deus creavit hominem inexterminabilem, et ad imaginem similitudinis suae fecit illum. 
+    24: Invidia autem diaboli mors introivit in orbem terrarum : 
+    25: imitantur autem illum qui sunt ex parte illius.
+
+  Chapter 3.
+
+    1: Justorum autem animae in manu Dei sunt, et non tangent illos tormentum mortis. 
+    2: Visi sunt oculis insipientium mori, et aestimata est afflictio exitus illorum, 
+    3: et quod a nobis est iter exterminium; illi autem sunt in pace; 
+    4: et si coram hominibus tormenta passi sunt, spes illorum immortalitate plena est. 
+    5: In paucis vexati sunt in multis bene disponentur, quoniam Deus tentavit eos, et invenit illos dignos se.
+    6: Tamquam aurum in fornace probavit illos, et quasi holocausti hostiam accepit illos, et in tempore erit respectus illorum. 
+    7: Fulgebunt justi et tamquam scintillae in arundineto discurrent. 
+    8: Judicabunt nationes, et dominabuntur populis, et regnabit Dominus illorum in perpetuum. 
+    9: Qui confidunt in illo intelligent veritatem, et fideles in dilectione acquiescent illi, quoniam donum et pax est electis ejus. 
+    10: Impii autem secundum quae cogitaverunt correptionem habebunt, qui neglexerunt justum, et a Domino recesserunt.
+    11: Sapientiam enim et disciplinam qui abjicit infelix est; et vacua est spes illorum, et labores sine fructu, et inutilia opera eorum. 
+    12: Mulieres eorum insensatae sunt, et nequissimi filii eorum. 
+    13: Maledicta creatura eorum, quoniam felix est sterilis; et incoinquinata, quae nescivit thorum in delicto, habebit fructum in respectione animarum sanctarum; 
+    14: et spado qui non operatus est per manus suas iniquitatem, nec cogitavit adversus Deum nequissima : dabitur enim illi fidei donum electum, et sors in templo Dei acceptissima. 
+    15: Bonorum enim laborum gloriosus est fructus, et quae non concidat radix sapientiae.
+    16: Filii autem adulterorum in inconsummatione erunt, et ab iniquo thoro semen exterminabitur. 
+    17: Et si quidem longae vitae erunt, in nihilum computabuntur, et sine honore erit novissima senectus illorum. 
+    18: Et si celerius defuncti fuerint, non habebunt spem, nec in die agnitionis allocutionem. 
+    19: Nationis enim iniquae dirae sunt consummationes.
+
+  Chapter 4.
+
+    1: O quam pulchra est casta generatio, cum claritate! Immortalis est enim memoria illius, quoniam et apud Deum nota est, et apud homines. 
+    2: Cum praesens est, imitantur illam, et desiderant eam cum se eduxerit; et in perpetuum coronata triumphat, incoinquinatorum certaminum praemium vincens. 
+    3: Multigena autem impiorum multitudo non erit utilis, et spuria vitulamina non dabunt radices altas, nec stabile firmamentum collocabunt. 
+    4: Et si in ramis in tempore germinaverint, infirmiter posita, a vento commovebuntur, et a nimietate ventorum eradicabuntur. 
+    5: Confringentur enim rami inconsummati; et fructus illorum inutiles et acerbi ad manducandum, et ad nihilum apti.
+    6: Ex iniquis enim somnis filii qui nascuntur, testes sunt nequitiae adversus parentes in interrogatione sua. 
+    7: Justus autem si morte praeoccupatus fuerit, in refrigerio erit; 
+    8: senectus enim venerabilis est non diuturna, neque annorum numero computata : cani autem sunt sensus hominis, 
+    9: et aetas senectutis vita immaculata. 
+    10: Placens Deo factus est dilectus, et vivens inter peccatores translatus est.
+    11: Raptus est, ne malitia mutaret intellectum ejus, aut ne fictio deciperet animam illius. 
+    12: Fascinatio enim nugacitatis obscurat bona, et inconstantia concupiscentiae transvertit sensum sine malitia. 
+    13: Consummatus in brevi, explevit tempora multa; 
+    14: placita enim erat Deo anima illius : propter hoc properavit educere illum de medio iniquitatum. Populi autem videntes, et non intelligentes, nec ponentes in praecordiis talia, 
+    15: quoniam gratia Dei et misericordia est in sanctos ejus, et respectus in electos illius.
+    16: Condemnat autem justus mortuus vivos impios, et juventus celerius consummata longam vitam injusti. 
+    17: Videbunt enim finem sapientis, et non intelligent quid cogitaverit de illo Deus, et quare munierit illum Dominus. 
+    18: Videbunt, et contemnent eum; illos autem Dominus irridebit. 
+    19: Et erunt post haec decidentes sine honore, et in contumelia inter mortuos in perpetuum; quoniam disrumpet illos inflatos sine voce, et commovebit illos a fundamentis, et usque ad supremum desolabuntur : et erunt gementes, et memoria illorum peribit. 
+    20: Venient in cogitatione peccatorum suorum timidi, et traducent illos ex adverso iniquitates ipsorum.
+
+End of day 195.

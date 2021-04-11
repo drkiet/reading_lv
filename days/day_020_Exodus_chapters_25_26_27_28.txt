@@ -1,0 +1,158 @@
+Day 20:
+
+Reading Exodus, chapters ['25', '26', '27', '28']:
+
+  Chapter 25.
+
+    1: Locutusque est Dominus ad Moysen, dicens : 
+    2: Loquere filiis Israel, ut tollant mihi primitias : ab omni homine qui offeret ultroneus, accipietis eas. 
+    3: Haec sunt autem quae accipere debeatis : aurum, et argentum, et aes, 
+    4: hyacinthum et purpuram, coccumque bis tinctum, et byssum, pilos caprarum, 
+    5: et pelles arietum rubricatas, pellesque janthinas, et ligna setim :
+    6: oleum ad luminaria concinnanda : aromata in unguentum, et thymiamata boni odoris : 
+    7: lapides onychinos, et gemmas ad ornandum ephod, ac rationale. 
+    8: Facientque mihi sanctuarium, et habitabo in medio eorum : 
+    9: juxta omnem similitudinem tabernaculi quod ostendam tibi, et omnium vasorum in cultum ejus. Sicque facietis illud : 
+    10: arcam de lignis setim compingite, cujus longitudo habeat duos et semis cubitos : latitudo, cubitum et dimidium : altitudo, cubitum similiter ac semissem.
+    11: Et deaurabis eam auro mundissimo intus et foris : faciesque supra, coronam auream per circuitum : 
+    12: et quatuor circulos aureos, quos pones per quatuor arcae angulos : duo circuli sint in latere uno, et duo in altero. 
+    13: Facies quoque vectes de lignis setim, et operies eos auro. 
+    14: Inducesque per circulos qui sunt in arcae lateribus, ut portetur in eis : 
+    15: qui semper erunt in circulis, nec umquam extrahentur ab eis.
+    16: Ponesque in arca testificationem quam dabo tibi. 
+    17: Facies et propitiatorium de auro mundissimo : duos cubitos et dimidium tenebit longitudo ejus, et cubitum ac semissem latitudo. 
+    18: Duos quoque cherubim aureos et productiles facies, ex utraque parte oraculi. 
+    19: Cherub unus sit in latere uno, et alter in altero. 
+    20: Utrumque latus propitiatorii tegant expandentes alas, et operientes oraculum, respiciantque se mutuo versis vultibus in propitiatorium quo operienda est arca,
+    21: in qua pones testimonium quod dabo tibi. 
+    22: Inde praecipiam, et loquar ad te supra propitiatorium, ac de medio duorum cherubim, qui erunt super arcam testimonii, cuncta quae mandabo per te filiis Israel. 
+    23: Facies et mensam de lignis setim, habentem duos cubitos longitudinis, et in latitudine cubitum, et in altitudine cubitum et semissem. 
+    24: Et inaurabis eam auro purissimo : faciesque illi labium aureum per circuitum, 
+    25: et ipsi labio coronam interrasilem altam quatuor digitis : et super illam, alteram coronam aureolam.
+    26: Quatuor quoque circulos aureos praeparabis, et pones eis in quatuor angulis ejusdem mensae per singulos pedes. 
+    27: Subter coronam erunt circuli aurei, ut mittantur vectes per eos, et possit mensa portari. 
+    28: Ipsos quoque vectes facies de lignis setim, et circumdabis auro ad subvehendam mensam. 
+    29: Parabis et acetabula, ac phialas, thuribula, et cyathos, in quibus offerenda sunt libamina, ex auro purissimo. 
+    30: Et pones super mensam panes propositionis in conspectu meo semper.
+    31: Facies et candelabrum ductile de auro mundissimo, hastile ejus, et calamos, scyphos, et sphaerulas, ac lilia ex ipso procedentia. 
+    32: Sex calami egredientur de lateribus, tres ex uno latere, et tres ex altero. 
+    33: Tres scyphi quasi in nucis modum per calamos singulos, sphaerulaque simul, et lilium : et tres similiter scyphi instar nucis in calamo altero, sphaerulaque simul et lilium. Hoc erit opus sex calamorum, qui producendi sunt de hastili : 
+    34: in ipso autem candelabro erunt quatuor scyphi in nucis modum, sphaerulaeque per singulos, et lilia. 
+    35: Sphaerulae sub duobus calamis per tria loca, qui simul sex fiunt procedentes de hastili uno.
+    36: Et sphaerulae igitur et calami ex ipso erunt, universa ductilia de auro purissimo. 
+    37: Facies et lucernas septem, et pones eas super candelabrum, ut luceant ex adverso. 
+    38: Emunctoria quoque, et ubi quae emuncta sunt extinguantur, fiant de auro purissimo. 
+    39: Omne pondus candelabri cum universis vasis suis habebit talentum auri purissimi. 
+    40: Inspice, et fac secundum exemplar quod tibi in monte monstratum est.
+
+  Chapter 26.
+
+    1: Tabernaculum vero ita facies : decem cortinas de bysso retorta, et hyacintho, ac purpura, coccoque bis tincto, variatas opere plumario facies. 
+    2: Longitudo cortinae unius habebit viginti octo cubitos : latitudo, quatuor cubitorum erit. Unius mensurae fient universa tentoria. 
+    3: Quinque cortinae sibi jungentur mutuo, et aliae quinque nexu simili cohaerebunt. 
+    4: Ansulas hyacinthinas in lateribus ac summitatibus facies cortinarum, ut possint invicem copulari. 
+    5: Quinquagenas ansulas cortina habebit in utraque parte, ita insertas ut ansa contra ansam veniat, et altera alteri possit aptari.
+    6: Facies et quinquaginta circulos aureos quibus cortinarum vela jungenda sunt, ut unum tabernaculum fiat. 
+    7: Facies et saga cilicina undecim, ad operiendum tectum tabernaculi. 
+    8: Longitudo sagi unius habebit triginta cubitos, et latitudo, quatuor : aequa erit mensura sagorum omnium. 
+    9: E quibus quinque junges seorsum, et sex sibi mutuo copulabis, ita ut sextum sagum in fronte tecti duplices. 
+    10: Facies et quinquaginta ansas in ora sagi unius, ut conjungi cum altero queat, et quinquaginta ansas in ora sagi alterius, ut cum altero copuletur.
+    11: Facies et quinquaginta fibulas aeneas quibus jungantur ansae, ut unum ex omnibus operimentum fiat. 
+    12: Quod autem superfuerit in sagis quae parantur tecto, id est unum sagum quod amplius est, ex medietate ejus operies posteriora tabernaculi. 
+    13: Et cubitus ex una parte pendebit, et alter ex altera qui plus est in sagorum longitudine, utrumque latus tabernaculi protegens. 
+    14: Facies et operimentum aliud tecto de pellibus arietum rubricatis : et super hoc rursum aliud operimentum de janthinis pellibus. 
+    15: Facies et tabulas stantes tabernaculi de lignis setim,
+    16: quae singulae denos cubitos in longitudine habeant, et in latitudine singulos ac semissem. 
+    17: In lateribus tabulae, duae incastraturae fient, quibus tabula alteri tabulae connectatur : atque in hunc modum cunctae tabulae parabuntur. 
+    18: Quarum viginti erunt in latere meridiano quod vergit ad austrum. 
+    19: Quibus quadraginta bases argenteas fundes, ut binae bases singulis tabulis per duos angulos subjiciantur. 
+    20: In latere quoque secundo tabernaculi quod vergit ad aquilonem, viginti tabulae erunt,
+    21: quadraginta habentes bases argenteas, binae bases singulis tabulis supponentur. 
+    22: Ad occidentalem vero plagam tabernaculi facies sex tabulas, 
+    23: et rursum alias duas quae in angulis erigantur post tergum tabernaculi. 
+    24: Eruntque conjunctae a deorsum usque sursum, et una omnes compago retinebit. Duabus quoque tabulis quae in angulis ponendae sunt, similis junctura servabitur. 
+    25: Et erunt simul tabulae octo, bases earum argenteae sedecim, duabus basibus per unam tabulam supputatis.
+    26: Facies et vectes de lignis setim quinque ad continendas tabulas in uno latere tabernaculi, 
+    27: et quinque alios in altero, et ejusdem numeri ad occidentalem plagam : 
+    28: qui mittentur per medias tabulas a summo usque ad summum. 
+    29: Ipsas quoque tabulas deaurabis, et fundes in eis annulos aureos per quos vectes tabulata contineant : quos operies laminis aureis. 
+    30: Et eriges tabernaculum juxta exemplar quod tibi in monte monstratum est.
+    31: Facies et velum de hyacintho, et purpura, coccoque bis tincto, et bysso retorta, opere plumario et pulchra varietate contextum : 
+    32: quod appendes ante quatuor columnas de lignis setim, quae ipsae quidem deauratae erunt, et habebunt capita aurea, sed bases argenteas. 
+    33: Inseretur autem velum per circulos, intra quod pones arcam testimonii, quo et sanctuarium, et sanctuarii sanctuaria dividentur. 
+    34: Pones et propitiatorium super arcam testimonii in Sancto sanctorum, 
+    35: mensamque extra velum, et contra mensam candelabrum in latere tabernaculi meridiano : mensa enim stabit in parte aquilonis.
+    36: Facies et tentorium in introitu tabernaculi de hyacintho, et purpura, coccoque bis tincto, et bysso retorta, opere plumarii. 
+    37: Et quinque columnas deaurabis lignorum setim, ante quas ducetur tentorium : quarum erunt capita aurea, et bases aeneae.
+
+  Chapter 27.
+
+    1: Facies et altare de lignis setim, quod habebit quinque cubitus in longitudine, et totidem in latitudine, id est, quadrum, et tres cubitos in altitudine. 
+    2: Cornua autem per quatuor angulos ex ipso erunt : et operies illud aere. 
+    3: Faciesque in usus ejus lebetes ad suscipiendos cineres, et forcipes atque fuscinulas, et ignium receptacula; omnia vasa ex aere fabricabis. 
+    4: Craticulamque in modum retis aeneam : per cujus quatuor angulos erunt quatuor annuli aenei. 
+    5: Quos pones subter arulam altaris : eritque craticula usque ad altaris medium.
+    6: Facies et vectes altaris de lignis setim duos, quos operies laminis aeneis : 
+    7: et induces per circulos, eruntque ex utroque latere altaris ad portandum. 
+    8: Non solidum, sed inane et cavum intrinsecus facies illud, sicut tibi in monte monstratum est. 
+    9: Facies et atrium tabernaculi, in cujus australi plaga contra meridiem erunt tentoria de bysso retorta : centum cubitos unum latus tenebit in longitudine. 
+    10: Et columnas viginti cum basibus totidem aeneis, quae capita cum caelaturis suis habebunt argentea.
+    11: Similiter et in latere aquilonis per longum erunt tentoria centum cubitorum, columnae viginti, et bases aeneae ejusdem numeri, et capita earum cum caelaturis suis argentea. 
+    12: In latitudine vero atrii, quod respicit ad occidentem, erunt tentoria per quinquaginta cubitos, et columnae decem, basesque totidem. 
+    13: In ea quoque atrii latitudine, quae respicit ad orientem, quinquaginta cubiti erunt. 
+    14: In quibus quindecim cubitorum tentoria lateri uno deputabuntur, columnaeque tres et bases totidem : 
+    15: et in latere altero erunt tentoria cubitos obtinentia quindecim, columnae tres, et bases totidem.
+    16: In introitu vero atrii fiet tentorium cubitorum viginti ex hyacintho et purpura, coccoque bis tincto, et bysso retorta, opere plumarii : columnas habebit quatuor, cum basibus totidem. 
+    17: Omnes columnae atrii per circuitum vestitae erunt argenteis laminis, capitibus argenteis, et basibus aeneis. 
+    18: In longitudine occupabit atrium cubitos centum, in latitudine quinquaginta, altitudo quinque cubitorum erit : fietque de bysso retorta, et habebit bases aeneas. 
+    19: Cuncta vasa tabernaculi in omnes usus et caeremonias, tam paxillos ejus quam atrii, ex aere facies. 
+    20: Praecipe filiis Israel ut afferant tibi oleum de arboribus olivarum purissimum, piloque contusum, ut ardeat lucerna semper
+    21: in tabernaculo testimonii, extra velum quod oppansum est testimonio. Et collocabunt eam Aaron et filii ejus, ut usque mane luceat coram Domino. Perpetuus erit cultus per successiones eorum a filiis Israel.
+
+  Chapter 28.
+
+    1: Applica quoque ad te Aaron fratrem tuum cum filiis suis de medio filiorum Israel, ut sacerdotio fungantur mihi : Aaron, Nadab, et Abiu, Eleazar, et Ithamar. 
+    2: Faciesque vestem sanctam Aaron fratri tuo in gloriam et decorem. 
+    3: Et loqueris cunctis sapientibus corde quos replevi spiritu prudentiae, ut faciant vestes Aaron, in quibus sanctificatus ministret mihi. 
+    4: Haec autem erunt vestimenta quae faciet : rationale et superhumerale, tunicam et lineam strictam, cidarim et balteum. Facient vestimenta sancta fratri tuo Aaron et filiis ejus, ut sacerdotio fungantur mihi. 
+    5: Accipientque aurum, et hyacinthum, et purpuram, coccumque bis tinctum, et byssum.
+    6: Facient autem superhumerale de auro et hyacintho et purpura, coccoque bis tincto, et bysso retorta, opere polymito. 
+    7: Duas oras junctas habebit in utroque latere summitatum, ut in unum redeant. 
+    8: Ipsa quoque textura et cuncta operis varietas erit ex auro et hyacintho, et purpura, coccoque bis tincto, et bysso retorta. 
+    9: Sumesque duos lapides onychinos, et sculpes in eis nomina filiorum Israel : 
+    10: sex nomina in lapide uno, et sex reliqua in altero, juxta ordinem nativitatis eorum.
+    11: Opere sculptoris et caelatura gemmarii, sculpes eos nominibus filiorum Israel, inclusos auro atque circumdatos : 
+    12: et pones in utroque latere superhumeralis, memoriale filiis Israel. Portabitque Aaron nomina eorum coram Domino super utrumque humerum, ob recordationem. 
+    13: Facies et uncinos ex auro, 
+    14: et duas catenulas ex auro purissimo sibi invicem cohaerentes, quas inseres uncinis. 
+    15: Rationale quoque judicii facies opere polymito juxta texturam superhumeralis, ex auro, hyacintho, et purpura, coccoque bis tincto, et bysso retorta.
+    16: Quadrangulum erit et duplex : mensuram palmi habebit tam in longitudine quam in latitudine. 
+    17: Ponesque in eo quatuor ordines lapidum : in primo versu erit lapis sardius, et topazius, et smaragdus : 
+    18: in secundo carbunculus, sapphirus, et jaspis : 
+    19: in tertio ligurius, achates, et amethystus : 
+    20: in quarto chrysolithus, onychinus, et beryllus. Inclusi auro erunt per ordines suos.
+    21: Habebuntque nomina filiorum Israel : duodecim nominibus caelabuntur, singuli lapides nominibus singulorum per duodecim tribus. 
+    22: Facies in rationali catenas sibi invicem cohaerentes ex auro purissimo, 
+    23: et duos annulos aureos, quos pones in utraque rationalis summitate : 
+    24: catenasque aureas junges annulis, qui sunt in marginibus ejus, 
+    25: et ipsarum catenarum extrema duobus copulabis uncinis in utroque latere superhumeralis quod rationale respicit.
+    26: Facies et duos annulos aureos, quos pones in summitatibus rationalis, in oris, quae e regione sunt superhumeralis, et posteriora ejus aspiciunt. 
+    27: Necnon et alios duos annulos aureos, qui ponendi sunt in utroque latere superhumeralis deorsum, quod respicit contra faciem juncturae inferioris, ut aptari possit cum superhumerali, 
+    28: et stringatur rationale annulis suis cum annulis superhumeralis vitta hyacinthina, ut maneat junctura fabrefacta, et a se invicem rationale et superhumerale nequeant separari. 
+    29: Portabitque Aaron nomina filiorum Israel in rationali judicii super pectus suum, quando ingredietur Sanctuarium, memoriale coram Domino in aeternum. 
+    30: Pones autem in rationali judicii Doctrinam et Veritatem, quae erunt in pectore Aaron, quando ingredietur coram Domino : et gestabit judicium filiorum Israel in pectore suo, in conspectu Domini semper.
+    31: Facies et tunicam superhumeralis totam hyacinthinam, 
+    32: in cujus medio supra erit capitium, et ora per gyrum ejus textilis, sicut fieri solet in extremis vestium partibus, ne facile rumpatur. 
+    33: Deorsum vero, ad pedes ejusdem tunicae, per circuitum, quasi mala punica facies, ex hyacintho, et purpura, et cocco bis tincto, mistis in medio tintinnabulis, 
+    34: ita ut tintinnabulum sit aureum et malum punicum : rursumque tintinnabulum aliud aureum et malum punicum. 
+    35: Et vestietur ea Aaron in officio ministerii, ut audiatur sonitus quando ingreditur et egreditur sanctuarium in conspectu Domini, et non moriatur.
+    36: Facies et laminam de auro purissimo, in qua sculpes opere caelatoris, Sanctum Domino. 
+    37: Ligabisque eam vitta hyacinthina, et erit super tiaram, 
+    38: imminens fronti pontificis. Portabitque Aaron iniquitates eorum, quae obtulerunt et sanctificaverunt filii Israel, in cunctis muneribus et donariis suis. Erit autem lamina semper in fronte ejus, ut placatus sit eis Dominus. 
+    39: Stringesque tunicam bysso, et tiaram byssinam facies, et balteum opere plumarii. 
+    40: Porro filiis Aaron tunicas lineas parabis et balteos ac tiaras in gloriam et decorem :
+    41: vestiesque his omnibus Aaron fratrem tuum et filios ejus cum eo. Et cunctorum consecrabis manus, sanctificabisque illos, ut sacerdotio fungantur mihi. 
+    42: Facies et feminalia linea, ut operiant carnem turpitudinis suae, a renibus usque ad femora : 
+    43: et utentur eis Aaron et filii ejus quando ingredientur tabernaculum testimonii, vel quando appropinquant ad altare ut ministrent in sanctuario, ne iniquitatis rei moriantur. Legitimum sempiternum erit Aaron, et semini ejus post eum.
+
+End of day 20.

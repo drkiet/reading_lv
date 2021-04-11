@@ -1,0 +1,106 @@
+Day 99:
+
+Reading 2-Chronicles, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Regina quoque Saba, cum audisset famam Salomonis, venit ut tentaret eum in aenigmatibus in Jerusalem, cum magnis opibus et camelis, qui portabant aromata, et auri plurimum, gemmasque pretiosas. Cumque venisset ad Salomonem, locuta est ei quaecumque erant in corde suo. 
+    2: Et exposuit ei Salomon omnia quae proposuerat : nec quidquam fuit, quod non perspicuum ei fecerit. 
+    3: Quae postquam vidit, sapientiam scilicet Salomonis, et domum quam aedificaverat, 
+    4: necnon et cibaria mensae ejus, et habitacula servorum, et officia ministrorum ejus, et vestimenta eorum, pincernas quoque et vestes eorum, et victimas quas immolabat in domo Domini : non erat prae stupore ultra in ea spiritus. 
+    5: Dixitque ad regem : Verus est sermo, quem audieram in terra mea de virtutibus et sapientia tua.
+    6: Non credebam narrantibus donec ipsa venissem, et vidissent oculi mei, et probassem vix medietatem sapientiae tuae mihi fuisse narratam : vicisti famam virtutibus tuis. 
+    7: Beati viri tui, et beati servi tui, qui assistunt coram te omni tempore, et audiunt sapientiam tuam. 
+    8: Sit Dominus Deus tuus benedictus, qui voluit te ordinare super thronum suum, regem Domini Dei tui. Quia diligit Deus Israel, et vult servare eum in aeternum, idcirco posuit te super eum regem ut facias judicia atque justitiam. 
+    9: Dedit autem regi centum viginti talenta auri, et aromata multa nimis, et gemmas pretiosissimas : non fuerunt aromata talia ut haec, quae dedit regina Saba regi Salomoni. 
+    10: Sed et servi Hiram cum servis Salomonis attulerunt aurum de Ophir, et ligna thyina, et gemmas pretiosissimas :
+    11: de quibus fecit rex, de lignis scilicet thyinis, gradus in domo Domini, et in domo regia, citharas quoque, et psalteria cantoribus : numquam visa sunt in terra Juda ligna talia. 
+    12: Rex autem Salomon dedit reginae Saba cuncta quae voluit, et quae postulavit, et multo plura quam attulerat ad eum : quae reversa, abiit in terram suam cum servis suis. 
+    13: Erat autem pondus auri, quod afferebatur Salomoni per singulos annos, sexcenta sexaginta sex talenta auri : 
+    14: excepta ea summa, quam legati diversarum gentium, et negotiatores afferre consueverant, omnesque reges Arabiae, et satrapae terrarum, qui comportabant aurum et argentum Salomoni. 
+    15: Fecit igitur rex Salomon ducentas hastas aureas de summa sexcentorum aureorum, qui in singulis hastis expendebantur :
+    16: trecenta quoque scuta aurea trecentorum aureorum, quibus tegebantur singula scuta : posuitque ea rex in armentario, quod erat consitum nemore. 
+    17: Fecit quoque rex solium eburneum grande, et vestivit illud auro mundissimo. 
+    18: Sex quoque gradus, quibus ascendebatur ad solium, et scabellum aureum, et brachiola duo altrinsecus, et duos leones stantes juxta brachiola, 
+    19: sed et alios duodecim leunculos stantes super sex gradus ex utraque parte : non fuit tale solium in universis regnis. 
+    20: Omnia quoque vasa convivii regis erant aurea, et vasa domus saltus Libani ex auro purissimo. Argentum enim in diebus illis pro nihilo reputabatur.
+    21: Siquidem naves regis ibant in Tharsis cum servis Hiram, semel in annis tribus : et deferebant inde aurum, et argentum, et ebur, et simias, et pavos. 
+    22: Magnificatus est igitur Salomon super omnes reges terrae prae divitiis et gloria. 
+    23: Omnesque reges terrarum desiderabant videre faciem Salomonis, ut audirent sapientiam, quam dederat Deus in corde ejus : 
+    24: et deferebant ei munera, vasa argentea, et aurea, et vestes, et arma, et aromata, equos, et mulos, per singulos annos. 
+    25: Habuit quoque Salomon quadraginta millia equorum in stabulis, et curruum, equitumque duodecim millia, constituitque eos in urbibus quadrigarum, et ubi erat rex in Jerusalem.
+    26: Exercuit etiam potestatem super cunctos reges a flumine Euphrate usque ad terram Philisthinorum, et usque ad terminos Aegypti. 
+    27: Tantamque copiam praebuit argenti in Jerusalem quasi lapidum : et cedrorum tantam multitudinem velut sycomororum, quae gignuntur in campestribus. 
+    28: Adducebantur autem ei equi de Aegypto, cunctisque regionibus. 
+    29: Reliqua autem operum Salomonis priorum et novissimorum scripta sunt in verbis Nathan prophetae, et in libris Ahiae Silonitis, in visione quoque Addo videntis, contra Jeroboam filium Nabat. 
+    30: Regnavit autem Salomon in Jerusalem super omnem Israel quadraginta annis.
+    31: Dormivitque cum patribus suis, et sepelierunt eum in civitate David : regnavitque Roboam filius ejus pro eo.
+
+  Chapter 10.
+
+    1: Profectus est autem Roboam in Sichem : illuc enim cunctus Israel convenerat ut constituerent eum regem. 
+    2: Quod cum audisset Jeroboam filius Nabat, qui erat in Aegypto ( fugerat quippe illuc ante Salomonem) statim reversus est. 
+    3: Vocaveruntque eum, et venit cum universo Israel, et locuti sunt ad Roboam, dicentes : 
+    4: Pater tuus durissimo jugo nos pressit : tu leviora impera patre tuo, qui nobis imposuit gravem servitutem, et paululum de onere subleva, ut serviamus tibi. 
+    5: Qui ait : Post tres dies revertimini ad me. Cumque abiisset populus,
+    6: iniit consilium cum senibus, qui steterant coram patre ejus Salomone dum adhuc viveret, dicens : Quid datis consilii ut respondeam populo? 
+    7: Qui dixerunt ei : Si placueris populo huic, et leniveris eos verbis clementibus, servient tibi omni tempore. 
+    8: At ille reliquit consilium senum, et cum juvenibus tractare coepit, qui cum eo nutriti fuerant, et erant in comitatu illius. 
+    9: Dixitque ad eos : Quid vobis videtur? vel respondere quid debeo populo huic, qui dixit mihi : Subleva jugum quod imposuit nobis pater tuus? 
+    10: At illi responderunt ut juvenes, et nutriti cum eo in deliciis, atque dixerunt : Sic loqueris populo, qui dixit tibi : Pater tuus aggravavit jugum nostrum, tu subleva : et sic respondebis ei : Minimus digitus meus grossior est lumbis patris mei.
+    11: Pater meus imposuit vobis grave jugum, et ego majus pondus apponam; pater meus cecidit vos flagellis, ego vero caedam vos scorpionibus. 
+    12: Venit ergo Jeroboam, et universus populus ad Roboam die tertio, sicut praeceperat eis. 
+    13: Responditque rex dura, derelicto consilio seniorum : 
+    14: locutusque est juxta juvenum voluntatem : Pater meus grave vobis imposuit jugum, quod ego gravius faciam; pater meus cecidit vos flagellis, ego vero caedam vos scorpionibus. 
+    15: Et non acquievit populi precibus : erat enim voluntatis Dei ut compleretur sermo ejus, quem locutus fuerat per manum Ahiae Silonitis ad Jeroboam filium Nabat.
+    16: Populus autem universus rege duriora dicente, sic locutus est ad eum : Non est nobis pars in David, neque haereditas in filio Isai. Revertere in tabernacula tua, Israel; tu autem pasce domum tuam David. Et abiit Israel in tabernacula sua. 
+    17: Super filios autem Israel, qui habitabant in civitatibus Juda, regnavit Roboam. 
+    18: Misitque rex Roboam Aduram, qui praeerat tributis, et lapidaverunt eum filii Israel, et mortuus est : porro rex Roboam currum festinavit ascendere, et fugit in Jerusalem. 
+    19: Recessitque Israel a domo David, usque ad diem hanc.
+
+  Chapter 11.
+
+    1: Venit autem Roboam in Jerusalem, et convocavit universam domum Juda et Benjamin, centum octoginta millia electorum atque bellantium, ut dimicaret contra Israel, et converteret ad se regnum suum. 
+    2: Factusque est sermo Domini ad Semeiam hominem Dei, dicens : 
+    3: Loquere ad Roboam filium Salomonis regem Juda, et ad universum Israel, qui est in Juda et Benjamin : 
+    4: Haec dicit Dominus : Non ascendetis, neque pugnabitis contra fratres vestros : revertatur unusquisque in domum suam, quia mea hoc gestum est voluntate. Qui cum audissent sermonem Domini, reversi sunt, nec perrexerunt contra Jeroboam. 
+    5: Habitavit autem Roboam in Jerusalem, et aedificavit civitates muratas in Juda.
+    6: Exstruxitque Bethlehem, et Etam, et Thecue, 
+    7: Bethsur quoque, et Socho, et Odollam, 
+    8: necnon et Geth, et Maresa, et Ziph, 
+    9: sed et Aduram, et Lachis, et Azeca, 
+    10: Saraa quoque, et Ajalon, et Hebron, quae erant in Juda et Benjamin, civitates munitissimas.
+    11: Cumque clausisset eas muris, posuit in eis principes, ciborumque horrea, hoc est, olei, et vini. 
+    12: Sed et in singulis urbibus fecit armamentarium scutorum et hastarum, firmavitque eas summa diligentia, et imperavit super Judam et Benjamin. 
+    13: Sacerdotes autem et Levitae, qui erant in universo Israel, venerunt ad eum de cunctis sedibus suis, 
+    14: relinquentes suburbana, et possessiones suas, et transeuntes ad Judam et Jerusalem : eo quod abjecisset eos Jeroboam, et posteri ejus, ne sacerdotio Domini fungerentur. 
+    15: Qui constituit sibi sacerdotes excelsorum, et daemoniorum, vitulorumque quos fecerat.
+    16: Sed et de cunctis tribubus Israel, quicumque dederant cor suum ut quaererent Dominum Deum Israel, venerunt in Jerusalem ad immolandum victimas suas coram Domino Deo patrum suorum. 
+    17: Et roboraverunt regnum Juda, et confirmaverunt Roboam filium Salomonis per tres annos : ambulaverunt enim in viis David et Salomonis, annis tantum tribus. 
+    18: Duxit autem Roboam uxorem Mahalath filiam Jerimoth filii David : Abihail quoque filiam Eliab filii Isai, 
+    19: quae peperit ei filios Jehus, et Somoriam, et Zoom. 
+    20: Post hanc quoque accepit Maacha filiam Absalom, quae peperit ei Abia, et Ethai, et Ziza, et Salomith.
+    21: Amavit autem Roboam Maacha filiam Absalom super omnes uxores suas et concubinas : nam uxores decem et octo duxerat, concubinas autem sexaginta : et genuit viginti octo filios, et sexaginta filias. 
+    22: Constituit vero in capite, Abiam filium Maacha ducem super omnes fratres suos : ipsum enim regem facere cogitabat, 
+    23: quia sapientior fuit, et potentior super omnes filios ejus, et in cunctis finibus Juda, et Benjamin, et in universis civitatibus muratis : praebuitque eis escas plurimas, et multas petivit uxores.
+
+  Chapter 12.
+
+    1: Cumque roboratum fuisset regnum Roboam et confortatum, dereliquit legem Domini, et omnis Israel cum eo. 
+    2: Anno autem quinto regni Roboam, ascendit Sesac rex Aegypti in Jerusalem ( quia peccaverant Domino) 
+    3: cum mille ducentis curribus, et sexaginta millibus equitum : nec erat numerus vulgi quod venerat cum eo ex Aegypto, Libyes scilicet, et Troglodytae, et Aethiopes. 
+    4: Cepitque civitates munitissimas in Juda, et venit usque in Jerusalem. 
+    5: Semeias autem propheta ingressus est ad Roboam, et principes Juda, qui congregati fuerant in Jerusalem, fugientes Sesac, dixitque ad eos : Haec dicit Dominus : Vos reliquistis me, et ego reliqui vos in manu Sesac.
+    6: Consternatique principes Israel et rex dixerunt : Justus est Dominus. 
+    7: Cumque vidisset Dominus, quod humiliati essent, factus est sermo Domini ad Semeiam, dicens : Quia humiliati sunt, non disperdam eos, daboque eis pauxillum auxilii, et non stillabit furor meus super Jerusalem per manum Sesac. 
+    8: Verumtamen servient ei, ut sciant distantiam servitutis meae, et servitutis regni terrarum. 
+    9: Recessit itaque Sesac rex Aegypti ab Jerusalem, sublatis thesauris domus Domini, et domus regis : omniaque secum tulit, et clypeos aureos, quos fecerat Salomon, 
+    10: pro quibus fecit rex aeneos, et tradidit illos principibus scutariorum, qui custodiebant vestibulum palatii.
+    11: Cumque introiret rex domum Domini, veniebant scutarii, et tollebant eos, iterumque referebant eos ad armamentarium suum. 
+    12: Verumtamen quia humiliati sunt, aversa est ab eis ira Domini, nec deleti sunt penitus : siquidem et in Juda inventa sunt opera bona. 
+    13: Confortatus est ergo rex Roboam in Jerusalem, atque regnavit : quadraginta autem et unius anni erat cum regnare coepisset, et decem et septem annis regnavit in Jerusalem, urbe quam elegit Dominus ut confirmaret nomen suum ibi, de cunctis tribubus Israel : nomen autem matris ejus Naama Ammanitis. 
+    14: Fecit autem malum, et non praeparavit cor suum ut quaereret Dominum. 
+    15: Opera vero Roboam prima et novissima scripta sunt in libris Semeiae prophetae, et Addo videntis, et diligenter exposita : pugnaveruntque adversum se Roboam, et Jeroboam cunctis diebus.
+    16: Et dormivit Roboam cum patribus suis, sepultusque est in civitate David. Et regnavit Abia filius ejus pro eo.
+
+End of day 99.

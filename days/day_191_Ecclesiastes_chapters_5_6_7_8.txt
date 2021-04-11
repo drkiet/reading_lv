@@ -1,0 +1,94 @@
+Day 191:
+
+Reading Ecclesiastes, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: Ne temere quid loquaris, neque cor tuum sit velox ad proferendum sermonem coram Deo. Deus enim in caelo, et tu super terram; idcirco sint pauci sermones tui. 
+    2: Multas curas sequuntur somnia, et in multis sermonibus invenietur stultitia. 
+    3: Si quid vovisti Deo, ne moreris reddere : displicet enim ei infidelis et stulta promissio, sed quodcumque voveris redde : 
+    4: multoque melius est non vovere, quam post votum promissa non reddere. 
+    5: Ne dederis os tuum ut peccare facias carnem tuam, neque dicas coram angelo : Non est providentia : ne forte iratus Deus contra sermones tuos dissipet cuncta opera manuum tuarum.
+    6: Ubi multa sunt somnia, plurimae sunt vanitates, et sermones innumeri; tu vero Deum time. 
+    7: Si videris calumnias egenorum, et violenta judicia, et subverti justitiam in provincia, non mireris super hoc negotio : quia excelso excelsior est alius, et super hos quoque eminentiores sunt alii; 
+    8: et insuper universae terrae rex imperat servienti. 
+    9: Avarus non implebitur pecunia, et qui amat divitias fructum non capiet ex eis; et hoc ergo vanitas. 
+    10: Ubi multae sunt opes, multi et qui comedunt eas. Et quid prodest possessori, nisi quod cernit divitias oculis suis?
+    11: Dulcis est somnus operanti, sive parum sive multum comedat; saturitas autem divitis non sinit eum dormire. 
+    12: Est et alia infirmitas pessima quam vidi sub sole : divitiae conservatae in malum domini sui. 
+    13: Pereunt enim in afflictione pessima : generavit filium qui in summa egestate erit. 
+    14: Sicut egressus est nudus de utero matris suae, sic revertetur, et nihil auferet secum de labore suo. 
+    15: Miserabilis prorsus infirmitas : quomodo venit, sic revertetur. Quid ergo prodest ei quod laboravit in ventum?
+    16: cunctis diebus vitae suae comedit in tenebris, et in curis multis, et in aerumna atque tristitia. 
+    17: Hoc itaque visum est mihi bonum, ut comedat quis et bibat, et fruatur laetitia ex labore suo quo laboravit ipse sub sole, numero dierum vitae suae quos dedit ei Deus; et haec est pars illius. 
+    18: Et omni homini cui dedit Deus divitias atque substantiam, potestatemque ei tribuit ut comedat ex eis, et fruatur parte sua, et laetetur de labore suo : hoc est donum Dei. 
+    19: Non enim satis recordabitur dierum vitae suae, eo quod Deus occupet deliciis cor ejus.
+
+  Chapter 6.
+
+    1: Est et aliud malum quod vidi sub sole, et quidem frequens apud homines : 
+    2: vir cui dedit Deus divitias, et substantiam, et honorem, et nihil deest animae suae ex omnibus quae desiderat; nec tribuit ei potestatem Deus ut comedat ex eo, sed homo extraneus vorabit illud : hoc vanitas et miseria magna est. 
+    3: Si genuerit quispiam centum liberos, et vixerit multos annos, et plures dies aetatis habuerit, et anima illius non utatur bonis substantiae suae, sepulturaque careat : de hoc ergo pronuntio quod melior illo sit abortivus. 
+    4: Frustra enim venit, et pergit ad tenebras, et oblivione delebitur nomen ejus. 
+    5: Non vidit solem, neque cognovit distantiam boni et mali.
+    6: Etiam si duobus millibus annis vixerit, et non fuerit perfruitus bonis, nonne ad unum locum properant omnia? 
+    7: Omnis labor hominis in ore ejus; sed anima ejus non implebitur. 
+    8: Quid habet amplius sapiens a stulto? et quid pauper, nisi ut pergat illuc ubi est vita? 
+    9: Melius est videre quod cupias, quam desiderare quod nescias. Sed et hoc vanitas est, et praesumptio spiritus. 
+    10: Qui futurus est, jam vocatum est nomen ejus; et scitur quod homo sit, et non possit contra fortiorem se in judicio contendere.
+    11: Verba sunt plurima, multamque in disputando habentia vanitatem.
+
+  Chapter 7.
+
+    1: Quid necesse est homini majora se quaerere, cum ignoret quid conducat sibi in vita sua, numero dierum peregrinationis suae, et tempore quod velut umbra praeterit? aut quis ei poterit indicare quod post eum futurum sub sole sit? 
+    2: Melius est nomen bonum quam unguenta pretiosa, et dies mortis die nativitatis. 
+    3: Melius est ire ad domum luctus quam ad domum convivii; in illa enim finis cunctorum admonetur hominum, et vivens cogitat quid futurum sit. 
+    4: Melior est ira risu, quia per tristitiam vultus corrigitur animus delinquentis. 
+    5: Cor sapientium ubi tristitia est, et cor stultorum ubi laetitia.
+    6: Melius est a sapiente corripi, quam stultorum adulatione decipi; 
+    7: quia sicut sonitus spinarum ardentium sub olla, sic risus stulti. Sed et hoc vanitas. 
+    8: Calumnia conturbat sapientem, et perdet robur cordis illius. 
+    9: Melior est finis orationis quam principium. Melior est patiens arrogante. 
+    10: Ne sis velox ad irascendum, quia ira in sinu stulti requiescit.
+    11: Ne dicas : Quid putas causae est quod priora tempora meliora fuere quam nunc sunt? stulta enim est hujuscemodi interrogatio. 
+    12: Utilior est sapientia cum divitiis, et magis prodest videntibus solem. 
+    13: Sicut enim protegit sapientia, sic protegit pecunia; hoc autem plus habet eruditio et sapientia, quod vitam tribuunt possessori suo. 
+    14: Considera opera Dei, quod nemo possit corrigere quem ille despexerit. 
+    15: In die bona fruere bonis, et malam diem praecave; sicut enim hanc, sic et illam fecit Deus, ut non inveniat homo contra eum justas querimonias.
+    16: Haec quoque vidi in diebus vanitatis meae : justus perit in justitia sua, et impius multo vivit tempore in malitia sua. 
+    17: Noli esse justus multum, neque plus sapias quam necesse est, ne obstupescas. 
+    18: Ne impie agas multum, et noli esse stultus, ne moriaris in tempore non tuo. 
+    19: Bonum est te sustentare justum : sed et ab illo ne subtrahas manum tuam; quia qui timet Deum nihil negligit. 
+    20: Sapientia confortavit sapientem super decem principes civitatis;
+    21: non est enim homo justus in terra qui faciat bonum et non peccet. 
+    22: Sed et cunctis sermonibus qui dicuntur ne accomodes cor tuum, ne forte audias servum tuum maledicentem tibi; 
+    23: scit enim conscientia tua quia et tu crebro maledixisti aliis. 
+    24: Cuncta tentavi in sapientia. Dixi : Sapiens efficiar : et ipsa longius recessit a me, 
+    25: multo magis quam erat. Et alta profunditas, quis inveniet eam?
+    26: Lustravi universa animo meo, ut scirem et considerarem, et quaererem sapientiam, et rationem, et ut cognoscerem impietatem stulti, et errorem imprudentium : 
+    27: et inveni amariorem morte mulierem, quae laqueus venatorum est, et sagena cor ejus; vincula sunt manus illius. Qui placet Deo effugiet illam; qui autem peccator est capietur ab illa. 
+    28: Ecce hoc inveni, dixit Ecclesiastes, unum et alterum ut invenirem rationem, 
+    29: quam adhuc quaerit anima mea, et non inveni. Virum de mille unum reperi; mulierem ex omnibus non inveni. 
+    30: Solummodo hoc inveni, quod fecerit Deus hominem rectum, et ipse se infinitis miscuerit quaestionibus. Quis talis ut sapiens est? et quis cognovit solutionem verbi?
+
+  Chapter 8.
+
+    1: Sapientia hominis lucet in vultu ejus, et potentissimus faciem illius commutabit. 
+    2: Ego os regis observo, et praecepta juramenti Dei. 
+    3: Ne festines recedere a facie ejus, neque permaneas in opere malo : quia omne quod voluerit faciet. 
+    4: Et sermo illius potestate plenus est, nec dicere ei quisquam potest : Quare ita facis? 
+    5: Qui custodit praeceptum non experietur quidquam mali. Tempus et responsionem cor sapientis intelligit.
+    6: Omni negotio tempus est, et opportunitas : et multa hominis afflictio, 
+    7: quia ignorat praeterita, et futura nullo scire potest nuntio. 
+    8: Non est in hominis potestate prohibere spiritum, nec habet potestatem in die mortis : nec sinitur quiescere ingruente bello, neque salvabit impietas impium. 
+    9: Omnia haec consideravi, et dedi cor meum in cunctis operibus quae fiunt sub sole. Interdum dominatur homo homini in malum suum. 
+    10: Vidi impios sepultos, qui etiam cum adhuc viverent in loco sancto erant, et laudabantur in civitate quasi justorum operum. Sed et hoc vanitas est.
+    11: Etenim quia non profertur cito contra malos sententia, absque timore ullo filii hominum perpetrant mala. 
+    12: Attamen peccator ex eo quod centies facit malum, et per patientiam sustentatur; ego cognovi quod erit bonum timentibus Deum, qui verentur faciem ejus. 
+    13: Non sit bonum impio, nec prolongentur dies ejus, sed quasi umbra transeant qui non timent faciem Domini. 
+    14: Est et alia vanitas quae fit super terram : sunt justi quibus mala proveniunt quasi opera egerint impiorum : et sunt impii qui ita securi sunt quasi justorum facta habeant. Sed et hoc vanissimum judico. 
+    15: Laudavi igitur laetitiam; quod non esset homini bonum sub sole, nisi quod comederet, et biberet, atque gauderet, et hoc solum secum auferret de labore suo, in diebus vitae suae quos dedit ei Deus sub sole.
+    16: Et apposui cor meum ut scirem sapientiam, et intelligerem distentionem quae versatur in terra. Est homo qui diebus et noctibus somnum non capit oculis. 
+    17: Et intellexi quod omnium operum Dei nullam possit homo invenire rationem eorum quae fiunt sub sole; et quanto plus laboraverit ad quaerendum, tanto minus inveniat : etiam si dixerit sapiens se nosse, non poterit reperire.
+
+End of day 191.

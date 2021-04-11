@@ -1,0 +1,141 @@
+Day 29:
+
+Reading Leviticus, chapters ['21', '22', '23', '24']:
+
+  Chapter 21.
+
+    1: Dixit quoque Dominus ad Moysen : Loquere ad sacerdotes filios Aaron, et dices ad eos : Ne contaminetur sacerdos in mortibus civium suorum, 
+    2: nisi tantum in consanguineis, ac propinquis, id est, super patre et matre, et filio, et filia, fratre quoque, 
+    3: et sorore virgine quae non est nupta viro : 
+    4: sed nec in principe populi sui contaminabitur. 
+    5: Non radent caput, nec barbam, neque in carnibus suis facient incisuras.
+    6: Sancti erunt Deo suo, et non polluent nomen ejus : incensum enim Domini, et panes Dei sui offerunt, et ideo sancti erunt. 
+    7: Scortum et vile prostibulum non ducent uxorem, nec eam quae repudiata est a marito : quia consecrati sunt Deo suo, 
+    8: et panes propositionis offerunt. Sint ergo sancti, quia et ego sanctus sum, Dominus qui sanctifico eos. 
+    9: Sacerdotis filia si deprehensa fuerit in stupro, et violaverit nomen patris sui, flammis exuretur. 
+    10: Pontifex, id est, sacerdos maximus inter fratres suos, super cujus caput fusum est unctionis oleum, et cujus manus in sacerdotio consecratae sunt, vestitusque est sanctis vestibus, caput suum non discooperiet, vestimenta non scindet :
+    11: et ad omnem mortuum non ingredietur omnino : super patre quoque suo et matre non contaminabitur. 
+    12: Nec egredietur de sanctis, ne polluat sanctuarium Domini, quia oleum sanctae unctionis Dei sui super eum est. Ego Dominus. 
+    13: Virginem ducet uxorem : 
+    14: viduam autem et repudiatam, et sordidam, atque meretricem non accipiet, sed puellam de populo suo : 
+    15: ne commisceat stirpem generis sui vulgo gentis suae : quia ego Dominus, qui sanctifico eum.
+    16: Locutusque est Dominus ad Moysen, dicens : 
+    17: Loquere ad Aaron : Homo de semine tuo per familias qui habuerit maculam, non offeret panes Deo suo, 
+    18: nec accedet ad ministerium ejus : si caecus fuerit, si claudus, si parvo vel grandi, vel torto naso, 
+    19: si fracto pede, si manu, 
+    20: si gibbus, si lippus, si albuginem habens in oculo, si jugem scabiem, si impetiginem in corpore, vel herniosus.
+    21: Omnis qui habuerit maculam de semine Aaron sacerdotis, non accedet offerre hostias Domino, nec panes Deo suo : 
+    22: vescetur tamen panibus qui offeruntur in sanctuario, 
+    23: ita dumtaxat, ut intra velum non ingrediatur, nec accedat ad altare, quia maculam habet, et contaminare non debet sanctuarium meum. Ego Dominus qui sanctifico eos. 
+    24: Locutus est ergo Moyses ad Aaron, et ad filios ejus, et ad omnem Israel cuncta quae fuerant sibi imperata.
+
+  Chapter 22.
+
+    1: Locutus quoque est Dominus ad Moysen, dicens : 
+    2: Loquere ad Aaron et ad filios ejus, ut caveant ab his quae consecrata sunt filiorum Israel, et non contaminent nomen sanctificatorum mihi, quae ipsi offerunt. Ego Dominus. 
+    3: Dic ad eos, et ad posteros eorum : Omnis homo qui accesserit de stirpe vestra ad ea quae consecrata sunt, et quae obtulerunt filii Israel Domino, in quo est immunditia, peribit coram Domino. Ego sum Dominus. 
+    4: Homo de semine Aaron, qui fuerit leprosus, aut patiens fluxum seminis, non vescetur de his quae sanctificata sunt mihi, donec sanetur. Qui tetigerit immundum super mortuo, et ex quo egreditur semen quasi coitus, 
+    5: et qui tangit reptile, et quodlibet immundum cujus tactus est sordidus,
+    6: immundus erit usque ad vesperum, et non vescetur his quae sanctificata sunt : sed cum laverit carnem suam aqua, 
+    7: et occubuerit sol, tunc mundatus vescetur de sanctificatis, quia cibus illius est. 
+    8: Morticinum et captum a bestia non comedent, nec polluentur in eis. Ego sum Dominus. 
+    9: Custodiant praecepta mea, ut non subjaceant peccato, et moriantur in sanctuario, cum polluerint illud. Ego Dominus qui sanctifico eos. 
+    10: Omnis alienigena non comedet de sanctificatis; inquilinus sacerdotis et mercenarius non vescentur ex eis.
+    11: Quem autem sacerdos emerit, et qui vernaculus domus ejus fuerit, his comedent ex eis. 
+    12: Si filia sacerdotis cuilibet ex populo nupta fuerit, de his quae sanctificata sunt, et de primitiis non vescetur. 
+    13: Sin autem vidua, vel repudiata, et absque liberis reversa fuerit ad domum patris sui : sicut puella consueverat, aletur cibis patris sui. Omnis alienigena comedendi ex eis non habet potestatem. 
+    14: Qui comederit de sanctificatis per ignorantiam, addet quintam partem cum eo quod comedit, et dabit sacerdoti in sanctuarium. 
+    15: Nec contaminabunt sanctificata filiorum Israel, quae offerunt Domino :
+    16: ne forte sustineant iniquitatem delicti sui, cum sanctificata comederint. Ego Dominus qui sanctifico eos. 
+    17: Locutusque est Dominus ad Moysen, dicens : 
+    18: Loquere ad Aaron et filios ejus, et ad omnes filios Israel, dicesque ad eos : Homo de domo Israel, et de advenis qui habitant apud vos, qui obtulerit oblationem suam, vel vota solvens, vel sponte offerens, quidquid illud obtulerit in holocaustum Domini, 
+    19: ut offeratur per vos, masculus immaculatus erit ex bobus, et ovibus, et ex capris : 
+    20: si maculam habuerit, non offeretis, neque erit acceptabile.
+    21: Homo qui obtulerit victimam pacificorum Domino, vel vota solvens, vel sponte offerens, tam de bobus quam de ovibus, immaculatum offeret ut acceptabile sit : omnis macula non erit in eo. 
+    22: Si caecum fuerit, si fractum, si cicatricem habens, si papulas, aut scabiem, aut impetiginem : non offeretis ea Domino, nec adolebitis ex eis super altare Domini. 
+    23: Bovem et ovem, aure et cauda amputatis, voluntarie offerre potes, votum autem ex eis solvi non potest. 
+    24: Omne animal, quod vel contritis, vel tusis, vel sectis ablatisque testiculis est, non offeretis Domino, et in terra vestra hoc omnino ne faciatis. 
+    25: De manu alienigenae non offeretis panes Deo vestro, et quidquid aliud dare voluerit, quia corrupta, et maculata sunt omnia : non suscipietis ea.
+    26: Locutusque est Dominus ad Moysen, dicens : 
+    27: Bos, ovis et capra, cum genita fuerint, septem diebus erunt sub ubere matris suae : die autem octavo, et deinceps, offerri poterunt Domino. 
+    28: Sive illa bos, sive ovis, non immolabuntur una die cum foetibus suis. 
+    29: Si immolaveritis hostiam pro gratiarum actione Domino, ut possit esse placabilis, 
+    30: eodem die comedetis eam : non remanebit quidquam in mane alterius diei. Ego Dominus.
+    31: Custodite mandata mea, et facite ea. Ego Dominus. 
+    32: Ne polluatis nomen meum sanctum, ut sanctificer in medio filiorum Israel. Ego Dominus qui sanctifico vos, 
+    33: et eduxi de terra Aegypti, ut essem vobis in Deum. Ego Dominus.
+
+  Chapter 23.
+
+    1: Locutusque est Dominus ad Moysen, dicens : 
+    2: Loquere filiis Israel, et dices ad eos : Hae sunt feriae Domini, quas vocabitis sanctas. 
+    3: Sex diebus facietis opus : dies septimus, quia sabbati requies est, vocabitur sanctus : omne opus non facietis in eo : sabbatum Domini est in cunctis habitationibus vestris. 
+    4: Hae sunt ergo feriae Domini sanctae, quas celebrare debetis temporibus suis. 
+    5: Mense primo, quartadecima die mensis ad vesperum, Phase Domini est :
+    6: et quintadecima die mensis hujus, solemnitas azymorum Domini est. Septem diebus azyma comedetis. 
+    7: Dies primus erit vobis celeberrimus, sanctusque : omne opus servile non facietis in eo, 
+    8: sed offeretis sacrificium in igne Domino septem diebus. Dies autem septimus erit celebrior et sanctior : nullumque servile opus facietis in eo. 
+    9: Locutusque est Dominus ad Moysen, dicens : 
+    10: Loquere filiis Israel, et dices ad eos : Cum ingressi fueritis terram, quam ego dabo vobis, et messueritis segetem, feretis manipulos spicarum, primitias messis vestrae, ad sacerdotem :
+    11: qui elevabit fasciculum coram Domino, ut acceptabile sit pro vobis, altero die sabbati, et sanctificabit illum. 
+    12: Atque in eodem die quo manipulus consecratur, caedetur agnus immaculatus anniculus in holocaustum Domini. 
+    13: Et libamenta offerentur cum eo, duae decimae similae conspersae oleo in incensum Domini, odoremque suavissimum : liba quoque vini, quarta pars hin. 
+    14: Panem, et polentam, et pultes non comedetis ex segete, usque ad diem qua offeretis ex ea Deo vestro. Praeceptum est sempiternum in generationibus, cunctisque habitaculis vestris. 
+    15: Numerabitis ergo ab altero die sabbati, in quo obtulistis manipulum primitiarum, septem hebdomadas plenas,
+    16: usque ad alteram diem expletionis hebdomadae septimae, id est, quinquaginta dies : et sic offeretis sacrificium novum Domino 
+    17: ex omnibus habitaculis vestris, panes primitiarum duos de duabus decimis similae fermentatae, quos coquetis in primitias Domini. 
+    18: Offeretisque cum panibus septem agnos immaculatos anniculos, et vitulum de armento unum, et arietes duos, et erunt in holocaustum cum libamentis suis, in odorem suavissimum Domini. 
+    19: Facietis et hircum pro peccato, duosque agnos anniculos hostias pacificorum. 
+    20: Cumque elevaverit eos sacerdos cum panibus primitiarum coram Domino, cedent in usum ejus.
+    21: Et vocabitis hunc diem celeberrimum, atque sanctissimum : omne opus servile non facietis in eo. Legitimum sempiternum erit in cunctis habitaculis, et generationibus vestris. 
+    22: Postquam autem messueritis segetem terrae vestrae, nec secabitis eam usque ad solum, nec remanentes spicas colligetis : sed pauperibus et peregrinis dimittetis eas. Ego sum Dominus Deus vester. 
+    23: Locutusque est Dominus ad Moysen, dicens : 
+    24: Loquere filiis Israel : Mense septimo, prima die mensis, erit vobis sabbatum, memoriale, clangentibus tubis, et vocabitur sanctum : 
+    25: omne opus servile non facietis in eo, et offeretis holocaustum Domino.
+    26: Locutusque est Dominus ad Moysen, dicens : 
+    27: Decimo die mensis hujus septimi, dies expiationum erit celeberrimus, et vocabitur sanctus : affligetisque animas vestras in eo, et offeretis holocaustum Domino. 
+    28: Omne opus servile non facietis in tempore diei hujus : quia dies propitiationis est, ut propitietur vobis Dominus Deus vester. 
+    29: Omnis anima, quae afflicta non fuerit die hac, peribit de populis suis : 
+    30: et quae operis quippiam fecerit, delebo eam de populo suo.
+    31: Nihil ergo operis facietis in eo : legitimum sempiternum erit vobis in cunctis generationibus, et habitationibus vestris. 
+    32: Sabbatum requietionis est, et affligetis animas vestras die nono mensis : a vespera usque ad vesperam celebrabitis sabbata vestra. 
+    33: Et locutus est Dominus ad Moysen, dicens : 
+    34: Loquere filiis Israel : A quintodecimo die mensis hujus septimi, erunt feriae tabernaculorum septem diebus Domino. 
+    35: Dies primus vocabitur celeberrimus atque sanctissimus : omne opus servile non facietis in eo.
+    36: Et septem diebus offeretis holocausta Domino. Dies quoque octavus erit celeberrimus, atque sanctissimus, et offeretis holocaustum Domino : est enim coetus atque collectae : omne opus servile non facietis in eo. 
+    37: Hae sunt feriae Domini, quas vocabitis celeberrimas atque sanctissimas, offeretisque in eis oblationes Domino, holocausta et libamenta juxta ritum uniuscujusque diei : 
+    38: exceptis sabbatis Domini, donisque vestris, et quae offeretis ex voto, vel quae sponte tribuetis Domino. 
+    39: A quintodecimo ergo die mensis septimi, quando congregaveritis omnes fructus terrae vestrae, celebrabitis ferias Domini septem diebus : die primo et die octavo erit sabbatum, id est, requies. 
+    40: Sumetisque vobis die primo fructus arboris pulcherrimae, spatulasque palmarum, et ramos ligni densarum frondium, et salices de torrente, et laetabimini coram Domino Deo vestro.
+    41: Celebrabitisque solemnitatem ejus septem diebus per annum : legitimum sempiternum erit in generationibus vestris. Mense septimo festa celebrabitis, 
+    42: et habitabitis in umbraculis septem diebus : omnis, qui de genere est Israel, manebit in tabernaculis, 
+    43: ut discant posteri vestri quod in tabernaculis habitare fecerim filios Israel, cum educerem eos de terra Aegypti. Ego Dominus Deus vester. 
+    44: Locutusque est Moyses super solemnitatibus Domini ad filios Israel.
+
+  Chapter 24.
+
+    1: Et locutus est Dominus ad Moysen, dicens : 
+    2: Praecipe filiis Israel, ut afferant tibi oleum de olivis purissimum, ac lucidum, ad concinnandas lucernas jugiter, 
+    3: extra velum testimonii in tabernaculo foederis. Ponetque eas Aaron a vespere usque ad mane coram Domino, cultu rituque perpetuo in generationibus vestris. 
+    4: Super candelabrum mundissimum ponentur semper in conspectu Domini. 
+    5: Accipies quoque similam, et coques ex ea duodecim panes, qui singuli habebunt duas decimas :
+    6: quorum senos altrinsecus super mensam purissimam coram Domino statues : 
+    7: et pones super eos thus lucidissimum, ut sit panis in monimentum oblationis Domini. 
+    8: Per singula sabbata mutabuntur coram Domino suscepti a filiis Israel foedere sempiterno : 
+    9: eruntque Aaron et filiorum ejus, ut comedant eos in loco sancto : quia Sanctum sanctorum est de sacrificiis Domini jure perpetuo. 
+    10: Ecce autem egressus filius mulieris Israelitidis, quem peperat de viro aegyptio inter filios Israel, jurgatus est in castris cum viro Israelita.
+    11: Cumque blasphemasset nomen, et maledixisset ei, adductus est ad Moysen. ( Vocabatur autem mater ejus Salumith, filia Dabri de tribu Dan.) 
+    12: Miseruntque eum in carcerem, donec nossent quid juberet Dominus. 
+    13: Qui locutus est ad Moysen, 
+    14: dicens : Educ blasphemum extra castra, et ponant omnes qui audierunt, manus suas super caput ejus, et lapidet eum populus universus. 
+    15: Et ad filios Israel loqueris : Homo, qui maledixerit Deo suo, portabit peccatum suum;
+    16: et qui blasphemaverit nomen Domini, morte moriatur : lapidibus opprimet eum omnis multitudo, sive ille civis, sive peregrinus fuerit. Qui blasphemaverit nomen Domini, morte moriatur. 
+    17: Qui percusserit, et occiderit hominem, morte moriatur. 
+    18: Qui percusserit animal, reddet vicarium, id est, animam pro anima. 
+    19: Qui irrogaverit maculam cuilibet civium suorum, sicut fecit, sic fiet ei : 
+    20: fracturam pro fractura, oculum pro oculo, dentem pro dente restituet : qualem inflixerit maculam, talem sustinere cogetur.
+    21: Qui percusserit jumentum, reddet aliud. Qui percusserit hominem, punietur. 
+    22: Aequum judicium sit inter vos, sive peregrinus, sive civis peccaverit : quia ego sum Dominus Deus vester. 
+    23: Locutusque est Moyses ad filios Israel : et eduxerunt eum, qui blasphemaverat, extra castra, ac lapidibus oppresserunt. Feceruntque filii Israel sicut praeceperat Dominus Moysi.
+
+End of day 29.

@@ -1,0 +1,102 @@
+Day 24:
+
+Reading Leviticus, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Vocavit autem Moysen, et locutus est ei Dominus de tabernaculo testimonii, dicens : 
+    2: Loquere filiis Israel, et dices ad eos : Homo, qui obtulerit ex vobis hostiam Domino de pecoribus, id est, de bobus et ovibus offerens victimas, 
+    3: si holocaustum fuerit ejus oblatio, ac de armento : masculum immaculatum offeret ad ostium tabernaculi testimonii, ad placandum sibi Dominum : 
+    4: ponetque manum super caput hostiae, et acceptabilis erit, atque in expiationem ejus proficiens. 
+    5: Immolabitque vitulum coram Domino, et offerent filii Aaron sacerdotes sanguinem ejus, fundentes per altaris circuitum, quod est ante ostium tabernaculi :
+    6: detractaque pelle hostiae, artus in frusta concident. 
+    7: Et subjicient in altari ignem, strue lignorum ante composita : 
+    8: et membra quae sunt caesa, desuper ordinantes, caput videlicet, et cuncta quae adhaerent jecori, 
+    9: intestinis et pedibus lotis aqua : adolebitque ea sacerdos super altare in holocaustum et suavem odorem Domino. 
+    10: Quod si de pecoribus oblatio est, de ovibus sive de capris holocaustum, masculum absque macula offeret :
+    11: immolabitque ad latus altaris, quod respicit ad aquilonem, coram Domino : sanguinem vero illius fundent super altare filii Aaron per circuitum : 
+    12: dividentque membra, caput, et omnia quae adhaerent jecori, et ponent super ligna, quibus subjiciendus est ignis : 
+    13: intestina vero et pedes lavabunt aqua. Et oblata omnia adolebit sacerdos super altare in holocaustum et odorem suavissimum Domino. 
+    14: Si autem de avibus, holocausti oblatio fuerit Domino, de turturibus, aut pullis columbae, 
+    15: offeret eam sacerdos ad altare : et retorto ad collum capite, ac rupto vulneris loco, decurrere faciet sanguinem super crepidinem altaris :
+    16: vesiculam vero gutturis, et plumas projiciet prope altare ad orientalem plagam, in loco in quo cineres effundi solent, 
+    17: confringetque ascellas ejus, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino.
+
+  Chapter 2.
+
+    1: Anima cum obtulerit oblationem sacrificii Domino, simila erit ejus oblatio; fundetque super eam oleum, et ponet thus, 
+    2: ac deferet ad filios Aaron sacerdotes : quorum unus tollet pugillum plenum similae et olei, ac totum thus, et ponet memoriale super altare in odorem suavissimum Domino. 
+    3: Quod autem reliquum fuerit de sacrificio, erit Aaron et filiorum ejus, Sanctum sanctorum de oblationibus Domini. 
+    4: Cum autem obtuleris sacrificium coctum in clibano : de simila, panes scilicet absque fermento, conspersos oleo, et lagana azyma oleo lita. 
+    5: Si oblatio tua fuerit de sartagine, similae conspersae oleo et absque fermento,
+    6: divides eam minutatim, et fundes super eam oleum. 
+    7: Sin autem de craticula fuerit sacrificium, aeque simila oleo conspergetur : 
+    8: quam offerens Domino, trades manibus sacerdotis. 
+    9: Qui cum obtulerit eam, tollet memoriale de sacrificio, et adolebit super altare in odorem suavitatis Domino : 
+    10: quidquid autem reliquum est, erit Aaron, et filiorum ejus, Sanctum sanctorum de oblationibus Domini.
+    11: Omnis oblatio quae offeretur Domino, absque fermento fiet, nec quidquam fermenti ac mellis adolebitur in sacrificio Domino. 
+    12: Primitias tantum eorum offeretis ac munera : super altare vero non imponentur in odorem suavitatis. 
+    13: Quidquid obtuleris sacrificii, sale condies, nec auferes sal foederis Dei tui de sacrificio tuo : in omni oblatione tua offeres sal. 
+    14: Si autem obtuleris munus primarum frugum tuarum Domino de spicis adhuc virentibus, torrebis igni, et confringes in morem farris, et sic offeres primitias tuas Domino, 
+    15: fundens supra oleum, et thus imponens, quia oblatio Domini est :
+    16: de qua adolebit sacerdos in memoriam muneris partem farris fracti, et olei, ac totum thus.
+
+  Chapter 3.
+
+    1: Quod si hostia pacificorum fuerit ejus oblatio, et de bobus voluerit offerre, marem sive feminam, immaculata offeret coram Domino. 
+    2: Ponetque manum super caput victimae suae, quae immolabitur in introitu tabernaculi testimonii, fundentque filii Aaron sacerdotes sanguinem per altaris circuitum. 
+    3: Et offerent de hostia pacificorum in oblationem Domino, adipem qui operit vitalia, et quidquid pinguedinis est intrinsecus : 
+    4: duos renes cum adipe quo teguntur ilia, et reticulum jecoris cum renunculis. 
+    5: Adolebuntque ea super altare in holocaustum, lignis igne supposito, in oblationem suavissimi odoris Domino.
+    6: Si vero de ovibus fuerit ejus oblatio et pacificorum hostia, sive masculum obtulerit, sive feminam, immaculata erunt. 
+    7: Si agnum obtulerit coram Domino, 
+    8: ponet manum suam super caput victimae suae : quae immolabitur in vestibulo tabernaculi testimonii : fundentque filii Aaron sanguinem ejus per circuitum altaris. 
+    9: Et offerent de pacificorum hostia sacrificium Domino : adipem et caudam totam 
+    10: cum renibus, et pinguedinem quae operit ventrem atque universa vitalia, et utrumque renunculum cum adipe qui est juxta ilia, reticulumque jecoris cum renunculis.
+    11: Et adolebit ea sacerdos super altare in pabulum ignis et oblationis Domini. 
+    12: Si capra fuerit ejus oblatio, et obtulerit eam Domino, 
+    13: ponet manum suam super caput ejus : immolabitque eam in introitu tabernaculi testimonii, et fundent filii Aaron sanguinem ejus per altaris circuitum. 
+    14: Tollentque ex ea in pastum ignis dominici, adipem qui operit ventrem, et qui tegit universa vitalia : 
+    15: duos renunculos cum reticulo, quod est super eos juxta ilia, et arvinam jecoris cum renunculis :
+    16: adolebitque ea super altare sacerdos in alimoniam ignis, et suavissimi odoris. Omnis adeps, Domini erit 
+    17: jure perpetuo in generationibus, et cunctis habitaculis vestris : nec sanguinem nec adipem omnino comedetis.
+
+  Chapter 4.
+
+    1: Locutusque est Dominus ad Moysen, dicens : 
+    2: Loquere filiis Israel : Anima, quae peccaverit per ignorantiam, et de universis mandatis Domini, quae praecepit ut non fierent, quippiam fecerit : 
+    3: si sacerdos, qui unctus est, peccaverit, delinquere faciens populum, offeret pro peccato suo vitulum immaculatum Domino : 
+    4: et adducet illum ad ostium tabernaculi testimonii coram Domino, ponetque manum super caput ejus, et immolabit eum Domino. 
+    5: Hauriet quoque de sanguine vituli, inferens illum in tabernaculum testimonii.
+    6: Cumque intinxerit digitum in sanguine, asperget eo septies coram Domino contra velum sanctuarii. 
+    7: Ponetque de eodem sanguine super cornua altaris thymiamatis gratissimi Domino, quod est in tabernaculo testimonii : omnem autem reliquum sanguinem fundet in basim altaris holocausti in introitu tabernaculi. 
+    8: Et adipem vituli auferet pro peccato, tam eum qui vitalia operit quam omnia quae intrinsecus sunt : 
+    9: duos renunculos et reticulum quod est super eos juxta ilia, et adipem jecoris cum renunculis, 
+    10: sicut aufertur de vitulo hostiae pacificorum : et adolebit ea super altare holocausti.
+    11: Pellem vero et omnes carnes, cum capite et pedibus et intestinis et fimo, 
+    12: et reliquo corpore, efferet extra castra in locum mundum, ubi cineres effundi solent : incendetque ea super lignorum struem, quae in loco effusorum cinerum cremabuntur. 
+    13: Quod si omnis turba Israel ignoraverit, et per imperitiam fecerit quod contra mandatum Domini est, 
+    14: et postea intellexerit peccatum suum, offeret pro peccato suo vitulum, adducetque eum ad ostium tabernaculi. 
+    15: Et ponent seniores populi manus super caput ejus coram Domino. Immolatoque vitulo in conspectu Domini,
+    16: inferet sacerdos, qui unctus est, de sanguine ejus in tabernaculum testimonii, 
+    17: tincto digito aspergens septies contra velum. 
+    18: Ponetque de eodem sanguine in cornibus altaris, quod est coram Domino in tabernaculo testimonii : reliquum autem sanguinem fundet juxta basim altaris holocaustorum, quod est in ostio tabernaculi testimonii. 
+    19: Omnemque ejus adipem tollet, et adolebit super altare : 
+    20: sic faciens et de hoc vitulo quomodo fecit et prius : et rogante pro eis sacerdote, propitius erit eis Dominus.
+    21: Ipsum autem vitulum efferet extra castra, atque comburet sicut et priorem vitulum : quia est pro peccato multitudinis. 
+    22: Si peccaverit princeps, et fecerit unum e pluribus per ignorantiam, quod Domini lege prohibetur : 
+    23: et postea intellexerit peccatum suum, offeret hostiam Domino, hircum de capris immaculatum. 
+    24: Ponetque manum suam super caput ejus : cumque immolaverit eum loco ubi solet mactari holocaustum coram Domino, quia pro peccato est, 
+    25: tinget sacerdos digitum in sanguine hostiae pro peccato, tangens cornua altaris holocausti, et reliquum fundens ad basim ejus.
+    26: Adipem vero adolebit supra, sicut in victimis pacificorum fieri solet : rogabitque pro eo sacerdos, et pro peccato ejus, et dimittetur ei. 
+    27: Quod si peccaverit anima per ignorantiam, de populo terrae, ut faciat quidquam de his, quae Domini lege prohibentur, atque delinquat, 
+    28: et cognoverit peccatum suum, offeret capram immaculatam. 
+    29: Ponetque manum super caput hostiae quae pro peccato est, et immolabit eam in loco holocausti. 
+    30: Tolletque sacerdos de sanguine in digito suo : et tangens cornua altaris holocausti, reliquum fundet ad basim ejus.
+    31: Omnem autem adipem auferens, sicut auferri solet de victimis pacificorum, adolebit super altare in odorem suavitatis Domino : rogabitque pro eo, et dimittetur ei. 
+    32: Sin autem de pecoribus obtulerit victimam pro peccato, ovem scilicet immaculatam : 
+    33: ponet manum super caput ejus, et immolabit eam in loco ubi solent caedi holocaustorum hostiae. 
+    34: Sumetque sacerdos de sanguine ejus digito suo, et tangens cornua altaris holocausti, reliquum fundet ad basim ejus. 
+    35: Omnem quoque adipem auferens, sicut auferri solet adeps arietis, qui immolatur pro pacificis, cremabit super altare in incensum Domini : rogabitque pro eo, et pro peccato ejus, et dimittetur ei.
+
+End of day 24.

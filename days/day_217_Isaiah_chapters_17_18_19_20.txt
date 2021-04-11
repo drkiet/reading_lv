@@ -1,0 +1,69 @@
+Day 217:
+
+Reading Isaiah, chapters ['17', '18', '19', '20']:
+
+  Chapter 17.
+
+    1: Onus Damasci. Ecce Damascus desinet esse civitas, et erit sicut acervus lapidum in ruina. 
+    2: Derelictae civitates Aroer gregibus erunt, et requiescent ibi, et non erit qui exterreat. 
+    3: Et cessabit adjutorium ab Ephraim, et regnum a Damasco; et reliquiae Syriae sicut gloria filiorum Israel erunt, dicit Dominus exercituum. 
+    4: Et erit in die illa : attenuabitur gloria Jacob, et pinguedo carnis ejus marcescet. 
+    5: Et erit sicut congregans in messe quod restiterit, et brachium ejus spicas leget; et erit sicut quaerens spicas in valle Raphaim.
+    6: Et relinquetur in eo sicut racemus et sicut excussio oleae duarum vel trium olivarum in summitate rami, sive quatuor aut quinque in cacuminibus ejus fructus ejus, dicit Dominus Deus Israel. 
+    7: In die illa inclinabitur homo ad factorem suum, et oculi ejus ad Sanctum Israel respicient; 
+    8: et non inclinabitur ad altaria quae fecerunt manus ejus; et quae operati sunt digiti ejus non respiciet lucos et delubra. 
+    9: In die illa erunt civitates fortitudinis ejus derelictae sicut aratra, et segetes quae derelictae sunt a facie filiorum Israel; et eris deserta. 
+    10: Quia oblitus es Dei salvatoris tui, et fortis adjutoris tui non es recordata : propterea plantabis plantationem fidelem, et germen alienum seminabis;
+    11: in die plantationis tuae labrusca, et mane semen tuum florebit; ablata est messis in die haereditatis, et dolebit graviter. 
+    12: Vae multitudini populorum multorum, ut multitudo maris sonantis; et tumultus turbarum, sicut sonitus aquarum multarum. 
+    13: Sonabunt populi sicut sonitus aquarum inundantium, et increpabit eum, et fugiet procul; et rapietur sicut pulvis montium a facie venti, et sicut turbo coram tempestate. 
+    14: In tempore vespere, et ecce turbatio; in matutino, et non subsistet. Haec est pars eorum qui vastaverunt nos, et sors diripientium nos.
+
+  Chapter 18.
+
+    1: Vae terrae cymbalo alarum, quae est trans flumina Aethiopiae, 
+    2: qui mittit in mare legatos, et in vasis papyri super aquas. Ite, angeli veloces, ad gentem convulsam et dilaceratam; ad populum terribilem, post quem non est alius; ad gentem exspectantem et conculcatam, cujus diripuerunt flumina terram ejus. 
+    3: Omnes habitatores orbis, qui moramini in terra, cum elevatum fuerit signum in montibus, videbitis, et clangorem tubae audietis. 
+    4: Quia haec dicit Dominus ad me : Quiescam et considerabo in loco meo, sicut meridiana lux clara est, et sicut nubes roris in die messis. 
+    5: Ante messem enim totus effloruit, et immatura perfectio germinabit; et praecidentur ramusculi ejus falcibus, et quae derelicta fuerint abscindentur et excutientur.
+    6: Et relinquentur simul avibus montium et bestiis terrae; et aestate perpetua erunt super eum volucres, et omnes bestiae terrae super illum hiemabunt. 
+    7: In tempore illo deferetur munus Domino exercituum a populo divulso et dilacerato, a populo terribili, post quem non fuit alius; a gente exspectante, exspectante et conculcata, cujus diripuerunt flumina terram ejus; ad locum nominis Domini exercituum, montem Sion.
+
+  Chapter 19.
+
+    1: Onus Aegypti. Ecce Dominus ascendet super nubem levem, et ingredietur Aegyptum, et commovebuntur simulacra Aegypti a facie ejus, et cor Aegypti tabescet in medio ejus, 
+    2: et concurrere faciam Aegyptios adversus Aegyptios; et pugnabit vir contra fratrem suum, et vir contra amicum suum, civitas adversus civitatem, regnum adversus regnum. 
+    3: Et dirumpetur spiritus Aegypti in visceribus ejus, et consilium ejus praecipitabo; et interrogabunt simulacra sua, et divinos suos, et pythones, et ariolos. 
+    4: Et tradam Aegyptum in manu dominorum crudelium, et rex fortis dominabitur eorum, ait Dominus Deus exercituum. 
+    5: Et arescet aqua de mari, et fluvius desolabitur atque siccabitur.
+    6: Et deficient flumina, attenuabuntur et siccabuntur rivi aggerum, calamus et juncus marcescet. 
+    7: Nudabitur alveus rivi a fonte suo, et omnis sementis irrigua siccabitur, arescet, et non erit. 
+    8: Et moerebunt piscatores, et lugebunt omnes mittentes in flumen hamum; et expandentes rete super faciem aquarum emarcescent. 
+    9: Confundentur qui operabantur linum, pectentes et texentes subtilia. 
+    10: Et erunt irrigua ejus flaccentia : omnes qui faciebant lacunas ad capiendos pisces.
+    11: Stulti principes Taneos, sapientes consiliarii Pharaonis dederunt consilium insipiens. Quomodo dicetis Pharaoni : Filius sapientium ego, filius regum antiquorum? 
+    12: Ubi nunc sunt sapientes tui? annuntient tibi, et indicent quid cogitaverit Dominus exercituum super Aegyptum. 
+    13: Stulti facti sunt principes Taneos, emarcuerunt principes Mempheos; deceperunt Aegyptum, angulum populorum ejus. 
+    14: Dominus miscuit in medio ejus spiritum vertiginis; et errare fecerunt Aegyptum in omni opere suo, sicut errat ebrius et vomens. 
+    15: Et non erit Aegypto opus quod faciat caput et caudam, incurvantem et refrenantem.
+    16: In die illa erit Aegyptus quasi mulieres; et stupebunt, et timebunt a facie commotionis manus Domini exercituum, quam ipse movebit super eam. 
+    17: Et erit terra Juda Aegypto in pavorem; omnis qui illius fuerit recordatus pavebit a facie consilii Domini exercituum, quod ipse cogitavit super eam. 
+    18: In die illa erunt quinque civitates in terra Aegypti loquentes lingua Chanaan, et jurantes per Dominum exercituum : Civitas solis vocabitur una. 
+    19: In die illa erit altare Domini in medio terrae Aegypti, et titulus Domini juxta terminum ejus. 
+    20: Erit in signum et in testimonium Domino exercituum in terra Aegypti; clamabunt enim ad Dominum a facie tribulationis, et mittet eis salvatorem et propugnatorem qui liberet eos.
+    21: Et cognoscetur Dominus ab Aegypto, et cognoscent Aegyptii Dominum in die illa; et colent eum in hostiis et in muneribus; et vota vovebunt Domino, et solvent. 
+    22: Et percutiet Dominus Aegyptum plaga, et sanabit eam; et revertentur ad Dominum, et placabitur eis, et sanabit eos. 
+    23: In die illa erit via de Aegypto in Assyrios; et intrabit Assyrius Aegyptum, et Aegyptius in Assyrios, et servient Aegyptii Assur. 
+    24: In die illa erit Israel tertius Aegyptio et Assyrio; benedictio in medio terrae 
+    25: cui benedixit Dominus exercituum, dicens : Benedictus populus meus Aegypti, et opus manuum mearum Assyrio; haereditas autem mea Israel.
+
+  Chapter 20.
+
+    1: In anno quo ingressus est Thathan in Azotum, cum misisset eum Sargon, rex Assyriorum, et pugnasset contra Azotum, et cepisset eam : 
+    2: in tempore illo locutus est Dominus in manu Isaiae, filii Amos, dicens : Vade, et solve saccum de lumbis tuis, et calceamenta tua tolle de pedibus tuis. Et fecit sic, vadens nudus et discalceatus. 
+    3: Et dixit Dominus : Sicut ambulavit servus meus Isaias nudus et discalceatus, trium annorum signum et portentum erit super Aegyptum et super Aethiopiam; 
+    4: sic minabit rex Assyriorum captivitatem Aegypti, et transmigrationem Aethiopiae, juvenum et senum, nudam et discalceatam, discoopertis natibus, ad ignominiam Aegypti. 
+    5: Et timebunt, et confundentur ab Aethiopia spe sua, et ab Aegypto gloria sua.
+    6: Et dicet habitator insulae hujus in die illa : Ecce haec erat spes nostra, ad quos confugimus in auxilium, ut liberarent nos a facie regis Assyriorum : et quomodo effugere poterimus nos?
+
+End of day 217.

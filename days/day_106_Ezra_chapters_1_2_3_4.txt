@@ -1,0 +1,135 @@
+Day 106:
+
+Reading Ezra, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: In anno primo Cyri regis Persarum, ut compleretur verbum Domini ex ore Jeremiae, suscitavit Dominus spiritum Cyri regis Persarum : et traduxit vocem in omni regno suo, etiam per scripturam, dicens : 
+    2: Haec dicit Cyrus rex Persarum : Omnia regna terrae dedit mihi Dominus Deus caeli, et ipse praecepit mihi ut aedificarem ei domum in Jerusalem, quae est in Judaea. 
+    3: Quis est in vobis de universo populo ejus? Sit Deus illius cum ipso. Ascendat in Jerusalem, quae est in Judaea, et aedificet domum Domini Dei Israel : ipse est Deus qui est in Jerusalem. 
+    4: Et omnes reliqui in cunctis locis ubicumque habitant, adjuvent eum viri de loco suo argento et auro, et substantia, et pecoribus, excepto quod voluntarie offerunt templo Dei, quod est in Jerusalem. 
+    5: Et surrexerunt principes patrum de Juda, et Benjamin, et sacerdotes, et Levitae, et omnis cujus Deus suscitavit spiritum, ut ascenderent ad aedificandum templum Domini, quod erat in Jerusalem.
+    6: Universique qui erant in circuitu, adjuverunt manus eorum in vasis argenteis et aureis, in substantia et jumentis in supellectili, exceptis his quae sponte obtulerant. 
+    7: Rex quoque Cyrus protulit vasa templi Domini, quae tulerat Nabuchodonosor de Jerusalem, et posuerat ea in templo dei sui. 
+    8: Protulit autem ea Cyrus rex Persarum per manum Mithridatis filii Gazabar, et annumeravit ea Sassabasar principi Juda. 
+    9: Et hic est numerus eorum : phialae aureae triginta, phialae argenteae mille, cultri viginti novem, scyphi aurei triginta, 
+    10: scyphi argentei secundi quadringenti decem : vasa alia mille.
+    11: Omnia vasa aurea et argentea quinque millia quadringenta : universa tulit Sassabasar cum his qui ascendebant de transmigratione Babylonis in Jerusalem.
+
+  Chapter 2.
+
+    1: Hi sunt autem provinciae filii, qui ascenderunt de captivitate, quam transtulerat Nabuchodonosor rex Babylonis in Babylonem, et reversi sunt in Jerusalem et Judam, unusquisque in civitatem suam. 
+    2: Qui venerunt cum Zorobabel, Josue, Nehemia, Saraia, Rahelaia, Mardochai, Belsan, Mesphar, Beguai, Rehum, Baana. Numerus virorum populi Israel : 
+    3: Filii Pharos duo millia centum septuaginta duo. 
+    4: Filii Sephatia, trecenti septuaginta duo. 
+    5: Filii Area, septingenti septuaginta quinque.
+    6: Filii Phahath Moab, filiorum Josue : Joab, duo millia octingenti duodecim. 
+    7: Filii Aelam, mille ducenti quinquaginta quatuor. 
+    8: Filii Zethua, nongenti quadraginta quinque. 
+    9: Filii Zachai, septingenti sexaginta. 
+    10: Filii Bani, sexcenti quadraginta duo.
+    11: Filii Bebai, sexcenti viginti tres. 
+    12: Filii Azgad, mille ducenti viginti duo. 
+    13: Filii Adonicam, sexcenti sexaginta sex. 
+    14: Filii Beguai, duo millia quinquaginta sex. 
+    15: Filii Adin, quadringenti quinquaginta quatuor.
+    16: Filii Ather, qui erant ex Ezechia, nonaginta octo. 
+    17: Filii Besai, trecenti viginti tres. 
+    18: Filii Jora, centum duodecim. 
+    19: Filii Hasum, ducenti viginti tres. 
+    20: Filii Gebbar, nonaginta quinque.
+    21: Filii Bethlehem, centum viginti tres. 
+    22: Viri Netupha, quinquaginta sex. 
+    23: Viri Anathoth, centum viginti octo. 
+    24: Filii Azmaveth, quadraginta duo. 
+    25: Filii Cariathiarim, Cephira et Beroth, septingenti quadraginta tres.
+    26: Filii Rama et Gabaa, sexcenti viginti unus. 
+    27: Viri Machmas, centum viginti duo. 
+    28: Viri Bethel et Hai, ducenti viginti tres. 
+    29: Filii Nebo, quinquaginta duo. 
+    30: Filii Megbis, centum quinquaginta sex.
+    31: Filii Aelam alterius, mille ducenti quinquaginta quatuor. 
+    32: Filii Harim, trecenti viginti. 
+    33: Filii Lod Hadid, et Ono, septingenti viginti quinque. 
+    34: Filii Jericho, trecenti quadraginta quinque. 
+    35: Filii Senaa, tria millia sexcenti triginta.
+    36: Sacerdotes : filii Jadaia in domo Josue, nongenti septuaginta tres. 
+    37: Filii Emmer, mille quinquaginta duo. 
+    38: Filii Pheshur, mille ducenti quadraginta septem. 
+    39: Filii Harim, mille decem et septem. 
+    40: Levitae : filii Josue et Cedmihel filiorum Odoviae, septuaginta quatuor.
+    41: Cantores : filii Asaph, centum viginti octo. 
+    42: Filii janitorum : filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatitha, filii Sobai : universi centum triginta novem. 
+    43: Nathinaei : filii Siha, filii Hasupha, filii Tabbaoth, 
+    44: filii Ceros, filii Siaa, filii Phadon, 
+    45: filii Lebana, filii Hagaba, filii Accub,
+    46: filii Hagab, filii Semlai, filii Hanan, 
+    47: filii Gaddel, filii Gaher, filii Raaia, 
+    48: filii Rasin, filii Necoda, filii Gazam, 
+    49: filii Aza, filii Phasea, filii Besee, 
+    50: filii Asena, filii Munim, filii Nephusim,
+    51: filii Bacbuc, filii Hacupha, filii Harhur, 
+    52: filii Besluth, filii Mahida, filii Harsa, 
+    53: filii Bercos, filii Sisara, filii Thema, 
+    54: filii Nasia, filii Hatipha, 
+    55: filii servorum Salomonis, filii Sotai, filii Sophereth, filii Pharuda,
+    56: filii Jala, filii Dercon, filii Geddel, 
+    57: filii Saphatia, filii Hatil, filii Phochereth, qui erant de Asebaim, filii Ami : 
+    58: omnes Nathinaei, et filii servorum Salomonis, trecenti nonaginta duo. 
+    59: Et hi qui ascenderunt de Thelmala, Thelharsa, Cherub, et Adon, et Emer : et non potuerunt indicare domum patrum suorum et semen suum, utrum ex Israel essent. 
+    60: Filii Dalaia, filii Tobia, filii Necoda, sexcenti quinquaginta duo.
+    61: Et de filiis sacerdotum : filii Hobia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis, uxorem, et vocatus est nomine eorum : 
+    62: hi quaesierunt scripturam genealogiae suae, et non invenerunt, et ejecti sunt de sacerdotio. 
+    63: Et dixit Athersatha eis ut non comederent de Sancto sanctorum, donec surgeret sacerdos doctus atque perfectus. 
+    64: Omnis multitudo quasi unus, quadraginta duo millia trecenti sexaginta : 
+    65: exceptis servis eorum, et ancillis, qui erant septem millia trecenti triginta septem : et in ipsis cantores atque cantatrices ducenti.
+    66: Equi eorum septingenti triginta sex, muli eorum, ducenti quadraginta quinque, 
+    67: cameli eorum, quadringenti triginta quinque, asini eorum, sex millia septingenti viginti. 
+    68: Et de principibus patrum, cum ingrederentur templum Domini, quod est in Jerusalem, sponte obtulerunt in domum Dei ad exstruendam eam in loco suo. 
+    69: Secundum vires suas dederunt impensas operis, auri solidos sexaginta millia et mille, argenti mnas quinque millia, et vestes sacerdotales centum. 
+    70: Habitaverunt ergo sacerdotes, et Levitae, et de populo, et cantores, et janitores, et Nathinaei, in urbibus suis, universusque Israel in civitatibus suis.
+
+  Chapter 3.
+
+    1: Jamque venerat mensis septimus, et erant filii Israel in civitatibus suis : congregatus est ergo populus quasi vir unus in Jerusalem. 
+    2: Et surrexit Josue filius Josedec, et fratres ejus sacerdotes, et Zorobabel filius Salathiel, et fratres ejus, et aedificaverunt altare Dei Israel ut offerrent in eo holocautomata, sicut scriptum est in lege Moysi viri Dei. 
+    3: Collocaverunt autem altare Dei super bases suas, deterrentibus eos per circuitum populis terrarum, et obtulerunt super illud holocaustum Domino mane et vespere. 
+    4: Feceruntque solemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum praeceptum opus diei in die suo. 
+    5: Et post haec holocaustum juge, tam in calendis quam in universis solemnitatibus Domini, quae erant consecratae, et in omnibus in quibus ultro offerebatur munus Domino.
+    6: A primo die mensis septimi coeperunt offerre holocaustum Domino : porro templum Dei nondum fundatum erat. 
+    7: Dederunt autem pecunias latomis et caementariis : cibum quoque, et potum, et oleum Sidoniis Tyriisque, ut deferrent ligna cedrina de Libano ad mare Joppe, juxta quod praeceperat Cyrus rex Persarum eis. 
+    8: Anno autem secundo adventus eorum ad templum Dei in Jerusalem, mense secundo, coeperunt Zorobabel filius Salathiel, et Josue filius Josedec, et reliqui de fratribus eorum sacerdotes, et Levitae, et omnes qui venerant de captivitate in Jerusalem, et constituerunt Levitas a viginti annis et supra, ut urgerent opus Domini. 
+    9: Stetitque Josue et filii ejus et fratres ejus, Cedmihel et filii ejus, et filii Juda, quasi vir unus, ut instarent super eos qui faciebant opus in templo Dei : filii Henadad, et filii eorum, et fratres eorum Levitae. 
+    10: Fundato igitur a caementariis templo Domini, steterunt sacerdotes in ornatu suo cum tubis : et Levitae filii Asaph in cymbalis, ut laudarent Deum per manus David regis Israel.
+    11: Et concinebant in hymnis, et confessione Domino : Quoniam bonus, quoniam in aeternum misericordia ejus super Israel. Omnis quoque populus vociferabatur clamore magno in laudando Dominum, eo quod fundatum esset templum Domini. 
+    12: Plurimi etiam de sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum in oculis eorum, flebant voce magna : et multi vociferantes in laetitia, elevabant vocem. 
+    13: Nec poterat quisquam agnoscere vocem clamoris laetantium, et vocem fletus populi : commistim enim populus vociferabatur clamore magno, et vox audiebatur procul.
+
+  Chapter 4.
+
+    1: Audierunt autem hostes Judae et Benjamin, quia filii captivitatis aedificarent templum Domino Deo Israel : 
+    2: et accedentes ad Zorobabel, et ad principes patrum, dixerunt eis : Aedificemus vobiscum, quia ita ut vos, quaerimus Deum vestrum : ecce nos immolavimus victimas a diebus Asor Haddan regis Assur, qui adduxit nos huc. 
+    3: Et dixit eis Zorobabel, et Josue, et reliqui principes patrum Israel : Non est vobis et nobis ut aedificemus domum Deo nostro, sed nos ipsi soli aedificabimus Domino Deo nostro, sicut praecepit nobis Cyrus rex Persarum. 
+    4: Factum est igitur ut populus terrae impediret manus populi Judae, et turbaret eos in aedificando. 
+    5: Conduxerunt autem adversus eos consiliatores, ut destruerent consilium eorum omnibus diebus Cyri regis Persarum, et usque ad regnum Darii regis Persarum.
+    6: In regno autem Assueri, in principio regni ejus, scripserunt accusationem adversus habitatores Judae et Jerusalem. 
+    7: Et in diebus Artaxerxis scripsit Beselam, Mithridates, et Thabeel, et reliqui, qui erant in consilio eorum, ad Artaxerxem regem Persarum : epistola autem accusationis scripta erat syriace, et legebatur sermone syro. 
+    8: Reum Beelteem, et Samsai scriba, scripserunt epistolam unam de Jerusalem Artaxerxi regi, hujuscemodi : 
+    9: Reum Beelteem, et Samsai scriba, et reliqui consiliatores eorum, Dinaei, et Apharsathachaei, Terphalaei, Apharsaei, Erchuaei, Babylonii, Susanechaei, Dievi, et Aelamitae, 
+    10: et ceteri de gentibus, quas transtulit Asenaphar magnus et gloriosus : et habitare eas fecit in civitatibus Samariae, et in reliquis regionibus trans flumen in pace.
+    11: ( Hoc est exemplar epistolae, quam miserunt ad eum.) Artaxerxi regi, servi tui, viri qui sunt trans fluvium, salutem dicunt. 
+    12: Notum sit regi quia Judaei, qui ascenderunt a te ad nos, venerunt in Jerusalem civitatem rebellem et pessimam, quam aedificant exstruentes muros ejus, et parietes componentes. 
+    13: Nunc igitur notum sit regi, quia si civitas illa aedificata fuerit, et muri ejus instaurati, tributum, et vectigal, et annuos reditus non dabunt, et usque ad reges haec noxa perveniet. 
+    14: Nos autem memores salis, quod in palatio comedimus, et quia laesiones regis videre nefas ducimus, idcirco misimus et nuntiavimus regi, 
+    15: ut recenseas in libris historiarum patrum tuorum, et invenies scriptum in commentariis : et scies quoniam urbs illa, urbs rebellis est, et nocens regibus et provinciis, et bella concitantur in ea ex diebus antiquis : quam ob rem et civitas ipsa destructa est.
+    16: Nuntiamus nos regi, quoniam si civitas illa aedificata fuerit, et muri ipsius instaurati, possessionem trans fluvium non habebis. 
+    17: Verbum misit rex ad Reum Beelteem, et Samsai scribam, et ad reliquos, qui erant in consilio eorum habitatores Samariae, et ceteris trans fluvium, salutem dicens et pacem. 
+    18: Accusatio, quam misistis ad nos, manifeste lecta est coram me, 
+    19: et a me praeceptum est : et recensuerunt, inveneruntque quoniam civitas illa a diebus antiquis adversum reges rebellat, et seditiones, et praelia concitantur in ea : 
+    20: nam et reges fortissimi fuerunt in Jerusalem, qui et dominati sunt omni regioni, quae trans fluvium est : tributum quoque et vectigal, et reditus accipiebant.
+    21: Nunc ergo audite sententiam : prohibeatis viros illos ut urbs illa non aedificetur, donec si forte a me jussum fuerit 
+    22: Videte ne negligenter hoc impleatis, et paulatim crescat malum contra reges. 
+    23: Itaque exemplum edicti Artaxerxis regis lectum est coram Reum Beelteem, et Samsai scriba, et consiliariis eorum : et abierunt festini in Jerusalem ad Judaeos, et prohibuerunt eos in brachio et robore. 
+    24: Tunc intermissum est opus domus Domini in Jerusalem, et non fiebat usque ad annum secundum regni Darii regis Persarum.
+
+End of day 106.

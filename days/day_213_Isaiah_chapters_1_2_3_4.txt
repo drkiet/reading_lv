@@ -1,0 +1,102 @@
+Day 213:
+
+Reading Isaiah, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Visio Isaiae, filii Amos, quam vidit super Judam et Jerusalem, in diebus Oziae, Joathan, Achaz, et Ezechiae, regum Juda. 
+    2: Audite, caeli, et auribus percipe, terra, quoniam Dominus locutus est. Filios enutrivi, et exaltavi; ipsi autem spreverunt me. 
+    3: Cognovit bos possessorem suum, et asinus praesepe domini sui; Israel autem me non cognovit, et populus meus non intellexit. 
+    4: Vae genti peccatrici, populo gravi iniquitate, semini nequam, filiis sceleratis! dereliquerunt Dominum; blasphemaverunt Sanctum Israel; abalienati sunt retrorsum. 
+    5: Super quo percutiam vos ultra, addentes praevaricationem? omne caput languidum, et omne cor moerens.
+    6: A planta pedis usque ad verticem, non est in eo sanitas; vulnus, et livor, et plaga tumens, non est circumligata, nec curata medicamine, neque fota oleo. 
+    7: Terra vestra deserta; civitates vestrae succensae igni : regionem vestram coram vobis alieni devorant, et desolabitur sicut in vastitate hostili. 
+    8: Et derelinquetur filia Sion ut umbraculum in vinea, et sicut tugurium in cucumerario, et sicut civitas quae vastatur. 
+    9: Nisi Dominus exercituum reliquisset nobis semen, quasi Sodoma fuissemus, et quasi Gomorrha similes essemus. 
+    10: Audite verbum Domini, principes Sodomorum; percipite auribus legem Dei nostri, populus Gomorrhae.
+    11: Quo mihi multitudinem victimarum vestrarum? dicit Dominus. Plenus sum : holocausta arietum, et adipem pinguium, et sanguinem vitulorum et agnorum et hircorum, nolui. 
+    12: Cum veniretis ante conspectum meum, quis quaesivit haec de manibus vestris, ut ambularetis in atriis meis? 
+    13: Ne offeratis ultra sacrificium frustra : incensum abominatio est mihi. Neomeniam et sabbatum, et festivitates alias, non feram; iniqui sunt coetus vestri. 
+    14: Calendas vestras, et solemnitates vestras odivit anima mea : facta sunt mihi molesta; laboravi sustinens. 
+    15: Et cum extenderitis manus vestras, avertam oculos meos a vobis, et cum multiplicaveritis orationem, non exaudiam : manus enim vestrae sanguine plenae sunt.
+    16: Lavamini, mundi estote; auferte malum cogitationum vestrarum ab oculis meis : quiescite agere perverse, 
+    17: discite benefacere; quaerite judicium, subvenite oppresso, judicate pupillo, defendite viduam. 
+    18: Et venite, et arguite me, dicit Dominus. Si fuerint peccata vestra ut coccinum, quasi nix dealbabuntur; et si fuerint rubra quasi vermiculus, velut lana alba erunt. 
+    19: Si volueritis, et audieritis me, bona terrae comeditis. 
+    20: Quod si nolueritis, et me ad iracundiam provocaveritis, gladius devorabit vos, quia os Domini locutum est.
+    21: Quomodo facta est meretrix civitas fidelis, plena judicii? justitia habitavit in ea, nunc autem homicidae. 
+    22: Argentum tuum versum est in scoriam; vinum tuum mistum est aqua. 
+    23: Principes tui infideles, socii furum. Omnes diligunt munera, sequuntur retributiones. Pupillo non judicant, et causa viduae non ingreditur ad illos. 
+    24: Propter hoc ait Dominus, Deus exercituum, Fortis Israel : Heu! consolabor super hostibus meis, et vindicabor de inimicis meis. 
+    25: Et convertam manum meam ad te, et excoquam ad puram scoriam tuam, et auferam omne stannum tuum.
+    26: Et restituam judices tuos ut fuerunt prius, et consiliarios tuos sicut antiquitus; post haec vocaberis civitas justi, urbs fidelis. 
+    27: Sion in judicio redimetur, et reducent eam in justita. 
+    28: Et conteret scelestos, et peccatores simul; et qui dereliquerunt Dominum consumentur. 
+    29: Confundentur enim ab idolis quibus sacrificaverunt, et erubescetis super hortis quos elegeratis, 
+    30: cum fueritis velut quercus defluentibus foliis, et velut hortus absque aqua.
+    31: Et erit fortitudo vestra ut favilla stuppae, et opus vestrum quasi scintilla, et succendetur utrumque simul, et non erit qui extinguat.
+
+  Chapter 2.
+
+    1: Verbum quod vidit Isaias, filius Amos, super Juda et Jerusalem. 
+    2: Et erit in novissimis diebus : praeparatus mons domus Domini in vertice montium, et elevabitur super colles; et fluent ad eum omnes gentes, 
+    3: et ibunt populi multi, et dicent : Venite, et ascendamus ad montem Domini, et ad domum Dei Jacob; et docebit nos vias suas, et ambulabimus in semitis ejus, quia de Sion exibit lex, et verbum Domini de Jerusalem. 
+    4: Et judicabit gentes, et arguet populos multos; et conflabunt gladios suos in vomeres, et lanceas suas in falces. Non levabit gens contra gentem gladium, nec exercebuntur ultra ad praelium. 
+    5: Domus Jacob, venite, et ambulemus in lumine Domini.
+    6: Projecisti enim populum tuum, domum Jacob, quia repleti sunt ut olim, et augeres habuerunt ut Philisthiim, et pueris alienis adhaeserunt. 
+    7: Repleta est terra argento et auro, et non est finis thesaurorum ejus. 
+    8: Et repleta est terra ejus equis, et innumerabiles quadrigae ejus. Et repleta est terra ejus idolis; opus manuum suarum adoraverunt, quod fecerunt digiti eorum. 
+    9: Et incurvavit se homo, et humiliatus est vir; ne ergo dimittas eis. 
+    10: Ingredere in petram, et abscondere in fossa humo a facie timoris Domini, et a gloria majestatis ejus.
+    11: Oculi sublimes hominis humiliati sunt, et incurvabitur altitudo virorum; exaltabitur autem Dominus solus in die illa. 
+    12: Quia dies Domini exercituum super omnem superbum, et excelsum, et super omnem arrogantem, et humiliabitur; 
+    13: et super omnes cedros Libani sublimes et erectas, et super omnes quercus Basan, 
+    14: et super omnes montes excelsos, et super omnes colles elevatos, 
+    15: et super omnem turrim excelsam, et super omnem murum munitum,
+    16: et super omnes naves Tharsis, et super omne quod visu pulchrum est, 
+    17: et incurvabitur sublimitas hominum, et humiliabitur altitudo virorum, et elevabitur Dominus solus in die illa; 
+    18: et idola penitus conterentur; 
+    19: et introibunt in speluncas petrarum, et in voragines terrae, a facie formidinis Domini et a gloria majestatis ejus, cum surrexerit percutere terram. 
+    20: In die illa projiciet homo idola argenti sui, et simulacra auri sui, quae fecerat sibi ut adoraret, talpas et vespertiliones.
+    21: Et ingreditur scissuras petrarum et in cavernas saxorum, a facie formidinis Domini, et a gloria majestatis ejus, cum surrexerit percutere terram. 
+    22: Quiescite ergo ab homine, cujus spiritus in naribus ejus est, quia excelsus reputatus est ipse.
+
+  Chapter 3.
+
+    1: Ecce enim Dominator, Dominus exercituum, auferet a Jerusalem et a Juda validum et fortem, omne robur panis, et omne robor aquae; 
+    2: fortem, et virum bellatorem, judicem, et prophetam, et ariolum, et senem; 
+    3: principem super quinquaginta, et honorabilem vultu et consiliarium, et sapientem de architectis, et prudentem eloquii mystici. 
+    4: Et dabo pueros principes eorum, et effeminati dominabuntur eis; 
+    5: et irruet populus, vir ad virum, et unusquisque ad proximum suum; tumultuabitur puer contra senem, et ignobilis contra nobilem.
+    6: Apprehendet enim vir fratrem suum, domesticum patris sui : Vestimentum tibi est, princeps esto noster, ruina autem haec sub manu tua. 
+    7: Respondebit in die illa, dicens : Non sum medicus, et in domo mea non est panis neque vestimentum : nolite constituere me principem populi. 
+    8: Ruit enim Jerusalem, et Judas concidit, quia lingua eorum et adinventiones eorum contra Dominum, ut provocarent oculos majestatis ejus. 
+    9: Agnitio vultus eorum respondit eis; et peccatum suum quasi Sodoma praedicaverunt, nec absconderunt. Vae animae eorum, quoniam reddita sunt eis mala! 
+    10: Dicite justo quoniam bene, quoniam fructum adinventionum suarum comedet.
+    11: Vae impio in malum! retributio enim manuum ejus fiet ei. 
+    12: Populum meum exactores sui spoliaverunt, et mulieres dominatae sunt eis. Popule meus, qui te beatum dicunt, ipsi te decipiunt, et viam gressuum tuorum dissipant. 
+    13: Stat ad judicandum Dominus, et stat ad judicandos populos. 
+    14: Dominus ad judicium veniet cum senibus populi sui, et principibus ejus; vos enim depasti estis vineam, et rapina pauperis in domo vestra. 
+    15: Quare atteritis populum meum, et facies pauperum commolitis? dicit Dominus exercituum.
+    16: Et dixit Dominus : Pro eo quod elevatae sunt filiae Sion, et ambulaverunt extento collo, et nutibus oculorum ibant, et plaudebant, ambulabant pedibus suis, et composito gradu incedebant; 
+    17: decalvabit Dominus verticem filiarum Sion, et Dominus crimen earum nudabit. 
+    18: In die illa auferet Dominus ornamentum calceamentum, 
+    19: et lunulas, et torques, et monilia, et armillas, et mitras, 
+    20: et discriminalia, et periscelidas, et murenulas, et olfactoriola, et inaures,
+    21: et annulos, et gemmas in fronte pendentes, 
+    22: et mutatoria, et palliola, et linteamina, et acus, 
+    23: et specula, et sindones, et vittas, et theristra. 
+    24: Et erit pro suavi odore foetor, et pro zona funiculus, et pro crispanti crine calvitium, et pro fascia pectorali cilicium. 
+    25: Pulcherrimi quoque viri tui gladio cadent, et fortes tui in praelio.
+    26: Et moerebunt atque lugebunt portae ejus, et desolata in terra sedebit.
+
+  Chapter 4.
+
+    1: Et apprehendent septem mulieres virum unum in die illa, dicentes : Panem nostrum comedemus, et vestimentis nostris operiemur : tantummodo invocetur nomen tuum super nos; aufer opprobrium nostrum. 
+    2: In die illa, erit germen Domini in magnificentia et gloria, et fructus terrae sublimis, et exsultatio his qui salvati fuerint de Israel. 
+    3: Et erit : omnis qui relictus fuerit in Sion, et residuus in Jerusalem, Sanctus vocabitur, omnis qui scriptus est in vita in Jerusalem. 
+    4: Si abluerit Dominus sordes filiarum Sion, et sanguinem Jerusalem laverit de medio ejus, in spiritu judicii, et spiritu ardoris. 
+    5: Et creabit Dominus super omnem locum montis Sion, et ubi invocatus est, nubem per diem et fumum, et splendorem ignis flammantis in nocte : super omnem enim gloriam protectio.
+    6: Et tabernaculum erit in umbraculum, diei ab aestu, et in securitatem et absconsionem a turbine et a pluvia.
+
+End of day 213.

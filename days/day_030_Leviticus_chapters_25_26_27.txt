@@ -1,0 +1,148 @@
+Day 30:
+
+Reading Leviticus, chapters ['25', '26', '27']:
+
+  Chapter 25.
+
+    1: Locutusque est Dominus ad Moysen in monte Sinai, dicens : 
+    2: Loquere filiis Israel, et dices ad eos : Quando ingressi fueritis terram quam ego dabo vobis, sabbatizes sabbatum Domino. 
+    3: Sex annis seres agrum tuum, et sex annis putabis vineam tuam, colligesque fructus ejus : 
+    4: septimo autem anno sabbatum erit terrae, requietionis Domini : agrum non seres, et vineam non putabis. 
+    5: Quae sponte gignet humus, non metes : et uvas primitiarum tuarum non colliges quasi vindemiam : annus enim requietionis terrae est :
+    6: sed erunt vobis in cibum, tibi et servo tuo, ancillae et mercenario tuo, et advenae qui peregrinantur apud te : 
+    7: jumentis tuis et pecoribus, omnia quae nascuntur praebebunt cibum. 
+    8: Numerabis quoque tibi septem hebdomadas annorum, id est, septies septem, quae simul faciunt annos quadraginta novem : 
+    9: et clanges buccina mense septimo, decima die mensis, propitiationis tempore, in universa terra vestra. 
+    10: Sanctificabisque annum quinquagesimum, et vocabis remissionem cunctis habitatoribus terrae tuae : ipse est enim jubilaeus. Revertetur homo ad possessionem suam, et unusquisque rediet ad familiam pristinam :
+    11: quia jubilaeus est, et quinquagesimus annus. Non seretis neque metetis sponte in agro nascentia, et primitias vindemiae non colligetis, 
+    12: ob sanctificationem jubilaei : sed statim oblata comedetis. 
+    13: Anno jubilaei, redient omnes ad possessiones suas. 
+    14: Quando vendes quippiam civi tuo, vel emes ab eo, ne contristes fratrem tuum, sed juxta numerum annorum jubilaei emes ab eo, 
+    15: et juxta supputationem frugum vendet tibi.
+    16: Quanto plures anni remanserint post jubilaeum, tanto crescet et pretium : et quanto minus temporis numeraveris, tanto minoris et emptio constabit : tempus enim frugum vendet tibi. 
+    17: Nolite affligere contribules vestros, sed timeat unusquisque Deum suum, quia ego Dominus Deus vester. 
+    18: Facite praecepta mea, et judicia custodite, et implete ea : ut habitare possitis in terra absque ullo pavore, 
+    19: et gignat vobis humus fructus suos, quibus vescamini usque ad saturitatem, nullius impetum formidantes. 
+    20: Quod si dixeritis : Quid comedemus anno septimo, si non severimus, neque collegerimus fruges nostras?
+    21: dabo benedictionem meam vobis anno sexto, et faciet fructus trium annorum : 
+    22: seretisque anno octavo, et comedetis veteres fruges usque ad nonum annum : donec nova nascantur, edetis vetera. 
+    23: Terra quoque non vendetur in perpetuum, quia mea est, et vos advenae et coloni mei estis : 
+    24: unde cuncta regio possessionis vestrae sub redemptionis conditione vendetur. 
+    25: Si attenuatus frater tuus vendiderit possessiunculam suam, et voluerit propinquus ejus, potest redimere quod ille vendiderat.
+    26: Sin autem non habuerit proximum, et ipse pretium ad redimendum potuerit invenire, 
+    27: computabuntur fructus ex eo tempore quo vendidit : et quod reliquum est, reddet emptori, sicque recipiet possessionem suam. 
+    28: Quod si non invenerit manus ejus ut reddat pretium, habebit emptor quod emerat, usque ad annum jubilaeum. In ipso enim omnis venditio redibit ad dominum et ad possessorem pristinum. 
+    29: Qui vendiderit domum intra urbis muros, habebit licentiam redimendi, donec unus impleatur annus. 
+    30: Si non redemerit, et anni circulus fuerit evolutus, emptor possidebit eam, et posteri ejus in perpetuum, et redimi non poterit, etiam in jubilaeo.
+    31: Sin autem in villa domus, quae muros non habet, agrorum jure vendetur : si ante redempta non fuerit, in jubilaeo revertetur ad dominum. 
+    32: Aedes Levitarum quae in urbibus sunt, semper possunt redimi : 
+    33: si redemptae non fuerint, in jubilaeo revertentur ad dominos, quia domus urbium Levitarum pro possessionibus sunt inter filios Israel. 
+    34: Suburbana autem eorum non veneant, quia possessio sempiterna est. 
+    35: Si attenuatus fuerit frater tuus, et infirmus manu, et susceperis eum quasi advenam et peregrinum, et vixerit tecum,
+    36: ne accipias usuras ab eo, nec amplius quam dedisti : time Deum tuum, ut vivere possit frater tuus apud te. 
+    37: Pecuniam tuam non dabis ei ad usuram, et frugum superabundantiam non exiges. 
+    38: Ego Dominus Deus vester, qui eduxi vos de terra Aegypti, ut darem vobis terram Chanaan, et essem vester Deus. 
+    39: Si paupertate compulsus vendiderit se tibi frater tuus, non eum opprimes servitute famulorum, 
+    40: sed quasi mercenarius et colonus erit : usque ad annum jubilaeum operabitur apud te,
+    41: et postea egredietur cum liberis suis, et revertetur ad cognationem, ad possessionem patrum suorum. 
+    42: Mei enim servi sunt, et ego eduxi eos de terra Aegypti : non veneant conditione servorum : 
+    43: ne affligas eum per potentiam, sed metuito Deum tuum. 
+    44: Servus et ancilla sint vobis de nationibus quae in circuitu vestro sunt : 
+    45: et de advenis qui peregrinantur apud vos, vel qui ex his nati fuerint in terra vestra, hos habebitis famulos :
+    46: et haereditario jure transmittetis ad posteros, ac possidebitis in aeternum : fratres autem vestros filios Israel ne opprimatis per potentiam. 
+    47: Si invaluerit apud vos manus advenae atque peregrini, et attenuatus frater tuus vendiderit se ei, aut cuiquam de stirpe ejus : 
+    48: post venditionem potest redimi. Qui voluerit ex fratribus suis, redimet eum, 
+    49: et patruus, et patruelis, et consanguineus, et affinis. Sin autem et ipse potuerit, redimet se, 
+    50: supputatis dumtaxat annis a tempore venditionis suae usque ad annum jubilaeum : et pecunia, qua venditus fuerat, juxta annorum numerum, et rationem mercenarii supputata.
+    51: Si plures fuerint anni qui remanent usque ad jubilaeum, secundum hos reddet et pretium : 
+    52: si pauci, ponet rationem cum eo juxta annorum numerum, et reddet emptori quod reliquum est annorum, 
+    53: quibus ante servivit mercedibus imputatis : non affliget eum violenter in conspectu tuo. 
+    54: Quod si per haec redimi non potuerit, anno jubilaeo egredietur cum liberis suis. 
+    55: Mei enim sunt servi filii Israel, quos eduxi de terra Aegypti.
+
+  Chapter 26.
+
+    1: Ego Dominus Deus vester : non facietis vobis idolum, et sculptile, nec titulos erigetis, nec insignem lapidem ponetis in terra vestra, ut adoretis eum. Ego enim sum Dominus Deus vester. 
+    2: Custodite sabbata mea, et pavete ad sanctuarium meum. Ego Dominus. 
+    3: Si in praeceptis meis ambulaveritis, et mandata mea custodieritis, et feceritis ea, dabo vobis pluvias temporibus suis, 
+    4: et terra gignet germen suum, et pomis arbores replebuntur. 
+    5: Apprehendet messium tritura vindemiam, et vindemia occupabit sementem : et comedetis panem vestrum in saturitate, et absque pavore habitabitis in terra vestra.
+    6: Dabo pacem in finibus vestris : dormietis, et non erit qui exterreat. Auferam malas bestias, et gladius non transibit terminos vestros. 
+    7: Persequemini inimicos vestros, et corruent coram vobis. 
+    8: Persequentur quinque de vestris centum alienos, et centum de vobis decem millia : cadent inimici vestri gladio in conspectu vestro. 
+    9: Respiciam vos, et crescere faciam : multiplicabimini, et firmabo pactum meum vobiscum. 
+    10: Comedetis vetustissima veterum, et vetera novis supervenientibus projicietis.
+    11: Ponam tabernaculum meum in medio vestri, et non abjiciet vos anima mea. 
+    12: Ambulabo inter vos, et ero Deus vester, vosque eritis populus meus. 
+    13: Ego Dominus Deus vester, qui eduxi vos de terra Aegyptiorum, ne serviretis eis : et qui confregi catenas cervicum vestrarum, ut incederetis erecti. 
+    14: Quod si non audieritis me, nec feceritis omnia mandata mea, 
+    15: si spreveritis leges meas, et judicia mea contempseritis, ut non faciatis ea quae a me constituta sunt, et ad irritum perducatis pactum meum :
+    16: ego quoque haec faciam vobis : visitabo vos velociter in egestate, et ardore, qui conficiat oculos vestros, et consumat animas vestras. Frustra seretis sementem, quae ab hostibus devorabitur. 
+    17: Ponam faciem meam contra vos, et corruetis coram hostibus vestris, et subjiciemini his qui oderunt vos : fugietis, nemine persequente. 
+    18: Sin autem nec sic obedieritis mihi, addam correptiones vestras septuplum propter peccata vestra, 
+    19: et conteram superbiam duritiae vestrae. Daboque vobis caelum desuper sicut ferrum, et terram aeneam. 
+    20: Consumetur incassum labor vester, non proferet terra germen, nec arbores poma praebebunt.
+    21: Si ambulaveritis ex adverso mihi, nec volueritis audire me, addam plagas vestras in septuplum propter peccata vestra : 
+    22: immittamque in vos bestias agri, quae consumant vos, et pecora vestra, et ad paucitatem cuncta redigant, desertaeque fiant viae vestrae. 
+    23: Quod si nec sic volueritis recipere disciplinam, sed ambulaveritis ex adverso mihi : 
+    24: ego quoque contra vos adversus incedam, et percutiam vos septies propter peccata vestra, 
+    25: inducamque super vos gladium ultorem foederis mei. Cumque confugeritis in urbes, mittam pestilentiam in medio vestri, et trademini in manibus hostium,
+    26: postquam confregero baculum panis vestri : ita ut decem mulieres in uno clibano coquant panes, et reddant eos ad pondus : et comedetis, et non saturabimini. 
+    27: Sin autem nec per haec audieritis me, sed ambulaveritis contra me : 
+    28: et ego incedam adversus vos in furore contrario, et corripiam vos septem plagis propter peccata vestra : 
+    29: ita ut comedatis carnes filiorum vestrorum et filiarum vestrarum. 
+    30: Destruam excelsa vestra, et simulacra confringam. Cadetis inter ruinas idolorum vestrorum, et abominabitur vos anima mea,
+    31: in tantum ut urbes vestras redigam in solitudinem, et deserta faciam sanctuaria vestra, nec recipiam ultra odorem suavissimum. 
+    32: Disperdamque terram vestram, et stupebunt super ea inimici vestri, cum habitatores illius fuerint. 
+    33: Vos autem dispergam in gentes, et evaginabo post vos gladium, eritque terra vestra deserta, et civitates vestrae dirutae. 
+    34: Tunc placebunt terrae sabbata sua cunctis diebus solitudinis suae : quando fueritis 
+    35: in terra hostili, sabbatizabit, et requiescet in sabbatis solitudinis suae, eo quod non requieverit in sabbatis vestris quando habitabatis in ea.
+    36: Et qui de vobis remanserint, dabo pavorem in cordibus eorum in regionibus hostium, terrebit eos sonitus folii volantis, et ita fugient quasi gladium : cadent, nullo persequente, 
+    37: et corruent singuli super fratres suos, quasi bella fugientes, nemo vestrum inimicis audebit resistere. 
+    38: Peribitis inter gentes, et hostilis vos terra consumet. 
+    39: Quod si et de iis aliqui remanserint, tabescent in iniquitatibus suis, in terra inimicorum suorum, et propter peccata patrum suorum et sua affligentur : 
+    40: donec confiteantur iniquitates suas, et majorum suorum, quibus praevaricati sunt in me, et ambulaverunt ex adverso mihi.
+    41: Ambulabo igitur et ego contra eos, et inducam illos in terram hostilem, donec erubescat incircumcisa mens eorum : tunc orabunt pro impietatibus suis. 
+    42: Et recordabor foederis mei, quod pepigi cum Jacob, et Isaac, et Abraham. Terrae quoque memor ero : 
+    43: quae cum relicta fuerit ab eis, complacebit sibi in sabbatis suis, patiens solitudinem propter illos. Ipsi vero rogabunt pro peccatis suis, eo quod abjecerint judicia mea, et leges meas despexerint. 
+    44: Et tamen etiam cum essent in terra hostili, non penitus abjeci eos, neque sic despexi ut consumerentur, et irritum facerent pactum meum cum eis. Ego enim sum Dominus Deus eorum, 
+    45: et recordabor foederis mei pristini, quando eduxi eos de terra Aegypti in conspectu gentium, ut essem Deus eorum. Ego Dominus. Haec sunt judicia atque praecepta et leges quas dedit Dominus inter se et filios Israel in monte Sinai per manum Moysi.
+
+  Chapter 27.
+
+    1: Locutusque est Dominus ad Moysen, dicens : 
+    2: Loquere filiis Israel, et dices ad eos : Homo qui votum fecerit, et spoponderit Deo animam suam, sub aestimatione dabit pretium. 
+    3: Si fuerit masculus a vigesimo anno usque ad sexagesimum annum, dabit quinquaginta siclos argenti ad mensuram sanctuarii : 
+    4: si mulier, triginta. 
+    5: A quinto autem anno usque ad vigesimum, masculus dabit viginti siclos : femina, decem.
+    6: Ab uno mense usque ad annum quintum, pro masculo dabuntur quinque sicli : pro femina, tres. 
+    7: Sexagenarius et ultra masculus dabit quindecim siclos : femina, decem. 
+    8: Si pauper fuerit, et aestimationem reddere non valebit, stabit coram sacerdote : et quantum ille aestimaverit, et viderit eum posse reddere, tantum dabit. 
+    9: Animal autem, quod immolari potest Domino, si quis voverit, sanctum erit, 
+    10: et mutari non poterit, id est, nec melius malo, nec pejus bono : quod si mutaverit, et ipsum quod mutatum est, et illud pro quo mutatum est, consecratum erit Domino.
+    11: Animal immundum, quod immolari Domino non potest, si quis voverit, adducetur ante sacerdotem : 
+    12: qui judicans utrum bonum an malum sit, statuet pretium. 
+    13: Quod si dare voluerit is qui offert, addet supra aestimationem quintam partem. 
+    14: Homo si voverit domum suam, et sanctificaverit Domino, considerabit eam sacerdos utrum bona an mala sit, et juxta pretium, quod ab eo fuerit constitutum, venundabitur : 
+    15: sin autem ille qui voverat, voluerit redimere eam, dabit quintam partem aestimationis supra, et habebit domum.
+    16: Quod si agrum possessionis suae voverit, et consecraverit Domino, juxta mensuram sementis aestimabitur pretium : si triginta modiis hordei seritur terra, quinquaginta siclis venundetur argenti. 
+    17: Si statim ab anno incipientis jubilaei voverit agrum, quanto valere potest, tanto aestimabitur. 
+    18: Sin autem post aliquantum temporis, supputabit sacerdos pecuniam juxta annorum, qui reliqui sunt, numerum usque ad jubilaeum, et detrahetur ex pretio. 
+    19: Quod si voluerit redimere agrum ille qui voverat, addet quintam partem aestimatae pecuniae, et possidebit eum. 
+    20: Sin autem noluerit redimere, sed alteri cuilibet fuerit venundatus, ultra eum qui voverat redimere non poterit.
+    21: Quia cum jubilaei venerit dies, sanctificatus erit Domino, et possessio consecrata ad jus pertinet sacerdotum. 
+    22: Si ager emptus est, et non de possessione majorum sanctificatus fuerit Domino, 
+    23: supputabit sacerdos juxta annorum numerum usque ad jubilaeum, pretium : et dabit ille qui voverat eum, Domino. 
+    24: In jubilaeo autem revertetur ad priorem dominum, qui vendiderat eum, et habuerat in sorte possessionis suae. 
+    25: Omnis aestimatio siclo sanctuarii ponderabitur. Siclus viginti obolos habet.
+    26: Primogenita, quae ad Dominum pertinent, nemo sanctificare poterit et vovere : sive bos, sive ovis fuerit, Domini sunt. 
+    27: Quod si immundum est animal, redimet qui obtulit, juxta aestimationem tuam, et addet quintam partem pretii : si redimere noluerit, vendetur alteri quantocumque a te fuerit aestimatum. 
+    28: Omne quod Domino consecratur, sive homo fuerit, sive animal, sive ager, non vendetur, nec redimi poterit. Quidquid semel fuerit consecratum, Sanctum sanctorum erit Domino : 
+    29: et omnis consecratio, quae offertur ab homine, non redimetur, sed morte morietur. 
+    30: Omnes decimae terrae, sive de frugibus, sive de pomis arborum, Domini sunt, et illi sanctificantur.
+    31: Si quis autem voluerit redimere decimas suas, addet quintam partem earum. 
+    32: Omnium decimarum bovis et ovis et caprae, quae sub pastoris virga transeunt, quidquid decimum venerit, sanctificabitur Domino. 
+    33: Non eligetur nec bonum nec malum, nec altero commutabitur, si quis mutaverit : et quod mutatum est, et pro quo mutatum est, sanctificabitur Domino, et non redimetur. 
+    34: Haec sunt praecepta, quae mandavit Dominus Moysi ad filios Israel in monte Sinai.
+
+End of day 30.

@@ -1,0 +1,112 @@
+Day 137:
+
+Reading Job, chapters ['17', '18', '19', '20']:
+
+  Chapter 17.
+
+    1: Spiritus meus attenuabitur, dies mei breviabuntur, et solum mihi superest sepulchrum. 
+    2: Non peccavi, et in amaritudinibus moratur oculus meus. 
+    3: Libera me, Domine, et pone me juxta te, et cujusvis manus pugnet contra me. 
+    4: Cor eorum longe fecisti a disciplina : propterea non exaltabuntur. 
+    5: Praedam pollicetur sociis, et oculi filiorum ejus deficient.
+    6: Posuit me quasi in proverbium vulgi, et exemplum sum coram eis. 
+    7: Caligavit ab indignatione oculus meus, et membra mea quasi in nihilum redacta sunt. 
+    8: Stupebunt justi super hoc, et innocens contra hypocritam suscitabitur. 
+    9: Et tenebit justus viam suam, et mundis manibus addet fortitudinem. 
+    10: Igitur omnes vos convertimini, et venite, et non inveniam in vobis ullum sapientem.
+    11: Dies mei transierunt : cogitationes meae dissipatae sunt, torquentes cor meum. 
+    12: Noctem verterunt in diem, et rursum post tenebras spero lucem. 
+    13: Si sustinuero, infernus domus mea est : et in tenebris stravi lectulum meum. 
+    14: Putredini dixi : Pater meus es : mater mea, et soror mea, vermibus. 
+    15: Ubi est ergo nunc praestolatio mea? et patientiam meam quis considerat?
+    16: In profundissimum infernum descendent omnia mea. Putasne saltem ibi erit requies mihi?
+
+  Chapter 18.
+
+    1: Respondens autem Baldad Suhites, dixit : 
+    2: Usque ad quem finem verba jactabitis? intelligite prius, et sic loquamur. 
+    3: Quare reputati sumus ut jumenta, et sorduimus coram vobis? 
+    4: Qui perdis animam tuam in furore tuo, numquid propter te derelinquetur terra, et transferentur rupes de loco suo? 
+    5: Nonne lux impii extinguetur, nec splendebit flamma ignis ejus?
+    6: Lux obtenebrescet in tabernaculo illius : et lucerna quae super eum est extinguetur. 
+    7: Arctabuntur gressus virtutis ejus, et praecipitabit eum consilium suum. 
+    8: Immisit enim in rete pedes suos, et in maculis ejus ambulat. 
+    9: Tenebitur planta illius laqueo, et exardescet contra eum sitis. 
+    10: Abscondita est in terra pedica ejus, et decipula illius super semitam.
+    11: Undique terrebunt eum formidines, et involvent pedes ejus. 
+    12: Attenuetur fame robur ejus, et inedia invadat costas illius. 
+    13: Devoret pulchritudinem cutis ejus, consumat brachia illius primogenita mors. 
+    14: Avellatur de tabernaculo suo fiducia ejus : et calcet super eum, quasi rex, interitus. 
+    15: Habitent in tabernaculo illius socii ejus qui non est : aspergatur in tabernaculo ejus sulphur.
+    16: Deorsum radices ejus siccentur : sursum autem atteratur messis ejus. 
+    17: Memoria illius pereat de terra, et non celebretur nomen ejus in plateis. 
+    18: Expellet eum de luce in tenebras, et de orbe transferet eum. 
+    19: Non erit semen ejus, neque progenies in populo suo, nec ullae reliquiae in regionibus ejus. 
+    20: In die ejus stupebunt novissimi, et primos invadet horror.
+    21: Haec sunt ergo tabernacula iniqui, et iste locus ejus qui ignorat Deum.
+
+  Chapter 19.
+
+    1: Respondens autem Job, dixit : 
+    2: Usquequo affligitis animam meam, et atteritis me sermonibus? 
+    3: En decies confunditis me, et non erubescitis opprimentes me. 
+    4: Nempe, et si ignoravi, mecum erit ignorantia mea. 
+    5: At vos contra me erigimini, et arguitis me opprobriis meis.
+    6: Saltem nunc intelligite quia Deus non aequo judicio afflixerit me, et flagellis suis me cinxerit. 
+    7: Ecce clamabo, vim patiens, et nemo audiet : vociferabor, et non est qui judicet. 
+    8: Semitam meam circumsepsit, et transire non possum : et in calle meo tenebras posuit. 
+    9: Spoliavit me gloria mea, et abstulit coronam de capite meo. 
+    10: Destruxit me undique, et pereo : et quasi evulsae arbori abstulit spem meam.
+    11: Iratus est contra me furor ejus, et sic me habuit quasi hostem suum. 
+    12: Simul venerunt latrones ejus, et fecerunt sibi viam per me, et obsederunt in gyro tabernaculum meum. 
+    13: Fratres meos longe fecit a me, et noti mei quasi alieni recesserunt a me. 
+    14: Dereliquerunt me propinqui mei, et qui me noverant obliti sunt mei. 
+    15: Inquilini domus meae et ancillae meae sicut alienum habuerunt me, et quasi peregrinus fui in oculis eorum.
+    16: Servum meum vocavi, et non respondit : ore proprio deprecabar illum. 
+    17: Halitum meum exhorruit uxor mea, et orabam filios uteri mei. 
+    18: Stulti quoque despiciebant me : et cum ab eis recessissem, detrahebant mihi. 
+    19: Abominati sunt me quondam consiliarii mei, et quem maxime diligebam, aversatus est me. 
+    20: Pelli meae, consumptis carnibus, adhaesit os meum, et derelicta sunt tantummodo labia circa dentes meos.
+    21: Miseremini mei, miseremini mei, saltem vos, amici mei, quia manus Domini tetigit me. 
+    22: Quare persequimini me sicut Deus, et carnibus meis saturamini? 
+    23: Quis mihi tribuat ut scribantur sermones mei? quis mihi det ut exarentur in libro, 
+    24: stylo ferreo et plumbi lamina, vel celte sculpantur in silice? 
+    25: Scio enim quod redemptor meus vivit, et in novissimo die de terra surrecturus sum :
+    26: et rursum circumdabor pelle mea, et in carne mea videbo Deum meum. 
+    27: Quem visurus sum ego ipse, et oculi mei conspecturi sunt, et non alius : reposita est haec spes mea in sinu meo. 
+    28: Quare ergo nunc dicitis : Persequamur eum, et radicem verbi inveniamus contra eum? 
+    29: Fugite ergo a facie gladii, quoniam ultor iniquitatum gladius est : et scitote esse judicium.
+
+  Chapter 20.
+
+    1: Respondens autem Sophar Naamathites, dixit : 
+    2: Idcirco cogitationes meae variae succedunt sibi, et mens in diversa rapitur. 
+    3: Doctrinam qua me arguis audiam, et spiritus intelligentiae meae respondebit mihi. 
+    4: Hoc scio a principio, ex quo positus est homo super terram, 
+    5: quod laus impiorum brevis sit, et gaudium hypocritae ad instar puncti.
+    6: Si ascenderit usque ad caelum superbia ejus, et caput ejus nubes tetigerit, 
+    7: quasi sterquilinium in fine perdetur, et qui eum viderant, dicent : Ubi est? 
+    8: Velut somnium avolans non invenietur : transiet sicut visio nocturna. 
+    9: Oculus qui eum viderat non videbit, neque ultra intuebitur eum locus suus. 
+    10: Filii ejus atterentur egestate, et manus illius reddent ei dolorem suum.
+    11: Ossa ejus implebuntur vitiis adolescentiae ejus, et cum eo in pulvere dormient. 
+    12: Cum enim dulce fuerit in ore ejus malum, abscondet illud sub lingua sua. 
+    13: Parcet illi, et non derelinquet illud, et celabit in gutture suo. 
+    14: Panis ejus in utero illius vertetur in fel aspidum intrinsecus. 
+    15: Divitias quas devoravit evomet, et de ventre illius extrahet eas Deus.
+    16: Caput aspidum suget, et occidet eum lingua viperae. 
+    17: ( Non videat rivulos fluminis, torrentes mellis et butyri.) 
+    18: Luet quae fecit omnia, nec tamen consumetur : juxta multitudinem adinventionum suarum, sic et sustinebit. 
+    19: Quoniam confringens nudavit pauperes : domum rapuit, et non aedificavit eam. 
+    20: Nec est satiatus venter ejus : et cum habuerit quae concupierat, possidere non poterit.
+    21: Non remansit de cibo ejus : et propterea nihil permanebit de bonis ejus. 
+    22: Cum satiatus fuerit, arctabitur : aestuabit, et omnis dolor irruet super eum. 
+    23: Utinam impleatur venter ejus, ut emittat in eum iram furoris sui, et pluat super illum bellum suum! 
+    24: Fugiet arma ferrea, et irruet in arcum aereum. 
+    25: Eductus, et egrediens de vagina sua, et fulgurans in amaritudine sua : vadent et venient super eum horribiles.
+    26: Omnes tenebrae absconditae sunt in occultis ejus : devorabit eum ignis qui non succenditur : affligetur relictus in tabernaculo suo. 
+    27: Revelabunt caeli iniquitatem ejus, et terra consurget adversus eum. 
+    28: Apertum erit germen domus illius : detrahetur in die furoris Dei. 
+    29: Haec est pars hominis impii a Deo, et haereditas verborum ejus a Domino.
+
+End of day 137.

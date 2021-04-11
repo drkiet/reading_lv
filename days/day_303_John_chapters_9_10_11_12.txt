@@ -1,0 +1,206 @@
+Day 303:
+
+Reading John, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Et praeteriens Jesus vidit hominem caecum a nativitate : 
+    2: et interrogaverunt eum discipuli ejus : Rabbi, quis peccavit, hic, aut parentes ejus, ut caecus nasceretur? 
+    3: Respondit Jesus : Neque hic peccavit, neque parentes ejus : sed ut manifestentur opera Dei in illo. 
+    4: Me oportet operari opera ejus qui misit me, donec dies est : venit nox, quando nemo potest operari : 
+    5: quamdiu sum in mundo, lux sum mundi.
+    6: Haec cum dixisset, exspuit in terram, et fecit lutum ex sputo, et linivit lutum super oculos ejus, 
+    7: et dixit ei : Vade, lava in natatoria Siloe ( quod interpretatur Missus). Abiit ergo, et lavit, et venit videns. 
+    8: Itaque vicini, et qui viderant eum prius quia mendicus erat, dicebant : Nonne hic est qui sedebat, et mendicabat? Alii dicebant : Quia hic est. 
+    9: Alii autem : Nequaquam, sed similis est ei. Ille vero dicebat : Quia ego sum. 
+    10: Dicebant ergo ei : Quomodo aperti sunt tibi oculi?
+    11: Respondit : Ille homo qui dicitur Jesus, lutum fecit : et unxit oculos meos, et dixit mihi : Vade ad natatoria Siloe, et lava. Et abii, et lavi, et video. 
+    12: Et dixerunt ei : Ubi est ille? Ait : Nescio. 
+    13: Adducunt eum ad pharisaeos, qui caecus fuerat. 
+    14: Erat autem sabbatum quando lutum fecit Jesus, et aperuit oculos ejus. 
+    15: Iterum ergo interrogabant eum pharisaei quomodo vidisset. Ille autem dixit eis : Lutum mihi posuit super oculos, et lavi, et video.
+    16: Dicebant ergo ex pharisaeis quidam : Non est hic homo a Deo, qui sabbatum non custodit. Alii autem dicebant : Quomodo potest homo peccator haec signa facere? Et schisma erat inter eos. 
+    17: Dicunt ergo caeco iterum : Tu quid dicis de illo qui aperuit oculos tuos? Ille autem dixit : Quia propheta est. 
+    18: Non crediderunt ergo Judaei de illo, quia caecus fuisset et vidisset, donec vocaverunt parentes ejus, qui viderat : 
+    19: et interrogaverunt eos, dicentes : Hic est filius vester, quem vos dicitis quia caecus natus est? quomodo ergo nunc videt? 
+    20: Responderunt eis parentes ejus, et dixerunt : Scimus quia hic est filius noster, et quia caecus natus est :
+    21: quomodo autem nunc videat, nescimus : aut quis ejus aperuit oculos, nos nescimus; ipsum interrogate : aetatem habet, ipse de se loquatur. 
+    22: Haec dixerunt parentes ejus, quoniam timebant Judaeos : jam enim conspiraverunt Judaei, ut si quis eum confiteretur esse Christum, extra synagogam fieret. 
+    23: Propterea parentes ejus dixerunt : Quia aetatem habet, ipsum interrogate. 
+    24: Vocaverunt ergo rursum hominem qui fuerat caecus, et dixerunt ei : Da gloriam Deo : nos scimus quia hic homo peccator est. 
+    25: Dixit ergo eis ille : si peccator est, nescio; unum scio, quia caecus cum essem, modo video.
+    26: Dixerunt ergo illi : Quid fecit tibi? quomodo aperuit tibi oculos? 
+    27: Respondit eis : Dixi vobis jam, et audistis : quod iterum vultis audire? numquid et vos vultis discipuli ejus fieri? 
+    28: Maledixerunt ergo ei, et dixerunt : Tu discipulus illius sis : nos autem Moysi discipuli sumus. 
+    29: Nos scimus quia Moysi locutus est Deus; hunc autem nescimus unde sit. 
+    30: Respondit ille homo, et dixit eis : In hoc enim mirabile est quia vos nescitis unde sit, et aperuit meos oculos :
+    31: scimus autem quia peccatores Deus non audit : sed si quis Dei cultor est, et voluntatem ejus facit, hunc exaudit. 
+    32: A saeculo non est auditum quia quis aperuit oculos caeci nati. 
+    33: Nisi esset hic a Deo, non poterat facere quidquam. 
+    34: Responderunt, et dixerunt ei : In peccatis natus es totus, et tu doces nos? Et ejecerunt eum foras. 
+    35: Audivit Jesus quia ejecerunt eum foras : et cum invenisset eum, dixit ei : Tu credis in Filium Dei?
+    36: Respondit ille, et dixit : Quis est, Domine, ut credam in eum? 
+    37: Et dixit ei Jesus : Et vidisti eum, et qui loquitur tecum, ipse est. 
+    38: At ille ait : Credo, Domine. Et procidens adoravit eum. 
+    39: Et dixit Jesus : In judicium ego in hunc mundum veni : ut qui non vident videant, et qui vident caeci fiant. 
+    40: Et audierunt quidam ex pharisaeis qui cum ipso erant, et dixerunt ei : Numquid et nos caeci sumus?
+    41: Dixit eis Jesus : Si caeci essetis, non haberetis peccatum. Nunc vero dicitis, Quia videmus : peccatum vestrum manet.
+
+  Chapter 10.
+
+    1: Amen, amen dico vobis : qui non intrat per ostium in ovile ovium, sed ascendit aliunde, ille fur est et latro. 
+    2: Qui autem intrat per ostium, pastor est ovium. 
+    3: Huic ostiarius aperit, et oves vocem ejus audiunt, et proprias ovas vocat nominatim, et educit eas. 
+    4: Et cum proprias oves emiserit, ante eas vadit : et oves illum sequuntur, quia sciunt vocem ejus. 
+    5: Alienum autem non sequuntur, sed fugiunt ab eo : quia non noverunt vocem alienorum.
+    6: Hoc proverbium dixit eis Jesus : illi autem non cognoverunt quid loqueretur eis. 
+    7: Dixit ergo eis iterum Jesus : Amen, amen dico vobis, quia ego sum ostium ovium. 
+    8: Omnes quotquot venerunt, fures sunt, et latrones, et non audierunt eos oves. 
+    9: Ego sum ostium. Per me si quis introierit, salvabitur : et ingredietur, et egredietur, et pascua inveniet. 
+    10: Fur non venit nisi ut furetur, et mactet, et perdat. Ego veni ut vitam habeant, et abundantius habeant.
+    11: Ego sum pastor bonus. Bonus pastor animam suam dat pro ovibus suis. 
+    12: Mercenarius autem, et qui non est pastor, cujus non sunt oves propriae, videt lupum venientem, et dimittit oves, et fugit : et lupus rapit, et dispergit oves; 
+    13: mercenarius autem fugit, quia mercenarius est, et non pertinet ad eum de ovibus. 
+    14: Ego sum pastor bonus : et cognosco meas, et cognoscunt me meae. 
+    15: Sicut novit me Pater, et ego agnosco Patrem : et animam meam pono pro ovibus meis.
+    16: Et alias oves habeo, quae non sunt ex hoc ovili : et illas oportet me adducere, et vocem meam audient, et fiet unum ovile et unus pastor. 
+    17: Propterea me diligit Pater : quia ego pono animam meam, ut iterum sumam eam. 
+    18: Nemo tollit eam a me : sed ego pono eam a meipso, et potestatem habeo ponendi eam, et potestatem habeo iterum sumendi eam. Hoc mandatum accepi a Patre meo. 
+    19: Dissensio iterum facta est inter Judaeos propter sermones hos. 
+    20: Dicebant autem multi ex ipsis : Daemonium habet, et insanit : quid eum auditis?
+    21: Alii dicebant : Haec verba non sunt daemonium habentis : numquid daemonium potest caecorum oculos aperire? 
+    22: Facta sunt autem Encaenia in Jerosolymis, et hiems erat. 
+    23: Et ambulabat Jesus in templo, in porticu Salomonis. 
+    24: Circumdederunt ergo eum Judaei, et dicebant ei : Quousque animam nostram tollis? si tu es Christus, dic nobis palam. 
+    25: Respondit eis Jesus : Loquor vobis, et non creditis : opera quae ego facio in nomine Patris mei, haec testimonium perhibent de me :
+    26: sed vos non creditis, quia non estis ex ovibus meis. 
+    27: Oves meae vocem meam audiunt, et ego cognosco eas, et sequuntur me : 
+    28: et ego vitam aeternam do eis, et non peribunt in aeternum, et non rapiet eas quisquam de manu mea. 
+    29: Pater meus quod dedit mihi, majus omnibus est : et nemo potest rapere de manu Patris mei. 
+    30: Ego et Pater unum sumus.
+    31: Sustulerunt ergo lapides Judaei, ut lapidarent eum. 
+    32: Respondit eis Jesus : Multa bona opera ostendi vobis ex Patre meo : propter quod eorum opus me lapidatis? 
+    33: Responderunt ei Judaei : De bono opere non lapidamus te, sed de blasphemia; et quia tu homo cum sis, facis teipsum Deum. 
+    34: Respondit eis Jesus : Nonne scriptum est in lege vestra, Quia ego dixi : Dii estis? 
+    35: Si illos dixit deos, ad quos sermo Dei factus est, et non potest solvi Scriptura :
+    36: quem Pater sanctificavit, et misit in mundum vos dicitis : Quia blasphemas, quia dixi : Filius Dei sum? 
+    37: Si non facio opera Patris mei, nolite credere mihi. 
+    38: Si autem facio : etsi mihi non vultis credere, operibus credite, ut cognoscatis, et credatis quia Pater in me est, et ego in Patre. 
+    39: Quaerebant ergo eum apprehendere : et exivit de manibus eorum. 
+    40: Et abiit iterum trans Jordanem, in eum locum ubi erat Joannes baptizans primum, et mansit illic;
+    41: et multi venerunt ad eum, et dicebant : Quia Joannes quidem signum fecit nullum. 
+    42: Omnia autem quaecumque dixit Joannes de hoc, vera erant. Et multi crediderunt in eum.
+
+  Chapter 11.
+
+    1: Erat autem quidem languens Lazarus a Bethania, de castello Mariae et Marthae sororis ejus. 
+    2: ( Maria autem erat quae unxit Dominum unguento, et extersit pedes ejus capillis suis : cujus frater Lazarus infirmabatur.) 
+    3: Miserunt ergo sorores ejus ad eum dicentes : Domine, ecce quem amas infirmatur. 
+    4: Audiens autem Jesus dixit eis : Infirmitas haec non est ad mortem, sed pro gloria Dei, ut glorificetur Filius Dei per eam. 
+    5: Diligebat autem Jesus Martham, et sororem ejus Mariam, et Lazarum.
+    6: Ut ergo audivit quia infirmabatur, tunc quidem mansit in eodem loco duobus diebus; 
+    7: deinde post haec dixit discipulis suis : Eamus in Judaeam iterum. 
+    8: Dicunt ei discipuli : Rabbi, nunc quaerebant te Judaei lapidare, et iterum vadis illuc? 
+    9: Respondit Jesus : Nonne duodecim sunt horae diei? Si quis ambulaverit in die, non offendit, quia lucem hujus mundi videt : 
+    10: si autem ambulaverit in nocte, offendit, quia lux non est in eo.
+    11: Haec ait, et post haec dixit eis : Lazarus amicus noster dormit : sed vado ut a somno excitem eum. 
+    12: Dixerunt ergo discipuli ejus : Domine, si dormit, salvus erit. 
+    13: Dixerat autem Jesus de morte ejus : illi autem putaverunt quia de dormitione somni diceret. 
+    14: Tunc ergo Jesus dixit eis manifeste : Lazarus mortuus est : 
+    15: et gaudeo propter vos, ut credatis, quoniam non eram ibi, sed eamus ad eum.
+    16: Dixit ergo Thomas, qui dicitur Didymus, ad condiscipulos : Eamus et nos, ut moriamur cum eo. 
+    17: Venit itaque Jesus : et invenit eum quatuor dies jam in monumento habentem. 
+    18: ( Erat autem Bethania juxta Jerosolymam quasi stadiis quindecim.) 
+    19: Multi autem ex Judaeis venerant ad Martham et Mariam, ut consolarentur eas de fratre suo. 
+    20: Martha ergo ut audivit quia Jesus venit, occurrit illi : Maria autem domi sedebat.
+    21: Dixit ergo Martha ad Jesum : Domine, si fuisses hic, frater meus non fuisset mortuus : 
+    22: sed et nunc scio quia quaecumque poposceris a Deo, dabit tibi Deus. 
+    23: Dicit illi Jesus : Resurget frater tuus. 
+    24: Dicit ei Martha : Scio quia resurget in resurrectione in novissimo die. 
+    25: Dixit ei Jesus : Ego sum resurrectio et vita : qui credit in me, etiam si mortuus fuerit, vivet :
+    26: et omnis qui vivit et credit in me, non morietur in aeternum. Credis hoc? 
+    27: Ait illi : Utique Domine, ego credidi quia tu es Christus, Filius Dei vivi, qui in hunc mundum venisti. 
+    28: Et cum haec dixisset, abiit, et vocavit Mariam sororem suam silentio, dicens : Magister adest, et vocat te. 
+    29: Illa ut audivit, surgit cito, et venit ad eum; 
+    30: nondum enim venerat Jesus in castellum : sed erat adhuc in illo loco, ubi occurrerat ei Martha.
+    31: Judaei ergo, qui erant cum ea in domo, et consolabantur eam, cum vidissent Mariam quia cito surrexit, et exiit, secuti sunt eam dicentes : Quia vadit ad monumentum, ut ploret ibi. 
+    32: Maria ergo, cum venisset ubi erat Jesus, videns eum, cecidit ad pedes ejus, et dicit ei : Domine, si fuisses hic, non esset mortuus frater meus. 
+    33: Jesus ergo, ut vidit eam plorantem, et Judaeos, qui venerant cum ea, plorantes, infremuit spiritu, et turbavit seipsum, 
+    34: et dixit : Ubi posuistis eum? Dicunt ei : Domine, veni, et vide. 
+    35: Et lacrimatus est Jesus.
+    36: Dixerunt ergo Judaei : Ecce quomodo amabat eum. 
+    37: Quidam autem ex ipsis dixerunt : Non poterat hic, qui aperuit oculos caeci nati, facere ut hic non moreretur? 
+    38: Jesus ergo rursum fremens in semetipso, venit ad monumentum. Erat autem spelunca, et lapis superpositus erat ei. 
+    39: Ait Jesus : Tollite lapidem. Dicit ei Martha, soror ejus qui mortuus fuerat : Domine, jam foetet, quatriduanus est enim. 
+    40: Dicit ei Jesus : Nonne dixi tibi quoniam si credideris, videbis gloriam Dei?
+    41: Tulerunt ergo lapidem : Jesus autem, elevatis sursum oculis, dixit : Pater, gratias ago tibi quoniam audisti me. 
+    42: Ego autem sciebam quia semper me audis, sed propter populum qui circumstat, dixi : ut credant quia tu me misisti. 
+    43: Haec cum dixisset, voce magna clamavit : Lazare, veni foras. 
+    44: Et statim prodiit qui fuerat mortuus, ligatus pedes, et manus institis, et facies illius sudario erat ligata. Dixit eis Jesus : Solvite eum et sinite abire. 
+    45: Multi ergo ex Judaeis, qui venerant ad Mariam, et Martham, et viderant quae fecit Jesus, crediderunt in eum.
+    46: Quidam autem ex ipsis abierunt ad pharisaeos, et dixerunt eis quae fecit Jesus. 
+    47: Collegerunt ergo pontifices et pharisaei concilium, et dicebant : Quid faciamus, quia hic homo multa signa facit? 
+    48: Si dimittimus eum sic, omnes credent in eum, et venient Romani, et tollent nostrum locum, et gentem. 
+    49: Unus autem ex ipsis, Caiphas nomine, cum esset pontifex anni illius, dixit eis : Vos nescitis quidquam, 
+    50: nec cogitatis quia expedit vobis ut unus moriatur homo pro populo, et non tota gens pereat.
+    51: Hoc autem a semetipso non dixit : sed cum esset pontifex anni illius, prophetavit, quod Jesus moriturus erat pro gente, 
+    52: et non tantum pro gente, sed ut filios Dei, qui erant dispersi, congregaret in unum. 
+    53: Ab illo ergo die cogitaverunt ut interficerent eum. 
+    54: Jesus ergo jam non in palam ambulabat apud Judaeos, sed abiit in regionem juxta desertum, in civitatem quae dicitur Ephrem, et ibi morabatur cum discipulis suis. 
+    55: Proximum autem erat Pascha Judaeorum, et ascenderunt multi Jerosolymam de regione ante Pascha, ut sanctificarent seipsos.
+    56: Quaerebant ergo Jesum, et colloquebantur ad invicem, in templo stantes : Quid putatis, quia non venit ad diem festum? Dederant autem pontifices et pharisaei mandatum ut si quis cognoverit ubi sit, indicet, ut apprehendant eum.
+
+  Chapter 12.
+
+    1: Jesus ergo ante sex dies Paschae venit Bethaniam, ubi Lazarus fuerat mortuus, quem suscitavit Jesus. 
+    2: Fecerunt autem ei coenam ibi, et Martha ministrabat, Lazarus vero unus erat ex discumbentibus cum eo. 
+    3: Maria ergo accepit libram unguenti nardi pistici pretiosi, et unxit pedes Jesu, et extersit pedes ejus capillis suis : et domus impleta est ex odore unguenti. 
+    4: Dixit ergo unus ex discipulis ejus, Judas Iscariotes, qui erat eum traditurus : 
+    5: Quare hoc unguentum non veniit trecentis denariis, et datum est egenis?
+    6: Dixit autem hoc, non quia de egenis pertinebat ad eum, sed quia fur erat, et loculos habens, ea quae mittebantur, portabat. 
+    7: Dixit ergo Jesus : Sinite illam ut in diem sepulturae meae servet illud. 
+    8: Pauperes enim semper habetis vobiscum : me autem non semper habetis. 
+    9: Cognovit ergo turba multa ex Judaeis quia illic est, et venerunt, non propter Jesum tantum, sed ut Lazarum viderent, quem suscitavit a mortuis. 
+    10: Cogitaverunt autem principes sacerdotum ut et Lazarum interficerent :
+    11: quia multi propter illum abibant ex Judaeis, et credebant in Jesum. 
+    12: In crastinum autem, turba multa quae venerat ad diem festum, cum audissent quia venit Jesus Jerosolymam, 
+    13: acceperunt ramos palmarum, et processerunt obviam ei, et clamabant : Hosanna, benedictus qui venit in nomine Domini, rex Israel. 
+    14: Et invenit Jesus asellum, et sedit super eum, sicut scriptum est : 
+    15: Noli timere, filia Sion : ecce rex tuus venit sedens super pullum asinae.
+    16: Haec non cognoverunt discipuli ejus primum : sed quando glorificatus est Jesus, tunc recordati sunt quia haec erant scripta de eo, et haec fecerunt ei. 
+    17: Testimonium ergo perhibebat turba, quae erat cum eo quando Lazarum vocavit de monumento, et suscitavit eum a mortuis. 
+    18: Propterea et obviam venit ei turba : quia audierunt fecisse hoc signum. 
+    19: Pharisaei ergo dixerunt ad semetipsos : Videtis quia nihil proficimus? ecce mundus totus post eum abiit. 
+    20: Erant autem quidam gentiles, ex his qui ascenderant ut adorarent in die festo.
+    21: Hi ergo accesserunt ad Philippum, qui erat a Bethsaida Galilaeae, et rogabant eum, dicentes : Domine, volumus Jesum videre. 
+    22: Venit Philippus, et dicit Andreae; Andreas rursum et Philippus dixerunt Jesu. 
+    23: Jesus autem respondit eis, dicens : Venit hora, ut clarificetur Filius hominis. 
+    24: Amen, amen dico vobis, nisi granum frumenti cadens in terram, mortuum fuerit, 
+    25: ipsum solum manet : si autem mortuum fuerit, multum fructum affert. Qui amat animam suam, perdet eam; et qui odit animam suam in hoc mundo, in vitam aeternam custodit eam.
+    26: Si quis mihi ministrat, me sequatur, et ubi sum ego, illic et minister meus erit. Si quis mihi ministraverit, honorificabit eum Pater meus. 
+    27: Nunc anima mea turbata est. Et quid dicam? Pater, salvifica me ex hac hora. Sed propterea veni in horam hanc : 
+    28: Pater, clarifica nomen tuum. Venit ergo vox de caelo : Et clarificavi, et iterum clarificabo. 
+    29: Turba ergo, quae stabat, et audierat, dicebat tonitruum esse factum. Alii dicebant : Angelus ei locutus est. 
+    30: Respondit Jesus, et dixit : Non propter me haec vox venit, sed propter vos.
+    31: Nunc judicium est mundi : nunc princeps hujus mundi ejicietur foras. 
+    32: Et ego, si exaltatus fuero a terra, omnia traham ad meipsum. 
+    33: ( Hoc autem dicebat, significans qua morte esset moriturus.) 
+    34: Respondit ei turba : Nos audivimus ex lege, quia Christus manet in aeternum : et quomodo tu dicis : Oportet exaltari Filium hominis? quis est iste Filius hominis? 
+    35: Dixit ergo eis Jesus : Adhuc modicum, lumen in vobis est. Ambulate dum lucem habetis, ut non vos tenebrae comprehendant; et qui ambulant in tenebris, nescit quo vadat.
+    36: Dum lucem habetis, credite in lucem, ut filii lucis sitis. Haec locutus est Jesus, et abiit et abscondit se ab eis. 
+    37: Cum autem tanta signa fecisset coram eis, non credebant in eum; 
+    38: ut sermo Isaiae prophetae impleretur, quem dixit : Domine, quis credidit auditui nostro? et brachium Domini cui revelatum est? 
+    39: Propterea non poterant credere, quia iterum dixit Isaias : 
+    40: Excaecavit oculos eorum, et induravit cor eorum ut non videant oculis, et non intelligant corde, et convertantur, et sanem eos.
+    41: Haec dixit Isaias, quando vidit gloriam ejus, et locutus est de eo. 
+    42: Verumtamen et ex principibus multi crediderunt in eum : sed propter pharisaeos non confitebantur, ut e synagoga non ejicerentur. 
+    43: Dilexerunt enim gloriam hominum magis quam gloriam Dei. 
+    44: Jesus autem clamavit, et dixit : Qui credit in me, non credit in me, sed in eum qui misit me. 
+    45: Et qui videt me, videt eum qui misit me.
+    46: Ego lux in mundum veni, ut omnis qui credit in me, in tenebris non maneat. 
+    47: Et si quis audierit verba mea, et non custodierit, ego non judico eum; non enim veni ut judicem mundum, sed ut salvificem mundum. 
+    48: Qui spernit me et non accipit verba mea, habet qui judicet eum. Sermo quem locutus sum, ille judicabit eum in novissimo die. 
+    49: Quia ego ex meipso non sum locutus, sed qui misit me, Pater, ipse mihi mandatum dedit quid dicam et quid loquar. 
+    50: Et scio quia mandatum ejus vita aeterna est : quae ergo ego loquor, sicut dixit mihi Pater, sic loquor.
+
+End of day 303.

@@ -1,0 +1,129 @@
+Day 230:
+
+Reading Jeremiah, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Verba Jeremiae, filii Helciae, de sacerdotibus qui fuerunt in Anathoth, in terra Benjamin. 
+    2: Quod factum est verbum Domini ad eum in diebus Josiae, filii Amon, regis Juda, in tertiodecimo anno regni ejus. 
+    3: Et factum est in diebus Joakim, filii Josiae, regis Juda, usque ad consummationem undecimi anni Sedeciae, filii Josiae, regis Juda, usque ad transmigrationem Jerusalem, in mense quinto. 
+    4: Et factum est verbum Domini ad me, dicens : 
+    5: Priusquam te formarem in utero, novi te : et antequam exires de vulva, sanctificavi te, et prophetam in gentibus dedi te.
+    6: Et dixi : A, a, a, Domine Deus, ecce nescio loqui, quia puer ego sum. 
+    7: Et dixit Dominus ad me : Noli dicere : Puer sum; quoniam ad omnia quae mittam te ibis, et universa quaecumque mandavero tibi loqueris. 
+    8: Ne timeas a facie eorum, quia tecum ego sum ut eruam te, dicit Dominus. 
+    9: Et misit Dominus manum suam, et tetigit os meum, et dixit Dominus ad me : Ecce dedi verba mea in ore tuo : 
+    10: ecce constitui te hodie super gentes et super regna, ut evellas, et destruas, et disperdas, et dissipes, et aedifices, et plantes.
+    11: Et factum est verbum Domini ad me, dicens : Quid tu vides, Jeremia? Et dixi : Virgam vigilantem ego video. 
+    12: Et dixit Dominus ad me : Bene vidisti : quia vigilabo ego super verbo meo, ut faciam illud. 
+    13: Et factum est verbum Domini secundo ad me, dicens : Quid tu vides? Et dixi : Ollam succensam ego video, et faciem ejus a facie aquilonis. 
+    14: Et dixit Dominus ad me : Ab aquilone pandetur malum super omnes habitatores terrae : 
+    15: quia ecce ego convocabo omnes cognationes regnorum aquilonis, ait Dominus : et venient, et ponent unusquisque solium suum in introitu portarum Jerusalem, et super omnes muros ejus in circuitu, et super universas urbes Juda :
+    16: et loquar judicia mea cum eis super omnem malitiam eorum qui dereliquerunt me, et libaverunt diis alienis, et adoraverunt opus manuum suarum. 
+    17: Tu ergo, accinge lumbos tuos, et surge, et loquere ad eos omnia quae ego praecipio tibi. Ne formides a facie eorum, nec enim timere te faciam vultum eorum. 
+    18: Ego quippe dedi te hodie in civitatem munitam, et in columnam ferream, et in murum aereum, super omnem terram, regibus Juda, principibus ejus, et sacerdotibus, et populo terrae. 
+    19: Et bellabunt adversum te, et non praevalebunt, quia ego tecum sum, ait Dominus, ut liberem te.
+
+  Chapter 2.
+
+    1: Et factum est verbum Domini ad me, dicens : 
+    2: Vade, et clama in auribus Jerusalem, dicens : Haec dicit Dominus : Recordatus sum tui, miserans adolescentiam tuam, et caritatem desponsationis tuae, quando secuta es me in deserto, in terra quae non seminatur. 
+    3: Sanctus Israel Domino, primitiae frugum ejus : omnes qui devorant eum delinquunt : mala venient super eos, dicit Dominus. 
+    4: Audite verbum Domini, domus Jacob, et omnes cognationes domus Israel. 
+    5: Haec dicit Dominus : Quid invenerunt patres vestri in me iniquitatis, quia elongaverunt a me, et ambulaverunt post vanitatem, et vani facti sunt?
+    6: Et non dixerunt : Ubi est Dominus qui ascendere nos fecit de terra Aegypti : qui traduxit nos per desertum, per terram inhabitabilem et inviam, per terram sitis, et imaginem mortis, per terram in qua non ambulavit vir, neque habitavit homo? 
+    7: Et induxi vos in terram Carmeli, ut comederetis fructum ejus et optima illius : et ingressi contaminastis terram meam, et haereditatem meam posuistis in abominationem. 
+    8: Sacerdotes non dixerunt : Ubi est Dominus? et tenentes legem nescierunt me, et pastores praevaricati sunt in me, et prophetae prophetaverunt in Baal, et idola secuti sunt. 
+    9: Propterea adhuc judicio contendam vobiscum, ait Dominus, et cum filiis vestris disceptabo. 
+    10: Transite ad insulas Cethim, et videte : et in Cedar mittite, et considerate vehementer : et videte si factum est hujuscemodi :
+    11: si mutavit gens deos suos, et certe ipsi non sunt dii : populus vero meus mutavit gloriam suam in idolum. 
+    12: Obstupescite, caeli, super hoc : et portae ejus, desolamini vehementer, dicit Dominus. 
+    13: Duo enim mala fecit populus meus : me dereliquerunt fontem aquae vivae, et foderunt sibi cisternas, cisternas dissipatas, quia continere non valent aquas. 
+    14: Numquid servus est Israel, aut vernaculus? quare ergo factus est in praedam? 
+    15: Super eum rugierunt leones, et dederunt vocem suam : posuerunt terram ejus in solitudinem, civitates ejus exustae sunt, et non est qui habitet in eis.
+    16: Filii quoque Mempheos et Taphnes constupraverunt te usque ad verticem. 
+    17: Numquid non istud factum est tibi, quia dereliquisti Dominum Deum tuum eo tempore quo ducebat te per viam? 
+    18: Et nunc quid tibi vis in via Aegypti, ut bibas aquam turbidam? et quid tibi cum via Assyriorum, ut bibas aquam fluminis? 
+    19: Arguet te malitia tua, et aversio tua increpabit te. Scito et vide, quia malum et amarum est reliquisse te Dominum Deum tuum, et non esse timorem mei apud te, dicit Dominus Deus exercituum. 
+    20: A saeculo confregisti jugum meum, rupisti vincula mea, et dixisti : Non serviam. In omni enim colle sublimi, et sub omni ligno frondoso, tu prosternebaris meretrix.
+    21: Ego autem plantavi te vineam electam, omne semen verum : quomodo ergo conversa es mihi in pravum, vinea aliena? 
+    22: Si laveris te nitro, et multiplicaveris tibi herbam borith, maculata es in iniquitate tua coram me, dicit Dominus Deus. 
+    23: Quomodo dicis : Non sum polluta, post Baalim non ambulavi? Vide vias tuas in convalle, scito quid feceris : cursor levis explicans vias suas. 
+    24: Onager assuetus in solitudine, in desiderio animae suae attraxit ventum amoris sui : nullus avertet eam, omnes qui quaerunt eam non deficient : in menstruis ejus invenient eam. 
+    25: Prohibe pedem tuum a nuditate, et guttur tuum a siti. Et dixisti : Desperavi, nequaquam faciam : adamavi quippe alienos, et post eos ambulabo.
+    26: Quomodo confunditur fur quando deprehenditur, sic confusi sunt domus Israel, ipsi et reges eorum, principes, et sacerdotes, et prophetae eorum, 
+    27: dicentes ligno : Pater meus es tu : et lapidi : Tu me genuisti. Verterunt ad me tergum et non faciem, et in tempore afflictionis suae dicent : Surge, et libera nos. 
+    28: Ubi sunt dii tui quos fecisti tibi? surgant, et liberent te in tempore afflictionis tuae : secundum numerum quippe civitatum tuarum erant dii tui, Juda! 
+    29: Quid vultis mecum judicio contendere? omnes dereliquistis me, dicit Dominus. 
+    30: Frustra percussi filios vestros, disciplinam non receperunt : devoravit gladius vester prophetas vestros : quasi leo vastator
+    31: generatio vestra. Videte verbum Domini : Numquid solitudo factus sum Israeli, aut terra serotina? Quare ergo dixit populus meus : Recessimus, non veniemus ultra ad te? 
+    32: Numquid obliviscetur virgo ornamenti sui, aut sponsa fasciae pectoralis suae? Populus vero meus oblitus est mei diebus innumeris. 
+    33: Quid niteris bonam ostendere viam tuam, ad quaerendam dilectionem, quae insuper et malitias tuas docuisti vias tuas, 
+    34: et in alis tuis inventus est sanguis animarum pauperum et innocentum? Non in fossis inveni eos, sed in omnibus quae supra memoravi. 
+    35: Et dixisti : Absque peccato et innocens ego sum, et propterea avertatur furor tuus a me. Ecce ego judicio contendam tecum, eo quod dixeris : Non peccavi.
+    36: Quam vilis facta es nimis, iterans vias tuas! Et ab Aegypto confunderis, sicut confusa es ab Assur. 
+    37: Nam et ab ista egredieris, et manus tuae erunt super caput tuum, quoniam obtrivit Dominus confidentiam tuam : et nihil habebis prosperum in ea.
+
+  Chapter 3.
+
+    1: Vulgo dicitur : Si dimiserit vir uxorem suam, et recedens ab eo duxerit virum alterum, numquid revertetur ad eam ultra? numquid non polluta et contaminata erit mulier illa? Tu autem fornicatus es cum amatoribus multis : tamen revertere ad me, dicit Dominus, et ego suscipiam te. 
+    2: Leva oculos tuos in directum, et vide ubi non prostrata sis. In viis sedebas, exspectans eos quasi latro in solitudine : et polluisti terram in fornicationibus tuis, et in malitiis tuis. 
+    3: Quam ob rem prohibitae sunt stillae pluviarum, et serotinus imber non fuit. Frons mulieris meretricis facta est tibi, noluisti erubescere. 
+    4: Ergo saltem amodo voca me : Pater meus, dux virginitatis meae tu es : 
+    5: numquid irasceris in perpetuum, aut perseverabis in finem? ecce locuta es, et fecisti mala, et potuisti.
+    6: Et dixit Dominus ad me in diebus Josiae regis : Numquid vidisti quae fecerit aversatrix Israel? Abiit sibimet super omnem montem excelsum, et sub omni ligno frondoso, et fornicata est ibi. 
+    7: Et dixi, cum fecisset haec omnia : Ad me revertere : et non est reversa. Et vidit praevaricatrix soror ejus, Juda, 
+    8: quia pro eo quod moechata esset aversatrix Israel, dimisissem eam, et dedissem ei libellum repudii : et non timuit praevaricatrix Juda, soror ejus, sed abiit, et fornicata est etiam ipsa : 
+    9: et facilitate fornicationis suae contaminavit terram, et moechata est cum lapide et ligno : 
+    10: et in omnibus his non est reversa ad me praevaricatrix soror ejus Juda, in toto corde suo, sed in mendacio, ait Dominus.
+    11: Et dixit Dominus ad me : Justificavit animam suam aversatrix Israel, comparatione praevaricatricis Judae. 
+    12: Vade, et clama sermones istos contra aquilonem, et dices : Revertere, aversatrix Israel, ait Dominus, et non avertam faciem meam a vobis, quia Sanctus ego sum, dicit Dominus, et non irascar in perpetuum. 
+    13: Verumtamen scito iniquitatem tuam, quia in Dominum Deum tuum praevaricata es, et dispersisti vias tuas alienis sub omni ligno frondoso, et vocem meam non audisti, ait Dominus. 
+    14: Convertimini, filii revertentes, dicit Dominus, quia ego vir vester : et assumam vos unum de civitate, et duos de cognatione, et introducam vos in Sion. 
+    15: Et dabo vobis pastores juxta cor meum, et pascent vos scientia et doctrina.
+    16: Cumque multiplicati fueritis, et creveritis in terra in diebus illis, ait Dominus, non dicent ultra : Arca testamenti Domini : neque ascendet super cor, neque recordabuntur illius, nec visitabitur, nec fiet ultra. 
+    17: In tempore illo vocabunt Jerusalem solium Domini : et congregabuntur ad eam omnes gentes in nomine Domini in Jerusalem, et non ambulabunt post pravitatem cordis sui pessimi. 
+    18: In diebus illis ibit domus Juda ad domum Israel, et venient simul de terra aquilonis ad terram quam dedi patribus vestris. 
+    19: Ego autem dixi : Quomodo ponam te in filios, et tribuam tibi terram desiderabilem, haereditatem praeclaram exercituum gentium? Et dixi : Patrem vocabis me, et post me ingredi non cessabis. 
+    20: Sed quomodo si contemnat mulier amatorem suum, sic contempsit me domus Israel, dicit Dominus.
+    21: Vox in viis audita est, ploratus et ululatus filiorum Israel, quoniam iniquam fecerunt viam suam, obliti sunt Domini Dei sui. 
+    22: Convertimini, filii revertentes, et sanabo aversiones vestras. Ecce nos venimus ad te : tu enim es Dominus Deus noster. 
+    23: Vere mendaces erant colles et multitudo montium : vere in Domino Deo nostro salus Israel. 
+    24: Confusio comedit laborem patrum nostrorum ab adolescentia nostra, greges eorum, et armenta eorum, filios eorum, et filias eorum. 
+    25: Dormiemus in confusione nostra, et operiet nos ignominia nostra, quoniam Domino Deo nostro peccavimus nos, et patres nostri, ab adolescentia nostra usque ad diem hanc, et non audivimus vocem Domini Dei nostri.
+
+  Chapter 4.
+
+    1: Si reverteris, Israel, ait Dominus, ad me convertere : si abstuleris offendicula tua a facie mea, non commoveberis. 
+    2: Et jurabis : Vivit Dominus! in veritate, et in judicio, et in justitia : et benedicent eum gentes, ipsumque laudabunt. 
+    3: Haec enim dicit Dominus viro Juda et Jerusalem : Novate vobis novale, et nolite serere super spinas. 
+    4: Circumcidimini Domino, et auferte praeputia cordium vestrorum, viri Juda, et habitatores Jerusalem, ne forte egrediatur ut ignis indignatio mea, et succendatur, et non sit qui extinguat, propter malitiam cogitationum vestrarum. 
+    5: Annuntiate in Juda, et in Jerusalem auditum facite : loquimini, et canite tuba in terra, clamate fortiter, et dicite : Congregamini, et ingrediamur civitates munitas.
+    6: Levate signum in Sion, confortamini, nolite stare, quia malum ego adduco ab aquilone, et contritionem magnam. 
+    7: Ascendit leo de cubili suo, et praedo gentium se levavit : egressus est de loco suo ut ponat terram tuam in solitudinem : civitates tuae vastabuntur, remanentes absque habitatore. 
+    8: Super hoc accingite vos ciliciis, plangite, et ululate, quia non est aversa ira furoris Domini a nobis. 
+    9: Et erit in die illa, dicit Dominus : peribit cor regis, et cor principum, et obstupescent sacerdotes, et prophetae consternabuntur. 
+    10: Et dixi : Heu! heu! heu! Domine Deus, ergone decepisti populum istum et Jerusalem, dicens : Pax erit vobis : et ecce pervenit gladius usque ad animam?
+    11: In tempore illo dicetur populo huic et Jerusalem : Ventus urens in viis quae sunt in deserto viae filiae populi mei, non ad ventilandum et ad purgandum. 
+    12: Spiritus plenus ex his veniet mihi, et nunc ego loquar judicia mea cum eis. 
+    13: Ecce quasi nubes ascendet : et quasi tempestas currus ejus, velociores aquilis equi illius. Vae nobis! quoniam vastati sumus. 
+    14: Lava a malitia cor tuum, Jerusalem, ut salva fias : usquequo morabuntur in te cogitationes noxiae? 
+    15: Vox enim annuntiantis a Dan, et notum facientis idolum de monte Ephraim.
+    16: Dicite gentibus : Ecce auditum est in Jerusalem custodes venire de terra longinqua, et dare super civitates Juda vocem suam : 
+    17: quasi custodes agrorum facti sunt super eam in gyro, quia me ad iracundiam provocavit, dicit Dominus. 
+    18: Viae tuae et cogitationes tuae fecerunt haec tibi : ista malitia tua, quia amara, quia tetigit cor tuum. 
+    19: Ventrem meum, ventrem meum doleo, sensus cordis mei turbati sunt in me. Non tacebo, quoniam vocem buccinae audivit anima mea, clamorem praelii. 
+    20: Contritio super contritionem vocata est : et vastata est omnis terra, repente vastata sunt tabernacula mea, subito pelles meae.
+    21: Usquequo videbo fugientem, audiam vocem buccinae? 
+    22: quia stultus populus meus me non cognovit. Filii insipientes sunt et vecordes : sapientes sunt ut faciant mala, bene autem facere nescierunt. 
+    23: Aspexi terram, et ecce vacua erat et nihili : et caelos, et non erat lux in eis. 
+    24: Vidi montes, et ecce movebantur : et omnes colles conturbati sunt. 
+    25: Intuitus sum, et non erat homo : et omne volatile caeli recessit.
+    26: Aspexi, et ecce Carmelus desertus, et omnes urbes ejus destructae sunt a facie Domini, et a facie irae furoris ejus. 
+    27: Haec enim dicit Dominus : Deserta erit omnis terra, sed tamen consummationem non faciam. 
+    28: Lugebit terra, et moerebunt caeli desuper, eo quod locutus sum. Cogitavi, et non poenituit me, nec aversus sum ab eo. 
+    29: A voce equitis et mittentis sagittam fugit omnis civitas : ingressi sunt ardua, et ascenderunt rupes : universae urbes derelictae sunt, et non habitat in eis homo. 
+    30: Tu autem vastata, quid facies? Cum vestieris te coccino, cum ornata fueris monili aureo, et pinxeris stibio oculos tuos, frustra componeris : contempserunt te amatores tui, animam tuam quaerent.
+    31: Vocem enim quasi parturientis audivi, angustias ut puerperae : vox filiae Sion intermorientis, expandentisque manus suas : Vae mihi quia defecit anima mea propter interfectos!
+
+End of day 230.
